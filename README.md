@@ -1,7 +1,16 @@
-This repository is a backup of my RetroAchievements work.
-- Logic
+This repository is going to be under heavy construction for a while.
+
+Plans: 
+- Backup all logic
 - Rich Presence
-- Icons
-- PDN files
-- Guides
-- etc
+- Icons/Badges + PDN Files
+
+Wiki Plans:
+- Extended code notes
+- Modifiers
+- Offsets
+- Logic breakdowns
+- General set + achievement notes
+
+Other:
+- RATools scripts whenever I make that move
