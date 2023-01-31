@@ -1,0 +1,186 @@
+
+Lookup:Map
+0x14-0x23=Redmont
+0x24-0x2f=World Map
+0x30-0x50=Tigray Quarry
+0x51-0x7f=Illburn Ruins
+0x80-0x9f=Elderm Mountains
+0xa0-0xcf=Valestein Castle
+0xd0-0xe5=Genos Island
+
+
+
+0x00=
+0x01=
+0x02=
+0x03=
+0x04=
+0x05=
+0x06=
+0x07=
+0x08=
+0x09=
+0x0a=
+0x10=
+0x11=
+0x12=
+0x13=
+0x14=Redmont - Inn
+0x15=Redmont - Inn - East Room
+0x16=Redmont - Inn - West Room
+0x17=
+0x18=Redmont - Cynthia's shop
+0x19=Redmont - Edgar's house - Main room
+0x1a=Redmont - Edgar's house - Bedroom
+0x1b=Redmont - Edgar's house - Entrance
+0x1c=Redmont - Aida's house
+0x1d=Redmont - Elena's house
+0x1e=Redmont - Church
+0x1f=Redmont - Lochus' house
+0x20=Redmont - Harold's House
+0x21=
+0x22=Town of Redmont
+0x23=
+0x24=Town of Redmont - Outside
+0x25=Tigray Quarry - Entrance
+0x26=Illburns Ruins - Outside
+0x27=Elderm Mountains - Base
+0x28=Valestein Castle - Entrance
+0x29=World Map (Dock)
+0x2a=
+0x2b=World Map
+0x2c=World Map
+0x2d=World Map
+0x2e=World Map
+0x2f=World Map
+
+0x30=
+0x31=
+0x32=
+0x33=
+0x34=
+0x35=Tigray Quarry - First Room
+0x36=Tigray Quarry - Second Room Open-Air Strip Mining Chamber
+0x37=Tigray Quarry - Storehouse
+0x38=Tigray Quarry - Storehouse (Ignis Bracelet)
+0x39=Tigray Quarry - Storehouse 2
+0x3a=Tigray Quarry - Third Room
+0x3b=Tigray Quarry - Where shiny thing is
+0x3c=Tigray Quarry - Right of shiny
+0x3d=Tigray Quarry - Dewey room
+0x3e=Tigray Quarry - Big room under Dewey
+0x3f=Tigray Quarry - Next Room
+0x40=Tigray Quarry - Next room
+0x41=Tigray Quarry - Depths (Stone)
+0x42=Tigray Quarry - 
+0x43=Tigray Quarry - Depths (Ellefale Boss)
+0x44=Tigray Quarry - 
+0x45=Tigray Quarry - Inside storehouse (Dularn)
+0x46=Tigray Quarry - 
+0x47=Tigray Quarry - 
+0x48=Tigray Quarry - Mine
+0x49=Tigray Quarry -
+4a=Mine
+4b=Mine
+4c
+4d
+4e=Mine
+4f=Mine
+50=Mine
+
+
+0x53=Illburn Ruins 
+0x54=Illburn Ruins 1
+0x55=Illburn Ruins 2
+0x56=Illburn Ruins - East Wing
+0x57=Illburn Ruins - 
+0x58=Illburn Ruins - East Wing
+0x59=Illburn Ruins - East Wing - North Area (Ambush Room)
+0x5a=Illburn Ruins - East Wing - South Area
+0x5b=Illburn Ruins - East Wing - East Area 
+0x5c=Illburn Ruins - East Wing - East Area 2
+0x5d=Illburn Ruins - East Wing - North Area 2
+0x5e=Illburn Ruins - East Wing - East Area (Ambush Room)
+0x5f=Illburn Ruins - East Wing - East Area 3
+0x60=Illburn Ruins - Second Building
+0x61=Illburn Ruins 3
+0x62=Illburn Ruins - East Wing
+0x63=Illburn Ruins - Outside again
+0x64=Illburn Ruins
+0x65=Illburn Ruins - Second Building
+0x66=Illburn Ruins - Second Building
+0x67=Illburn Ruins - Second Building - North
+0x68=Illburn Ruins - Second Building - South
+0x69=
+0x6a=Illburn Ruins
+0x6b=
+0x6c=Illburn Ruins - Ritual Area
+0x6d=
+0x6e=
+
+0x6f=Lava
+0x70=
+0x71=Lava
+0x72=Lava
+0x73=
+0x74=
+0x75=Lava
+0x76=Lava
+0x77=
+0x78=Lava
+0x79=Lava
+7d=Lava
+
+84=Elderm Mt.
+85=Elderm Mt.
+87=Elderm Mt.
+8c=Elderm Mt.
+90=Elderm Mt.
+91=Elderm Mt.
+92=Elderm Mt.
+94=Elderm Mt.
+95=Elderm Mt.
+96=Elderm Mt.
+97=Elderm Mt.
+99=Elderm Mt.
+9a=Elderm Mt.
+9b=Elderm Mt.
+9c=Elderm Mt.
+
+0x9f=Ice Cave
+
+a3=Valestein Castle
+a5=Valestein Castle
+a6=Valestein Castle
+a9=Valestein Castle
+aa=Valestein Castle
+ae==Valestein Castle
+b0=Valestein Castle
+b1=Valestein Castle
+b3=Valestein Castle
+b5=Valestein Castle
+b7=Valestein Castle
+b8=Valestein Castle
+bc=Valestein Castle
+be=Valestein Castle
+bf=Valestein Castle
+c0=Valestein Castle
+c4=Valestein Castle
+c6=Valestein Castle
+c7=Valestein Castle
+c8=Valestein Castle
+c9=Valestein Castle
+cb=Valestein Castle
+ce=Valestein Castle
+
+0xd1=Genos Island
+d7=Genos Island
+d8=Genos Island
+d9=Genos Island
+da=Genos Island
+db=Genos Island
+dc=Genos Island
+
+0xe2=Garland
+
+Dularn

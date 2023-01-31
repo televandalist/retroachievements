@@ -1,0 +1,660 @@
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Party Position 1
+-----------------
++1004C50 - Current Action (see modifiers)
++1004C56 - Command Selected
++1004C62 - Selected Arts
++1004C8A - Selected Target
++1004C8E - Target 1
++1004C90 - Target 2
++1004C92 - Target 3
++1004C94 - Target 4
++1004C96 - Target 5
++1004C98 - Target 6
++1004C9A - Target 7
++1004C9C - Target 8
++1004C9E - Target 9
++1004CA0 - Target 10
++1004CA2 - Target 11
++1004CA4 - Target 12
++1004CA6 - Target 13
++1004CA8 - Target 14
++1004CAA - Target 15
++1004CAC - Target 16
++1004CE9 - Defeated (0x01)
++1004CFC - Turn Active (0x01)
++1004D48 - Max HP
++1004D4C - Current HP
++1004D50 - Max EP
++1004D52 - Current EP
++1004D54 - Current CP
++1004D58 - Current EXP
++1004D79 - Status Effect
++1004D7A - Status Effect
++1004D7B - Status Effect
++1004d84 - Status Effect
++1004D86 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Party Position 2
+-----------------
++1007054 - Current Action (see modifiers)
++100705A - Command Selected
++1007066 - Selected Arts
++100708E - Selected Target
++1007092 - Target 1
++1007094 - Target 2
++1007096 - Target 3
++1007098 - Target 4
++100709A - Target 5
++100709C - Target 6
++100709E - Target 7
++10070A0 - Target 8
++10070A2 - Target 9
++10070A4 - Target 10
++10070A6 - Target 11
++10070A8 - Target 12
++10070AA - Target 13
++10070AC - Target 14
++10070AE - Target 15
++10070B0 - Target 16
++10070ED - Defeated (0x01)
++1007100 - Turn Active (0x01)
++100714C - Max HP
++1007150 - Current HP
++1007154 - Max EP
++1007156 - Current EP
++1007158 - Current CP
++100715C - Current EXP
++100717D - Status Effect
++100717E - Status Effect
++100717F - Status Effect
++1007188 - Status Effect
++100718A - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Party Position 3
+-----------------
++1009458 - Current Action (see modifiers)
++100945E - Command Selected
++100946A - Selected Arts
++1009492 - Selected Target
++1009496 - Target 1
++1009498 - Target 2
++100949A - Target 3
++100949C - Target 4
++100949E - Target 5
++10094A0 - Target 6
++10094A2 - Target 7
++10094A4 - Target 8
++10094A6 - Target 9
++10094A8 - Target 10
++10094AA - Target 11
++10094AC - Target 12
++10094AE - Target 13
++10094B0 - Target 14
++10094B2 - Target 15
++10094B4 - Target 16
++10094F1 - Defeated (0x01)
++1009504 - Turn Active (0x01)
++1009550 - Max HP
++1009554 - Current HP
++1009558 - Max EP
++100955A - Current EP
++100955C - Current CP
++1009560 - Current EXP
++1009581 - Status Effect
++1009582 - Status Effect
++1009583 - Status Effect
++100958c - Status Effect
++100958E - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Party Position 4
+-----------------
++100B85C - Current Action (see modifiers)
++100B862 - Command Selected
++100B86E - Selected Arts
++100B896 - Selected Target
++100B89A - Target 1
++100B89C - Target 2
++100B89E - Target 3
++100B8A0 - Target 4
++100B8A2 - Target 5
++100B8A4 - Target 6
++100B8A6 - Target 7
++100B8A8 - Target 8
++100B8AA - Target 9
++100B8AC - Target 10
++100B8AE - Target 11
++100B8B0 - Target 12
++100B8B2 - Target 13
++100B8B4 - Target 14
++100B8B6 - Target 15
++100B8B8 - Target 16
++100B8F5 - Defeated (0x01)
++100B908 - Turn Active (0x01)
++100B954 - Max HP
++100B958 - Current HP
++100B95C - Max EP
++100B95E - Current EP
++100B960 - Current CP
++100B964 - Current EXP
++100B985 - Status Effect
++100B986 - Status Effect
++100B987 - Status Effect
++100b990 - Status Effect
++100B992 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----NPC Position 1
+-----------------
++100DC60 - Current Action (see modifiers)
++100DC66 - Command Selected
++100DC72 - Selected Arts
++100DC9A - Selected Target
++100DC9E - Target 1
++100DCA0 - Target 2
++100DCA2 - Target 3
++100DCA4 - Target 4
++100DCA6 - Target 5
++100DCA8 - Target 6
++100DCAA - Target 7
++100DCAC - Target 8
++100DCAE - Target 9
++100DCB0 - Target 10
++100DCB2 - Target 11
++100DCB4 - Target 12
++100DCB6 - Target 13
++100DCB8 - Target 14
++100DCBA - Target 15
++100DCBC - Target 16
++100DCF9 - Defeated (0x01)
++100DD0C - Turn Active (0x01)
++100DD58 - Max HP
++100DD5C - Current HP
++100DD60 - Max EP
++100DD62 - Current EP
++100DD64 - Current CP
++100DD68 - Current EXP
++100DD89 - Status Effect
++100DD8A - Status Effect
++100DD8B - Status Effect
++100dd94 - Status Effect
++100DD96 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----NPC Position 2
+-----------------
++1010064 - Current Action (see modifiers)
++101006A - Command Selected
++1010076 - Selected Arts
++101009E - Selected Target
++10100A2 - Target 1
++10100A4 - Target 2
++10100A6 - Target 3
++10100A8 - Target 4
++10100AA - Target 5
++10100AC - Target 6
++10100AE - Target 7
++10100B0 - Target 8
++10100B2 - Target 9
++10100B4 - Target 10
++10100B6 - Target 11
++10100B8 - Target 12
++10100BA - Target 13
++10100BC - Target 14
++10100BE - Target 15
++10100C0 - Target 16
++10100FD - Defeated (0x01)
++1010110 - Turn Active (0x01)
++101015C - Max HP
++1010160 - Current HP
++1010164 - Max EP
++1010166 - Current EP
++1010168 - Current CP
++101016C - Current EXP
++101018D - Status Effect
++101018E - Status Effect
++101018F - Status Effect
++1010198 - Status Effect
++101019A - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----NPC Position 3
+-----------------
++1012468 - Current Action (see modifiers)
++101246E - Command Selected
++101247A - Selected Arts
++10124A2 - Selected Target
++10124A6 - Target 1
++10124A8 - Target 2
++10124AA - Target 3
++10124AC - Target 4
++10124AE - Target 5
++10124B0 - Target 6
++10124B2 - Target 7
++10124B4 - Target 8
++10124B6 - Target 9
++10124B8 - Target 10
++10124BA - Target 11
++10124BC - Target 12
++10124BE - Target 13
++10124C0 - Target 14
++10124C2 - Target 15
++10124C4 - Target 16
++1012501 - Defeated (0x01)
++1012514 - Turn Active (0x01)
++1012560 - Max HP
++1012564 - Current HP
++1012568 - Max EP
++101256A - Current EP
++101256C - Current CP
++1012570 - Current EXP
++1012591 - Status Effect
++1012592 - Status Effect
++1012593 - Status Effect
++101259c - Status Effect
++101259E - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----NPC Position 4
+-----------------
++101486C - Current Action (see modifiers)
++1014872 - Command Selected
++101487E - Selected Arts
++10148A6 - Selected Target
++10148AA - Target 1
++10148AC - Target 2
++10148AE - Target 3
++10148B0 - Target 4
++10148B2 - Target 5
++10148B4 - Target 6
++10148B6 - Target 7
++10148B8 - Target 8
++10148BA - Target 9
++10148BC - Target 10
++10148BE - Target 11
++10148C0 - Target 12
++10148C2 - Target 13
++10148C4 - Target 14
++10148C6 - Target 15
++10148C8 - Target 16
++1014905 - Defeated (0x01)
++1014918 - Turn Active (0x01)
++1014964 - Max HP
++1014968 - Current HP
++101496C - Max EP
++101496E - Current EP
++1014970 - Current CP
++1014974 - Current EXP
++1014995 - Status Effect
++1014996 - Status Effect
++1014997 - Status Effect
++10149A0 - Status Effect
++10149A2 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 1
+-----------------
++1016C70 - Current Action (see modifiers)
++1016C76 - Command Selected
++1016C82 - Selected Arts
++1016CAA - Selected Target
++1016CAE - Target 1
++1016CB0 - Target 2
++1016CB2 - Target 3
++1016CB4 - Target 4
++1016CB6 - Target 5
++1016CB8 - Target 6
++1016CBA - Target 7
++1016CBC - Target 8
++1016CBE - Target 9
++1016CC0 - Target 10
++1016CC2 - Target 11
++1016CC4 - Target 12
++1016CC6 - Target 13
++1016CC8 - Target 14
++1016CCA - Target 15
++1016CCC - Target 16
++1016D09 - Defeated (0x01)
++1016D1C - Turn Active (0x01)
++1016D68 - Max HP
++1016D6C - Current HP
++1016D70 - Max EP
++1016D72 - Current EP
++1016D74 - Current CP
++1016D78 - Current EXP
++1016D99 - Status Effect
++1016D9A - Status Effect
++1016D9B - Status Effect
++1016DA4 - Status Effect
++1016DA6 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 2
+-----------------
++1019074 - Current Action (see modifiers)
++101907A - Command Selected
++1019086 - Selected Arts
++10190AE - Selected Target
++10190B2 - Target 1
++10190B4 - Target 2
++10190B6 - Target 3
++10190B8 - Target 4
++10190BA - Target 5
++10190BC - Target 6
++10190BE - Target 7
++10190C0 - Target 8
++10190C2 - Target 9
++10190C4 - Target 10
++10190C6 - Target 11
++10190C8 - Target 12
++10190CA - Target 13
++10190CC - Target 14
++10190CE - Target 15
++10190D0 - Target 16
++101910D - Defeated (0x01)
++1019120 - Turn Active (0x01)
++101916C - Max HP
++1019170 - Current HP
++1019174 - Max EP
++1019176 - Current EP
++1019178 - Current CP
++101917C - Current EXP
++101919D - Status Effect
++101919E - Status Effect
++101919F - Status Effect
++1019198 - Status Effect
++10191AA - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 3
+-----------------
++101B478 - Current Action (see modifiers)
++101B47E - Command Selected
++101B48A - Selected Arts
++101B4B2 - Selected Target
++101B4B6 - Target 1
++101B4B8 - Target 2
++101B4BA - Target 3
++101B4BC - Target 4
++101B4BE - Target 5
++101B4C0 - Target 6
++101B4C2 - Target 7
++101B4C4 - Target 8
++101B4C6 - Target 9
++101B4C8 - Target 10
++101B4CA - Target 11
++101B4CC - Target 12
++101B4CE - Target 13
++101B4D0 - Target 14
++101B4D2 - Target 15
++101B4D4 - Target 16
++101B511 - Defeated (0x01)
++101B524 - Turn Active (0x01)
++101B570 - Max HP
++101B574 - Current HP
++101B578 - Max EP
++101B57A - Current EP
++101B57C - Current CP
++101B580 - Current EXP
++101B5A1 - Status Effect
++101B5A2 - Status Effect
++101B5A3 - Status Effect
++101B5AC - Status Effect
++101B5AE - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 4
+-----------------
++101D87C - Current Action (see modifiers)
++101D882 - Command Selected
++101D88E - Selected Arts
++101D8B6 - Selected Target
++101D8BA - Target 1
++101D8BC - Target 2
++101D8BE - Target 3
++101D8C0 - Target 4
++101D8C2 - Target 5
++101D8C4 - Target 6
++101D8C6 - Target 7
++101D8C8 - Target 8
++101D8CA - Target 9
++101D8CC - Target 10
++101D8CE - Target 11
++101D8D0 - Target 12
++101D8D2 - Target 13
++101D8D4 - Target 14
++101D8D6 - Target 15
++101D8D8 - Target 16
++101D915 - Defeated (0x01)
++101D928 - Turn Active (0x01)
++101D974 - Max HP
++101D978 - Current HP
++101D97C - Max EP
++101D97E - Current EP
++101D980 - Current CP
++101D984 - Current EXP
++101D9A5 - Status Effect
++101D9A6 - Status Effect
++101D9A7 - Status Effect
++101D9B0 - Status Effect
++101D9B2 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 5
+-----------------
++101FC80 - Current Action (see modifiers)
++101FC86 - Command Selected
++101FC92 - Selected Arts
++101FCBA - Selected Target
++101FCBE - Target 1
++101FCC0 - Target 2
++101FCC2 - Target 3
++101FCC4 - Target 4
++101FCC6 - Target 5
++101FCC8 - Target 6
++101FCCA - Target 7
++101FCCC - Target 8
++101FCCE - Target 9
++101FCD0 - Target 10
++101FCD2 - Target 11
++101FCD4 - Target 12
++101FCD6 - Target 13
++101FCD8 - Target 14
++101FCDA - Target 15
++101FCDC - Target 16
++101FD19 - Defeated (0x01)
++101FD2C - Turn Active (0x01)
++101FD78 - Max HP
++101FD7C - Current HP
++101FD80 - Max EP
++101FD82 - Current EP
++101FD84 - Current CP
++101FD88 - Current EXP
++101FDA9 - Status Effect
++101FDAA - Status Effect
++101FDAB - Status Effect
++101FDB4 - Status Effect
++101FDB6 - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 6
+-----------------
++1022084 - Current Action (see modifiers)
++102208A - Command Selected
++1022096 - Selected Arts
++10220BE - Selected Target
++10220C2 - Target 1
++10220C4 - Target 2
++10220C6 - Target 3
++10220C8 - Target 4
++10220CA - Target 5
++10220CC - Target 6
++10220CE - Target 7
++10220D0 - Target 8
++10220D2 - Target 9
++10220D4 - Target 10
++10220D6 - Target 11
++10220D8 - Target 12
++10220DA - Target 13
++10220DC - Target 14
++10220DE - Target 15
++10220E0 - Target 16
++102211D - Defeated (0x01)
++1022130 - Turn Active (0x01)
++102217C - Max HP
++1022180 - Current HP
++1022184 - Max EP
++1022186 - Current EP
++1022188 - Current CP
++102218C - Current EXP
++10221AD - Status Effect
++10221AE - Status Effect
++10221AF - Status Effect
++10221B9 - Status Effect
++10221BA - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 7
+-----------------
++1024488 - Current Action (see modifiers)
++102448E - Command Selected
++102449A - Selected Arts
++10244C2 - Selected Target
++10244C6 - Target 1
++10244C8 - Target 2
++10244CA - Target 3
++10244CC - Target 4
++10244CE - Target 5
++10244D0 - Target 6
++10244D2 - Target 7
++10244D4 - Target 8
++10244D6 - Target 9
++10244D8 - Target 10
++10244DA - Target 11
++10244DC - Target 12
++10244DE - Target 13
++10244E0 - Target 14
++10244E2 - Target 15
++10244E4 - Target 16
++1024521 - Defeated (0x01)
++1024534 - Turn Active (0x01)
++1024580 - Max HP
++1024584 - Current HP
++1024588 - Max EP
++102458A - Current EP
++102458C - Current CP
++1024590 - Current EXP
++10245B1 - Status Effect
++10245B2 - Status Effect
++10245B3 - Status Effect
++10245BC - Status Effect
++10245BE - Status Effect
+
+//===Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy Position 8
+-----------------
++102688C - Current Action (see modifiers)
++1026892 - Command Selected
++102689E - Selected Arts
++10268C6 - Selected Target
++10268CA - Target 1
++10268CC - Target 2
++10268CE - Target 3
++10268D0 - Target 4
++10268D2 - Target 5
++10268D4 - Target 6
++10268D6 - Target 7
++10268D8 - Target 8
++10268DA - Target 9
++10268DC - Target 10
++10268DE - Target 11
++10268E0 - Target 12
++10268E2 - Target 13
++10268E4 - Target 14
++10268E6 - Target 15
++10268E8 - Target 16
++1026925 - Defeated (0x01)
++1026938 - Turn Active (0x01)
++1026984 - Max HP
++1026988 - Current HP
++102698C - Max EP
++102698E - Current EP
++1026990 - Current CP
++1026994 - Current EXP
++10269B5 - Status Effect
++10269B6 - Status Effect
++10269B7 - Status Effect
++10269C0 - Status Effect
++10269C2 - Status Effect
+
+//===Other Battle Pointer Offsets
+(0xa6d900)
+
+//----Enemy IDs
+-----------------
++10A7D8C - Enemy 1 ID
++10A7D90 - Enemy 2 ID
++10A7D94 - Enemy 3 ID
++10A7D98 - Enemy 4 ID
++10A7D9C - Enemy 5 ID
++10A7Da0 - Enemy 6 ID
++10A7Da4 - Enemy 7 ID
++10A7Da8 - Enemy 8 ID
+
+//----Items and Sepith Gained
+-----------------
++10A6388 - Earth Sepith gained
++10A638A - Water Sepith gained
++10A638C - Fire Sepith gained
++10A638E - Wind Sepith gained
++10A6390 - Time Sepith gained
++10A6392 - Space Sepith gained
++10A6394 - Mirage Sepith gained
++10A6396 - Item Gained
++10A6398 - Item Gained Qty
++10A639A - Second Item Gained
++10A639C - Second Item Gained Qty
++10A639E - Third Item Gained
++10A63A0 - Third Item Gained Qty
++10A63A2 - Fourth Item Gained
++10A63A4 - Fourth Item Gained Qty
+
+//----Other
+-----------------
++10AB2CC - Current Arts Being Cast (Doesn't matter who)
+

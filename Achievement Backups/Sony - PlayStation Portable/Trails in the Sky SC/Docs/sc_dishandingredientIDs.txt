@@ -1,0 +1,108 @@
+//===Dishes
+
+//----Food Dishes
+-----------------
+0x0192 - Corner Castella
+0x0193 - Herb Sandwich
+0x0194 - Salt-Roasted Fish
+0x0195 - Ten-Stack Crepe
+0x0196 - Mocking Pie
+0x0197 - Royal Gelato
+0x0198 - Hot-Hot Potato Fry
+0x0199 - Tomatrio Sandwich
+0x019a - Azelia Kiss
+0x019b - Nature's Bounty
+0x019c - Nap Killer
+0x019d - Pepper Pottage
+0x019e - Bone Bouillon
+0x019f - Premium Herb Tea
+0x01a0 - Flame Tongue Stew
+0x01a1 - Mystery Paste
+0x01a2 - Mighty Juice
+0x01a3 - Anarchy Soup
+0x01a4 - Paradise Cooler
+0x01a6 - Spiral Noodles
+0x01a7 - Fevered Gaze
+0x01a8 - Got Some Spine
+0x01a9 - Shellful Dish
+0x01aa - 100 Victories Steak
+0x01ab - Crimson Platter
+0x01ac - Fowl Magma Roast
+0x01ae - Refresh Jelly
+0x01af - Passion Omelet
+0x01b0 - Sea 'Bubbles'
+0x01b1 - Mobility Popcorn
+0x01b2 - Fruit Kingdom
+0x01b3 - Turnin' Tempura
+0x01b4 - Miso-Stewed Fish
+0x01b5 - Roast Fish
+0x01b6 - Rampage Fish
+0x01b7 - Prime Salmon Grill
+0x01b8 - Seafood Jelly
+0x01b9 - Ambrosial Egg
+0x01ba - Sunshine Ice
+0x01bb - Moonlight Ice
+0x01bc - Sweeeeet Crepe
+0x01bd - Mystery Crepe
+0x01be - Ultima Ice Cream
+0x01bf - Flower Milkshake
+0x01c3 - Mystery Paste Plus
+0x01c4 - Mighty Essence
+0x01c5 - Rustic Bone
+0x01c6 - Heavenly Tempura
+0x01c7 - Worldly Stew
+0x01c8 - Resurrect Jelly
+0x01c9 - Nirvana Tea
+
+//----Attack Dishes
+-----------------
+0x01e0 - Surprise Cookie
+0x01e3 - Rainbow Surprise
+0x01e6 - Aurora Ball
+0x01e9 - Naptime Cookie
+0x01ec - Perilous Meatballs
+0x01ef - Knockout Meatball
+
+//----Ingredients
+-----------------
+0x0384 - Firefly Fungus
+0x0385 - Acerbic Tomato
+0x0386 - Bear Claw
+0x0387 - Tri-Colored Rice
+0x0388 - Aged Miso
+0x0389 - Vintage Wine
+0x038a - Fresh Milk
+0x038b - Fresh Eggs
+0x038c - Sharp Cheese
+0x038d - Luscious Orange
+0x038e - Ripe Apple
+0x038f - Azelia Fruit
+0x0390 - Milled Flour
+0x0391 - Ironbone Fish
+0x0392 - Marbled Steak
+0x0393 - Flaky Potato
+0x0394 - Crisp Onion
+0x0395 - Dirty Carrot
+0x0396 - Maple Sugar
+0x0397 - Kibbled Salt
+0x0398 - Olive Oil
+0x0399 - Fresh Herb
+0x039a - Dragon Beads
+0x039b - Royal Leaf
+0x039c - Black Pepper
+0x039d - Red Pepper
+0x039e - Curative Horn
+0x039f - Savory Pinion
+0x03a0 - Leathery Tail
+0x03a1 - Juicy Bone
+0x03a2 - Gummy Eyeball
+0x03a3 - Lucky Fang
+0x03a4 - Monster Carapace
+0x03a5 - Beast Flesh
+0x03a6 - Fish Fillet
+0x03a7 - Tender Poultry
+0x03a8 - Clear Gelatin
+0x03a9 - Bird Egg
+0x03aa - Fish Egg
+0x03ab - Prickly Sead
+0x03ac - Tender Whitefish

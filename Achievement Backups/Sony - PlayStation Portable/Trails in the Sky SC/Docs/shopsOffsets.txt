@@ -1,0 +1,40 @@
+bc5d28
+
+Pointer - Use for shops.
+
++1002470 Quantity Selling
++1002490 How much you get for each one
+    +04 Earth Sepith
+    +08 Water Sepith
+    +0C Fire Sepith
+    +10 Wind Sepith
+    +14 Time Sepith
+    +18 Space Sepith
+    +1C Mirage Sepith
+
++10024b8 Items for sale - Item 1
++10024bc Items for sale - Item 2
++10024c0 Items for sale - Item 3
++10024c4 Items for sale - Item 4
++10024c8 Items for sale - Item 5
++10024cc Items for sale - Item 6
++10024d0 Items for sale - Item 7
++10024d4 Items for sale - Item 8
++10024d8 Items for sale - Item 9
++10024dc Items for sale - Item 10
++10024ec Items for sale - Item 14
++10024fc Items for sale - Item 18
++1002504 Items for sale - Item 20
++100257c Items for sale - Item 50
+
+
+
+c5b528
+//---------
++ffff74 Shop Command
+0xFFFFFFFF - Nothing
+0x00000000 - Buy
+0x00000001 - Sell
+0x00000002 - Trade
+0x00000003 - Quit
++1002894 Item Selected to Buy/Sell/Trade

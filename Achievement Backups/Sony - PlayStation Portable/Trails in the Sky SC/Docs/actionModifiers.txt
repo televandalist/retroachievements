@@ -1,0 +1,26 @@
+//===Action-Status Modifiers
+
+//----Battle Actions
+-----------------
+0x0002 - Moving
+0x0003 - Getting Hit
+0x0005 - Attacking
+0x0006 - Preparing to cast arts
+0x0007 - Casting arts
+0x0009 - Using craft
+0x000a - S-Craft
+0x000b - Using item
+0x000e - Chain Craft
+0x0018 - Turn End
+
+//----Status Effects
+-----------------
+(Incomplete)
+
+(Party Postition 1 offsets as an example)
+
++1004d79.bit6 - MOV UP
++1004d7a.bit0 - STR UP
++1004d7a.bit2 - DEF UP
++1004d7a.bit4 - SPD UP
++1004d7b.bit2 - Immunity

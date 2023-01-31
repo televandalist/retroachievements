@@ -1,0 +1,78 @@
+e8c790
+
+
+1096ccc
+1096cd0
+1096cd4
+
++106d4ac - Estelle - Command Being Performed
++106d4b2 - Estelle - Command Selected
++106d4b6 - Estelle - Turn Active (0x01)
++106d4ba - Estelle - Art or Craft Selected
++106d4c4 - Estelle - Target Selected 1
++106d4c6 - Estelle - Target Selected 2
++106d4c8 - Estelle - Target Selected 3
++106d4ca - Estelle - Target Selected 4
++106d4cc - Estelle - Target Selected 5
++106d4ce - Estelle - Target Selected 6
++106d4d0 - Estelle - Target Selected 7
++106d4d2 - Estelle - Target Selected 8
++106d562 - Max HP - Estelle
++106d564 - Current HP - Estelle
++106d566 - Max EP - Estelle
++106d568 - Current HP - Estelle
++106d56a - Current CP - Estelle
++106d56c - Current EXP - Estelle
++106d598 - Estelle - Status Effect
+
+Add 23e8 to any of the above to get the next person, then 23e8 to that, etc.
+Add D770 for Enemy 1, then 23e8 to that for enemy 2, etc.
+
++107ac1c - Enemy 1 - Command being performed
++107ac8c - Enemy 1 Defeated 0x01
++107acd2 - Max HP - Enemy 1
++107acd4 - Current HP - Enemy 1
++107d074 - Enemy 2 Defeated 0x01
++107d0ba - Max HP - Enemy 2
++107d0bc - Current HP - Enemy 2
++107f45c - Enemy 3 Defeated 0x01
++107f4a2 - Max HP - Enemy 3
++107f4a4 - Current HP - Enemy 3
++1081844 - Enemy 4 Defeated 0x01
++108188a - Max HP - Enemy 4
++108188c - Current HP - Enemy 4
++1083c2c - Enemy 5 Defeated 0x01
++1083c72 - Max HP - Enemy 5
++1083c74 - Current HP - Enemy 5
++1086014 - Enemy 6 Defeated 0x01
++108605a - Max HP - Enemy 6
++108605c - Current HP - Enemy 6
++10883fc - Enemy 7 Defeated 0x01
++1088442 - Max HP - Enemy 7
++1088444 - Current HP - Enemy 7
++108a7e4 - Enemy 8 Defeated 0x01
++108a82a - Max HP - Enemy 8
++108a82c - Current HP - Enemy 8
+
++1096074 - Earth Sepith gained
++1096076 - Water Sepith gained
++1096078 - Fire Sepith gained
++109607a - Wind Sepith gained
++109607c - Time Sepith gained
++109607e - Space Sepith gained
++1096080 - Mirage Sepith gained
++1096082 - Item Gained
++1096084 - Item Gained Qty
++1096086 - Second Item Gained
++1096088 - Second Item Gained Qty
+
++1096ccc - Enemy 1 ID
++1096cd0 - Enemy 2 ID
++1096cd4 - Enemy 3 ID
++1096cd8 - Enemy 4 ID
++1096cdc - Enemy 5 ID
++1096ce0 - Enemy 6 ID
++1096ce4 - Enemy 7 ID
++1096ce8 - Enemy 8 ID
+
++1099908 Current Spell Being Cast (doesn't matter who)

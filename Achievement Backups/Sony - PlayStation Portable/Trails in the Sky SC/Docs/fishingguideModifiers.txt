@@ -1,0 +1,116 @@
+//===Fishing Guide Modifiers
+
+//----Bait Bit Flags
+-----------------
+c632aa.bit0 - Rockeater
+c632aa.bit1 - Yamany
+c632aa.bit2 - Rainbow Trout
+c632aa.bit3 - Tiger Rockfish
+c632aa.bit4 - Pearlglass
+c632aa.bit5 - Dace
+c632aa.bit6 - Trout
+c632aa.bit7 - Valleria Bass
+c632ab.bit0 - Snakehead
+c632ab.bit1 - Garvelze
+c632ab.bit2 - Liberl Carp
+c632ab.bit3 - Eel
+c632ab.bit4 - Carp
+c632ab.bit5 - Salmon
+c632ab.bit6 - Granakor
+c632ab.bit7 - Gold Angelfish
+c632ac.bit0 - Octopus
+c632ac.bit1 - Mahi-mahi
+c632ac.bit2 - Sea Bass
+c632ac.bit3 - Blue Marlin
+c632ac.bit4 - Kasago
+c632ac.bit5 - Great Blackfish
+c632ac.bit6 - Crab
+c632ac.bit7 - Claudine
+c632ad.bit0 - Gigangora
+c632ad.bit1 - Dynatrad
+c632ad.bit6 - Earthworm
+c632ad.bit7 - River Bug
+c632ae.bit0 - Dumplings
+c632ae.bit1 - Roe
+c632ae.bit2 - River Snail
+c632ae.bit3 - Frog
+c632ae.bit4 - Red Flies
+c632ae.bit5 - Polychaete
+c632ae.bit6 - Shrimplet
+
+//===Fishing Guide Modifiers
+
+//----Fishing Spot Map IDs
+-----------------
+0x015f - Milch Road Pool
+0x0160 - Verte Bridge
+0x0161 - Mistwald Clear Stream
+0x0162 - Rolent Sewers
+0x0163 - Bright Family Pond
+0x0164 - Elize Highway River
+0x0168 - Ravennue Village Pond
+0x0169 - West Bose Highway Pond
+0x016a - Lakeshore Inn
+0x0172 - Varenne Lighthouse Cliff
+0x0173 - Manoria Village
+0x0174 - Gull Seaside Way Shoals
+0x0175 - Gull Seaside Way Beach
+0x0176 - Ruan, Roubine River South
+0x0177 - Ruan, Roubine River North
+0x0178 - Air-Letten Waterfall
+0x0179 - Air-Letten Waterfall
+0x017a - Sapphirl Tower (1F)
+0x017b - Sapphirl Tower (5F)
+0x017c - Kaldia Tunnel River
+0x017d - Kaldia Underground Lake
+0x017e - Underground Lake Depths
+0x017f - Elmo Outskirts Pool
+0x0180 - Maple Leaf Inn Garden Pond
+0x0181 - Tratt Plains Road Pool
+0x0182 - Leiston Fortress Moat
+0x0186 - Scenic Route, Romal Pond
+0x0187 - Grancel Sewers (East)
+0x0188 - Grancel Sewers (West)
+0x0189 - Grancel Sewers (North)
+0x018a - Grancel Port (Rear)
+0x018b - Grancel Castle Entrance
+0x018c - Grancel Queen's Terrace
+0x018d - Erbe Royal Villa Canal
+
+//----Other Fishing Spot IDs
+-----------------
+0x01 - Milch Road Pool
+0x02 - Verte Bridge
+0x03 - Mistwald Clear Stream
+0x04 - Rolent Sewers
+0x05 - Bright Family Pond
+0x06 - Elize Highway River
+0x0a - Ravennue Village Pond
+0x0b - West Bose Highway Pond
+0x0c - Lakeshore Inn
+0x0d - Lakeshore Inn
+0x14 - Varenne Lighthouse Cliff
+0x15 - Manoria Village
+0x16 - Gull Seaside Way Shoals
+0x17 - Gull Seaside Way Beach
+0x18 - Ruan, Roubine River South
+0x19 - Ruan, Roubine River North
+0x1a - Air-Letten Waterfall
+0x1b - Air-Letten Waterfall
+0x1c - Sapphirl Tower (1F)
+0x1d - Sapphirl Tower (5F)
+0x1e - Kaldia Tunnel River
+0x1f - Kaldia Underground Lake
+0x20 - Underground Lake Depths
+0x21 - Elmo Outskirts Pool
+0x22 - Maple Leaf Inn Garden Pond
+0x23 - Tratt Plains Road Pool
+0x24 - Leiston Fortress Moat
+0x28 - Scenic Route, Romal Pond
+0x29 - Grancel Sewers (East)
+0x2b - Grancel Sewers (West)
+0x2a - Grancel Sewers (North)
+0x2c - Grancel Port (Rear)
+0x2d - Grancel Castle Entrance
+0x2e - Grancel Queen's Terrace
+0x2f - Erbe Royal Villa Canal

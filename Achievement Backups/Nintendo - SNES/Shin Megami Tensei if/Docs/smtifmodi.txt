@@ -1,0 +1,271 @@
+00 - Ice Pick
+01 - Metal Bat
+02 - Battle Yoyo
+03 - Battle Hammer
+04 - Bollock Knife
+05 - Slicer
+06 - Scorpion Whip
+07 - Corseca
+08 - Guillotine Axe
+09 - Bizen Tanto
+0a - Jet Bola
+0b - Athame Knife
+0c - Heat Glaive
+0d - Harakiri Saber
+0e - Shadow Needle
+0f - Cypress Sword
+10 - Head Basher
+11 - Vacuum Axe
+12 - Back Sword
+13 - Wild Spear
+14 - Triple Dagger
+15 - Lotus Whip
+16 - Rocket Hammer
+17 - Cursed Chakram
+18 - Lightning Whip
+19 - Scarlet Nagamaki
+1a - Glamorous Axe
+1b - Skip Hammer
+1c - Plasma Sword
+1d - Aqua Flail
+1e - Bear's War Fan
+1f - Guten Tag
+20 - Sonic Blade
+21 - Thousand Needle
+22 - Vital Lance
+23 - Salamander Sickle
+24 - Fuma Wakizashi
+25 - Screp
+26 - Thunderfang Axe
+27 - Charon's Staff
+28 - Heixuanfeng
+29 - Headhunter Spoon
+2a - Liuxingchui
+2b - Fragarach
+2c - Shamshir
+2d - Magma Spear
+2e - Soja Staff
+2f - Majo-sen
+30 - Longinus
+31 - Sword of Fergus
+32 - Sword of Hanguang
+33 - Dark Blade Nihil
+34 - Luna Blade
+35 - Sol Blade
+36 - Lion's War Fan
+37 - Engetsuto
+38 - Sword of Kuchinawa
+39 - Fangtian Huaji
+3a - Deathbringer
+3b - Brionac
+3c - Gae Bolga
+3d - Gleipnir
+3e - Komajo
+3f - Sword of Shoren
+40 - Flowing Sword
+41 - Kogitsune-Maru
+42 - Fujin-ken
+43 - Raijin-ken
+44 - Kobizen Kanehira
+45 - Goto-Nagamichi
+46 - Nio-Kiyotsuna
+47 - Kosetsu-Samonji
+48 - Yoto Muramasa
+49 - Muso-Masamune
+4a - Kenun-Maru
+4b - Konryu-Maru
+4c - Yatsuka-no-ken
+4d - Ame-no-Murakumo
+4e - Ame-no-Nuboko
+4f - Heaven's Sword
+50 - Spear of Torifune
+51 - Battlecry Axe
+52 - Staff of Okorobi
+53 - Sword of Ibuki
+54 - Hi-no-Kagutsuchi
+55 - Ama-no-Mitsurugi
+56 - King Frost Rod
+57 - Kurikara's Sword
+58 - Beretta 92F
+59 - Desert Eagle
+5a - Miracle Glock
+5b - Gonz Pistol
+5c - Dominator
+5d - Gyro Jet
+5e - M16 Rifle
+5f - Smile Stare
+60 - M249 Minimi
+61 - SPAS12
+62 - Kirai-Ho
+63 - Death Colt
+64 - Barrett M90
+65 - Golden Gun
+66 - M134 Vulcan
+67 - Gigasmasher
+68 - Kunitomo's Gun
+69 - Railgun
+6a - Crime Buster
+6b - Gorai-ho
+6c - Neutring Gun
+6d - Megido Fire
+6e - Peacemaker
+6f - Brahmastra
+70 - Bullet
+71 - Poisoned Bullet
+72 - Shotgun Shell
+73 - Randi-Shot
+74 - Nerve Bullet
+75 - Cursed Bullet
+76 - Cop Killer
+77 - Blessed Bullet
+78 - Dispel Shot
+79 - Plutonium Slug
+7a - Medusa Bullet
+7b - Corona Shot
+7c - Bullet of Light
+7d - Darkness Bullet
+7e - Corrosion Shell
+7f - Skull Bullet
+80 - Helmet
+81 - Fritz Helm
+82 - Nap Guard
+83 - Metal Turban
+84 - Iron Bunny Ears
+85 - Frog Helm
+86 - Dolphin Helm
+87 - Bingo Hat
+88 - Iron Facemask
+89 - Parade Helm
+8a - Daybreak Helm
+8b - Helm of Suzaku
+8c - Panzer Helm
+8d - Jagd Helm
+8e - Sturm Helm
+8f - Tenma Helm
+90 - King Frost Crown
+91 - Cavalry Helm
+92 - Jesus Helm
+93 - Hua Khon
+94 - Shoulder Pad
+95 - Amigo Poncho
+96 - Highleg Armor
+97 - Kaiser Armor
+98 - Armor of the Sun
+99 - Tang Lion Happi
+9a - Rearguard's Armor
+9b - Skull Keikogi
+9c - Tetrajammer
+9d - Parade Armor
+9e - Daybreak Armor
+9f - Genbu Armor
+a0 - Panzer Suit
+a1 - Jagd Armor
+a2 - Sturm Suit
+a3 - Tenma Armor
+a4 - King Frost Cape
+a5 - Cavalry Armor
+a6 - Jesus Armor
+a7 - Tapsuan
+a8 - Back Pad
+a9 - Star Glove
+aa - Rivet Knuckle
+ab - Jamming Arm
+ac - Arm Bridge
+ad - Whirlwind Gauntlet
+ae - Tachiwari Gauntlet
+af - Rikiou Gauntlet
+b0 - Revenge Gauntlet
+b1 - Parade Glove
+b2 - Daybreak Gauntlet
+b3 - Seiryu Gauntlet
+b4 - Panzer Fist
+b5 - Jagd Glove
+b6 - Sturm Gloves
+b7 - Tenma Gauntlet
+b8 - King Frost Mitten
+b9 - Cavalry Gauntlet
+ba - Jesus Gloves
+bb - Pahurat
+bc - Rollerblade
+bd - Leggerslam
+be - Happy Sandals
+bf - Titanium Boots
+c0 - Dancing Heels
+c1 - Aero Jet
+c2 - Crescent Greaves
+c3 - Climbing Shoes
+c4 - Tolling Greaves
+c5 - Parade Boots
+c6 - Crimson Greaves
+c7 - Byakko Greaves
+c8 - Panzer Leg
+c9 - Jagd Leg
+ca - Sturm Leg
+cb - Tenma Greaves
+cc - King Frost Boots
+cd - Cavalry Greaves
+ce - Jesus Leg
+cf - Khamraitao
+d0 - Mazio Stone
+d1 - Mabufu Stone
+d2 - Maragi Stone
+d3 - Mahazan Stone
+d4 - Megidola Stone
+d5 - Cursed Wood Horse
+d6 - Shoten-Seki
+d7 - Hiko-bari
+d8 - Hamaya
+d9 - Poison Arrow
+da - Ointment
+db - Orb
+dc - De-Stone
+dd - Dis-Paralyze
+de - Dis-Poison
+df - Dis-Charm
+e0 - Soul Sphere
+e1 - Final Guard
+e2 - React Sheet
+e3 - Fuma Bell
+e4 - View Sphere
+e5 - Ripple Flute
+e6 - Brown Bottle
+e7 - Smoke Bomb
+e8 - Bell of Silence
+e9 - Drum of Confusion
+ea - Power Sphere
+eb - Hiranya
+ec - Life Stone
+ed - Muscle Drink
+ee - Soma
+ef - Kintan
+f0 - Soul Incense
+f1 - Luck Incense
+f2 - Stamina Incense
+f3 - Intelligence Incense
+f4 - Strength Incense
+f5 - Speed Incense
+f6 - Magic Incense
+f7 - Decoy Sphere
+f8 - Core Shield
+f9 - Bronze Box
+fa - Amulet
+fb - Chakra Drop
+fc - Chakra Pot
+fd - Rasta Candy
+fe - Metal Card
+
+
+
+
+
+
+
+
+
+
+
+2275
+2324
+7222
+2309
+5087

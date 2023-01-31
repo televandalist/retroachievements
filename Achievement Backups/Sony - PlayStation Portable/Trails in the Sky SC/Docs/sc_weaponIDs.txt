@@ -1,0 +1,139 @@
+//===Weapon IDs
+
+//----Estelle
+-----------------
+0x000a - Break Rod
+0x000b - Fiber Rod
+0x000c - Impact Rod
+0x000d - Pole Weapon
+0x000e - Ceramic Rod
+0x000f - Edel Staff
+0x0012 - Laundry Pole+
+0x0013 - Spiral Rod
+0x0014 - Valkyrie Rod
+0x0015 - Brave Staff
+0x0016 - Ebony Staff
+0x0017 - Five Rings Cane
+0x0018 - Diamond Staff
+0x0019 - Seven Ring Cane
+0x001a - Arhat's Staff
+0x001b - Kirin Horn
+
+//----Joshua
+-----------------
+0x0025 - Folder
+0x0026 - Karambit
+0x002a - Strider
+0x002b - Aura Fencer
+0x002c - Skinner
+0x002e - Avenger
+0x0031 - Phoenix Blades
+0x0032 - All-Purpose Knife
+
+//----Schera
+-----------------
+0x0044 - Python
+0x0045 - Air Glaive
+0x0046 - Chain Gear
+0x0047 - Eclair
+0x0048 - Sturm
+0x0049 - Chain Belt
+0x004a - Galient Sword
+0x004b - Dendrobium
+0x004c - Rosenkrantz
+0x004d - Wolf's Fang Whip
+0x004e - Dragon's Fang Whip
+0x004f - Sirius Whip
+
+//----Olivier
+-----------------
+0x005b - 0-Type Orbal Gun (Alpha)
+0x0061 - Phantom
+0x0063 - Gray Wolf
+0x0064 - Salamander
+0x0065 - Dragoon
+0x0066 - 0-Type Orbal Gun
+0x0067 - 0-Type Test Model
+0x0068 - Eternity
+0x006a - Cyclops
+0x006b - Revolter
+0x006c - Stinger II
+0x006d - Trickster
+0x006e - Phantom II
+
+//----Kloe
+-----------------
+0x007f - Saber
+0x0081 - Sinclair
+0x0082 - Long Saber
+0x0083 - Vierge
+0x0084 - Rune Blade
+0x0085 - Moon Singer
+0x0086 - Battle Saber
+0x0087 - Celestial
+0x0088 - Seven Star Sword
+0x008b - Aerondight
+0x008c - Caledfwlch
+
+//----Agate
+-----------------
+0x009e - Claymore
+0x009f - Schweitzer
+0x00a0 - Dynast Edge
+0x00a1 - Blade Gear
+0x00a2 - Ogre Buster
+0x00a3 - Cleaver
+0x00a4 - Grambringer
+0x00a5 - Zeno Breaker
+0x00a6 - Lion King's Sword
+0x00a7 - Roaring Thunder
+0x00a8 - Obsidian Blade
+0x00a9 - Demon Eater
+
+//----Tita
+-----------------
+0x00bc - P-07
+0x00bd - S Launcher
+0x00be - G-01
+0x00bf - T Launcher
+0x00c0 - Kowloon Cannon
+0x00c1 - G-02
+0x00c2 - Meteo Buster
+0x00c3 - Omega Craft
+0x00c4 - Machine Planker
+0x00c5 - Buster Gear
+0x00c6 - Tempest Cannon
+
+//----Zane
+-----------------
+0x00da - Heavy Cestus
+0x00db - Knuckle Gear
+0x00dc - Blast Arm
+0x00dd - Avalokiteshvara
+0x00de - Gigant Arm
+0x00df - Hecatonchire
+0x00e0 - Briarios
+0x00e1 - Silver Gauntlets
+0x00e2 - Byakko's Claws
+0x00e3 - Genbu Shell
+
+//----Kevin
+-----------------
+0x00e6 - Cross Gear
+0x00e7 - Glittering Stars
+0x00e9 - Air Shooter
+0x00ea - Arbalest
+0x00eb - Windlass
+0x00ed - Composite Gear
+0x00ee - Sylphid
+0x00ef - Dominion
+0x00f0 - Suzaku Bow
+
+//----Kurt
+-----------------
+0x00aa - Fujin-Raijin
+
+//----Anelace
+-----------------
+0x00cf - Fencer
+0x00d0 - Seiryuu Sword

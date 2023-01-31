@@ -1,0 +1,20 @@
+//===Enemy IDs
+(Incomplete)
+
+//----Monster Guide Numbers
+-----------------
+0x00f5 - Kurt (Prologue)
+0x00f9 - Raven
+0x00fa - Raven
+0x00fb - Raven
+0x01db - Shining Pom (Prologue)
+0x0231 - Abyss Worms
+0x0232 - Mouki (Ch. 1)
+0x023f - Parasite Prima
+0x0256 - Puppet Fragger
+0x0267 - Storm Bringer (Ch. 1)
+0x02a6 - Jaeger (Fortress Boss)
+0x02a7 - Jaeger Woman (Prologue)
+0x02e1 - Jaeger (Prologue)
+0x0391 - Vogel 235
+0x0393 - Gilbert (Ch. 8)

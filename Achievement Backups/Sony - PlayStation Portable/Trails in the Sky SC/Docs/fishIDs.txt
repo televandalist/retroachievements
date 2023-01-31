@@ -1,0 +1,52 @@
+//===Fishing
+
+//----Fish
+-----------------
+0x03b6 - Rockeater
+0x03b7 - Yamany
+0x03b8 - Rainbow Trout
+0x03b9 - Tiger Rockfish
+0x03ba - Pearlglass
+0x03bb - Dace
+0x03bc - Trout
+0x03bd - Valleria Bass
+0x03be - Snakehead
+0x03bf - Garvelze
+0x03c0 - Liberl Carp
+0x03c1 - Eel
+0x03c2 - Carp
+0x03c3 - Salmon
+0x03c4 - Granakor
+0x03c5 - Gold Angelfish
+0x03c6 - Octopus
+0x03c7 - Mahi-mahi
+0x03c8 - Sea Bass
+0x03c9 - Blue Marlin
+0x03ca - Kasago
+0x03cb - Great Blackfish
+0x03cc - Crab
+0x03cd - Claudine
+0x03ce - Gigangora
+0x03cf - Dynatrad
+
+//----Bait
+-----------------
+0x03d4 - Earthworm
+0x03d5 - River Bug
+0x03d6 - Dumplings
+0x03d7 - Roe
+0x03d8 - River Snail
+0x03d9 - Frog
+0x03da - Red Flies
+0x03db - Polychaete
+0x03dc - Shrimplet
+
+//----Rods
+-----------------
+0x024e - Bamboo Fishing Rod
+0x024f - Progress Rod
+0x0250 - Piscis Heart
+0x0251 - Lakelord II
+0x0252 - Marine Star
+0x0253 - Metal Rod Trident
+0x0254 - Aqua Master

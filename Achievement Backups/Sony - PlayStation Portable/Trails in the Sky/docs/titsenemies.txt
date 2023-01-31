@@ -1,0 +1,80 @@
+0eb	Josette
+0ec	National Guardsmen
+0f0	Bandit
+0fe	Killer Crab
+0ff	Killer Hornet
+100	Flying Feline
+102	Fly Skipper
+105	Coral Shell
+108	Crop Muncher
+109	Dirty Rat
+10d	Pom
+110	Lily Mover
+111	Robber Trapper
+113	Mars Sparrow
+115	Pine Plant
+116	Rhinocider
+118	Red Insectos
+119	Moth Cluster
+11a	Forest Mist
+167	Giant Crop Muncher
+189	Pine Plant
+18a	Rhinocider
+18c	Flying Feline
+18d	Lily Mover
+1d9	Dirty Rat
+1da	Moth Cluster
+1db	Shining Pom
+
+11b	Mad Roper
+121	Mushroom Snake
+156	
+172
+173
+174
+175
+11e
+155	Wisdom
+11d
+135	Boiled Egger G
+1dd
+101
+11f
+154
+123
+122
+10f
+152
+112
+158
+134
+129	Green Insectos
+127
+128
+12a
+1a3
+11c
+18f
+0ea
+
+190
+125
+124
+117
+195
+0e9
+194
+1a2
+10e
+12b
+191	Red Hammerhead
+12c	Shark Gator
+12d	Night Nautilus
+
+
+
+
+
+
+
+

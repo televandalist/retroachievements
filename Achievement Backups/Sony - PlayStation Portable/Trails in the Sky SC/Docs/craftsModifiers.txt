@@ -1,0 +1,87 @@
+//===Craft + S-Craft(*) Modifiers 
+(Incomplete)
+
+//----All
+-----------------
+0x008c - Chain 1
+0x008d - Chain 2
+0x008e - Chain 3
+
+//----Estelle
+-----------------
+0x0096 - Morale
+0x0097 - Comet
+0x0098 - Hard Break
+0x0099 - Hurricane
+0x009a - Taunt
+0x009b - 
+0x009c - True Comet
+0x009d - True Hard Break
+0x009e - True Hurricane
+0x00e6 - Pummel*
+0x00e7 - Barrage*
+0x00e8 - Wheel of Time*
+0x00e9 - True Pummel*
+0x00ea - True Barrage*
+
+//----Schera
+-----------------
+0x00ac - Heaven's Kiss
+0x00ad - 
+0x00ae - 
+0x00af - Sylphen Whip 2
+0x00b0 - Bind Whip 2
+0x00f1 - Judgment Card*
+0x00f2 - 
+0x00f3 - Sadist Whip 2*
+
+//----Olivier
+-----------------
+0x00b9 - Quick Draw 2
+0x00ba - Sniper Shot 2
+0x00bb - Happy Trigger 2
+0x00f6 - Requiem Hearts*
+0x00f7 - 
+0x00f8 - Howling Bullet 2*
+
+//----Kloe
+-----------------
+0x00c3 - Kaempfer 2
+0x00c4 - Sturm 2
+0x00fb - Sanctus Nova*
+0x00fc - 
+0x00fd - Lichtkreis2*
+
+//----Tita
+-----------------
+0x00d7 - Smoke Cannon 2
+0x00d8 - Vital Cannon 2
+0x0105 - Satellite Beam*
+0x0106 - 
+0x0107 - Cannon Impulse 2*
+
+//----Anelace
+-----------------
+0x0110 - Piercing Wave*
+0x0111 - True Piercing Wave*
+0x0140 - Eight-Leaf Blitz
+0x0141 - Swordwind Slash
+0x0142 - Fallen Leaves
+0x0143 - Petal Dance
+
+//----Kurt
+-----------------
+0x0118 - Summon Lightning*
+0x0168 - Fangshu: Steel
+0x0169 - Fangshu: Whitecaps
+0x016a - Fangshu: Renewal
+0x016b - Fangshu: Illusion
+0x016c - Sunset Arts
+
+//----Enemies (Ravens)
+-----------------
+0x3e8 - Soul Infusino
+0x3e9 - Invigorate
+0x3ea - Embolden
+0x3eb - 
+0x3ec - No Mercy

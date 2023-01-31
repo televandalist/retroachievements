@@ -1,0 +1,33 @@
+9fca70 -> bcd960
+	+114 - Pointer (bce4c0
+	+116 - Boss Max HP
+	+118 - Boss Current HP
+
+1 - bccb78
+2 - bcda78
+3 - bccf40
+bcca60
+
+089fca70
+
+3fa7d0
+
+
+1-0x014011b8
+2-0x014019c8
+3-0x014019c8
+
+
+Quit to menu
+bb9fac 1-0
+bb9fb8 1-0
+bb9fbc 1-0
+
+Retry
+bb9fac 1-0-1
+bb9fbc 1-0-1
+
+Win
+bb9fac 1-0
+bb9fb8 1-0
+bb9fbc 1-0

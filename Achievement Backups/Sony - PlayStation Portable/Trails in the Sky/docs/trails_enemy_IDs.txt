@@ -1,0 +1,1102 @@
+0e6	2nd Lieutenant Lorence		
+0e7	Colonel Richard		
+0e8	Captain Amalthea		
+0e9	Don	Chapter 1	Stronghold
+0ea	Kyle	Chapter 1	
+0eb	Josette	Chapter 0	
+0ec	National Guardsmen	Chapter 0	
+0ed	National Guard Officer		
+0ee	Black-Clad Soldier		
+0f0	Bandit	Chapter 0	
+0f1	Raven Gang Member		
+0f3	Grant		
+0f4	Carna		
+0f5	Kurt		
+0f6	Anelace		
+0f9	Deen		
+0fa	Rais		
+0fb	Rocco		
+0fc	Lorence		
+0fe	Killer Crab	Chapter 0	
+0ff	Killer Hornet	Chapter 0	
+100	Flying Feline	Chapter 0	
+101	Chupacabra	Chapter 1	
+102	Fly Skipper	Chapter 0	
+103	Marsh Chupacabra		
+104	Attack Doberman		Zeiss
+105	Coral Shell	Chapter 0	
+106	War Mantis		Zeiss
+108	Crop Muncher	Chapter 0	
+109	Dirty Rat	Chapter 0	
+10a	Armored Rabbit		Zeiss
+10b	Jet Tortoise		Zeiss
+10c	Creepy Sheep		Zeiss
+10d	Pom	Chapter 0	
+10e	Hammerhead	Chapter 2	
+10f	Giant Foot	Chapter 1	
+110	Lily Mover	Chapter 0	
+111	Robber Trapper	Chapter 0	
+112	Boiled Egger R	Chapter 1	
+113	Mars Sparrow	Chapter 0	
+114	Flying Shrimp	Chapter 2	
+115	Pine Plant	Chapter 0	
+116	Rhinocider	Chapter 0	
+117	Mad Tree	Chapter 1	
+118	Red Insectos	Chapter 0	
+119	Moth Cluster	Chapter 0	
+11a	Forest Mist	Chapter 0	
+11b	Mad Roper	Chapter 1	
+11c	Murder Crab	Chapter 1	
+11d	Rock Pecker	Chapter 1	
+11e	Halo Mole	Chapter 1	
+11f	Roly-Poly	Chapter 1	
+120	Gourd Boar		
+121	Mushroom Snake	Chapter 1	
+122	Hresvelgr	Chapter 1	
+123	Rimera	Chapter 1	
+124	Elder Owl	Chapter 1	
+125	Gold Rat	Chapter 1	
+126	Hopper Chief		Zeiss
+127	Amber Turtle	Chapter 1	
+128	Violent Pom	Chapter 1	
+129	Green Insectos	Chapter 1	
+12a	Robber Trapper	Chapter 1	
+12b	Stove Plant	Chapter 2	
+12c	Shark Gator	Chapter 2	
+12d	Night Nautilus	Chapter 2	
+12e	Mars Shell		
+12f	Bone Fish		Grancel
+130	Whale Frog (Male)		Grancel
+131	Whale Frog (Female)		Grancel
+132	Flying Moth		
+133	Wrap Spider		
+134	Dust Geist	Chapter 1	
+135	Boiled Egger G	Chapter 1	
+136	Helmet Crab		
+137	Mint Pom		
+138	Seahorse Demon		
+139	Robber Trapper		
+13a	Grass Hopper		
+13b	Cronocider		
+13c	Bane Cobra		
+13d	Red Penguin		
+13e	Blue Penguin		Zeiss
+13f	Yellow Penguin		
+140	Pink Penguin		
+141	Green Penguin		
+142	White Penguin		
+143	Baby Penguins		
+144	King Penguin		
+145	Spike Jellyfish		
+146	Pumpkin Pom		
+147	Flame Velgr		
+148	Robber Trapper		
+149	Damp Crawler		
+14a	Cave Ray		
+14b	Bubble Blower		
+14c	Hillside Bee		
+14d	Flame Plant		
+14e	Dinedile		
+14f	Gator Shark		
+150	War Bat		
+152	Master Cryon	Chapter 1	
+154	Fate Spinner	Chapter 1	
+155	Wisdom	Chapter 1	
+156	King Scorpion	Chapter 1	
+158	Thunder Quake	Chapter 1	
+15a	S-Series Doom		
+15c	D-Series Doom		
+15d	M-Series Doom		
+161	Gundoll		
+162	Photon Judge		
+163	Solid Dozer		
+164	Fango		
+165	Bronco		
+166	Corn Mover		
+167	Giant Crop Muncher	Chapter 0	
+168	Jabba	Chapter 2	
+169	Baby Gourd Boars		
+16a	Roadrunner		
+16b	Broken Piece		
+16c	Guard Minion		
+16d	Mad Snail		
+16e	Scissor Hands		
+16f	Great Moth		
+170	Boiled Egger 0		
+171	Black Sheep		
+172	Queen Scorpion	Chapter 1	
+173	Ice Pecker	Chapter 1	
+174	White Insectos	Chapter 1	
+175	Snow Mantis	Chapter 1	
+176	Reverie		
+179	Right Forceps		
+17a	Left Forceps		
+185	Reverie		
+189	Pine Plant	Chapter 0	
+18a	Rhinocider	Chapter 0	
+18b	Moth Flyers		
+18c	Flying Feline	Chapter 0	
+18d	Lily Mover	Chapter 0	
+18e	Fly Skipper		
+18f	Sky Bandit	Chapter 1	
+190	Sky Bandit	Chapter 1	
+191	Red Hammerhead	Chapter 2	
+194	Josette	Chapter 1	Stronghold
+195	Kyle	Chapter 1	Stronghold
+199	Bloody Saber		
+19a	Hell Mars		
+19b	Primera		
+19d	Alpha Drone		
+1a1	Black-Clad Soldier		
+1a2	Attack Doberman	Chapter 2	
+1a3	Creepy Sheep	Chapter 1	
+1a4	National Guardsman		
+1a5	Black-Clad Soldier		
+1a7	Special Ops Soldier		
+1a8	Special Ops Soldier		
+1ab	Special Ops Soldier		
+1ad	Special Ops Soldier		
+1b2	Heavily Armed Soldier		
+1b4	Solid Dozer		
+1b5	Captain Amalthea		
+1b6	Deen		
+1b7	Deen (Arena)		
+1b8	Rais		
+1b9	Raise (Arena)		
+1ba	Rocco		
+1bb	Rocco (Arena)		
+1bc	Raven Gang Member		
+1bd	Raven Gang Elite		
+1be	Photon Judge		
+1ce	Duke Dunan von Auslese		
+1d7	Attack Doberman		
+1d8	Gundoll		
+1d9	Dirty Rat	Chapter 0	
+1da	Moth Cluster	Chapter 0	
+1db	Shining Pom	Chapter 0	
+1dd	Shining Pom (Ch1)	Chapter 1	
+1de	Shining Pom	Chapter 2	
+1df	Shining Pom		
+1e0	Shining Pom		
+1e8	Mercury Viper		
+1ea	Beta Drone		
+1eb	Attack Doberman		
+1ed	Reverie		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

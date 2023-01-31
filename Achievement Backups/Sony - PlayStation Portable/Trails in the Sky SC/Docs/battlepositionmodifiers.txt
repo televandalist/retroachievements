@@ -1,0 +1,16 @@
+0x00=Party Position 1
+0x01=Party Position 2
+0x02=Party Position 3
+0x03=Party Position 4
+0x04=Party Position 5
+0x05=Party Position 6
+0x06=Party Position 7
+0x07=Party Position 8
+0x08=Enemy Position 1
+0x09=Enemy Position 2
+0x0a=Enemy Position 3
+0x0b=Enemy Position 4
+0x0c=Enemy Position 5
+0x0d=Enemy Position 6
+0x0e=Enemy Position 7
+0x0f=Enemy Position 8

@@ -1,0 +1,4 @@
+0x00 - Closed
+0x01 - Open
+0x02 - Upgraded
+0x03 - Fully Upgraded

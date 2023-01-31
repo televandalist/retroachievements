@@ -1,0 +1,130 @@
+Prologue
+Map IDs: 15, 1a, 1b, 14, 16, 1c, 13
+
+Rolent Sewers x2
+	0xbe84a1 bit2, bit3
+
+Malga Trails x3
+	0xbe8493 bit2, bit3
+	0xbe84a3 bit2
+	
+Milch Road x4
+	0xbe84a2 bit6, bit7
+	0xbe84a3 bit0, bit1
+	
+Mistwald Forest x2
+	0xbe84a2 bit2, bit3
+
+Esmelas Tower x5
+	0xbe84a1 bit5, bit6 
+	0xbe84a2 bit0, bit1, bit5
+
+
+Chapter 1
+Map IDs: 34, 38, 3b, 3c, 3d, 41, 43, 44
+
+West Bose Highway
+	0xbe84c1 bit2
+	
+Ravennue Trail
+	0xbe84c1 bit3
+	0xbe84c2 bit5
+	0xbe84bf bit2
+	0xbe84bf bit3
+	
+Amberl Tower
+	0xbe84bf bit4
+	0xbe84bf bit5
+	0xbe84bf bit6
+	0xbe84bf bit7
+	0xbe84c0 bit0
+	0xbe84c0 bit1
+	
+Nebel Valley
+	0xbe84be bit6
+	0xbe84be bit7
+
+Krone Trail
+	0xbe84be bit2
+	0xbe84be bit3
+	
+Sky Bandit's Fortress
+	0xbe84bd bit6
+	0xbe84bd bit7
+	0xbe84c1 bit1
+	0xbe84be bit0
+	0xbe84be bit1
+	0xbe84c0 bit4
+	
+	
+Chapter 2
+Map IDs: 
+
+Krone Trail (Ruan)
+	0xbe84e8 - bit4
+	0xbe84e8 - bit5
+
+Manoria Byroad
+	0xbe84e6 - bit7
+
+Gull Seaside Way
+	0xbe84e7 - bit1
+	0xbe84e7 - bit2
+	0xbe84e7 - bit3
+	0xbe84e7 - bit4
+	0xbe84e7 - bit5
+	0xbe84e7 - bit7
+	0xbe84e8 - bit0
+	0xbe84e8 - bit1
+
+Aurian Causeway
+
+
+Sapphirl Tower
+
+
+
+
+
+
+
+
+
+
+
+
+Jenis Royal Academy [JRoAc] x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 3
+Kaldia Tunnel [KalTu] x7
+Ritter Roadway [RitRo] x1
+Soldat Army Road [SolAr] x4
+Tratt Plains [TraPl] x9
+Carnelia Tower [CarTo] x15
+Limestone Cave [LimCa] x7
+
+Chapter 4
+Erbe Scenic Route [ErScRo] x5
+Grancel Sewers (Western Block) [WGrSe] x5
+Grancel Sewers (Eastern Block) [EGrSe] x5
+Grancel Sewers (Northern Block) [NGrSe] x4
+
+Aureole
+Floor 1 x10
+Floor 2 x9
+Floor 3 x8
+Floor 4 x13

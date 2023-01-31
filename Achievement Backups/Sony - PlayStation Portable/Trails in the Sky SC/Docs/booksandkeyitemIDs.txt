@@ -1,0 +1,203 @@
+//===Books and Key Items
+
+//----The Good Stuff
+-----------------
+0x0208 - Junior Bracer Notebook
+0x020a - Bracer Notebook
+0x020d - Recipe Book
+0x020e - Fishing Book
+0x020f - Monster Guide
+
+//----Books
+-----------------
+0x0212 - Carnelia - Chapter 1
+0x0213 - Carnelia - Chapter 2
+0x0214 - Carnelia - Chapter 3
+0x0215 - Carnelia - Chapter 4
+0x0216 - Carnelia - Chapter 5
+0x0217 - Carnelia - Chapter 6
+0x0218 - Carnelia - Chapter 7
+0x0219 - Carnelia - Chapter 8
+0x021a - Carnelia - Chapter 9
+0x021b - Carnelia - Chapter 10
+0x021c - Carnelia - Finale
+0x021d - Liberl News - Issue 1
+0x021e - Liberl News - Issue 2
+0x021f - Liberl News - Issue 3
+0x0220 - Liberl News - Issue 4
+0x0221 - Liberl News - Issue 5
+0x0222 - Liberl News - Issue 6
+0x0223 - Liberl News - Issue 7
+0x0224 - Liberl News - Special
+0x0225 - Liberl News - Issue 8
+0x0226 - Liberl News - Issue 9
+0x0227 - Liberl News - Issue 10
+0x0228 - Liberl News - Issue 11
+0x023a - Gambler Jack - Vol. 1
+0x023b - Gambler Jack - Vol. 2
+0x023c - Gambler Jack - Vol. 3
+0x023d - Gambler Jack - Vol. 4
+0x023e - Gambler Jack - Vol. 5
+0x023f - Gambler Jack - Vol. 6
+0x0240 - Gambler Jack - Vol. 7
+0x0241 - Gambler Jack - Vol. 8
+0x0242 - Gambler Jack - Vol. 9
+0x0243 - Gambler Jack - Vol. 10
+0x0244 - Gambler Jack - Vol. 11
+0x0245 - Gambler Jack - Vol. 12
+0x0246 - Gambler Jack - Vol. 13
+0x0247 - Gambler Jack - Vol. 14
+0x02ee - The Doll Knight Ch. 1
+0x02ef - The Doll Knight Ch. 2
+0x02f0 - The Doll Knight Ch. 3
+0x02f1 - The Doll Knight Ch. 4
+0x02f2 - The Doll Knight Ch. 5
+0x02f3 - The Doll Knight Ch. 6
+0x02f4 - The Doll Knight Ch. 7
+0x02f5 - The Doll Knight Ch. 8
+0x02f6 - The Doll Knight Ch. 9
+0x02f7 - The Doll Knight Ch. 10
+0x02f8 - The Doll Knight Ch. 11
+0x02f9 - The Doll Knight Ch. 12
+0x02fa - The Doll Knight Ch. 13
+0x02fb - The Doll Knight Ch. 14
+0x02fc - The Doll Knight Ch. 15
+0x02fd - The Doll Knight Ch. 16
+0x02fe - The Doll Knight Ch. 17
+0x02ff - The Doll Knight Ch. 18
+0x0300 - The Doll Knight Ch. 19
+0x0301 - The Doll Knight Ch. 20
+0x0302 - The Doll Knight Ch. 21
+0x0303 - The Doll Knight Finale
+
+//----Key Items (+ FC Items)
+-----------------
+0x0231 - Lighthouse Manual
+0x0232 - Orbal Camera
+0x0233 - Orbment parts
+0x0234 - Silver Ring
+0x0235 - Rusted Key
+0x0236 - Recipe Copy
+0x0320 - Guild Referral
+0x0321 - Mayor's Referral
+0x0322 - Elevator Key
+0x0323 - Septium Crystal
+0x0324 - Guild Referral
+0x0325 - Quartz Fragment
+0x0326 - Maintenance Kit
+0x0327 - Orbment Light
+0x0329 - Fr. Divine's Letter
+0x032a - Servais Leaf
+0x032d - The Mayor's Letter
+0x032e - Abandoned Mine Key
+0x032f - Gate Pass
+0x0330 - Recommendation
+0x0331 - Hundred Days War
+0x0332 - Progressive Rod
+0x0333 - Recommendation
+0x0334 - Warehouse Key
+0x0335 - Torn Map
+0x0336 - Letter to Cassius
+0x0337 - Bouquet
+0x0338 - Black Notebook
+0x0339 - Recommendation
+0x033a - Recommendation
+0x033b - Recommendation
+0x033c - Special Boxed Lunch
+0x033d - Ruan Economics I
+0x033e - Ruan Economics II
+0x033f - Ruan Economics III
+0x0340 - Kitty-Talk for Dummies
+0x0341 - Tomorrow's Cooking
+0x0342 - Septium Optic Annals
+0x0343 - The Erbe Woodpecker
+0x0344 - Hertz's Adventure(2)
+0x0345 - 31 Cypress Trees
+0x0346 - Drive Orbment
+0x0347 - Liberl News - Issue 1
+0x0348 - Liberl News - Issue 2
+0x0349 - Liberl News - Issue 3
+0x034a - Liberl News - Issue 4
+0x034b - Liberl News - Issue 5
+0x034c - Liberl News - Issue 6
+0x034d - Liberl News - Issue 7
+0x034e - Liberl News - Issue 8
+0x034f - Liberl News - Issue 9
+0x0350 - Liberl News - Special
+0x0356 - Back Room Key
+0x0357 - Grancel Sewer Map
+0x0358 - Dorothy's Photograph
+0x0359 - Leiston Fortress Map
+0x035a - Leiston Fortress Map
+0x035b - Black Orbment
+0x035c - Junior Bracer Emblem
+0x035d - Bracer Emblem
+0x035e - Letter to Faye
+0x035f - Liberl Kingdom Map
+0x0360 - Attn. Factory Chief
+0x0362 - Detector Jammer
+0x0363 - Map of Le Locle
+0x0364 - Orbal Calculator
+0x0365 - Zemuria Moss
+0x0366 - Arve Sovereign Serum
+0x0367 - Gasoline Tank
+0x0368 - Combustion Engine
+0x0369 - Pump Shed Key
+0x036a - Boarding Pass
+0x036b - Grand Arena Ticket
+0x036c - Julia's Letter
+0x036d - Grancel Sewer Key A
+0x036e - Grancel Sewer Key B
+0x036f - Spare Key
+0x0370 - Boarding Pass
+0x0371 - Invitation
+0x0372 - Registry Card
+0x0373 - Small Box
+0x0374 - Hertz's Adventure I
+0x0375 - Room 202 Key
+0x0376 - Luke's Journal
+0x0381 - Photo of Raini
+0x0382 - Metal Detector
+0x03e8 - Practice Weapon
+0x03f2 - Boarding Pass
+0x03f3 - Back Gate Key
+0x03f4 - Rusted Key
+0x03f5 - Wooden Gate Key
+0x03f6 - Bobcat Ignition Key
+0x03f7 - Dark Chocolate
+0x03f8 - Storage Room Key
+0x03f9 - Harmonica
+0x03fa - Red Cardkey
+0x03fb - Green Cardkey
+0x03fc - Blue Cardkey
+0x03fd - Data Crystal 0
+0x03fe - Data Crystal 1
+0x03ff - Data Crystal 2
+0x0400 - Data Crystal 3
+0x0401 - Data Crystal 4
+0x0402 - Data Crystal 5
+0x0403 - Data Crystal 6
+0x0404 - Data Crystal 7
+0x0405 - Data Crystal 8
+0x0406 - Data Crystal 9
+0x0407 - Data Crystal 10
+0x0408 - Data Crystal 11
+0x0409 - Data Crystal 12
+0x040a - Pump Shed Key
+0x040b - Murdock's Letter
+0x040c - Gasoline Tank
+0x040d - Combustion Engine
+0x040e - Hostage List
+0x040f - Original Gospel
+0x0410 - Security Card
+0x0411 - Joshua's Harmonica
+0x0412 - Data Crystal 13
+0x0413 - Data Crystal 14
+0x0414 - Data Crystal 15
+0x0415 - Master Fisher Card
+0x0416 - ID Unit
+0x0417 - Zemurian Ore
+0x0418 - Data Crystal Z
+0x0419 - Overnight Ticket
+0x041a - Photo of Joshua
+0x041b - Photo of Raini

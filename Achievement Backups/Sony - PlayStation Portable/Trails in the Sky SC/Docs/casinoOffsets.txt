@@ -1,0 +1,72 @@
+bc5d14
+
+--Poker--
++1000240 - Results
+00 - No Pair
+01 - 1 Pair
+02 - 2 Pair
+03 - Three of a Kind
+04 - Straight
+05 - Flush
+06 - Full House
+07 - 4 of a kind
+08 - Straight Flush
+09 - Royal Flush
+
++1000242 - Action
+01 - Begin
+04 - Place Bet
+05 - Change or Hold
+06 - Dealing
+07 - Results
+08 - End
+09 - Continue?
+
+
+
+
+bc5d18
+
+Casino (Current Bet + Results)
++100005c - Current Bet
++1e00110 - Result
+- 00 Win
+- 01 Blackjack
+- 07 Lose
+- 08 Draw
+- 09 Busted
+- 0a Surrender
+- 0b Pre-game
+
+
+bc5d1c
+
+--Blackjack--
++fff8fc - Number of Cards in Hand
++fff904 - Current Hand Total
+
++10001d2
+- 01 Continue?
+- 04 Place Bet
+- 05 Idle
+- 06 Hit
+- 08 Stand
+- 09 Win
+- 0a Total
+
++10001d4 Result
+00 - Win
+01 - Blackjack
+02 - Ace and Jack of Diamonds
+03 - Ace and Jack of Spades
+04 - 7,7,7
+05 - 6 Cards
+06 - 7 Cards
+07 - Lose
+08 - Draw
+09 - Busted
+0a - Surrender
+0b - Pre-game
+
++11947c8 - Opponent Number of Cards in Hand
++11947d0 - Opponent Current Hand Total

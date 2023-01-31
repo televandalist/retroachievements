@@ -1,0 +1,94 @@
+//===Orbal Arts Modifiers
+
+//----Earth
+-----------------
+0x000a - Stone Hammer
+0x000b - Earth Lance
+0x000c - Petrify Breath
+0x000d - Stone Impact
+0x000e - Petrify Cloud
+0x000f - Atlas Hammer
+0x0010 - Titanic Roar
+0x0011 - Geo Catastrophe
+0x004b - Earth Guard
+0x004c - Earth Wall
+0x004d - Gaia Shield
+0x0056 - Crest
+0x0059 - A-Crest
+0x005a - La Crest
+0x0063 - Petrosphere
+
+//----Fire
+-----------------
+0x001e - Fire Bolt
+0x001f - Flare Arrow
+0x0020 - Napalm Breath
+0x0022 - Cyclone Napalm
+0x0023 - Fire Bolt EX
+0x0024 - Spiral Flare
+0x0025 - Volcanic Rave
+0x0027 - Meteo Fall
+0x0028 - Arc Prominense
+0x0057 - Forte
+0x005c - La Forte
+
+//----Water
+-----------------
+0x0014 - Aqua Bleed
+0x0015 - Blue Impact
+0x0016 - Blue Ascension
+0x0017 - Diamond Dust
+0x0018 - Cocytus
+0x006e - Tear
+0x006f - Teara
+0x0070 - Tearal
+0x0071 - Tear-All
+0x0072 - La Tear
+0x0073 - La Teara
+0x0074 - La Tearal
+0x0075 - La Tear-All
+0x0076 - Curia
+0x0077 - La Curia
+0x0078 - Revive
+0x0079 - Athelas
+
+//----Wind
+-----------------
+0x0032 - Air Strike
+0x0033 - Aerial
+0x0034 - Aero Storm
+0x0035 - Grand Stream
+0x0036 - Lightning
+0x0037 - Plasma Wave
+0x0039 - Ragna Blast
+0x0050 - Sylphen Guard
+0x0051 - Sylphen Wing
+0x0052 - Sylpharion
+
+//----Time
+-----------------
+0x003c - Shadow Spear
+0x003d - Death Scream
+0x003e - Hell Gate
+0x003f - White Gehenna
+0x0040 - Abyss Fall
+0x0041 - Soul Blur
+0x005f - Clock Up
+0x0060 - Clock Up EX
+0x0069 - Anti-Sept
+0x006a - Anti-Sept All
+0x006b - Orbal Down
+0x006c - Clock Down
+
+//----Space
+-----------------
+0x0046 - Dark Matter
+0x0047 - Lost Mobius
+
+//----Mirage
+-----------------
+0x0058 - Saint
+0x0064 - Chaos Brand
+0x0065 - Silent Cross
+0x0067 - Silver Thorn
+0x0068 - Phantom Pain

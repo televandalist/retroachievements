@@ -1,0 +1,192 @@
+[Battle Pointer Offsets]
++0000 - Position 1
++23E8 - Position 2
++47D0 - Position 3
++6BB8 - Position 4
++8FA0 - Position 5 (NPC 1)
++B388 - Position 6 (NPC 2)
++D770 - Position 7 (Enemy 1)
++FB58 - Position 8 (Enemy 2)
++11F40 - Position 9 (Enemy 3)
++14328 - Position 10 (Enemy 4)
++16710 - Position 11 (Enemy 5)
++18AF8 - Position 12 (Enemy 6)
++1AEE0 - Position 13 (Enemy 7)
++1D2C8 - Position 14 (Enemy 8)
+
+|--Position 1--|
+106d4ac - Command Being Performed
+	106f894
+	1071c7c
+	1074064
+106d4b2 - Command Selected
+106d4b6 - Turn Active (0x01)
+106d4ba - Art or Craft Selected
+	106f8a2
+	1071c8a
+	1074072
+106d4c4 - Target Selected 1
+106d4c6 - Target Selected 2
+106d4c8 - Target Selected 3
+106d4ca - Target Selected 4
+106d4cc - Target Selected 5
+106d4ce - Target Selected 6
+106d4d0 - Target Selected 7
+106d4d2 - Target Selected 8
+106D51C - Defeated - 0x01
+106D560 - Current Level
+106d562 - Max HP
+106d564 - Current HP
+106d566 - Max EP
+106d568 - Current EP
+106d56a - Current CP
+106d56c - [32-Bit] Current EXP
+106D570 - Current STR Stat
+106D572 - Current DEF Stat
+106D574 - Current ATS Stat
+106D576 - Current ADF Stat
+106D578 - Current DEX Stat
+106D57A - Current AGL Stat
+106D57C - Current MOV Stat
+106D57E - Current SPD Stat
+106D580 - CP Related?
+106D582 - ???
+106D584 - ???
+106D586 - Current RNG Stat
+106d598 - Status Effect
+	107ad08
+	107d0f0
+	107f4d8
+	10818c0
+	1083ca8
+	1086090
+	1088478
+	108a860
+106D80E - Equipped Weapon
+106D810 - Equipped Armor
+106D812 - Equipped Boots
+106D814 - Equipped Accessory
+106D816 - Equipped Accessory 2
+106D818 - Quartz Slot 1
+106D81A - Quartz Slot 2
+106D81C - Quartz Slot 3
+106D81E - Quartz Slot 4
+106D820 - Quartz Slot 5
+106D822 - Quartz Slot 6
+106D842 - Orbal Art Slot 1
+106D85A - Orbal Art Slot 2
+106D872 - Orbal Art Slot 3
+106D88A - Orbal Art Slot 4
+106D8A2 - Orbal Art Slot 5
+106D8BA - Orbal Art Slot 6
+106D8D2 - Orbal Art Slot 7
+106D8EA - Orbal Art Slot 8
+106D902 - Orbal Art Slot 9
+106D91A - Orbal Art Slot 10
+106D932 - Orbal Art Slot 11
+106D94A - Orbal Art Slot 12
+106D962 - Orbal Art Slot 13
+106D97A - Orbal Art Slot 14
+106D992 - Orbal Art Slot 15
+106D9AA - Orbal Art Slot 16
+106D9C2 - Orbal Art Slot 17
+106D9DA - Orbal Art Slot 18
+106D9F2 - Orbal Art Slot 19
+106DA0A - Orbal Art Slot 20
+106DA22 - Orbal Art Slot 21
+106DA3A - Orbal Art Slot 22
+106DA52 - Orbal Art Slot 23
+106DA6A - Orbal Art Slot 24
+106DA82 - Orbal Art Slot 25
+106DA9A - Orbal Art Slot 26
+106DAB2 - Orbal Art Slot 27
+106DACA - Orbal Art Slot 28
+106DAE2 - Orbal Art Slot 29
+106DAFA - Orbal Art Slot 30
+106DB12 - Orbal Art Slot 31
+106DB2A - Orbal Art Slot 32
+106DB42 - Orbal Art Slot 33
+106DB5A - Orbal Art Slot 34
+106DB72 - Orbal Art Slot 35
+106DB8A - Orbal Art Slot 36
+106DBA2 - Orbal Art Slot 37
+106DBBA - Orbal Art Slot 38
+106DBD2 - Orbal Art Slot 39
+106DBEA - Orbal Art Slot 40
+106DC02 - Orbal Art Slot 41
+106DC1A - Orbal Art Slot 42
+106DC32 - Orbal Art Slot 43
+106DC4A - Orbal Art Slot 44
+106DC62 - Orbal Art Slot 45
+106DC7A - Orbal Art Slot 46
+106DC92 - Orbal Art Slot 47
+106DCAA - Orbal Art Slot 48
+106DCC2 - Orbal Art Slot 49
+106DCDA - Orbal Art Slot 50
+106DCF2 - Orbal Art Slot 51
+106DD0A - Orbal Art Slot 52
+106DD22 - Orbal Art Slot 53
+106DD3A - Orbal Art Slot 54
+106DD52 - Orbal Art Slot 55
+106DD6A - Orbal Art Slot 56
+106DD82 - Orbal Art Slot 57
+106DD9A - Orbal Art Slot 58
+106DDB2 - Orbal Art Slot 59
+106DDCA - Orbal Art Slot 60
+106DDE2 - Orbal Art Slot 61
+106DDFA - Orbal Art Slot 62
+106DE12 - Orbal Art Slot 63
+106DE2A - Orbal Art Slot 64
+106DE42 - Orbal Art Slot 65
+106DE5A - Orbal Art Slot 66
+106DE72 - Orbal Art Slot 67
+106DE8A - Orbal Art Slot 68
+106DEA2 - Orbal Art Slot 69
+106DEBA - Orbal Art Slot 70
+106DED2 - Orbal Art Slot 71
+106DEEA - Orbal Art Slot 72
+106DF02 - Orbal Art Slot 73
+106DF1A - Orbal Art Slot 74
+106DF32 - Orbal Art Slot 75
+106DF4A - Orbal Art Slot 76
+106DF62 - Orbal Art Slot 77
+106DF7A - Orbal Art Slot 78
+106DF92 - Orbal Art Slot 79
+106DFAA - Orbal Art Slot 80
+106DFC2 - Craft Slot 1
+106DFDA - Craft Slot 2
+106DFF2 - Craft Slot 3
+106E00A - Craft Slot 4
+106E022 - Craft Slot 5
+106E03A - Craft Slot 6
+106E052 - Craft Slot 7
+106E06A - Craft Slot 8
+
+1096074 - Earth Sepith gained
+1096076 - Water Sepith gained
+1096078 - Fire Sepith gained
+109607a - Wind Sepith gained
+109607c - Time Sepith gained
+109607e - Space Sepith gained
+1096080 - Mirage Sepith gained
+1096082 - Item Gained
+1096084 - Item Gained Qty
+1096086 - Second Item Gained
+1096088 - Second Item Gained Qty
+
+1096ccc - Enemy 1 ID
+1096cd0 - Enemy 2 ID
+1096cd4 - Enemy 3 ID
+1096cd8 - Enemy 4 ID
+1096cdc - Enemy 5 ID
+1096ce0 - Enemy 6 ID
+1096ce4 - Enemy 7 ID
+1096ce8 - Enemy 8 ID
+
+1099908 - Current Spell Being Cast (doesn't matter who)
+
+
+F5	1f248e8
+F6	1f26098		e8c790
+F7	1ec6a38
+F8	1f2d298

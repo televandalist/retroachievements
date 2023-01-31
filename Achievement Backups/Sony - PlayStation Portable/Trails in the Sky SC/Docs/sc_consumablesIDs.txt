@@ -1,0 +1,21 @@
+//===Consumables
+
+//----Recovery
+-----------------
+0x01f5 - Tear Balm
+0x01f6 - Teara Balm
+0x01f7 - Tear All Balm
+0x01f8 - Purging Balm
+0x01f9 - Softening Balm
+0x01fa - Insulating Tape
+0x01fb - Curia Balm
+0x01fc - Reviving Balm
+0x01fd - Celestial Balm
+0x01fe - EP Charge
+0x01ff - EP Charge II
+0x0200 - Smelling Salts
+0x0201 - EP Charge III
+0x0202 - Tearal Balm
+0x0204 - Zeram Capsule
+0x0205 - Zeram Powder
+0x0206 - S-Tablet
