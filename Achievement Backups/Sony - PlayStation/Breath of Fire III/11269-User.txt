@@ -1,0 +1,81 @@
+0.77.3.0
+Breath of Fire III
+111000001:"":Poor Little Dragon:Escape from Dauna Mines::::televandalist:5:0:0:::00000
+111000011:"":Dragon Power:Obtain your first Dragon Gene::::televandalist:5:0:0:::00000
+111000019:"":[Ice Ring]:Obtain the Ice Ring from Mono's Tower mini-game::::televandalist:10:0:0:::00000
+111000023:"":Clean Up the Dump:Recruit Peco::::televandalist:5:0:0:::00000
+111000024:"":[Defeat Patrio's Team]:Defeat Patrio's Team::::televandalist:5:0:0:::116297
+111000025:"":[Defeat Emitai's Team]:Defeat Emitai's Team without turning into a dragon::::televandalist:5:0:0:::00000
+111000026:"":[Garr Fight]:Deal at least 800 damage to Garr before the fight ends::::televandalist:5:0:0:::116298
+111000031:"":Beyd:Have Beyd defeat Zig without your help (only defend)::::televandalist:0:0:0:::116300
+111000035:"":Miracle Dragon Gene:Get::::televandalist:0:0:0:::116327
+111000036:"":Gisshan:Defeat::::televandalist:0:0:0:::116302
+111000043:"":Adult Hide n Seek:Adult Hide n Seek::::televandalist:0:0:0:::00000
+111000048:"":Cruise to a new world:Cruise to a new world::::televandalist:0:0:0:::00000
+111000051:"":Cook the perfect Shisu:Cook the perfect Shisu::::televandalist:0:0:0:::00000
+111000052:"":Ammonites:Defeat it::::televandalist:0:0:0:::116308
+111000053:"":Trance Dragon Gene:Trance Dragon Gene::::televandalist:0:0:0:::00000
+111000054:"":Failure Dragon Gene:Failure Dragon Gene::::televandalist:0:0:0:::00000
+111000055:"":Fix Relay Point A:Fix Relay Point A::::televandalist:0:0:0:::00000
+111000056:"":Radiance:Radiance::::televandalist:0:0:0:::00000
+111000057:"":Elder:Defeat Elder::::televandalist:0:0:0:::116309
+111000058:"":Infinity Gene:Infinity Gene::::televandalist:0:0:0:::00000
+111000059:"":Gold Egg:Defeat 1::::televandalist:0:0:0:::116310
+111000060:"":Desert of Death:Desert of Death::::televandalist:0:0:0:::00000
+111000062:"":Royal Sword and Life Armor:Desert::::televandalist:0:0:0:::00000
+111000063:"":Death Claws and Speed Boots:Desert::::televandalist:0:0:0:::00000
+111000064:"":Manmo:Defeat::::televandalist:0:0:0:::116311
+111000065:"":Chimera:Defeat::::televandalist:0:0:0:::116312
+111000066:"":Teepo:Defeat Teepo in Kaiser form::::televandalist:0:0:0:::00000
+111000067:"":Shaman Ring:in Mackarel Proff::::televandalist:0:0:0:::00000
+111000068:"":Arwan:Defeat::::televandalist:0:0:0:::00000
+111000069:"":Dragon Lord:Defeat::::televandalist:0:0:0:::116313
+111000070:"":Boss Rush:Defeat::::televandalist:0:0:0:::00000
+111000071:"":Myria:Defeat::::televandalist:0:0:0:::00000
+111000072:"":Bad Ending:get::::televandalist:0:0:0:::00000
+111000073:"":Good Ending:get::::televandalist:0:0:0:::00000
+111000074:"":All Dragon Genes:Get em::::televandalist:0:0:0:::116325
+111000075:"":Mygas:Learn all skills::::televandalist:0:0:0:::116314
+111000076:"":Bunyan:Learn all skills::::televandalist:0:0:0:::116315
+111000077:"":Yggdrasil:Learn all skills::::televandalist:0:0:0:::00000
+111000078:"":D'Lonzo:Learn all skills::::televandalist:0:0:0:::00000
+111000079:"":Fahl:Learn all skills::::televandalist:0:0:0:::116316
+111000080:"":Durandal:Learn all skills::::televandalist:0:0:0:::00000
+111000081:"":Meryleep:Learn all skills::::televandalist:0:0:0:::116317
+111000082:"":Giotto:Learn all skills::::televandalist:0:0:0:::00000
+111000083:"":Hondara:Learn all skills::::televandalist:0:0:0:::00000
+111000084:"":Emitai:Learn all skills::::televandalist:0:0:0:::00000
+111000085:"":Deis:Learn all skills::::televandalist:0:0:0:::00000
+111000086:"":Hachio:Learn all skills::::televandalist:0:0:0:::00000
+111000087:"":Bais, Lang, Lee, and Wynn:Learn all skills::::televandalist:0:0:0:::00000
+111000088:"":Ladon:Learn all skills::::televandalist:0:0:0:::00000
+111000089:"":Enemy Skills:Learn::::televandalist:0:0:0:::00000
+111000090:"":Whelp:Challenge::::televandalist:0:0:0:::00000
+111000091:"":Dragon:Challenge::::televandalist:0:0:0:::00000
+111000092:"":Warrior:Challenge::::televandalist:0:0:0:::00000
+111000093:"":Behemoth:Challenge::::televandalist:0:0:0:::00000
+111000094:"":Super Nina Hybrid:Challenge::::televandalist:0:0:0:::00000
+111000095:"":Super Momo Hybrid:Challenge::::televandalist:0:0:0:::00000
+111000096:"":Super Rei Hybrid:Challenge::::televandalist:0:0:0:::00000
+111000097:"":Super Peco Hybrid:Challenge::::televandalist:0:0:0:::00000
+111000098:"":Pygmy:Challenge::::televandalist:0:0:0:::00000
+111000099:"":Tiamat:Challenge::::televandalist:0:0:0:::00000
+111000100:"":Wildfire:Challenge::::televandalist:0:0:0:::00000
+111000101:"":Trygon:Challenge::::televandalist:0:0:0:::00000
+111000102:"":Myrmidion:Challenge::::televandalist:0:0:0:::00000
+111000103:"":Mammoth:Challenge::::televandalist:0:0:0:::00000
+111000104:"":Kaiser:Challenge::::televandalist:0:0:0:::00000
+111000105:"":Ouroboros:Get::::televandalist:0:0:0:::00000
+111000106:"":Dragonfang:Get::::televandalist:0:0:0:::00000
+111000107:"":GooKingSword:Get::::televandalist:0:0:0:::00000
+111000108:"":Holy Avenger:Get::::televandalist:0:0:0:::00000
+111000109:"":Aries Gloves:Get::::televandalist:0:0:0:::00000
+111000110:"":Full Dragon Armor Set:Get::::televandalist:0:0:0:::00000
+111000111:"":Clone an Item:Get::::televandalist:0:0:0:::00000
+111000114:"":Master's Rod:Get::::televandalist:0:0:0:::116320
+111000118:"":Full Faerie Population:Get::::televandalist:0:0:0:::00000
+111000119:"":Expand Faerie Village to the Max:Get::::televandalist:0:0:0:::00000
+111000120:"":Archmage - No Dragon:Fight::::televandalist:0:0:0:::116322
+111000121:"":Berserker - No Dragon Form:::::televandalist:0:0:0:::116323
+111000122:"":Berserker - Rei Only (Berserker Mode):::::televandalist:0:0:0:::116324
+111000123:"C:0xH1449c4=0_C:0xH1449c5=0_C:0xH1449c6=0_C:0xH1449c7=0_C:0xH1449c8=0_C:0xH1449c9=0_C:0xH1449ca=0_C:0xH1449cb=0_0xH1449cc=0_0xH1449cd=0_0xH1449ce=0_0xH1449cf=0_0xH1449d0=0_0xH1449d1=0_0xH1449d2=0_0xH1449d3=0_0xH1449d4=0_0xH1449d5=0_0xH1449d6=0_0xH1449d7=0_0xH1449d8=0_0xH1449d9=0_0xH1449da=0_0xH1449db=0_0xH1449dc=0_0xH1449dd=0_0xH1449de=0_0xH1449df=0_0xH1449e0=0_0xH1449e1=0_0xH1449e2=0_0xH1449e3=0_0xH1449e4=0_0xH1449e5=0_0xH1449e6=0_0xH1449e7=0_0xH1449e8=0_0xH1449e9=0_0xH1449ea=0_0xH1449eb=0":All Skill Template:Get::::televandalist:5:0:0:::00000

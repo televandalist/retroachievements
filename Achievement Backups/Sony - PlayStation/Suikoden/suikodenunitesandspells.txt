@@ -1,0 +1,118 @@
+Varkas+Sydonia
+Krin+Humphrey
+Futch+Milia
+Tai Ho+Yam Koo
+Kuromimi+Gon
+Juppo+Meg
+Hix+Tengaar
+
+Fu Su Lu+Kuromimi+Gon
+Pahn+Morgan+Eikei
+
+Maas+Moose+Mose+Meese
+Maas+Moose+Mose+Mace
+Maas+Moose+Meese+Mace
+Maas+Mose+Meese+Mace
+Moose+Mose+Meese+Mace
+
+17a018 - Unite Attack
+0x3118 - Carpenter Attack Gen+Sansuke
+0x3124 - Beat 'em up Attack Pahn+Ronnie
+0x90f0 - Talisman Attack Gremio+Pahn
+0x9190 - Wild Arrow Attack Kirkis+Sylvina or Kirkis+Stallion
+0x91f0 - Elf Attack Kirkis+Stallion+Sylvina
+0x92a0 - Couples Attack Eileen+Lepant
+0xa18c - Master Pupil Attack Tir+Kai
+0xe130 - Bumpy Attack Humphrey+Krin
+0xe138 - Fatal Attack Gen+Kamandol
+0xe190 - Wild Arrow Attack Kirkis+Rubi
+
+0x30f0 - Pirate Attack Kanak+Leo+Anji
+0x314c - Pretty Boy Attack Flik+Alen+Grenseal
+0x9224 - Flash Attack Kai+Liukan+Fukien
+
+17a010
+0x00e0 - **Beauty Attack Cleo+Eileen+Valeria
+0x0218 - **Couples Attack Lepant+Eileen
+0x0220 - **Lepant Family Attack Lepant+Eileen+Sheena
+0x0460 - **Lepant Family Attack Eileen+Lepant+Sheena
+0x10a0 - **Beauty Attack Cleo+Eileen+Sonya
+0x0220 - **Pretty Girl Attack Kasumi+Camille+Tengaar
+0xf920 - **Ninja Attack Fuma+Kasumi+Kage
+0xfa40 - **Ninja Attack Kasumi+Kage+Fuma
+0xfb60 - **Ninja Attack Fuma+Kage+Kasumi
+0xfc80 - **Ninja Attack Kasumi+Fuma+Kage
+0xffe0 - **Pretty Girl Attack Kasumi+Camille+Tengaar
+
+Spell being cast
+Soul Eater
+3a90 - Deadly Fingertips
+48d4 - Black Shadow
+567c - Hell
+6660 - Judgment
+
+Lightning+Thunder Rune
+c140 - Angry Blow
+cc00 - Rainstorm
+d870 - Raging Blow
+e4f4 - Ball of Lightning
+f440 - Thunder God 
+
+Fire+Rage Rune
+eb14 - Flaming Arrows
+f450 - Firestorm
+0168 - Dancing Flames
+1158 - Explosion
+1eb0 - Final Flame
+
+Earth+Mother Earth Rune
+0460 - Clay Guardian
+2ab4 - Voice of Earth
+0cf0 - Copper Flesh
+16f8 - Earthquake
+2070 - Guardian Earth
+
+Wind+Cyclone Rune
+8b80 - Wind of Sleep
+9414 - The Shredding
+9dc0 - Healing Wind
+a6a4 - Storm
+b06c - Shining Wind
+
+Water+Flowing Rune
+58d4 - Drops of Kindness
+61a0 - Fog of Deception
+68f4 - Water of Kindness
+7294 - Rain of Kindness
+7fdc - Mother Ocean
+
+Resurrection Rune
+2de8 - Scolding
+384c - Yell
+4490 - Scream
+50b4 - Charm Arrow
+
+Combos
+79e4 - Fire + Earth
+8960 - Earth + Wind
+95ac - Lightning + Fire
+a81c - Lightning + Water
+be0c - Wind + Water
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

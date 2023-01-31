@@ -1,0 +1,127 @@
+01 - Slime
+02 - Albino Baboon
+03 - Mutant Fly
+04 - Goblin
+05 - Flytrapper
+06 - Gorgon
+07 - Killer Fly
+08 - Killer Wasp
+09 - Mutant Ant
+0a - Ammonia
+0b - Grog Snake
+0c - Fatal Hopper
+0d - Death Shroom
+0e - Gunfoot
+0f - Ice Mongrel
+10 - Giga Wasp
+11 - Death Mutt
+12 - Mud Cyclops
+13 - Barrel Snake
+14 - The Deep
+15 - Monocrop
+16 - Reflector
+17 - Neutronitor
+18 - Blood Lord
+19 - Rook
+1a - Gargoyle
+1b - Bat Knight
+1c - Mummy
+1d - Kill Roller
+1e - Rufus
+1f - Fluffy Bug
+20 - Puffy Bug
+21 - Blood Slime
+22 - Burner
+23 - Fire Elemental
+24 - Scorpion
+25 - Bob Goblin
+26 - Brainpicker
+27 - Electro Eye
+28 - Aqua Genie
+29 - Razor Wolf
+2a - Water Elemental
+2b - Gelatin
+2c - Octo Planet
+2d - Ice Pup
+2e - Great Hornet
+2f - Magic Hat
+30 - Tormentor
+31 - Killer Shroom
+32 - Ambush
+33 - Yeti
+34 - Slice O' Dead
+35 - Ultragoyle
+36 - Scythe Master
+37 - Zein
+38 - Carapace Knight
+39 - Dark Sorcerer
+3a - Nipple Yanker
+3b - Chaos Fiend
+3c - Hell Raiser
+3d - Mecha Tank
+3e - Stalker
+3f - Groper
+40 - Devastator
+41 - Flash Lord
+42 - Baigen
+43 - Tank Golem
+44 - Death Armor
+45 - Magic Machine
+46 - Arrow Fish
+47 - Blyzzer
+48 - Archmage
+49 - Bomb Angel
+4a - Death Warrior
+4b - Ring Horn
+4c - Stone Creep
+4d - Necromancer
+4e - Gades
+4f - Ultra Fiend
+50 - Cannon Thug
+51 - Synapse Guard
+52 - Scythe Spore
+53 - Mantle Rapper
+54 - Evil Wisp
+55 - Slumber Moth
+56 - Antorion
+57 - Nightmare
+58 - Plasma Fiend
+59 - Guardian
+5a - Shadow Lord
+5b - Man Eater
+5c - Fly Devil
+5d - Giga Ant
+5e - Shrieker
+5f - Mecha Star
+60 - Plasma Prism
+61 - Monster Wasp
+62 - Rock Biter
+63 - Graggen
+64 - Master Mirror
+65 - Soul Yanker
+66 - Elemental Master
+67 - Shell Walker
+68 - Brain Licker
+69 - Chrono Gorgon
+6a - Killer Buzz
+6b - Killer Weed
+6c - Cannon Foot
+6d - Hell Hound
+6e - Plaster Mel
+6f - Saline Slimer
+70 - Master Mel
+71 - Water Dragon
+72 - Truffle Troubler
+73 - D Master Zoc
+74 - Vile Crustacean
+75 - Bronze Dog
+76 - Tempest
+77 - Black Dragon
+78 - Magic Masher
+79 - Magic Emperor
+7a - Royce
+7b - Xenobia
+7c - Magic Emperor
+7d - Ghaleon
+7e - Kyle
+7f - Shadow Spectre

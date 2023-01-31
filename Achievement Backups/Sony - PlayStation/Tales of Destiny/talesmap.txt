@@ -1,0 +1,861 @@
+0x0100 - Armeida Village
+0x0101 - Armeida Village - Residence
+0x0102 - Armeida Village - Residence
+0x0103 - Armeida Village - General Store TRAVEL PAL
+0x0104 - Armeida Village - Village Chief's House
+0x0105 - Armeida Village - Sunset Inn
+0x0106 - Armeida Village - Sunset Inn 2F
+0x0107 - Armeida Village
+0x0200 - Snow Temple - Entrance
+0x0201 - Snow Temple - Treasure Room
+0x0202 - Snow Temple - Treasure Room
+0x0203 - Snow Temple - Treasure Room
+0x0206 - Moreau Cave Entrance
+0x0208 - Moreau Cave
+0x020A - Moreau Cave
+0x020B - Moreau Cave
+0x020C - Moreau Cave
+0x020E - Moreau Cave
+0x020F - Moreau Cave
+0x0210 - Harmentz - Outside
+0x0211 - Harmentz - Walt's Mansion
+0x0212 - Harmentz - Walt's Mansion 2F
+0x0213 - Harmentz - Peace of Mind INN
+0x0214 - Harmentz - Peace of Mind INN 2F
+0x0215 - Harmentz - Residence
+0x0216 - Harmentz - Residence
+0x0217 - Harmentz - Residence
+0x0218 - Harmentz - Equipment Shop SONG BIRD
+0x0219 - Darilsheid - Outside
+0x021A - Darilsheid - Hugo's Mansion
+0x021B - Darilsheid - Hugo's Mansion
+0x021C - Darilsheid - Hugo's Mansion
+0x021D - Darilsheid - Hugo's Mansion
+0x021E - Darilsheid - Hugo's Mansion
+0x021F - Darilsheid - Hugo's Mansion
+0x0220 - Darilsheid - Hugo's Mansion
+0x0221 - Darilsheid - Hugo's Mansion
+0x0222 - Darilsheid - Hugo's Mansion
+0x0223 - Darilsheid - Hugo's Mansion
+0x0224 - Darilsheid - Hugo's Mansion
+0x0225 - Darilsheid - Hugo's Mansion
+0x0226 - Darilsheid - Hugo's Mansion
+0x0227 - Darilsheid - Hugo's Mansion
+0x0228 - Cresta
+0x0229 - Cresta - The Orphanage
+0x022A - Cresta - Storage Shed
+0x022B - Cresta - Ghenen Inn
+0x022C - Cresta - Arms Shop TRAVELWISE
+0x022D - Cresta - Arms Shop TRAVELWISE 2F
+0x022E - Cresta - Equipment Shop GARLAND
+0x022F - Cresta - Equipment Shop GARLAND 2F
+0x0230 - Cresta - Residence
+0x0231 - Cresta - Mayor's House
+0x0232 - Cresta - Residence
+0x0233 - Cresta - Residence
+0x0234 - Darilsheid - Velvet Garden Inn EAST WING
+0x0235 - Darilsheid - Velvet Garden Inn EAST WING Room
+0x0236 - Darilsheid - Velvet Garden Inn EAST WING Room
+0x0237 - Darilsheid - Velvet Garden Inn EAST WING Back Room
+0x0238 - Darilsheid - Velvet Garden Inn EAST WING 2F
+0x0239 - Darilsheid - Velvet Garden Inn EAST WING 2F Room
+0x023A - Darilsheid - Velvet Garden Inn EAST WING 2F Room
+0x023B - Darilsheid - Velvet Garden Inn 2F Hall - 
+0x023C - Darilsheid - Velvet Garden Inn WEST WING
+0x023D - Darilsheid - Velvet Garden Inn Room
+0x023E - Darilsheid - Velvet Garden Inn Room
+0x023F - Darilsheid - Velvet Garden Inn Back Area
+0x0240 - Darilsheid - Velvet Garden Inn 2F
+0x0241 - Darilsheid - Velvet Garden Inn 2F Room
+0x0242 - Darilsheid - Velvet Garden Inn 2F Room
+0x0243 - Darilsheid - Bebe's Tavern
+0x0244 - Darilsheid - Gourmet Shop PICCOLO/Equipment Shop HEAVENLY PEACE
+0x0245 - Darilsheid - Weapon Shop WARRIOR
+0x0246 - Darilsheid - Armor Shop CHIVALRY
+0x0247 - Darilsheid - Oberon Corp MAIN STORE
+0x0248 - Darilsheid - Oberon Corp MAIN STORE 2F
+0x0249 - Darilsheid - Residence
+0x024A - Darilsheid - Residence 2F
+0x024B - Darilsheid - Residence
+0x024D - Darilsheid - Residence
+0x024E - Darilsheid - Residence 2F
+0x024F - Darilsheid - Residence
+0x0250 - Darilsheid - Residence 2F
+0x0251 - Darilsheid - Residence
+0x0252 - Inside Sky Cruiser
+0x0281 - Tower of Druaga Floor 1
+0x0282 - Tower of Druaga Floor 2
+0x0283 - Tower of Druaga Floor 3
+0x0284 - Tower of Druaga Floor 4
+0x0285 - Tower of Druaga Floor 5
+0x0286 - Tower of Druaga Floor 6
+0x0287 - Tower of Druaga Floor 7
+0x0288 - Tower of Druaga Floor 8
+0x0289 - Tower of Druaga Floor 9
+0x028a - Tower of Druaga Floor 10
+0x028b - Tower of Druaga Floor 11
+0x028c - Tower of Druaga Floor 12
+0x028d - Tower of Druaga Floor 13
+0x028e - Tower of Druaga Floor 14
+0x028f - Tower of Druaga Floor 15
+0x0290 - Tower of Druaga Floor 16
+0x0291 - Tower of Druaga Floor 17
+0x0292 - Tower of Druaga Floor 18
+0x0293 - Tower of Druaga Floor 19
+0x0294 - Tower of Druaga Floor 20
+0x0295 - Tower of Druaga Floor 21
+0x0296 - Tower of Druaga Floor 22
+0x0297 - Tower of Druaga Floor 23
+0x0298 - Tower of Druaga Floor 24
+0x0299 - Tower of Druaga Floor 25
+0x029a - Tower of Druaga Floor 26
+0x029b - Tower of Druaga Floor 27
+0x029c - Tower of Druaga Floor 28
+0x029d - Tower of Druaga Floor 29
+0x029e - Tower of Druaga Floor 30
+0x029f - Tower of Druaga Floor 31
+0x02a0 - Tower of Druaga Floor 32
+0x02a1 - Tower of Druaga Floor 33
+0x02a2 - Tower of Druaga Floor 34
+0x02a3 - Tower of Druaga Floor 35
+0x02a4 - Tower of Druaga Floor 36
+0x02a5 - Tower of Druaga Floor 37
+0x02a6 - Tower of Druaga Floor 38
+0x02a7 - Tower of Druaga Floor 39
+0x02a8 - Tower of Druaga Floor 40
+0x02a9 - Tower of Druaga Floor 41
+0x02aa - Tower of Druaga Floor 42
+0x02ab - Tower of Druaga Floor 43
+0x02ac - Tower of Druaga Floor 44
+0x02ad - Tower of Druaga Floor 45
+0x02ae - Tower of Druaga Floor 46
+0x02af - Tower of Druaga Floor 47
+0x02b0 - Tower of Druaga Floor 48
+0x02b1 - Tower of Druaga Floor 49
+0x02b2 - Tower of Druaga Floor 50
+0x02b3 - Tower of Druaga Floor 51
+0x02b4 - Tower of Druaga Floor 52
+0x02b5 - Tower of Druaga Floor 53
+0x02b6 - Tower of Druaga Floor 54
+0x02b7 - Tower of Druaga Floor 55
+0x02b8 - Tower of Druaga Floor 56
+0x02b9 - Tower of Druaga Floor 57
+0x02ba - Tower of Druaga Floor 58
+0x02bb - Tower of Druaga Floor 59
+0x02bc - Tower of Druaga Floor 60
+0x0303 - Deimos
+0x0304 - Deimos
+0x0305 - Deimos
+0x0306 - Deimos
+0x031D - Snow Temple Cave - Entrance
+0x031E - Snow Temple Cave - Hidden Room
+0x031E - Cherik - Outside
+0x031F - Cherik - Baruk Fund Office
+0x0320 - Cherik - Residence
+0x0321 - Cherik - Jeff's Inn
+0x0322 - Cherik - Jeff's Inn Basement
+0x0323 - Cherik - Baruk Fund Office Basement
+0x0324 - Cherik - Equipment Shop OASIS/Arms Shop DESERT STORM
+0x0325 - Kalviola - Outside
+0x0326 - Kalviola - Outside - Night
+0x0327 - Kalviola - Residence
+0x0328 - Kalviola - Residence
+0x0329 - Kalviola - Mayor's House
+0x032A - Kalviola - Mayor's House Basement
+0x032B - Kalviola - Weapon Shop DESERT MOON
+0x032C - Kalviola - Orc's Inn/Oberon Corp
+0x032D - Kalviola - Armor Shop FULL MOON
+0x032E - Kalviola - Equipment Shop MOONLIGHT
+0x032F - Kalviola - Uru's Bar
+0x0330 - Kalviola - Straylize Temple
+0x0331 - Kalviola - Straylize Temple Basement
+0x0332 - Kalviola - Straylize Temple
+0x0333 - Darilsheid - Castle 2F
+0x0334 - Darilsheid - Castle 1F
+0x0335 - Darilsheid - Castle West Wing
+0x0336 - Darilsheid - Castle West Wing
+0x0337 - Darilsheid - Castle King's Bedroom
+0x0338 - Darilsheid - Castle Queen's Room
+0x0339 - Darilsheid - Castle West Wing Entrance
+0x033a - Darilsheid - Otto's lab
+0x033B - Darilsheid - Castle Room
+0x033C - Darilsheid - Castle Amusement Center
+0x033D - Darilsheid - Castle Shower Room
+0x033E - Darilsheid - Castle Room
+0x033F - Darilsheid - Castle West Wing
+0x0340 - Darilsheid - Castle Dining Room
+0x0341 - Darilsheid - Castle Kitchen
+0x0342 - Darilsheid - Castle Outside War Room
+0x0343 - Darilsheid - Castle War Room
+0x0344 - Darilsheid - Jail cell
+0x0378 - Ignasea - Outside
+0x039f - Mikheil
+0x03a0 - Mikheil
+0x03a1 - Mikheil
+0x03a2 - Mikheil
+0x03a3 - Mikheil
+0x03a4 - Mikheil
+0x03a6 - Mikheil
+0x03a7 - Mikheil
+0x03a8 - Mikheil
+0x03a9 - Mikheil
+0x03ab - Mikheil
+0x03ac - Mikheil
+0x03ae - Mikheil
+0x03af - Mikheil
+0x03b0 - Mikheil
+0x03b1 - Mikheil
+0x03b2 - Mikheil
+0x03b3 - Mikheil
+0x03b4 - Mikheil
+0x03b5 - Mikheil
+0x03b6 - Mikheil
+0x03b7 - Mikheil
+0x03b8 - Mikheil
+0x03b9 - Mikheil
+0x03ba - Mikheil (Meet Rembrandt)
+0x03bb - Mikheil
+0x03bc - Mikheil
+0x03bd - Mikheil
+0x03be - Mikheil
+0x03c0 - Ignasea
+0x03c2 - Ignasea
+0x03c5 - Ignasea
+0x03cc - Ignasea - Teleporter room
+0x03ce - Ignasea
+0x03d2 - Ignasea
+0x03d3 - Ignasea
+0x03d4 - Ignasea
+0x03d6 - Ignasea
+0x03da - Ignasea - Level 3
+0x03db - Ignasea - Inside
+0x03dc - Ignasea
+0x03dd - Ignasea
+0x03de - Ignasea
+0x03e4 - Belcrant - Boss Room
+0x03e5 - Belcrant
+0x0400 - Straylize Forest - Entrance
+0x0401 - Straylize Forest - Second Area
+0x0402 - Straylize Forest - Third Area
+0x0403 - Straylize Temple - Outside
+0x0404 - Straylize Temple - Inside
+0x0405 - Straylize Temple - Wing Wing Upstairs
+0x0406 - Straylize Temple - West Wing
+0x0407 - Straylize Temple - West Wing Downstairs
+0x0408 - Straylize Temple - East Wing
+0x0409 - Straylize Temple - West Wing Other Path
+0x040A - Straylize Temple - West Wing Empty Chests
+0x040B - Straylize Temple - West Wing Treasure
+0x040C - Straylize Temple - West Wing Krystal Room
+0x040D - Straylize Temple - West Wing Krystal Room
+0x040E - Straylize Temple - West Wing Room
+0x040F - Straylize Temple - West Wing Room
+0x0410 - Straylize Temple - West Wing Krystal Room
+0x0411 - Straylize Temple - East Wing Krystal Room
+0x0412 - Straylize Temple - East Wing Room
+0x0413 - Straylize Temple - East Wing Room 2
+0x0415 - Straylize Temple - Hidden
+0x0417 - Straylize Temple - Hidden 2
+0x0418 - Snowy Area - Southern path
+0x0419 - Snowy Area - Path after Snow Temple
+0x041A - Snowy Area - After escape pod crashes
+0x041B - Snowy Area - Outside Snow Temple 
+0x041C - Garr's Cabin - Outside
+0x041D - Snowy Forest - 1
+0x041E - Tilso Forest
+0x041F - Garr's Cabin - Inside
+0x0420 - Straylize Temple - Back Room
+0x0421 - Straylize Temple - Tower of Knowledge
+0x0422 - Straylize Temple - Tower of Knowledge
+0x0423 - Straylize Temple - Tower of Knowledge
+0x0424 - Straylize Temple - Tower of Knowledge
+0x0425 - Straylize Cathedral
+0x0426 - Straylize Cathedral
+0x0427 - Straylize Cathedral - From temple
+0x0428 - Neuestadt - Outside
+0x0429 - Neuestadt - Neuestadt Central Park
+0x042A - Neuestadt - Neuestadt Central Park
+0x042B - Neuestadt - Mansion
+0x042C - Neuestadt - Mansion 2F
+0x042D - Neuestadt - Rembrandt Mansion
+0x042E - Neuestadt - Rembrandt Mansion 2F
+0x042F - Neuestadt - Mansion
+0x0430 - Neuestadt - Mansion
+0x0431 - Neuestadt - Residence
+0x0432 - Neuestadt - Residence
+0x0433 - Neuestadt - Residence
+0x0434 - Neuestadt - Residence
+0x0435 - Neuestadt - Residence
+0x0436 - Neuestadt - Hotel Jun
+0x0437 - Neuestadt - Hotel Jun 2F
+0x0438 - Neuestadt - Purple Rose Pub
+0x0439 - Neuestadt - Lens Shop
+0x043A - Neuestadt - Lens Shop Basement
+0x043B - Neuestadt - Arms Shop ARCADIA
+0x043C - Neuestadt - F-Mart Super Store
+0x043D - Kalviola - Straylize Temple - Hidden
+0x043F - Lienna Village - Outside
+0x0440 - Lienna Village - Stahn's House
+0x0441 - Lienna Village - Village Chief's House
+0x0442 - Lienna Village - Residence
+0x0443 - Lienna Village - Residence
+0x0444 - Lienna Village - Residence Basement
+0x0445 - Lienna Village - Market
+0x0446 - Lienna Village - Market
+0x0447 - Moraau Castle
+0x0448 - Moreau Castle
+0x044B - Moreau Castle
+0x044D - Moreau Castle - Note Puzzle
+0x044E - Moreau Castle
+0x044F - Moreau Castle
+0x0451 - Moreau Castle
+0x0452 - Moreau Castle
+0x0454 - Moreau Castle
+0x0456 - Moreau Castle
+0x0459 - Moreau Castle
+0x045A - Moreau Castle
+0x045B - Moreau Castle
+0x045C - Moreau Castle
+0x045D - Moreau Castle
+0x045F - Moreau Castle
+0x0460 - Moreau Castle
+0x0461 - Moreau Castle
+0x0463 - Moreau Castle
+0x0464 - Moreau Castle
+0x0466 - Moreau Castle
+0x0467 - Moreau Castle
+0x0468 - Moreau Castle
+0x0469 - Moreau Castle
+0x046A - Moreau Castle
+0x046B - Moreau Castle
+0x046C - Between boat ride and Moreau Castle
+0x046D - Moreau Castle
+0x046F - Moreau Castle
+0x0470 - Moreau Castle (Piano)
+0x0472 - Moreau Castle
+0x0473 - Moreau Castle (Fayte)
+0x0474 - Straylize Forest - First Transition
+0x0475 - Straylize Forest - Second Transition 
+0x0476 - The Draconis - Hallway
+0x0477 - The Draconis - Outside Storeroom
+0x0478 - The Draconis - Stairway
+0x0479 - The Draconis - Captain's Quarters
+0x047A - The Draconis - 
+0x047B - The Draconis - Restroom
+0x047C - The Draconis - 
+0x047D - The Draconis - 
+0x047E - The Draconis - Treasure Room
+0x047F - The Draconis - Soldiers' Quarters
+0x0480 - The Draconis - Storeroom (IT)
+0x0481 - The Draconis - Storeroom
+0x0482 - The Draconis - Outside - Lower Deck
+0x0483 - The Draconis - Cockpit
+0x0484 - The Draconis - Outside- Upper Deck
+0x0485 - Terazzi Castle - Entrance
+0x0486 - Terazzi Castle
+0x0487 - Terazzi Castle
+0x0489 - Terazzi Castle
+0x048A - Terazzi Castle
+0x048B - Terazzi Castle
+0x048D - Terazzi Castle
+0x048E - Terazzi Castle
+0x048F - Terazzi Castle
+0x0490 - Terazzi Castle - Valve Room
+0x0492 - Terazzi Castle
+0x0493 - Terazzi Castle
+0x0494 - Terazzi Castle
+0x0495 - Terazzi Castle
+0x0496 - Terazzi Castle
+0x0497 - Terazzi Castle
+0x0498 - Terazzi Castle
+0x049A - Terazzi Castle
+0x049C - Terazzi Castle
+0x049D - Terazzi Castle
+0x049E - Terazzi Castle
+0x04A0 - Terazzi Castle
+0x04A2 - Terazzi Castle
+0x04A3 - Terazzi Castle
+0x04A4 - Terazzi Castle
+0x04A5 - Terazzi Castle - Valve Room
+0x04A6 - Terazzi Castle - Boss Room
+0x04A9 - Terazzi Castle - Balcony
+0x04AA - Frozen River - 
+0x04AB - Frozen River
+0x04AC - Frozen River
+0x04AD - Neuestadt - Outside Arena
+0x04AF - Neuestadt - Arena
+0x04B1 - Neuestadt - Arena
+0x04B2 - Neuestadt - Arena - Challenger's Waiting Room
+0x04B3 - Outside The Draconis (Fake Ending)
+0x04b4 - The Draconis - Engine Room / Repair Site
+0x04b5 - The Draconis - Engine Room
+0x04b6 - Neuestadt - Arena
+0x04b7 - Cloudius
+0x04b9 - Cloudius
+0x04ba - Cloudius
+0x04bb - Cloudius - Boss room
+0x04bc
+0x04bd - Cloudius
+0x04be - Cloudius
+0x04bf
+0x04c0 - Cloudius
+0x04c1 - Cloudius
+0x04c2
+0x04c3 - Cloudius
+0x04c4 - Cloudius
+0x04c5 - Cloudius Entrance
+0x0519 - Oberol Secret Factory Entrance
+0x051A - Oberol Secret Factory
+0x051B - Oberol Secret Factory
+0x051C - Oberol Secret Factory
+0x051D - Oberol Secret Factory
+0x051E - Oberol Secret Factory
+0x051F - Oberol Secret Factory
+0x0520 - Oberol Secret Factory
+0x0521 - Oberol Secret Factory
+0x0522 - Oberol Secret Factory
+0x0523 - Oberol Secret Factory
+0x0524 - Oberol Secret Factory
+0x0525 - Oberol Secret Factory
+0x0526 - Oberol Secret Factory
+0x0527 - Oberol Secret Factory Save Point
+0x0528 - Oberol Secret Factory
+0x0529 - Oberol Secret Factory
+0x052A - Oberol Secret Factory
+0x052B - Oberol Secret Factory
+0x052C - Oberol Secret Factory
+0x052D - Oberol Secret Factory
+0x052E - Oberol Secret Factory Elevator
+0x052F - Oberol Secret Factory
+0x0530 - Oberol Secret Factory
+0x0531 - Underwater City
+0x0532 - Underwater City
+0x0533 - Underwater City
+0x0534 - Underwater City
+0x0535 - Underwater City
+0x0536 - Underwater City
+0x0537 - Underwater City
+0x0538 - Underwater City
+0x053A - Underwater City
+0x053C - Underwater City
+0x053D - Underwater City
+0x053E - Underwater City
+0x053F - Underwater City
+0x0540 - Underwater City
+0x0541 - Underwater City
+0x0543 - Underwater City
+0x0544 - Radsirol Some other room
+0x0545 - Underwater City
+0x0546 - Underwater City
+0x0548 - Underwater City
+0x054A - Underwater City
+0x054C - Underwater City
+0x054d - Radsirol Treasure Room
+0x054e - Radsirol Treasure Room
+0x054F - Underwater City
+0x0550 - Helraios
+0x0551 - Helraios
+0x0552 - Helraios
+0x0553 - Helraios
+0x0554 - Helraios
+0x0555 - Helraios
+0x0556
+0x0557 - Helraios
+0x0558
+0x0559 - Helraios
+0x055a - Helraios
+0x055b - Helraios
+0x055c - Helraios
+0x055d - Helraios
+0x055e - Helraios
+0x055f - Helraios
+0x0560 - Helraios
+0x0561 - Helraios
+0x0562 - Helraios
+0x0563 - Helraios
+0x0564 - Helraios
+0x0565 - Helraios
+0x0566 - Helraios
+0x0567 - Helraios
+0x0568 - Helraios
+0x0569 - Helraios
+0x056a - Helraios
+0x056b - Helraios
+0x056c - Helraios
+0x056d - Helraios
+0x056e - Helraios
+0x056f - Underground Passage
+0x0570 - Underground Passage
+0x0571 - Underground Passage
+0x0574 - Underground Passage
+0x0575 - Underground Passage
+0x0576 - Underground Passage
+0x0577 - Underground Passage
+0x0578 - Underground Passage
+0x0579 - Underground Passage
+0x057a - Underground Passage
+0x057b - Underground Passage
+0x057c - Swordian R&D Lab
+0x057d - Swordian R&D Lab
+0x057e - Swordian R&D Lab
+0x057f - Swordian R&D Lab
+0x0580 - Swordian R&D Lab
+0x0581 - Swordian R&D Lab
+0x0582 - Swordian R&D Lab
+0x0584 - Darilsheid - Outside Castle
+0x0586 - Radsirol - "Inn"
+0x0587 - Radsirol - Warp Room
+0x0600 - Janos - 
+0x0601 - Janos - One Million Roses Tavern - Dream Space Inn 1F
+0x0602 - Janos - Dream Space Inn 2F
+0x0603 - Janos - Equipment Shop BLIZZARD
+0x0604 - Janos - Equipment Shop BORDERLINE
+0x0605 - Janos - Seinegald Station
+0x0606 - Janos - Phandaria Station
+0x0607 - Janos - Residence
+0x0608 - Cyril
+0x0609 - Cyril - Residence
+0x060A - Cyril - Snowstorm Inn
+0x060B - Cyril - Residence
+0x060C - Cyril - Mary's house
+0x060D - Cyril - Residence
+0x060E - Cyril - General Store GLASS FOREST
+0x060F - Heidelberg
+0x0610 - Heidelberg - Residence
+0x0611 - Heidelberg - Residence
+0x0612 - Heidelberg - Guard Station
+0x0613 - Heidelberg - Oberon Corp Heidelberg
+0x0614 - Heidelberg - Residence
+0x0615 - Heidelberg - Residence
+0x0616 - Heidelberg - Residence
+0x0617 - Heidelberg - Equipment Shop ETERNITY
+0x0618 - Heidelberg - Equipment Shop SOUTHERN CROSS
+0x0619 - Heidelberg - Residence
+0x061A - Heidelberg - Residence
+0x061B - Heidelberg - Residence
+0x061C - Heidelberg - Snowstorm Inn
+0x061D - Heidelberg - Polaris Pub
+0x061E - Frostheim
+0x061F - Frostheim - Daybreak Inn
+0x0620 - Frostheim - Daybreak Inn 2F
+0x0621 - Frostheim - General Store SNOWSTORM
+0x0622 - Frostheim - Residence
+0x0623 - Frostheim - Residence
+0x0624 - Heidelberg Castle
+0x0625 - Heidelberg Castle
+0x0626 - Heidelberg Castle - Prison
+0x0627 - Heidelberg Castle
+0x0628 - Heidelberg Castle
+0x0629 - Heidelberg Castle - War Room
+0x062A - Heidelberg Castle
+0x062B - Heidelberg Castle - Audience Hall
+0x062C - Heidelberg Castle
+0x062D - Heidelberg Castle
+0x062E - Heidelberg Castle
+0x062F - Heidelberg - Guard Station 2F
+0x0630 - Heidelberg - Jail
+0x0631 - Heidelberg Castle
+0x0632 - Heidelberg Castle
+0x0633 - Heidelberg Castle
+0x0634 - Heidelberg Castle
+0x0635 - Heidelberg Castle
+0x0636 - Heidelberg Castle
+0x0637 - Heidelberg Castle
+0x0638 - Heidelberg Castle
+0x0639 - Heidelberg Castle
+0x063A - Heidelberg Castle
+0x063B - Heidelberg Castle
+0x063C - Heidelberg Castle
+0x063D - Heidelberg Castle
+0x063E - Heidelberg Castle
+0x063F - Heidelberg Castle
+0x0640 - Heidelberg Castle
+0x0641 - Heidelberg Castle
+0x0642 - Heidelberg Castle
+0x0643 - Heidelberg Castle
+0x0644 - Heidelberg Castle
+0x0645 - Heidelberg Castle
+0x0646 - Heidelberg Castle
+0x0647 - Undersea Cave
+0x0648 - Undersea Cave
+0x0649 - Undersea Cave
+0x064A - Undersea Cave
+0x064B - Undersea Cave
+0x064C - Undersea Cave
+0x064D - Undersea Cave
+0x064F - Undersea Cave
+0x0650 - Undersea Cave
+0x0651 - Undersea Cave
+0x0652 - Undersea Cave
+0x0653 - Undersea Cave
+0x0654 - Undersea Cave
+0x0655 - Undersea Cave
+0x0656 - The Hidden Temple
+0x0657 - The Hidden Temple
+0x0658 - The Hidden Temple
+0x0659 - The Hidden Temple
+0x0700 - Darilsheid - Harbor
+0x0701 - Cherik Harbor
+0x0702 - Inside ship
+0x0703 - Neuestadt Harbor
+0x0704 - Sheeden Harbor
+0x0705 - Moreau Harbor
+0x0706 - Frostheim Harbor
+0x0707 - Terazzi Harbor
+0x0708 - Ship
+0x0709 - Ship - During attack
+0x070B - Ship - During attack
+0x070E - Ship - During attack
+0x070F - Ship - During attack
+0x0710 - Ship - After Kronos appears
+0x0712 - Pirate Ship 1 - Below Deck
+0x0713 - Pirate Ship 1 - Further Below Deck
+0x0714 - Pirate Ship - - Even Further Below Deck
+0x0715 - Last Pirate Ship - Below Deck
+0x0718 - Darilsheid - Warehouse West
+0x0719 - Darilsheid - Warehouse Center
+0x071A - Darilsheid - Warehouse East
+0x071B - Cherik - Warehouse West
+0x071C - Cherik - Warehouse East
+0x071D - Neuestadt - Warehouse West
+0x071E - Neuestadt - Warehouse East
+0x0720 - Sheeden - Warehouse West
+0x0721 - Sheeden - Warehouse East
+0x0722 - Sheeden - Harbor Shop CUISINE
+0x0723 - Moreau Warehouse
+0x0724 - Frostheim Warehouse West
+0x0725 - Frostheim Warehouse East
+0x0726 - Terazzi Warehouse West
+0x0727 - Terazzi Warehouse Central
+0x0728 - Terazzi Warehouse East
+0x0800 - Sheeden
+0x0801 - Moreau
+0x0802 - Terazzi
+0x0803 - Sheeden - Lord Sheeden's Mansion
+0x0805 - Sheeden - Residence
+0x0806 - Sheeden - Residence
+0x0807 - Sheeden - Residence
+0x0808 - Sheeden - Residence
+0x0809 - Sheeden - Equipment Shop ORIENT
+0x080A - Sheeden - Arms Shop GOLDEN SWORD
+0x080B - Sheeden - High Tide Inn
+0x080D - Moreau - Residence
+0x080E - Moreau - Residence
+0x080F - Moreau - Residence
+0x0810 - Moreau - Residence
+0x0811 - Moreau - Residence (South House)
+0x0812 - Moreau - Residence (North House)
+0x0813 - Moreau Homeware Shop
+0x0814 - Moreau Equipment Shop MOONFLOWER
+0x0815 - Moreau - Arms Shop NEPTUNE
+0x0816 - Moreau - Baku Inn
+0x0818 - Moreau - Boat Shop PIRON
+0x0819 - Terazzi - Residence
+0x081A - Terazzi - Residence
+0x081B - Terazzi - Residence
+0x081C - Terazzi - Residence
+0x081D - Terazzi - Residence
+0x081E - Terazzi - Weapon Shop SAMURAI
+0x081F - Terazzi - Equipment Shop STILLWATER
+0x0820 - Terazzi - Armor Shop VANGUARD
+0x0821 - Terazzi - Residence
+0x0822 - Terazzi - Residence
+0x0909 - Trash Mountain
+0x090a - Trash Mountain
+0x090b - Trash Mountain
+0x090c - Trash Mountain
+0x090d - Trash Mountain
+0x090e - Trash Mountain
+0x090f - Trash Mountain
+0x0910 - Trash Mountain
+0x0911 - Trash Mountain
+0x0912 - Trash Mountain
+0x0913 - Trash Mountain
+0x0914 - Trash Mountain
+0x0915 - Trash Mountain
+0x0916 - Trash Mountain
+0x0917 - Trash Mountain
+0x0918 - Trash Mountain
+0x0919 - Trash Mountain
+0x091a - Trash Mountain
+0x0a02 - Belcrant
+0x0a27 - Josaia
+0x0a28 - Josaia
+0x0a2c - Josaia Warp Area
+0x0a4d - Deimos
+0x0a37 - Josaia
+0x0a51 - Deimos Warp Area
+0x0a52 - Mikheil End
+0x0a60 - Draconis
+0x0a61 - Draconis
+0x0a62 - Cloudius
+0x0a65 - Cloudius
+0x0a66 - Cloudius
+0x0a6b - Rodeon
+0x0a6c - Rodeon
+0x0a6d - Rodeon
+0x0a6e - Rodeon Warp Area
+0x0a6f - Belcrant
+0x0a70 - Belcrant - Final Area
+0x0a71 - Belcrant - Real Final Area
+(Post-Aethesphere)
+0x0c00 - Cherik
+0x0c01 - Cherik Baruk Fund Office
+0x0c02 - Cherik Residence
+0x0c03 - Cherik Inn
+0x0c04 - Cherik Inn Basement
+0x0c05 - Cherik Baruk Fund Office Basement
+0x0c06 - Equipment Shop
+0x0c07 - Kalviola
+0x0c19 - Straylize Cathedral Back Room
+0x0c20 - Seinegald Castle
+0x0c21 - Seinegald Castle
+0x0c22 - Seinegald Castle
+0x0c23 - Seinegald Castle
+0x0c24 - Seinegald Castle
+0x0c25 - Seinegald Castle
+0x0c26 - Seinegald Castle 
+0x0c27 - Seinegald Castle Ottos's Lab
+0x0c28 - Seinegald Castle 
+0x0c29 - Seinegald Castle Amusement Center
+0x0c2a - Seinegald Castle Shower Room
+0x0c2b - Seinegald Castle 
+0x0c2c - Seinegald Castle
+0x0c2d - Seinegald Castle Dining Room
+0x0c2e - Seinegald Castle Kitchen
+0x0c2f = Seinegald Castle
+0x0c30 - Seinegald Castle - War Room
+0x0c31 - Seinegald Castle 
+0x0c33 - Seinegald Castle Outside
+0x0c40 - Neuestadt
+0x0c41 - Neuestadt - Neuestadt Central Park
+0x0c42 - Neuestadt - Neuestadt Central Park
+0x0c43 - Neuestadt - Mansion
+0x0c44 - Neuestadt - Mansion 2F
+0x0c45 - Neuestadt - Rembrandt Mansion
+0x0c46 - Neuestadt - Rembrandt Mansion 2F
+0x0c47 - Neuestadt - Mansion
+0x0c48 - Neuestadt - Mansion
+0x0c49 - Neuestadt - Residence
+0x0c4a - Neuestadt - Residence
+0x0c4b - Neuestadt - Residence
+0x0c4c - Neuestadt - Residence
+0x0c4d - Neuestadt - Residence
+0x0c4e - Neuestadt - Hotel Jun
+0x0c4f - Neuestadt - Hotel Jun 2F
+0x0c50 - Neuestadt - Purple Rose Pub
+0x0c51 - Neuestadt - Lens Shop
+0x0c52 - Neuestadt - Lens Shop Basement
+0x0c53 - Neuestadt - Arms Shop ARCADIA
+0x0c54 - Neuestadt - F-Mart Super Store
+0x0c55 - Lienna Village
+0x0c56 - Lienna Village - Stahn's House
+0x0c57 - Lienna Village - Village Chief's House
+0x0c58 - Lienna Village - Residence
+0x0c59 - Lienna Village - Residence
+0x0c5a - Lienna Village - Residence Basement
+0x0c5b - Lienna Village - Market
+0x0c5c - Lienna Village - Market
+0x0c63 - Straylize Forest
+0x0c66 - Straylize
+0x0c70 - Junkland
+0x0c71 - Junkland Residence
+0x0c72 - Junkland Residence
+0x0c73 - Junkland Residence
+0x0c74 - Junkland Residence
+0x0c75 - Junkland Residence
+0x0c76 - Junkland Mad House Inn
+0x0c77 - Junkland Mad House Inn Upstairs
+0x0c78 - Junkland Equipment Shop
+0x0c81 - Moreau
+0x0c90 - Moreau
+0x0ce1 - Cherik Harbor
+0x0ce0 - Darilsheid Harbor
+0x0ce2 - Fitzgald Harbor
+0x0ce4 - Moreau Harbor
+0x0ce7 - Fayte's ship
+0x0ce8 - Darilsheid Harbor - West Warehouse
+0x0ce9 - Darilsheid Harbor - Central Warehouse
+0x0cea - Darilsheid Harbor - East Warehouse
+0x0ced - Fitzgald Harbor - Warehouse
+0x0cee - Fitzgald Harbor - Warehouse
+0x0cf3 - Moreau Harbor Warehouse
+0x0d00 - Harmentz
+0x0d01 - Harmentz - Walt's Mansion
+0x0d02 - Harmentz - Walt's Mansion 2F
+0x0d03 - Harmentz - Peace of Mind INN
+0x0d04 - Harmentz - Peace of Mind INN 2F
+0x0d05 - Harmentz - Residence
+0x0d06 - Harmentz - Residence
+0x0d07 - Harmentz - Residence
+0x0d08 - Harmentz - Equipment Shop SONG BIRD
+0x0d09 - Darilsheid
+0x0d0A - Darilsheid - Hugo's Mansion
+0x0d0B - Darilsheid - Hugo's Mansion
+0x0d0C - Darilsheid - Hugo's Mansion
+0x0d0D - Darilsheid - Hugo's Mansion
+0x0d0E - Darilsheid - Hugo's Mansion
+0x0d0F - Darilsheid - Hugo's Mansion
+0x0d10 - Darilsheid - Hugo's Mansion
+0x0d11 - Darilsheid - Hugo's Mansion
+0x0d12 - Darilsheid - Hugo's Mansion
+0x0d13 - Darilsheid - Hugo's Mansion
+0x0d14 - Darilsheid - Hugo's Mansion
+0x0d15 - Darilsheid - Hugo's Mansion
+0x0d16 - Darilsheid - Hugo's Mansion
+0x0d17 - Darilsheid - Hugo's Mansion
+0x0d18 - Cresta
+0x0d19 - Cresta - The Orphanage
+0x0d1A - Cresta - Storage Shed
+0x0d1B - Cresta - Ghenen Inn
+0x0d1C - Cresta - Arms Shop TRAVELWISE
+0x0d1D - Cresta - Arms Shop TRAVELWISE 2F
+0x0d1E - Cresta - Equipment Shop GARLAND
+0x0d1F - Cresta - Equipment Shop GARLAND 2F
+0x0d20 - Cresta - Residence
+0x0d21 - Cresta - Mayor's House
+0x0d22 - Cresta - Residence
+0x0d23 - Cresta - Residence
+0x0d24 - Darilsheid - Velvet Garden Inn EAST WING
+0x0d25 - Darilsheid - Velvet Garden Inn EAST WING Room
+0x0d26 - Darilsheid - Velvet Garden Inn EAST WING Room
+0x0d27 - Darilsheid - Velvet Garden Inn EAST WING Back Room
+0x0d28 - Darilsheid - Velvet Garden Inn EAST WING 2F
+0x0d29 - Darilsheid - Velvet Garden Inn EAST WING 2F Room
+0x0d2A - Darilsheid - Velvet Garden Inn EAST WING 2F Room
+0x0d2B - Darilsheid - Velvet Garden Inn 2F Hall - 
+0x0d2C - Darilsheid - Velvet Garden Inn WEST WING
+0x0d2D - Darilsheid - Velvet Garden Inn Room
+0x0d2E - Darilsheid - Velvet Garden Inn Room
+0x0d2F - Darilsheid - Velvet Garden Inn Back Area
+0x0d30 - Darilsheid - Velvet Garden Inn 2F
+0x0d31 - Darilsheid - Velvet Garden Inn 2F Room
+0x0d32 - Darilsheid - Velvet Garden Inn 2F Room
+0x0d33 - Darilsheid - Bebe's Tavern
+0x0d34 - Darilsheid - Gourmet Shop PICCOLO/Equipment Shop HEAVENLY PEACE
+0x0d35 - Darilsheid - Weapon Shop WARRIOR
+0x0d36 - Darilsheid - Armor Shop CHIVALRY
+0x0d37 - Darilsheid - Oberon Corp MAIN STORE
+0x0d38 - Darilsheid - Oberon Corp MAIN STORE 2F
+0x0d39 - Darilsheid - Residence
+0x0d3A - Darilsheid - Residence 2F
+0x0d3B - Darilsheid - Residence
+0x0d3D - Darilsheid - Residence
+0x0d3E - Darilsheid - Residence 2F
+0x0d3F - Darilsheid - Residence
+0x0d40 - Darilsheid - Residence 2F
+0x0d41 - Darilsheid - Residence
+0x0d60 - Armeida
+0x0d61 - Armeida Village - Residence
+0x0d62 - Armeida Village - Residence
+0x0d63 - Armeida Village - General Store TRAVEL PAL
+0x0d64 - Armeida Village - Village Chief's House
+0x0d65 - Armeida Village - Sunset Inn
+0x0d66 - Armeida Village - Sunset Inn 2F
+0x0d67 - Armeida Village
+0x1000 - World Map
+0x1001 - World Map Post-Aeropolis
+0x1004 - World Map after Aethersphere drops/Kronos Appears
+0x100f - Aethersphere World Map
+0x1010 - Using teleporter
+0x1011 - Aethersphere after completing Cloudius

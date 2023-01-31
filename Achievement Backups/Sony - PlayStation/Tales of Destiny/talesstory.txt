@@ -1,0 +1,236 @@
+Story progression
+0x00a - After crashing in snowfield
+0x01e - After meeting Garr and Alba
+0x028 - After finding Chelsea
+0x032 - Back at cabin
+0x03C - After arriving in Janos
+0x03D - After telling man about passport
+0x03E - You're not using your brain
+0x041 - Meet Mary
+0x042 - Mary tells you to go up and left
+0x046 - Enter Snow Temple
+0x050 - After rescuing Rutee and fighting soldiers
+0x05a - After scene in bar with Mary and Rutee
+0x064 - Regroup
+0x06e - Talk to Lens Girl
+0x078 - Arrive in Harmentz
+0x082 - Return cane to Walt
+0x08c - Go to sleep
+0x08e - Next morning
+0x091 - Agree to go to Armedia
+0x096 - Go outside
+0x0a0 - Guards talk to you
+0x0aa - Start talking to Darilsheid King
+0x0fa - After talking to King
+0x0ff - After talking to Hugo
+0x100 - Leon comes back
+0x101 - Leon talks to you
+0x102 - Leon rejoins
+0x104 - Leave Hugo's
+0x10e - See Straylize Temple from cliff
+0x118 - Arrive at Straylize Temple
+0x119 - Talk to Skull thing
+0x11d - Door won't budge
+0x11e - Destroy Krystal
+0x120 - "Four more!"
+0x121 - Destroy Krystal
+0x123 - "Three more!"
+0x124 - Destroy Krystal
+0x126 - "Two more!"
+0x127 - Destroy Krystal
+0x129 - "One more!"
+0x12a - Destroy Krystal
+0x12c - Ready to go back to main room
+0x131 - Save Ayles
+0x136 - After talking to Ayles
+0x140 - Open passage
+0x14a - Save Philia
+0x14c - Go talk to the king again
+0x156 - Talk to sailors
+0x15e - Talk to king
+0x168 - Talk to captain
+0x172 - Gain control on ship
+0x17c - Hop on dragon
+0x17d - Arrive in underwater city
+0x17e - A sound?
+0x17f - Voices?
+0x180 - Voices above us?
+0x181 - Obtain Clemente
+0x186 - Return to ship
+0x190 - Set sail again
+0x19a - Arrive in Cherik
+0x19b - Enter basement
+0x1a4 - Talk to Baruk
+0x1a9 - Talk to sailor
+0x1ae - Talk to girl at inn
+0x1b3 - Talk to weapon shop owner
+0x1b8 - Talk to Jake
+0x1c2 - Leave temple
+0x1cc - After planning to sneak in
+0x1d6 - Regroup at inn
+0x1e0 - Inside temple
+0x1ea - Talk to priest in cell
+0x1f4 - Back at the inn
+0x1fe - Arrive in Neuestadt
+0x203 - Encounter at Lens Shop
+0x208 - Talk to Ilene
+0x212 - Set sail
+0x217 - Under attack
+0x21c - Still under attack
+0x225 - After first pirate boss
+0x226 - After second pirate boss
+0x234 - Back with the captain
+0x239 - Back with the captain again
+0x23a - Last Pirate ship
+0x256 - Defeat Balista
+0x257 - Back in Neuestadt
+0x258 - Tour the town
+0x262 - Still touring the town
+0x276 - Go to arena
+0x2a8 - Before fighting
+0x2ad - Challenger's Waiting Room
+0x2b2 - Outside waiting room
+0x2b7 - Leaving Arena
+0x2b8 - Back at Ilene's
+0x2b9 - Leon still torturing Batista
+0x2ba - Batista breaks free
+0x2bb - Stahn in kitchen
+0x2bc - Meet up
+0x2c6 - Downstairs
+0x2d0 - "Go to the harbor"
+0x2d5 - Go to the deck
+0x2da - Arrive on shore
+0x2db - Talk to Crewman
+0x2e4 - Talk to Old Man
+0x2e5 - Defeat cave boss
+0x2ee - After Karyl joins
+0x2ef - Don't go near the guards
+0x2f7 - En route to Moreau Castle
+0x2f8 - Regain control
+0x2f9 - Talk to woman in room
+0x2fa - Leave someone with Karyl
+0x2fb - Back with valve
+0x2fd - After Batista fight
+0x2ff - Philia and Batista
+0x302 - Back in town
+0x303 - Regain control
+0x320 - Talk to Fayte
+0x32a - Sounds like we collided with something
+0x352 - Kraken
+0x35c - Arrive in Terazzi
+0x384 - In castle
+0x38e - Leave room after boss
+0x38f - Balcony scene
+0x398 - Leave balcony
+0x399 - Back in boss room
+0x3b6 - Regain control
+0x3c0 - Talk to Fayte - leave for Frostheim
+0x3ca - Ship scene
+0x3de - After naval battle
+0x3e8 - Regain control
+0x3f2 - After fighting soldiers in forest
+0x3fc - Garr rejoins
+0x406 - Talk outside
+0x44c - Get Sorcerer's Ring
+0x456 - Heidelberg Jail
+0x460 - Regain control
+0x46a - Regroup after battle
+0x474 - Get off building
+0x479 - In cave
+0x47e - Regain control
+0x47f - Enter prison from Underground Passage
+0x488 - Reach boss room at Heidelberg Castle
+0x4b0 - After boss
+0x4ba - Regain control
+0x4bc - Talk to Rutee
+0x514 - Talk to King
+0x546 - Regain control
+0x550 - Fake Ending
+0x55a - Fake Ending
+0x546 - Fake Ending
+0x564 - Fake Ending
+0x56e - Fake Ending
+0x578 - Fake Ending
+0x582 - Fake Ending
+0x58c - Fake Ending
+0x596 - Fake Ending
+0x5a0 - Fake Ending
+0x5aa - Fake Ending
+0x5b4 - Fake Ending
+0x5be - Fake Ending
+0x5c8 - Stahn! Wake up!
+0x5c9 - Leave house
+0x5ca - Talk to Lilith
+0x5d2 - Lilith is mad
+0x5d3 - No fresh fish?
+0x5d7 - Back home
+0x5dc - Next morning
+0x5e6 - Regain control
+0x5f0 - Arrive in Neuestadt
+0x5fb - Set sail
+0x604 - Arrive in Frostheim
+0x609 - In castle
+0x60e - In castle
+0x613 - In castle
+0x618 - In castle - Garr
+0x640 - Garr rejoins
+0x672 - Rutee rejoins
+0x67c - Talk to the King
+0x687 - Talk to King again after seeing Book
+0x691 - Talk to manager with beard
+0x692 - Talk to King again
+0x6a4 - Talk to captain
+0x6ae - Enter factory
+0x6b8 - Defeat last Oberol Employee
+0x6c2 - Hugo and Leon
+0x6cc - Flood
+0x6d1 - It's sinking
+0x6d6 - It's Belcrant
+0x6f4 - Regain control
+0x6f5 - Talk to King
+0x73a - Talk to captain
+0x744 - Dropped off at Radsirol
+0x74d - Talk to Baiker
+0x758 - Otto's assistant joins
+0x76c - Drop off assistant. Told about cave.
+0x79e - Leave The Hidden Temple
+0x7a8 - Going to the Aethersphere
+0x7a9 - Reach Dycroft
+0x7b2 - Talking to Raiker
+0x7b3 - After talking to Raiker
+0x7b4 - After talking to Rembrandt
+0x7b7 - After Rembrandt fight and getting on Sky Cruiser
+0x7bc - Shot down
+0x7bd - Regroup after Irene fight
+0x7ee - Flip the switch in Cloudius
+0x7f8 - Use Sky Cruiser to head to Belcrant
+0x802 - Arrive in Belcrant
+0x807 - During first scene with Kronos
+0x80c - Kronos leaves. Cuts to Fayte
+0x816 - Back on the ship
+0x834 - Meeting with the King
+0x866 - After talking to the King
+0x8fc - Save Armedia, Cresta, or Harmentz
+0x906 - After war room meeting
+0x92e - Talk to Dryden
+0x992 - Deliver Belselium at repair site
+0x9c4 - After talking to the king
+0x9ce - After getting first lens
+0x9d8 - After getting second lens
+0x9e2 - After getting the third lens
+0x9f6 - GIve the lens to Lewein
+0x9fb - Talk to King
+0xa00 - Philia and Rutee talking
+0xa05, 0xa0a, 0xa0f - Stahn wandering around
+0xa14 - Stahn meets up with Rutee
+0xa19 - Swordians converse
+0xa1e - Next morning
+0xa28 - Regain control
+0xa32 - Malfunction
+0xa3c - Uh oh
+0xa46 - Firing the cannon again
+0xa50 - Another scene...
+0xbb8 - Regain control
+0xbd6 - 
+0xbea - Party back together
+0xbf4 - Encounter Kronos

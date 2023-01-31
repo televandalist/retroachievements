@@ -1,0 +1,635 @@
+01b8000	01b8001	01b8002	01b8000 (24-bit)	
+00	00	00	000000	Gregminster
+00	00	01	010000	Seika
+00	00	02	020000	Dwarf Trail - West Entrance
+00	00	03	030000	Antei
+00	00	04	040000	Warrior's Village
+00	00	05	050000	Dragon's Den - Entrance (West Entrance)
+00	00	06	060000	Kirov (Foot/Teleport)
+00	00	07	070000	Moravia - Entrance
+00	00	08	080000	Village of the Hidden Rune
+00	00	09	090000	Kirov (Boat)
+00	00	09	090000	Shasarazade
+00	00	09	090000	Shasarazade (Boat)
+00	00	0b	0b0000	Gregminster - Outside (After Battle)
+00	01	00	000100	Gregminster - McDohl Residence 1F
+00	01	01	010100	Seika - Onil's
+00	01	02	020100	Dwarf Trail - Main Path 1
+00	01	03	030100	Antei - Kimberly's
+00	01	04	040100	Warrior's Village - Zorak's
+00	01	05	050100	Dragon's Den - Dungeon 1 (West Entrance)
+00	01	06	060100	Kirov - Residence
+00	01	07	070100	Moravia - 1
+00	01	08	080100	Village of the Hidden Rune - West Residence
+00	01	09	090100	Kirov - Residence (Boat)
+00	02	00	000200	Gregminster - McDohl Residence 2F
+00	02	01	010200	Seika - Item Shop
+00	02	02	020200	Dwarf Trail - Main Path 2
+00	02	03	030200	Antei - Armor Shop
+00	02	04	040200	Warrior's Village - Armor Shop
+00	02	05	050200	Dragon's Den - Dungeon 2 (West Entrance)
+00	02	06	060200	Kirov - Residence
+00	02	07	070200	Moravia - 2
+00	02	08	080200	Village of the Hidden Rune - East Residence
+00	02	09	090200	Kirov - Residence (Boat)
+00	03	00	000300	Gregminster - Inn 1F
+00	03	01	010300	Seika - Rune Shop
+00	03	02	020300	Dwarf Trail - Treasure Area
+00	03	03	030300	Antei - Rune Shop
+00	03	04	040300	Warrior's Village - Inn
+00	03	05	050300	Dragon's Den - Dungeon 3 (West Entrance)
+00	03	06	060300	Kirov - Item Shop
+00	03	07	070300	Moravia - 3
+00	03	08	080300	Village of the Hidden Rune - Elder's Residence
+00	03	09	090300	Kirov - Item Shop (Boat)
+00	04	00	000400	Gregminster - Inn 2F
+00	04	01	010400	Seika - Inn
+00	04	02	020400	Dwarf Trail - Main Path 3
+00	04	03	030400	Antei - Item Shop
+00	04	04	040400	Warrior's Village - Residence/Blacksmith
+00	04	05	050400	Dragon's Den - Dungeon 4 (West Entrance)
+00	04	06	060400	Kirov - Armor Shop
+00	04	07	070400	Moravia - 4
+00	04	09	090400	Kirov - Armor Shop (Boat)
+00	05	00	000500	Gregminster - Inn 3F
+00	05	01	010500	Seika - Mathiu's
+00	05	02	020500	Dwarf Trail - Main Path 4
+00	05	03	030500	Antei - Tesla's
+00	05	04	040500	Warrior's Village - Item Shop
+00	05	05	050500	Dragon's Den - Dungeon 5 (West Entrance)
+00	05	06	060500	Kirov - Inn
+00	05	07	070500	Moravia - Kasim's Room
+00	05	09	090500	Kirov - Inn (Boat)
+00	06	00	000600	Gregminster - Item and Armor Shop
+00	06	02	020600	Dwarf Trail - Main Path 5
+00	06	03	030600	Antei - Inn 1F
+00	06	05	050600	Dragon's Den - Dungeon 6 (West Entrance)
+00	06	06	060600	Kirov - Kun To's
+00	06	07	070600	Moravia - Outside 1
+00	06	09	090600	Kirov - Kun To's (Boat)
+00	06	0b	0b0600	Gregminster - Endgame - Armor Shop
+00	07	00	000700	Gregminster - Sonya Residence
+00	07	02	020700	Dwarf Trail - Main Path 6
+00	07	03	030700	Antei - Inn 2F
+00	07	05	050700	Dragon's Den - Dungeon 7 (West Entrance)
+00	07	07	070700	Moravia - 5
+00	07	0b	0b0700	Gregminster - Endgame - Residence
+00	08	00	000800	Gregminster - Rune Shop
+00	08	02	020800	Dwarf Trail - Main Path 7
+00	08	05	050800	Dragon's Den - Dungeon 8 (West Entrance)
+00	08	07	070800	Moravia - 6
+00	08	0b	0b0800	Gregminster - Endgame - Rune Shop
+00	09	00	000900	Gregminster - Milich Residence 1F
+00	09	02	020900	Dwarf Trail - Main Path 10 (Save Point)
+00	09	05	050900	Dragon's Den - Dungeon 9 (West Entrance)
+00	09	07	070900	Moravia - 7
+00	0a	00	000a00	Gregminster - Milich Residence 2F
+00	0a	02	020a00	Dwarf Trail - East Entrance
+00	0a	05	050a00	Dragon's Den - Dungeon Exit (West Entrance)
+00	0a	07	070a00	Moravia - 9
+00	0b	00	000b00	Gregminster - Appraisal Shop
+00	0b	07	070b00	Moravia - 10
+00	0b	0b	0b0b00	Gregminster - Endgame - Appraisal Shop
+00	0c	07	070c00	Moravia - 11
+00	0d	00	000d00	Gregminster - Residence 1
+00	0d	07	070d00	Moravia - 12 (Jail Cells)
+00	0d	0b	0b0d00	Gregminster - Endgame - Residence
+00	0e	00	000e00	Gregminster - Residence 2
+00	0e	0b	0b0e00	Gregminster - Endgame - Residence
+00	0f	00	000f00	Gregminster - Residence 3
+00	0f	07	070f00	Moravia - 8
+00	0f	0b	0b0f00	Ending 2
+00	10	00	001000	Gregminster - Palace - Ted's Story
+00	10	0b	0b1000	Ending 1
+00	11	00	001100	Gregminster - Bridge
+00	11	0b	0b1100	Gregminster - Endgame - Bridge (Ain Gide)
+01	00	00	000001	Rockland - Outside
+01	00	01	010001	Kaku
+01	00	02	020001	Village of the Dwarves - Main
+01	00	03	030001	Teien
+01	00	04	040001	Qlon
+01	00	05	050001	Seek Valley - Entrance
+01	00	06	060001	Kalekka (North Entrance)
+01	00	07	070001	Northern Checkpoint - From North Entrance
+01	00	08	080001	Village of the Hidden Rune (Destroyed)
+01	00	09	090001	Kaku [by boat]
+01	00	0a	0a0001	Luikan's Hermitage
+01	00	0b	0b0001	Rockland - Endgame
+01	01	00	000101	Rockland - Residence 1
+01	01	01	010101	Kaku - Item Shop
+01	01	02	020101	Village of the Dwarves - Residence
+01	01	03	030101	Teien - Gon's
+01	01	04	040101	Qlon - Inside Temple
+01	01	05	050101	Seek Valley 1
+01	01	06	060101	Kalekka - Abandoned Pub (North Entrance)
+01	01	08	080101	Village of the Hidden Rune (Destroyed) - West Residence
+01	01	09	090101	Kaku - Item Shop [by boat]
+01	01	0a	0a0101	Luikan's Hermitage
+01	02	00	000201	Rockland - Residence 2
+01	02	01	010201	Kaku - Residence
+01	02	02	020201	Village of the Dwarves - Residence
+01	02	03	030201	Teien - Kamandol's
+01	02	06	060201	Kalekka - Abandoned Residence (North Entrance)
+01	02	08	080201	Village of the Hidden Rune (Destroyed) - East Residence
+01	02	09	090201	Kaku - Residence [by boat]
+01	03	00	000301	Rockland - Grady's Mansion
+01	03	01	010301	Kaku - Inn
+01	03	02	020301	Village of the Dwarves - Residence
+01	03	03	030301	Teien - Blacksmith
+01	03	04	040301	Qlon - Dungeon - 1
+01	03	05	050301	Seek Valley 2
+01	03	06	060301	Kalekka - Leon's (North Entrance)
+01	03	08	080301	Village of the Hidden Rune (Destroyed) - Elder's Residence
+01	03	09	090301	Kaku - Inn [by boat]
+01	04	00	000401	Rockland - Inn
+01	04	01	010401	Kaku - Blacksmith
+01	04	02	020401	Village of the Dwarves - Item Shop
+01	04	03	030401	Teien - Inn
+01	04	04	040401	Qlon - Dungeon - 2
+01	04	05	050401	Seek Valley 3
+01	04	06	060401	Kalekka - Abandoned Residence (Sound Crystal) (North Entrance)
+01	04	09	090401	Kaku - Blacksmith [by boat]
+01	05	00	000501	Rockland - Item Shop
+01	05	01	010501	Kaku - Pub
+01	05	02	020501	Village of the Dwarves - Blacksmith
+01	05	04	040501	Qlon - Dungeon - First Treasure Room
+01	05	05	050501	Seek Valley - East
+01	05	06	060501	Kalekka - Abandoned Item Shop (North Entrance)
+01	05	09	090501	Kaku - Pub [by boat]
+01	06	00	000601	Rockland - Armor Shop
+01	06	01	010601	Kaku - Pub - Downstairs
+01	06	02	020601	Village of the Dwarves - Inn 1F
+01	06	04	040601	Qlon - Dungeon - 3
+01	06	05	050601	Seek Valley - Outside Mace's
+01	06	09	090601	Kaku - Pub - Downstairs [by boat]
+01	07	01	010701	Kaku - Armor Shop
+01	07	02	020701	Village of the Dwarves - Inn 2F
+01	07	04	040701	Qlon - Dungeon - Second Treasure Room
+01	07	05	050701	Seek Valley - West 1
+01	07	09	090701	Kaku - Armor Shop [by boat]
+01	08	02	020801	Village of the Dwarves - Residence
+01	08	04	040801	Qlon - Dungeon - 4
+01	08	05	050801	Seek Valley - West 2
+01	09	02	020901	Village of the Dwarves - Chief's House
+01	09	04	040901	Qlon - Dungeon - Third Treasure Room
+01	09	05	050901	Seek Valley - Boss
+01	0a	02	020a01	Village of the Dwarves - Appraisal/Armor Shop 1F
+01	0a	04	040a01	Qlon - Dungeon - Window Crystal Room
+01	0a	05	050a01	Seek Valley 4
+01	0b	02	020b01	Village of the Dwarves - Appraisal/Armor Shop 2F
+01	0b	04	040b01	Qlon - Dungeon - 5
+01	0c	02	020c01	Village of the Dwarves - 
+01	0c	04	040c01	Qlon - Dungeon - 6
+01	0d	02	020d01	Village of the Dwarves - 
+01	0d	04	040d01	Qlon - Dungeon - War Scroll Room
+01	0e	02	020e01	Village of the Dwarves - 
+01	0e	04	040e01	Qlon - Dungeon - 7 (Crowley)
+01	0f	04	040f01	Qlon - Dungeon - 8
+01	10	04	041001	Qlon - Dungeon - Fourth Treasure Room
+01	11	04	041101	Qlon - Dungeon - 9
+01	12	04	041201	Qlon - Dungeon - 10
+01	13	04	041301	Qlon - Dungeon - 11
+01	14	04	041401	Qlon - Dungeon - 12
+01	15	04	041501	Qlon - Dungeon - 13
+01	16	04	041601	Qlon - Dungeon - 14 (Star Dragon Sword)
+01	17	04	041701	Qlon - Dungeon - 15
+02	00	00	000002	Lenankamp - Outside
+02	00	01	010002	Kouan
+02	00	02	020002	Dwarves' Vault - Entrance
+02	00	03	030002	Rikon
+02	00	05	050002	Dragon Knights' Fortress - Outside
+02	00	06	060002	Secret Factory - Outside
+02	00	07	070002	Northern Checkpoint - South Entrance
+02	00	09	090002	Kirov (Boat)
+02	00	0a	0a0002	Rikon [by boat]
+02	00	0b	0b0002	Lenankamp - Endgame
+02	01	00	000102	Lenankamp - Hideout
+02	01	01	010102	Kouan - Residence
+02	01	02	020102	Dwarves' Vault - Staircase 1
+02	01	03	030102	Rikon - Appraisal Shop
+02	01	04	040102	Neclord's Castle - 1F
+02	01	05	050102	Dragon Knights' Fortress 1F
+02	01	06	060102	Secret Factory - Inside
+02	01	0a	0a0102	Rikon - Appraisal Shop [by boat]
+02	02	00	000202	Lenankamp - Inn 1F
+02	02	01	010202	Kouan - Inn
+02	02	02	020202	Dwarves' Vault - Staircase 2
+02	02	03	030202	Rikon - Item Shop
+02	02	04	040202	Neclord's Castle - 2F - First Area
+02	02	05	050202	Dragon Knights' Fortress 2F
+02	02	0a	0a0202	Rikon - Item Shop [by boat]
+02	03	00	000302	Lenankamp - Inn 2F
+02	03	01	010302	Kouan - Armor Shop
+02	03	02	020302	Dwarves' Vault - Staircase 3
+02	03	03	030302	Rikon - Inn
+02	03	04	040302	Neclord's Castle - 2F - Second Area
+02	03	0a	0a0302	Rikon - Inn [by boat]
+02	04	00	000402	Lenankamp - Rune Shop
+02	04	02	020402	Dwarves' Vault - Staircase 4
+02	04	03	030402	Rikon - Inn 2F
+02	04	04	040402	Neclord's Castle - 2F Outside
+02	04	0a	0a0402	Rikon - Inn 2F [by boat]
+02	05	00	000502	Lenankamp - Armor Shop
+02	05	01	010502	Kouan - North Building 1F
+02	05	02	020502	Dwarves' Vault - Lever Room
+02	05	04	040502	Neclord's Castle - 3F - First Area
+02	06	00	000602	Lenankamp - Blacksmith
+02	06	01	010602	Kouan - North Building 1F - Room
+02	06	02	020602	Dwarves' Vault - Staircase 5
+02	06	04	040602	Neclord's Castle - 3F - Room 3
+02	07	00	000702	Lenankamp - Item Shop
+02	07	01	010702	Kouan - North Building 2F
+02	07	02	020702	Dwarves' Vault - Staircase 6
+02	07	04	040702	Neclord's Castle - 3F - Room 1
+02	08	00	000802	Lenankamp - Residence 2
+02	08	01	010802	Kouan - North Building 2F - Left Room
+02	08	02	020802	Dwarves' Vault - Staircase 7
+02	08	04	040802	Neclord's Castle - 3F - Room 2
+02	09	00	000902	Lenankamp - Residence 1
+02	09	01	010902	Kouan - North Building 2F - Kraze's Room
+02	09	02	020902	Dwarves' Vault - Staircase 8
+02	09	04	040902	Neclord's Castle - 3F - Walkway
+02	0a	02	020a02	Dwarves' Vault - Maze
+02	0a	04	040a02	Neclord's Castle - 3F - Outside
+02	0b	01	010b02	Kouan - Lepant's - Roof
+02	0b	02	020b02	Dwarves' Vault - Staircase 9
+02	0b	04	040b02	Neclord's Castle - 3F - Second Area
+02	0c	01	010c02	Kouan - Lepant's - Rafters
+02	0c	02	020c02	Dwarves' Vault - Staircase 10
+02	0c	04	040c02	Neclord's Castle - 3F - Room 4
+02	0d	01	010d02	Kouan - Lepant's - Main 2F
+02	0d	02	020d02	Dwarves' Vault - Staircase 11
+02	0d	04	040d02	Neclord's Castle - 3F - Room 5
+02	0e	01	010e02	Kouan - Lepant's - Rafters 2
+02	0e	02	020e02	Dwarves' Vault - Staircase 12
+02	0e	04	040e02	Neclord's Castle - 3F - Coffin Room
+02	0f	01	010f02	Kouan - Lepant's - Room 1
+02	0f	02	020f02	Dwarves' Vault - Platform Room
+02	0f	04	040f02	Neclord's Castle - 4F - First Area
+02	10	02	021002	Dwarves' Vault - Staircase 13
+02	10	04	041002	Neclord's Castle - 4F - Room 1
+02	11	01	011102	Kouan - Lepant's - Main Path 2 (Toy Room)
+02	11	02	021102	Dwarves' Vault - Staircase 14
+02	11	04	041102	Neclord's Castle - 4F - Room 2
+02	12	02	021202	Dwarves' Vault - Staircase 15
+02	12	04	041202	Neclord's Castle - 4F - Room 3
+02	13	02	021302	Dwarves' Vault - Staircase 16
+02	13	04	041302	Neclord's Castle - 4F - Room 4
+02	14	01	011402	Kouan - Lepant's - Main 1F
+02	14	02	021402	Dwarves' Vault - Maze 2
+02	14	04	041402	Neclord's Castle - 4F - Walkway
+02	15	02	021502	Dwarves' Vault - Sound Room
+02	15	04	041502	Neclord's Castle - 4F - Outside
+02	16	02	021602	Dwarves' Vault - Main 1
+02	16	04	041602	Neclord's Castle - 4F - Second Walkway
+02	17	02	021702	Dwarves' Vault - Staircase 17
+02	17	04	041702	Neclord's Castle - Top Floor
+02	18	02	021802	Dwarves' Vault - Main - West Room
+02	18	04	041802	Neclord's Castle - Basement (Save point)
+02	19	02	021902	Dwarves' Vault - Main - East Room
+02	19	04	041902	Neclord's Castle - 1F - West Stairs
+02	1a	02	021a02	Dwarves' Vault - Main 2
+02	1a	04	041a02	Neclord's Castle - 1F - East Stairs
+02	1b	02	021b02	Dwarves' Vault - Room with Nothing
+02	1b	04	041b02	Neclord's Castle - 3F - Second Walkway
+02	1c	01	011c02	Kouan - Lepant's - Wheel of Fortune
+02	1c	02	021c02	Dwarves' Vault - Room with Nothing 2
+02	1d	01	011d02	Kouan - Lepant's - After Wheel of Fortune
+02	1d	02	021d02	Dwarves' Vault - Main 3 (Boss Room)
+02	1e	01	011e02	Kouan - Lepant's - Treasure Room
+02	1e	02	021e02	Dwarves' Vault - Main 4
+02	1f	02	021f02	Dwarves' Vault - Main 4 - West Room
+02	20	02	022002	Dwarves' Vault - Main 4 - Treasure
+02	21	02	022102	Dwarves' Vault - Main 4 - East Room
+03	00	00	000003	Magician's Island - Entrance
+03	00	01	010003	Garan
+03	00	02	020003	Village of the Elves - Entrance
+03	00	03	030003	Soniere
+03	00	04	040003	Lorimar
+03	00	05	050003	Gregminister - Futch 1
+03	00	06	060003	Kalekka (South Entrance)
+03	00	09	090003	Pirate's Fortress
+03	00	0b	0b0003	Saraday - Endgame
+03	01	00	000103	Magician's Island - Screen 1
+03	01	02	020103	Village of the Elves - Main
+03	01	03	030103	Soniere - Main Floor
+03	01	05	050103	Gregminister - Futch 2
+03	01	06	060103	Kalekka - Abandoned Pub (South Entrance)
+03	01	09	090103	Pirate's Fortress - Inside
+03	02	00	000203	Magician's Island - Screen 3
+03	02	02	020203	Village of the Elves - Residence
+03	02	03	030203	Soniere - Main Path 1
+03	02	06	060203	Kalekka - Abandoned Residence (South Entrance)
+03	03	00	000303	Magician's Island - Screen 4
+03	03	02	020303	Village of the Elves - Residence
+03	03	03	030303	Soniere - Main Path 2
+03	03	06	060303	Kalekka - Leon's (South Entrance)
+03	04	00	000403	Magician's Island - Leknaat's Place - Entrance
+03	04	02	020403	Village of the Elves - Residence
+03	04	03	030403	Soniere - Main Path 3
+03	04	06	060403	Kalekka - Abandoned Residence (Sound Crystal) (South Entrance)
+03	05	00	000503	Magician's Island - Leknaat's Place First Floor
+03	05	02	020503	Village of the Elves - Rune Shop
+03	05	03	030503	Soniere - Main Path 4
+03	05	06	060503	Kalekka - Abandoned Item Shop (South Entrance)
+03	06	00	000603	Magician's Island - Leknaat's Place First Floor
+03	06	02	020603	Village of the Elves - Item Shop
+03	06	03	030603	Soniere - Main Path 5
+03	07	00	000703	Magician's Island - Leknaat's Place - 2F Staircase
+03	07	02	020703	Village of the Elves - Armor Shop
+03	07	03	030703	Soniere - Bottom Floor
+03	08	00	000803	Magician's Island - Leknaat's Place - 3F Staircase
+03	08	02	020803	Village of the Elves - Inn
+03	09	00	000903	Magician's Island - Leknaat's Place - 4F Staircase
+03	09	02	020903	Village of the Elves - Chief's House
+03	0a	00	000a03	Magician's Island - Leknaat's Place - Top Floor
+03	0a	02	020a03	Village of the Elves - Chief's House - Middle Floor
+03	0b	00	000b03	Magician's Island - Leknaat's Place - Observatory
+03	0b	02	020b03	Village of the Elves - Chief's House - Jail
+03	0c	00	000c03	Magician's Island - Screen 2
+04	00	00	000004	Saraday - Outside
+04	00	02	020004	Burnt Village of the Elves
+04	00	03	030004	Scarleticia - Outside
+04	00	05	050004	Seek Valley - End
+04	01	00	000104	Saraday - Inn
+04	01	03	030104	Scarleticia - 1F Entrance
+04	01	05	050104	Seek Valley - Mace's
+04	02	00	000204	Saraday - Item Shop
+04	02	03	030204	Scarleticia - 1F Main
+04	03	00	000304	Saraday - Residence
+04	03	03	030304	Scarleticia - 2F
+04	04	03	030404	Scarleticia - Hidden Room
+04	09	09	090904	Toran Castle (Pre-Lib Army) - Main Path 1
+04	0a	09	090a04	Toran Castle (Pre-Lib Army) - Main Path 2
+04	0b	09	090b04	Toran Castle (Pre-Lib Army) - Main Path 3
+04	0c	09	090c04	Toran Castle (Pre-Lib Army) - Main Path 4
+04	0d	09	090d04	Toran Castle (Pre-Lib Army) - Main Path 5
+04	0e	09	090e04	Toran Castle (Pre-Lib Army) - Main Path 6
+04	0f	09	090f04	Toran Castle (Pre-Lib Army) - Main Path 7
+04	10	09	091004	Toran Castle (Pre-Lib Army) - Main Path 8 (Save Point)
+04	11	09	091104	Toran Castle (Pre-Lib Army) - Main Path 9
+04	12	09	091204	Toran Castle (Pre-Lib Army) - Main Path 10
+04	13	09	091304	Toran Castle (Pre-Lib Army) - Main Path 11
+05	00	00	000005	Fortress of Kwaba
+05	00	01	010005	Great Forest (West) - Town
+05	00	02	020005	Pannu Yakuta - Outside
+05	00	03	030005	Northern Checkpoint
+05	00	03	030005	Northern Checkpoint - South Entrance
+05	00	04	040005	Neclord's Castle - Outside
+05	00	09	090005	Teien [by boat]
+05	00	0b	0b0005	Mt. Seifu - Endgame
+05	01	00	000105	Fortress of Kwaba - North Entrance
+05	01	01	010105	Great Forest - Maze 1
+05	01	02	020105	Pannu Yakuta - Entrance
+05	02	00	000205	Fortress of Kwaba - South Entrance
+05	02	01	010205	Great Forest - Maze 2
+05	02	02	020205	Pannu Yakuta - Entrance (Right Room)
+05	03	01	010305	Great Forest - Maze 3
+05	03	02	020305	Pannu Yakuta - Entrance (Left Room)
+05	04	01	010405	Great Forest - Maze 4
+05	04	02	020405	Pannu Yakuta - Main 1F
+05	05	01	010505	Great Forest - Maze 5
+05	05	02	020505	Pannu Yakuta - Main 1F (West Room)
+05	06	01	010605	Great Forest (East) - Town
+05	06	02	020605	Pannu Yakuta - Main 1F (East Room)
+05	07	01	010705	Great Forest (West) - Inn/Pub
+05	07	02	020705	Pannu Yakuta - Main 2F
+05	08	01	010805	Great Forest (West) - Sansuke's
+05	08	02	020805	Pannu Yakuta - Main 2F (NW Room)
+05	09	01	010905	Great Forest (West) - Item Shop
+05	09	02	020905	Pannu Yakuta - Main 2F (NE Room)
+05	0a	01	010a05	Great Forest (West) - Blacksmith
+05	0a	02	020a05	Pannu Yakuta - Main 2F (SE Room)
+05	0b	02	020b05	Pannu Yakuta - Main 2F (SW Room)
+05	0c	02	020c05	Pannu Yakuta - Main 3F (South Room)
+05	0d	02	020d05	Pannu Yakuta - Main 3F (Boss)
+05	0e	02	020e05	Pannu Yakuta - Rooftop
+05	0f	02	020f05	Pannu Yakuta - Main 3F (North Room)
+05	10	02	021005	Pannu Yakuta - Rooftop (North Room)
+06	00	00	000006	Mt. Seifu - Entrance
+06	00	02	020006	Great Forest (West) - Town (After VotD)
+06	00	03	030006	Garan - West Entrance
+06	00	0b	0b0006	Mt. Tigerwolf - Endgame
+06	01	00	000106	Mt. Seifu - Main Path 1
+06	01	02	020106	Great Forest - Maze 1 (After VotD)
+06	02	00	000206	Mt. Seifu - Main Path 2
+06	02	02	020206	Great Forest - Maze 2 (After VotD)
+06	02	09	090206	Toran Castle (Pre-Lib Army) - 1F-2F Stairs
+06	03	00	000306	Mt. Seifu - Treasure Room 1
+06	03	02	020306	Great Forest - Maze 3 (After VotD)
+06	04	00	000406	Mt. Seifu - Treasure Room 2
+06	04	02	020406	Great Forest - Maze 4 (After VotD)
+06	04	09	090406	Toran Castle (Pre-Lib Army) - 2F
+06	04	09	090406	Toran Castle Level 1 - 2F
+06	05	00	000506	Mt. Seifu - Main Path 3
+06	05	02	020506	Great Forest - Maze 5 (After VotD)
+06	06	00	000606	Mt. Seifu - Main Path 4
+06	06	02	020606	Great Forest (East) (After VotD)
+06	07	00	000706	Mt. Seifu - Main Path 5
+06	08	00	000806	Mt. Seifu - Main Path 6
+06	09	00	000906	Mt. Seifu - Main Path 7 (Queen Ant Room)
+06	0a	00	000a06	Mt. Seifu - Main Path 8
+06	0a	0b	0b0a06	Mt. Tigerwolf - Endgame - Pub
+06	0b	00	000b06	Mt. Seifu - Main Path 9
+06	0b	02	020b06	Great Forest (East) (After VotD) Residence
+06	0c	00	000c06	Mt. Seifu - Summit (Save Point)
+06	0c	02	020c06	Great Forest (East) (After VotD) Inn
+06	0d	00	000d06	Mt. Seifu - Summit (Varkas and Sydonia)
+06	0d	02	020d06	Great Forest (East) (After VotD) Item Shop
+07	00	00	000007	Mt. Tigerwolf
+07	00	01	010007	Fortress of Kwaba - Coming from Seika
+07	00	02	020007	Dwarf Trail - West Entrance (After VotD)
+07	00	03	030007	Lorimar
+07	01	00	000107	Mt. Tigerwolf
+07	01	02	020107	Dwarf Trail - Main Path 1 (After VotD)
+07	02	00	000207	Mt. Tigerwolf
+07	02	01	010207	Fortress of Kwaba - South Entrance - Coming from Seika
+07	02	02	020207	Dwarf Trail - Main Path 2 (After VotD)
+07	03	00	000307	Mt. Tigerwolf
+07	03	02	020307	Dwarf Trail - Treasure Area (After VotD)
+07	04	00	000407	Mt. Tigerwolf
+07	04	02	020407	Dwarf Trail - Main Path 3 (After VotD)
+07	05	00	000507	Mt. Tigerwolf
+07	05	02	020507	Dwarf Trail - Main Path 4 (After VotD)
+07	06	00	000607	Mt. Tigerwolf
+07	06	02	020607	Dwarf Trail - Main Path 5 (After VotD)
+07	07	00	000707	Mt. Tigerwolf
+07	07	02	020707	Dwarf Trail - Main Path 6 (After VotD)
+07	08	00	000807	Mt. Tigerwolf
+07	08	02	020807	Dwarf Trail - Main Path 7 (After VotD)
+07	09	00	000907	Saraday
+07	09	02	020907	Dwarf Trail - Main Path 10 (Save Point) (After VotD)
+07	09	0b	0b0907	Mt. Tigerwolf - Endgame - North Entrance
+07	0a	00	000a07	Mt. Tigerwolf - Tea Time
+07	0a	02	020a07	Dwarf Trail - East Entrance (After VotD)
+08	00	03	030008	Dragon's Den - Entrance
+08	00	0b	0b0008	Gregminster - Endgame - Outside Castle
+08	01	03	030108	Dragon's Den - Dungeon 1
+08	01	0b	0b0108	Gregminster - Endgame - Castle Entrance
+08	02	03	030208	Dragon's Den - Dungeon 2
+08	02	0b	0b0208	Gregminster - Endgame - Castle 1
+08	03	03	030308	Dragon's Den - Dungeon 3
+08	03	0b	0b0308	Gregminster - Endgame - Castle 2
+08	04	03	030408	Dragon's Den - Dungeon 4
+08	05	03	030508	Dragon's Den - Dungeon 5
+08	05	0b	0b0508	Gregminster - Endgame - Castle 3
+08	06	03	030608	Dragon's Den - Dungeon 6
+08	06	0b	0b0608	Gregminster - Endgame - Castle 4
+08	07	03	030708	Dragon's Den - Dungeon 7
+08	07	0b	0b0708	Gregminster - Endgame - Castle 5 (Last Save Point)
+08	08	03	030808	Dragon's Den - Dungeon 8
+08	08	0b	0b0808	Gregminster - Endgame - Castle 6 (Last Hallway)
+08	09	03	030908	Dragon's Den - Dungeon 9
+08	09	0b	0b0908	Gregminster - Endgame - Last Room
+08	0a	03	030a08	Dragon's Den - Dungeon Exit
+08	0a	0b	0b0a08	Gregminster - Endgame - Bridge (North Entrance)
+09	00	00	000009	Gregminster Castle Outside
+09	00	0b	0b0009	Ending 3
+09	01	00	000109	Gregminster Castle 1F
+09	02	00	000209	Gregminster Castle 2F
+09	0a	00	000a09	Gregminster Castle - Bridge
+0a	01	0b	0b010a	Ending - Staff Role
+0b	00	00	00000b	Outside Battle with Yuber
+0b	00	0b	0b000b	Ending - McDohl and Gremio
+0b	01	00	00010b	Outside Battle with Yuber
+10	00	01	010010	Toran Castle Level 3 - Ground Floor Outside
+10	01	01	010110	Toran Castle Level 3 - Ground Floor
+10	02	01	010210	Toran Castle Level 3 - Basement
+10	03	01	010310	Toran Castle Level 3 - Tai Ho's Shack
+10	07	09	090710	Toran Castle Level 3 - Ground-1F Stairs
+10	08	09	090810	Toran Castle Level 3 - Ground Floor - Elevator
+11	00	09	090011	Toran Castle Level 3 - 1F
+11	02	09	090211	Toran Castle Level 3 - 1F - Bridge to East Wing
+11	02	09	090211	Toran Castle Level 3 - 1F - NorthWest Wing Entrance (from Main)
+11	03	09	090311	Toran Castle Level 3 - 1F - Bridge to West Wing
+11	04	09	090411	Toran Castle Level 3 - 1F - NorthWest Bridge (from Main)
+11	05	09	090511	Toran Castle Level 3 - 1F - Elevator
+11	06	09	090611	Toran Castle Level 3 - 1F-2F Stairs
+11	07	01	010711	Toran Castle Level 3 - 1F-Ground Stairs
+12	00	09	090012	Toran Castle Level 3 - 2F
+12	01	09	090112	Toran Castle Level 3 - 2F - Outside (East)
+12	02	09	090212	Toran Castle Level 3 - 2F - Elevator
+12	03	09	090312	Toran Castle Level 3 - 2F-1F Stairs
+12	04	09	090412	Toran Castle Level 3 - 2F-3F Stairs
+12	07	09	090712	Toran Castle Level 3 - 1F-Ground Stairs
+13	00	09	090013	Toran Castle Level 3 - 3F
+13	01	09	090113	Toran Castle Level 3 - 3F - Elevator
+13	02	09	090213	Toran Castle Level 3 - 3F-2F Stairs
+13	03	09	090313	Toran Castle Level 3 - 3F-4F Stairs
+14	00	09	090014	Toran Castle Level 3 - 4F
+14	01	09	090114	Toran Castle Level 3 - 4F - Walkway
+14	02	09	090214	Toran Castle Level 3 - 4F-3F Stairs
+14	03	01	010314	Toran Castle Level 3 - 4F - Tir's Room
+14	03	09	090314	Toran Castle Level 3 - 4F - Tir's Room
+14	04	09	090414	Toran Castle Level 3 - 4F - Elevator
+14	07	01	010714	Toran Castle Level 4 - Tir's Room (Before Northern Checkpoint)
+15	00	09	090015	Toran Castle Level 3 - 1F - West Wing - Bridge to Main
+15	01	09	090115	Toran Castle Level 3 - 1F - West Wing (Outside)
+15	02	09	090215	Toran Castle Level 3 - 1F - West Wing
+15	03	09	090315	Toran Castle Level 3 - 2F - West Wing
+16	00	09	090016	Toran Castle Level 3 - 1F - East Wing - Bridge to Main
+16	01	09	090116	Toran Castle Level 3 - 1F - East Wing
+16	02	09	090216	Toran Castle Level 3 - 2F - East Wing
+17	00	09	090017	Toran Castle Level 3 - 1F - NorthWest Bridge
+17	01	09	090117	Toran Castle Level 3 - 1F - NorthWest Wing
+17	02	09	090217	Toran Castle Level 3 - 1F - NorthWest Wing Entrance
+18	00	01	010018	Toran Castle Cutscene
+18	00	01	010018	Toran Castle Level 2 - Outside
+18	00	09	090018	Toran Castle Level 2 - Outside
+18	01	01	010118	Toran Castle Level 2 - Ground Floor - Main
+18	01	09	090118	Toran Castle Level 2 - Ground Floor - Main
+18	02	01	010218	Toran Castle Level 2 - Basement
+18	02	09	090218	Toran Castle Level 2 - Basement
+18	03	01	010318	Toran Castle Level 2 - Tai Ho's Shack
+18	03	09	090318	Toran Castle Level 2 - Tai Ho's Shack
+18	07	01	010718	Toran Castle Level 2 - Ground-1F Stairs
+18	07	09	090718	Toran Castle Level 2 - Ground-1F Stairs
+18	08	09	090818	Toran Castle Level 2 - Ground Floor - Elevator
+19	00	01	010019	Toran Castle Level 2 - 1F
+19	00	09	090019	Toran Castle Level 2 - 1F
+19	01	01	010119	Toran Castle Level 2 - 1F - Outside Entrance
+19	01	09	090119	Toran Castle Level 2 - 1F - Outside Entrance
+19	02	01	010219	Toran Castle Level 2 - 1F - Bridge to East Wing
+19	02	09	090219	Toran Castle Level 2 - 1F - Bridge to East Wing
+19	03	01	010319	Toran Castle Level 2 - 1F - Bridge to West Wing
+19	03	09	090319	Toran Castle Level 2 - 1F - Bridge to West Wing
+19	04	01	010419	Toran Castle Level 2 - 
+19	04	09	090419	Toran Castle Level 2 - 
+19	05	01	010519	Toran Castle Level 2 - 
+19	05	09	090519	Toran Castle Level 2 - 1F - Elevator
+19	06	01	010619	Toran Castle Level 2 - 1F-2F Stairs
+19	06	09	090619	Toran Castle Level 2 - 1F-2F Stairs
+19	07	01	010719	Toran Castle Level 2 - 1F-Ground Stairs
+19	07	09	090719	Toran Castle Level 2 - 1F-Ground Stairs
+1a	00	01	01001a	Toran Castle Level 2 - 2F
+1a	00	09	09001a	Toran Castle Level 2 - 2F
+1a	01	01	01011a	Toran Castle Level 2 - 2F - Outside (East)
+1a	01	09	09011a	Toran Castle Level 2 - 2F - Outside (East)
+1a	02	09	09021a	Toran Castle Level 2 - 2F - Elevator
+1a	03	01	01031a	Toran Castle Level 2 - 2F-1F Stairs
+1a	03	09	09031a	Toran Castle Level 2 - 2F-1F Stairs
+1a	04	01	01041a	Toran Castle Level 2 - 2F-3F Stairs
+1a	04	09	09041a	Toran Castle Level 2 - 2F-3F Stairs
+1a	05	01	01051a	Toran Castle Cutscene
+1b	00	01	01001b	Toran Castle Level 2 - 3F
+1b	00	09	09001b	Toran Castle Level 2 - 3F
+1b	01	09	09011b	Toran Castle Level 2 - 3F - Elevator
+1b	02	01	01021b	Toran Castle Level 2 - 3F-2F Stairs
+1b	02	09	09021b	Toran Castle Level 2 - 3F-2F Stairs
+1b	03	01	01031b	Toran Castle Level 2 - 3F-4F Stairs
+1b	03	09	09031b	Toran Castle Level 2 - 3F-4F Stairs
+1c	00	01	01001c	Toran Castle Level 2 - 4F
+1c	00	09	09001c	Toran Castle Level 2 - 4F
+1c	01	01	01011c	Toran Castle Level 2 - 4F - Walkway
+1c	01	09	09011c	Toran Castle Level 2 - 4F - Walkway
+1c	02	01	01021c	Toran Castle Level 2 - 4F-3F Stairs
+1c	02	09	09021c	Toran Castle Level 2 - 4F-3F Stairs
+1c	03	01	01031c	Toran Castle Level 2 - 4F - Tir's Room
+1c	03	09	09031c	Toran Castle Level 2 - 4F - Tir's Room
+1c	04	09	09041c	Toran Castle Level 2 - 4F - Elevator
+1d	00	01	01001d	Toran Castle Level 2 - 1F - West Wing - Bridge to Main
+1d	00	09	09001d	Toran Castle Level 2 - 1F - West Wing - Bridge to Main
+1d	01	01	01011d	Toran Castle Level 2 - 1F - West Wing (Outside)
+1d	01	09	09011d	Toran Castle Level 2 - 1F - West Wing (Outside)
+1d	02	01	01021d	Toran Castle Level 2 - 1F - West Wing
+1d	02	09	09021d	Toran Castle Level 2 - 1F - West Wing
+1d	03	01	01031d	Toran Castle Level 2 - 2F - West Wing
+1d	03	09	09031d	Toran Castle Level 2 - 2F - West Wing
+1e	00	01	01001e	Toran Castle Level 2 - 1F - East Wing - Bridge to Main
+1e	00	09	09001e	Toran Castle Level 2 - 1F - East Wing - Bridge to Main
+1e	01	01	01011e	Toran Castle Level 2 - 1F - East Wing
+1e	01	09	09011e	Toran Castle Level 2 - 1F - East Wing
+1e	02	01	01021e	Toran Castle Level 2 - 2F - East Wing
+1e	02	09	09021e	Toran Castle Level 2 - 2F - East Wing
+20	00	09	090020	Toran Castle Level 1 - Outside
+20	01	09	090120	Toran Castle Level 1 - Ground Floor
+20	02	09	090220	Toran Castle Level 1 - Basement
+20	03	09	090320	Toran Castle Level 1 - Tai Ho's Shack
+20	07	09	090720	Toran Castle Level 1 - Ground-1F Stairs - From Ground
+21	00	09	090021	Toran Castle Level 1 - 1F - Main
+21	01	09	090121	Toran Castle Level 1 - 1F - Outside (West)
+21	02	09	090221	Toran Castle Level 1 - 1F - Outside (East)
+21	06	09	090621	Toran Castle Level 1 - 1F-2F Stairs - From 1F
+21	07	09	090721	Toran Castle Level 1 - Ground-1F Stairs
+22	00	09	090022	Toran Castle Level 1 - 2F
+22	03	09	090322	Toran Castle Level 1 - 1F-2F Stairs
+22	04	09	090422	Toran Castle Level 1 - Banquet Scene
+26	01	09	090126	Toran Castle Level 1 - 1F - East Building 1F
+26	02	09	090226	Toran Castle Level 1 - 1F - East Building 2F
+28	00	09	090028	Toran Caslte (Pre-Lib Army) - 1F
+28	02	09	090228	Toran Castle (Pre-Lib Army) - Ground-1F Stairs
+29	01	01	010129	Battlefield after Teo War
+2a	00	01	01002a	Pirate's Fortress - Outside (Teleport)
+2a	01	01	01012a	Pirate's Fortress - Inside (Teleport)
+2b	01	01	01012b	Hix and Tengaar having a fire
+2c	00	09	09002c	Lake Toran - Castle Cutscene
+2d	00	09	09002d	Lake Toran - Castle Cutscene
+2e	00	09	09002e	Lake Toran - Castle Cutscene
+30	01	09	090130	Toran Castle (Pre-Lib Army) - Ground Floor (Boss)
+31	01	09	090131	Shasarazade 1
+31	02	09	090231	Shasarazade 2
+31	03	09	090331	Shasarazade 3
+31	04	09	090431	Shasarazade 4
+31	05	09	090531	Shasarazade 5
+31	06	09	090631	Shasarazade 6 (Boss)
+31	07	09	090731	Shasarazade 7 (Treasure)

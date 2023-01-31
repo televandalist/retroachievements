@@ -1,0 +1,74 @@
+Tiny Characters in a Huge World (Overworld)
+- nothing when talking to Leknaat
+
+0x03 - Beginning Theme
+0x04 - Royal Palace Consultation
+0x05 - Beautiful Golden City (Gregminster)
+0x07 - Rock Rockland
+0x08 - Rock Rockland (Saraday?)
+0x09 - Distant Mountain
+0x0a - Black Forest
+0x0b - Gate
+0x0c - Eternal Flow
+0x0d - Intrusion
+0x0e - Penpe
+0x0f - 
+0x10 - Theme of Sadness ~ Ensemble Version
+0x11 - People of Great Pride
+0x12 - Peaceful People
+0x14 - 
+0x15 - Gorgeous Scarleticia
+0x16 - Gathering of Warriors
+0x17 - Within the Silence
+0x18 - Passacaria
+0x19 - An Old Irish Song
+0x1a - Dancing Girl
+0x1b - Forgotten Days
+0x1d - Confrontation with Monsters (Battle)
+0x1e - Ultimate Enemy (Boss Theme)
+0x1f - Victory Theme
+0x20 - An Explosive Situation
+0x21 - Premonition of Victory
+0x23 - Main Theme Arrange -Ensemble Version-
+0x24 - Theme of Sadness ~ Ensemble Version
+0x25 - Theme of Sadness ~ Guitar Version
+0x26 - Theme of a Moonlit Night
+0x27 - Theme of Impact -Impact Version-
+0x28 - after Teo*
+0x29 - This is Just a Rumor
+0x2b - Theme of Perversion
+0x2c - Main Theme Arrange -Guitar Version-
+0x2d - Joy Joy Time
+0x2e - This Sweetie is the Town Treasure
+0x2f - Touching Theme
+0x30 - Narcy's Theme
+0x31 - Fly, Black!
+0x32 - Theme of Tension -Ensemble Version-
+0x39 - Rising Tide
+0x3a - Liberation Army Hideout ambience
+0x3b - (Storm outside)
+0x3c - (Storm outside)
+0x3d - (Ambience - Tigermouth)
+0x3e - Ambience
+0x3f - Ambience (Shasarazade)
+0x40 - Ambience (Imperial Garden)
+0x41 - Ambience (Dragon's Den)
+0x42 - Ambience (Soniere)
+0x44 - Ambience (McDohl Home)
+0x45 - Ambience (Great Forest)
+0x46 - Royal Palace Consultation?
+
+
+01) Into a World of Illusions	1:51
+04) Eternal Empire	2:20
+21) Mysterious Forest	1:49
+01) Collision!	2:03
+02) Victory March	2:26
+12) Island Fortress	2:02
+13) Glorious Island Fortress	2:30
+14) Blue Oceans, Blue Skies	2:12
+18) Theme of the Advancing Army	3:05
+19) Echoes of the Changed Past	1:00
+21) Theme of Tension ~ Tama-dator	2:14
+22) Requiem	1:52
+23) Avertuneiro Antes Lance Mao ~ After the Battle	3:55

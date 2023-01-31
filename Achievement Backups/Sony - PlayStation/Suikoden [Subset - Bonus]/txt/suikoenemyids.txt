@@ -1,0 +1,335 @@
+[32-Bit] Enemy Formation
+
+Gregminster Area
+0x01 - BonBon x1
+0x02 - BonBon x3
+0x03 - Mosquito x6
+0x04 - Crow x2
+0x05 - Wild Boar x1
+0x06 - Red Soldier Ant x1
+0x07 - Red Soldier Ant x2
+0x08 - Mosquito x3, Red Soldier Ant x1
+0x09 - Wild Boar x1, Crow x2
+
+Black Forest
+0x00 - Holly Boy x4
+0x01 - Holly Boy x4
+0x02 - Holly Boy x6
+0x03 - Holly Boy x3, FurFur x2
+0x04 - FurFur x2
+0x05 - Holly Boy x4
+0x06 - Holly Boy x6
+0x07 - Holly Boy x3, FurFur x2
+0x08 - FurFur x2
+0x09 - FurFur x3
+
+Mt. Tigerwolf
+0x01 - Slasher Rabbit x6
+0x02 - Giant Snail x2
+0x03 - Killer Slime x2
+0x04 - Killer Slime x3
+0x05 - Giant Snail x1
+
+Mt. Seifu
+0x01 - Soldier Ant x6
+0x02 - Bandit (Red) x2
+0x03 - Bandit (Red) x2, Bandit (Yellow) x1
+0x04 - Black Wild Boar x2
+0x05 - Bandit (Green) x2
+
+Seika Area
+0x01 - Beast Commander x1, Flying Squirrel x3
+0x02 - Flying Squirrel x2
+0x03 - Flying Squirrel x6
+0x04 - Roc x1
+0x05 - Killer Rabbit x6
+0x06 - Roc x2
+0x07 - Beast Commander x1, Killer Rabbit x3
+0x08 - Beast Commander x1, Flying Squirrel x3, Killer Rabbit x2
+
+Toran Castle
+0x01 - Oannes x2
+0x02 - Oannes x3
+0x03 - Giant Slug x2
+0x04 - Giant Slug x3
+0x05 - Ghost Armor x1
+0x06 - Ghost Armor x1, Giant Slug x3
+0x07 - Ghost Armor x1, Oannes x3
+
+Lepant's Mansion
+0x01 - Slot Man x1
+0x02 - Robot Soldier (Spear) x1, Robot Soldier (Sword) x2
+0x03 - Robot Soldier (Spear) x3, Robot Soldier (Sword) x3
+
+Great Forest
+0x01 - Kobold (Sword) x1
+0x02 - Kobold (Sword) x3
+0x03 - Kobold (Sword) x3, Kobold (Bow) x3
+0x04 - Kobold (Bow) x2
+0x05 - Holly Spirit x1, Holly Boy x2
+0x06 - Holly Spirit x1, Holly Boy x5
+0x07 - Holly Spirit x3, Holly Boy x3
+0x08 - Holly Boy x6
+
+Panna Yakuta Region
+0x01 - Kobold (Bow) x2
+0x02 - Kobold (Sword) x3
+0x03 - Kobold (Mage), Kobold (Sword) x3
+0x04 - Kobold (Mage), Kobold (Bow) x3
+0x05 - Strong Arm x1, Kobold Mage x1, Kobold (Bow) x2
+0x06 - Kobold (Sword) x3, Kobold (Mage) x2
+0x07 - Kobold (Mage) x2, Kobold (Bow) x3
+0x08 - Strong Arm x1, Kobold (Sword) x2, Kobold (Mage) x2
+
+Dwarve's Trail
+0x01 - Dwarf x3, Eagle Man x2
+0x02 - Eagle Man x1
+0x03 - Eagle Man x2
+0x04 - Eagle Man x3
+0x05 - Dwarf x1
+0x06 - Dwarf x2
+0x07 - Dwarf x3
+0x08 - Death Boar x1
+0x09 - Death Boar x2
+0x0a - Death Boar x3
+0x0b - Eagle Man x1, Death Boar x3
+0x0c - Dwarf x1, Death Boar x3
+0x0d - Death Boar x3, Eagle Man x2
+0x0e - Dwarf x1, Eagle Man x1, Death Boar x3
+
+Dwarve's Vault
+0x01 - Death Machine (Sword) x1
+0x02 - Death Machine (Sword) x2
+0x03 - Death Machine (Sword) x3
+0x04 - Death Machine (Spear) x1
+0x05 - Death Machine (Spear) x2
+0x06 - Death Machine (Spear) x3
+0x07 - Crimson Dwarf x1
+0x08 - Crimson Dwarf x2
+0x09 - Crimson Dwarf x3
+0x0a - Death Boar x2
+0x0b - Death Boar x3
+0x0c - Crimson Dwarf x3, Death Machine (Sword) x1
+0x0d - Crimson Dwarf x3, Death Machine (Sword) x2
+0x0e - Crimson Dwarf x3, Death Machine (Sword) x3
+
+Panna Yakuta
+0x01 - Veteran Soldier (Spear) x3
+0x02 - Devil Armor x1
+0x03 - Devil Armor x1, Devil Shield x3
+0x04 - Veteran Soldier (Sword) x2
+0x05 - Veteran Soldier (Sword) x3
+0x06 - Veteran Soldier (Bow) x3
+0x07 - Veteran Soldier (Sword), (Spear), (Bow) x2
+0x08 - Veteran Soldier (Sword), (Spear), (Bow) x3
+0x09 - Devil Shield x2
+0x0a - Devil Shield x3
+
+Scarleticia Area
+0x01 - Holly Fairy x1
+0x02 - Holly Fairy x2
+0x03 - Holly Fairy x3
+0x04 - Mad Ivy x1
+0x05 - Mad Ivy x2
+0x06 - Mad Ivy x3
+0x07 - Creeper x1
+0x08 - Creeper x2
+0x09 - Creeper x3
+0x0a - Holly Fairy x3, Creeper x1
+0x0b - Holly Fairy x3, Mad Ivy x1
+0x0c - Mad Ivy x3, Creeper x1
+
+Soniere Prison
+0x01 - Viperman x1, Delf x1
+0x02 - Viperman x1, Delf x3
+0x03 - Red Slime x1
+0x04 - Red Slime x3
+0x05 - Red Slime x3, Nightmare x2
+0x06 - Nightmare x1
+0x07 - Nightmare x3
+0x08 - Red Slime x3, Nightmare x1
+
+Scarleticia Castle
+0x01 - Mad Ivy x2
+0x02 - Creeper x2
+0x03 - Creeper x3
+0x04 - Creeper x6
+0x05 - Nightmare x1
+0x06 - Nightmare x1, Creeper x3
+
+Kalekka Area
+0x01 - Dagon x1
+0x02 - Dagon x2
+0x03 - Dagon x3
+0x04 - Grizzly Bear x2
+0x05 - Grizzly Bear x3
+0x06 - Dagon x2, Siren x1
+0x07 - Grizzly Bear x1
+0x08 - Siren x1
+0x09 - Siren x2
+
+Kalekka
+0x01 - Demon Hound x1
+0x02 - Hawk Man x2
+0x03 - Hawk Man x3
+0x04 - Hawk Man x4
+0x05 - Shadow x2
+0x06 - Shadow x3
+0x07 - Hawk Man x2, Shadow x2
+
+Lorimar Area
+0x01 - Whip Wolf, Hell Hound x3
+0x02 - Grave Master x1
+0x03 - Grave Master x2
+0x04 - Hell Hound x1
+0x05 - Hell Hound x2
+0x06 - Hell Hound x3
+0x07 - Sorcerer x1
+0x08 - Sorcerer x2
+0x09 - Sorcerer, Hell Hound x3
+0x0a - Grave Master, Hell Hound x3
+0x0b - Grave Master x2, Hell Hound x3
+
+Cave of the Past
+0x01 - Banshee x1
+0x02 - Banshee x2
+0x03 - Banshee x3
+0x04 - Clay Doll
+0x05 - Clay Doll x2
+0x06 - Clay Doll x3
+0x07 - Clay Doll, Banshee x1
+0x08 - Clay Doll, Banshee x2
+0x09 - Red Elemental x3, Clay Doll x1
+0x0a - Red Elemental x3, Banshee x1
+0x0b - Red Elemental x3, Banshee x2
+
+Neclord's Castle
+0x01 - Demon Sorcerer x1
+0x02 - Hell Unicorn x1
+0x03 - Demon Sorcerer x2
+0x04 - Larvae x1
+0x05 - Larvae x2
+0x06 - Larvae x3
+0x07 - Demon Sorcerer x1, Larvae x3
+0x08 - Hell Unicorn x1, Larvae x3
+0x09 - Hell Unicorn x1, Demon Sorcerer x1, Larvae x3
+
+Dragon's Den
+0x01 - Sunshine King x1
+0x02 - Magic Shield x1
+0x03 - Magic Shield x2
+0x04 - Magic Shield x3
+0x05 - Magic Shield x1, Sunshine King x1
+0x06 - Black Elemental x3, Sunshine King x1
+0x07 - Black Elemental x3, Magic Shield x2
+
+Dragon Knight's Area
+0x01 - Ivy x1
+0x02 - Ivy x2
+0x03 - Ivy x3
+0x04 - Shadow Man x1
+0x05 - Shadow Man x2
+0x06 - Mirage x2
+0x07 - Mirage x4
+0x08 - Ivy x3, Shadow Man x1, Mirage x1
+
+Seek Valley
+0x01 - Ivy x1
+0x02 - Ivy x2
+0x03 - Ivy x3
+0x04 - Rock Buster x1
+0x05 - Rock Buster x2
+0x06 - Rock Buster x3
+0x07 - Wyvern x1
+0x08 - Queen Ant x1
+0x09 - Ivy x2, Rock Buster x1
+0x0a - Ivy x2, Wyvern x1
+0x0b - Rock Buster x2, Queen Ant x1
+0x0c - Rock Buster x2, Wyvern x1
+
+Moravia Area
+0x01 - Rabbit Bird x1
+0x02 - Rabbit Bird x2
+0x03 - Rabbit Bird x3
+0x04 - Mirage x1
+0x05 - Mirage x2
+0x06 - Mirage x3
+0x07 - Earth Golem x1
+0x08 - Earth Golem x2
+0x09 - Earth Golem x1, Rabbit Bird x3
+0x0a - Earth Golem x1, Mirage x3
+0x0b - Earth Golem x2, Rabbit Bird x3
+0x0c - Earth Golem x2, Mirage x3
+
+Moravia Castle
+0x01 - Whip Master x1, Hell Hound x3
+0x02 - Whip Master x2, Hell Hound x3
+0x03 - Whip Master x1, Hell Hound x5
+0x04 - Ninja x1
+0x05 - Ninja x2
+0x06 - Magus x1
+0x07 - Magus x2
+0x08 - Elite Soldier (Sword) x1
+0x09 - Elite Soldier (Sword) x2
+0x0a - Magus x1, Hell Hound x3, Whip Master x1
+0x0b - Magus x1, Ninja x3
+0x0c - Magus x1, Elite Soldier (Sword) x3
+0x0d - Ninja x2, Hell Hound x3
+0x0e - Ninja x3, Magus x2
+0x0f - Magus x2, Elite Soldier (Sword) x2, Ninja x1
+0x10 - Hell Hound x3, Elite Soldier (Sword) x2, Whip Master x1
+
+Shasarazade Fortress
+0x01 - Elite Soldier (Sword) x4
+0x02 - Elite Soldier (Sword) x2
+0x03 - Elite Soldier (Sword) x3
+0x04 - Siren x2
+0x05 - Siren x3
+0x06 - Siren x4
+0x07 - Kerberos x1
+
+Late Gregminster Area
+0x01 - Ninja Master x3, Simurgh x1
+0x02 - Ninja Master x1
+0x03 - Ninja Master x2
+0x04 - Ninja Master x3
+0x05 - Simurgh x1
+0x06 - Simurgh x2
+0x07 - Simurgh x3
+0x08 - Orc x1
+0x09 - Orc x2
+0x0a - Orc x3
+0x0b - Ninja Master x3, Orc x1
+0x0c - Ninja Master x3, Simurgh x2
+0x0d - Ninja Master x3, Orc x2
+
+Gregminster Castle
+0x01 - Colossus x1
+0x02 - Imperial Guards (Sword) x2
+0x03 - Imperial Guards (Sword) x3
+0x04 - Imperial Guards (Sword-Other) x2
+0x05 - Phantom x1
+0x06 - Phantom x2
+0x07 - Phantom x3
+0x08 - Ekidonna x1, Imperial Guards (Sword) x3
+0x09 - Ekidonna x1, Phantom x3
+0x0a - Phantom x3, Colossus x1
+0x0b - Imperial Guards (Sword) x3, Colossus x1
+
+-----------
+
+War Battles
+0x00 - Vs Kwanda
+0x01 - Vs Ganan Fortress
+0x02 - Vs Milich 1st time
+0x03 - Vs Milich 2nd time
+0x04 - Vs Teo 1st time
+0x05 - Vs Teo 2nd time
+0x06 - Vs Griffith 
+0x07 - Vs Sonya
+0x08 - Vs Yuber
+
+Other
+0x0b - Marco's Cup Game
+0x0e - Listen to Kasios play music
+

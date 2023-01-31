@@ -1,0 +1,7 @@
+Level, Experience, HP Current, HP Max
+MP Level 1-4
+Strength, Magic, PROT, M Def, Tech, Speed, Luck
+Wpn Level. Wpn Rune Modifier, H, Rh, Lh
+Helmet, Armor, Shield, 
+Other 1, Other 1 Qty, Other 2, Other 2 Qty, Other 3, Other 3 Qty
+Number of enemies killed with physical attacks

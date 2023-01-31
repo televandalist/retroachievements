@@ -1,0 +1,79 @@
+0x01 - Sword Dance
+0x02 - Explosion Staff
+0x03 - Flash Cut
+0x04 - Vigor
+0x05 - Dragon Protect
+0x06 - Dragon Anger
+0x07 - Dragon Healing
+0x08 - Dragon Grief
+0x09 - Thunderbolt
+0x0a - Thunder Bomb
+0x0b - Thunder THrust
+0x0c - Spark Ball
+0x0d - Heal Litany
+0x0e - Calm Litany
+0x0f - Saint Litany
+0x10 - Althena Litany
+0x11 - Miracle Litany
+0x12 - Cleanse Litany
+0x13 - Fear Litany
+0x14 - Escape Litany
+0x15 - Flame Bomb
+0x16 - Flame Circle
+0x17 - Flameria
+0x18 - Power Drive
+0x19 - Ice Lance
+0x1a - Ice Wall
+0x1b - Blizzard
+0x1c - Ice Shell
+0x1d - Power Slash
+0x1e - Power Sweep
+0x1f - Sonic Riser
+0x20 - Power Up
+0x21 - Healing Song
+0x22 - Purity Song
+0x23 - Cascade Song
+0x24 - Escape Song
+0x25 - Temptation Song
+0x26 - Tranquil Song
+0x27 - Inferno
+0x28 - Nitro Dagger
+0x29 - Tornado
+0x2a - Rock'N'Roll
+0x2b - Sleep
+0x2c - Confusion
+0x2d - Magic Box
+0x2e - Stone
+0x2f - Flash Arrow
+0x30 - Flash Wind
+0x31 - Tactics (Set Battle Tactics)
+0x32 - Tactics 1 (Register Tactics 1)
+0x33 - Attack
+0x34 - Magic
+0x35 - Defend
+0x36 - Items
+0x37 - AI
+0x38 - Run
+0x39 - Tactics (Take Registered Action)
+0x3a - Command
+0x3b - Formation
+0x3c - Tactics 2 (Register Tactics 1)
+0x3d - Tactics 1 (Execute Tactics 1)
+0x3e - Tactics 2 (Execute Tactics 2)
+0x3f - Tactics 3 (Execute Tactics 3)
+0x40 - Tactics 3 (Register Tactics 3)
+0x41 - Use Item
+0x42 - Give Item
+0x43 - Drop Item
+0x44 - Status
+0x45 - Equipment
+0x46 - System
+0x47 - Setup
+0x48 - Save
+0x49 - Load
+0x4a - 
+0x4b - 
+0x4c - 
+0x4d - 
+0x4e - 
+0x4f - 

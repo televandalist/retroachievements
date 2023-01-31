@@ -1,0 +1,8 @@
+11 - a   19 - i   21 - q   29 - y   41 - G   49 - O
+12 - b   1a - j   22 - r   2a - z   42 - H   4a - P
+13 - c   1b - k   23 - s   3b - A   43 - I   4b - Q
+14 - d   1c - l   24 - t   3c - B   44 - J   4c - R
+15 - e   1d - m   25 - u   3d - C   45 - K   4d - S
+16 - f   1e - n   26 - v   3e - D   46 - L   4e - T
+17 - g   1f - o   27 - w   3f - E   47 - M   4f - U
+18 - h   20 - p   28 - x   40 - F   48 - N   50 - V
