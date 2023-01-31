@@ -17,3 +17,4 @@ Other:
 
 Missing:
 - Rich Presence: Star Wars Arcade (32X)
+- Dragon Wang

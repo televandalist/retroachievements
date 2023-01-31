@@ -1,0 +1,6 @@
+Format:Digit
+FormatType=Value
+
+Display:
+?0xh33a=0?At the title screen
+Score: @Digit(b0xh34c*1000000_b0xh34d*10000_b0xh34e*100_b0xh34f*1) | Stage @Digit(b0xh344) | Ships Left: @Digit(0xh346)
