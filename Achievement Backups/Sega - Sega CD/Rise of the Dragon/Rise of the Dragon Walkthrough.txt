@@ -1,0 +1,462 @@
+   Part II: The Walkthrough
+      1. Introduction
+      2. City Hall
+      3. The Jake
+      4. Chen Lu's
+      5. The Date
+      6. The Parchment
+      7. Fireworks
+      8. Kidnapped
+      9. The Secret Meeting
+     10. The Resevoir
+     11. Dragon's Den
+     12. Karyn's Fate
+     13. Rise of the Dragon
+
+3. The Jake
+   If you have your handgun with you, you'll have to give it to the woman in
+the booth before entering the Pleasure Dome.  DO NOT give her the gun if you
+don't have the FISTO candybar with you.  Otherwise you will not get your gun
+back.  Assuming you have the candybar, go ahead and check your weapon, and then
+Slen (the thug) will ask if you have anything else for them.  Give him the
+FISTO bar.  In exchange he'll give you a claim check ticket so you can get your
+gun back when you leave.  From now on you won't have to bribe him...you only
+have to do that once.
+
+   If you want to enter the Pleasure Dome before getting the candybar, keep
+your gun at your apartment.  If you leave it on the street it will get stolen,
+and you will not be able to enter the Pleasure Dome with any guns.  Once inside
+you will notice three people sitting at a table, playing cards.  Might as well
+start here, someone is bound to know where to find "The Jake."
+
+   Darcelle, the woman (posing as a man...uh, posing as a woman) playing cards
+is the only one of the three who seems to be very helpfull, but she hasn't
+seen "The Jake."  She does suggest that you check the bar as she seems
+to think that someone at the bar will be able to help.
+
+   If you want, before you go to the bar, you can go off to the left to see
+the strip show, and to meet a pretty unsavery character.  After that it's time
+to head to the bar.  If you talk to the stoner kid, Casey Jones, he tells you
+that he and "The Jake" are good friends...but he can't quite remember what he
+looks like.  Well, so much for his help.  Talk to the hooker, Candi, and she
+suggests that you talk to Mujalambo the bartender.
+
+   When you talk to Candi, remember to stay faithfull to Karyn.  Yes, Candi is
+a prostitute, and yes you can hook up with her, but NO, it's NOT a good idea!
+When you talk to Mujalambo, he seems mighty suspicious of you.  Just like
+these people to hold a grudge against ex-cops.  Anyway, If you press him hard
+enough he'll reveal that if you want to talk to "The Jake," you should talk to
+the man in the green coat at the end of the bar.
+
+   It is very important that you make the right choices in this conversation.
+You may wish to save your game before talking to this man, because if you say
+the wrong things you can eliminate any chance of winning the game.  There is
+more than one way to complete this task successfully, but be carefull. When the
+guy in the green coat asks for proof, give him the photo of Chandi.
+
+   If you can't seem to get past this conversation, try this sequence.
+
+   1. I'm Looking for "The Jake."
+   2. A friend of his is in trouble.
+   3. Well now he's got LOTS minus one...
+   2. One of your friends has had some trouble... Chandra Vincenzi.
+   1. I'm afraid that she's dead.
+
+   After he tells you to leave, show him the photo as proof and he'll take you
+back to his office to talk.  Again, be very carefull what you say/ask in this
+conversatiion.  The more information you can learn the better.
+
+   I recommend the following sequence.
+
+   2. Who is Chen?
+   3. You think Chandra would want you covering this guy's ass?
+   3. I don't know...but someone does.  Why don't you help me out?
+   4. What's this guy's name and address?
+   
+   If you did this correctly, you'll find out that this guy named Chen lives
+over at 554 Wallaby Street #798.  This location will now be available on your
+Em-way map.  If it hasn't happened yet, then any minute now (assuming you're
+making pretty good time) you will see a Meanwhile sequence in which you learn
+that Johnny Qwong and his warehouse lab technicians are working to finish their
+production quota in three days.  What on Earth could they be manufacturing so
+much drugs for?  And isn't the prophecy supposed to come true in three days?
+
+
+4. Chen Lu's
+
+   Head on over to Chen Lu's (that last name should sound familiar, remember
+in the introduction when Chandi thanked "Lu" for giving her the patch!)  When
+you get there you'll have your first encounter with The Snake, the man with the
+eye-patch that you see in the hall.  When you get to Chen's apartment, you find
+that he is dying.  He has many patches on his skin and you watch as he mutates
+into a twisted, demonic, but dead form.
+
+   After this grotesque scene, you'll have to be quick.  The cops have detected
+your presence and you really don't want to spend the night in jail do you?  Not
+if you want to meet Karen at her place later for a date.  My suggestion is to
+play it as safe as possible.  Remove Chen Lu's ID Card from his vidphone and
+go back to the Em-way.  Loop back around and take the it back to Chen Lu's.
+
+   You'll see that the police have aready come and gone.  Use Chen's ID card to
+get inside.If you forget to take Chen Lu's ID Card with you when you return to
+the Em-way, then you can use one of your bombs to get back inside.  If you have
+to use a bomb however, the police will be called again.  If you are caught by
+the police you will be forced to spend the night in jail.  Once there, head
+back to the vidphone and watch the last message.  It's from someone named Deng
+Hwang, and he looks (and sounds) suspiciously like Bahumat.  Also notice that
+the phone number, social security number, and gun permit number end in 0772.
+
+   Next go ahead and step into the bathroom straight ahead.  There you'll find
+one of the patches of the drug that killed Chandi.  Next, head to the bedroom
+and examine the dragon statue.  Something seems odd about the eyes, try
+clicking on them.  Wow!  The statue sinks down revealing a hidden safe!  It has
+a four digit combination lock.  Plug in 0772 and take the contents consisting
+of a parchment of Chinese writing, and a FISTO bar.
+
+
+5. The Date
+
+   It should be about time for your date with Karyn, so go ahead and head on
+over to her place.  If you're a little early just use the inventory to skip
+ahead in time.  You've already accomplished everything for today, and some time
+with Karyn is just what you need.
+
+   NOTE:  Part of this scene was removed from the Sega CD version of this game.
+          For those of you who do not have access to the DOS version, the
+          sceneraio is described below.
+
+   1. Blade meets Karyn at the door.
+   2. He proposes a toast at the restaraunt.
+   *Sega CD version end's scene*
+   3. Shows Blade french kissing Karyn and thinking about how stupid he was
+      to almost blow his relationship with her.
+   4. All she's thinking about is "He would have to order the liver and onion
+      special."
+   5. Blade (shirt off) leans over Karyn on the couch and thinks "I won't be
+      sleeping on the couch tonight!"
+   6. Blade and Karen sleep together.
+   7. Blade wakes up and says he has to leave to get an early start on a case.
+   8. Karen: "I love you, Blade."
+   9. Blade: "I...uh...er...I mean, yeah me too."
+
+
+6. The Parchment
+
+   After your date, you are in your own apartment again.  If you didn't give
+Karyn the flowers or accept the date, you should just skip the rest of the day,
+get some sleep, and start fresh the next day.  The first order of business
+is to go to City Hall again.  Remember Chang Li?  The old Chinese man?
+He's just the person to translate the Chinese parchment for you.  He also has
+quite of bit to offer you so see him at once.
+
+   Well, it seems that you ARE the one from the prophecy.  It makes you really
+want to know if the bum's description of this hero was accurate!  Hmm, could
+it be a coinsidence that a "knife" is a type of "blade?"  Note that the date of
+August 3rd corresponds to the time the "production quota" is supposed to be
+completed at the warehouse.
+
+  Take the four items from Chang and go ahead and equip the bullet-proof vest.
+You will have to take off your coat for a second to put the vest on underneath
+it.  You can go ahead and examine all of the other items.  The fortune cookie
+will come in handy later, but the other two are merely to serve as good luck
+charms.  You can give the Rock of Life to Karyn, at least she'll get a use out
+of it.  From now on the reservoir will be available on your Em-way map.
+
+   Next head to see Karyn at City Hall.  You can try to see the mayor again but
+he'll be busy.  Talk to Karyn first.  Have her take a look at the drug patch
+and at Chen Lu's ID Card.  She will be able to provide you with an analyzation
+of the drug patch tomorrow, but the ID Card instantly brings up information on
+Johnny Qwong and "The Snake".  Take a look at the information for Johnny Qwong
+and you'll find out his address, which will now be available on your Em-way
+map.
+
+
+7. Fireworks
+
+   For now, don't bother with the reservoir.  When it's time to go there,
+you'll know it.  Take the Em-way to the Pleasure Dome.  It looks as if The Jake
+needs to talk to you.  When he askes if you have anything you want to show him,
+give him the FISTO bar.  If you don't give him the FISTO bar then he won't
+leave a vid-phone message on your machine later, and you will not have access
+to the hidden arcade sequence.
+
+   Next, it's time to pay Johnny Qwong a visit.  There's no way to get into his
+house but it's easy to get into the sewers.  Just be carefull, if you stay down
+there too long you'll be bitten by rats.  If you get bitten twice you're dead.
+If you know what you're doing you shouldn't get bitten, but if you do, that's
+what the First-Aid kit is for.  If you get bitten once, use the kit and you can
+be bitten again without dying.
+
+   Once you enter the sewer you'll see a vidphone maintainence access panel.
+Of course, it just happens to be locked.  Use one of your bombs to get inside
+it and pull out your wire tester.  It's time to tap Johnny Qwong's vidphone.
+But be carefull.  Watch the meters on the top, DO NOT clamp any of the plugs
+to the vidphone lines unless the meters are in the green at the time.  The red
+and blue (positive and negative) wires are to be plugged in by the base of the
+meters, attached to the red and blue wires running down respectively.
+
+   As you clamp each wire, make sure that you also keep a close eye on the
+wire tester itself.  It has a red light and a green light on it.  If the 
+light is green then you have plugged it in the right place.  If the light is
+flashing red, hurry and remove the wire before you get electricuted.  Don't
+try to clamp a wire when the meters are in the red  or you will fried in an
+instant.
+
+   After both the red and blue wires are placed, it's time to clamp the yellow
+ground wire into place.  Notice that there are 8 yellow chambers running down
+the length of the unit?  These 8 are divided into two sections of four.  Clip
+the ground wire on the second chamber from the bottom.  If you clipped it in,
+the right spot Blade will mention that all he has to do now is wait.  If you
+can't figure it out, save the game and keep trying until you get it.  This is
+one of the harder puzzles in the game just figuring out where the yellow clamp
+goes.
+
+   Close the panel and return to your apartment.  It looks like we've inter-
+cepted a message from Deng Hwang himself with orders for Qwong to supervise at
+the warehouse.  Sounds like it's about time we headed back over to the
+warehouse for a little action huh?  Remember the electrical panel to the left
+of the window?  Use one of your bombs there and be prepared for the Bang!
+
+
+8. Kidnapped
+
+   After the fireworks are over, return to your own apartment to recieve
+another intercepted message from Deng Hwang to Johnny Qwong.  Uh oh, looks like
+your little fireworks show has gotten Johnny into some trouble.  Soon enough
+you'll notice yet another Meanwhile scenario.  Now you know just the kind of
+person you're dealing with.  Hwang really IS evil!  And it looks like he's out
+to do whatever he can to keep you out of the way.  But for tonight, there's
+nothing else you can do.  Get some sleep.
+
+   Go over to City Hall when you wake up and speak to Karyn.  She'll have the
+lab report ready in the form of a videotape which some very informative, if
+not haunting, footage.  When she asks if there's anything else, have her run
+an information trace on Deng Hwang.  It turns out that the trace isn't going
+to be simple, but run it anyway.  After learning what you can take the tape
+and leave the room.
+
+   With the tape in your possession, it's time to talk to the mayor.  Be very
+carefull what you say to the mayor or you could wind up in jail.  I recommend
+the following sequence.
+
+   3. You should show a little more courtesy to someone who has information
+      that could cost you the next election!
+   3. I'll tell you... but I think it's time to re-negotiate our deal.
+   2. Well, since you put it that way, I don't see how I can refuse.
+   *hand the tape to the mayor*
+   3. No effin' way!  I'm finished with this crap!  Show me the door!
+
+   If you did this correctly you will recieve the LAPD security card which you
+can use to get into the armoury.  Go into the Police Headquarters regardless of
+Jenni's protest, and hand the guard your security clearance.  Go off to the
+armoury (the hall leading to the right) where you can equip yourself with a
+much better gun.
+
+   With this new gun, head back to your apartment and skip through some time.
+There's nothing you can do at the moment.  In a few hours time you'll see
+another Meanwhile sequence in which Karyn is kidnapped!  You'll find a message
+from Deng Hwang addressed personally to you in your vidphone.
+   
+   At this moment there is still nothing you can do unfortunatey.  Go ahead
+and skip through some more time and get some sleep.  If you've been following
+this guide then you've been making good time.  Go ahead skip this whole day
+and get some sleep.  You'll have a big day tomorrow on August 4.
+
+
+9. The Secret Meeting
+
+   When you wake up on the 4th, check your vidphone messages.  If you gave the
+candybar to The Jake then you'll have a message from him now.  If you didn't
+give him the candybar, simply skip time until Deng Hwang calls units to the
+Resevoir.  Then jump ahead to section 6 in this walkthrough.
+
+   The Jake seems a bit disturbed, but he asks you to meet at the warehouse at
+8:30.  Go ahead and go to the warehouse now, and skip time until 8:30.  Save
+your game before you leave.
+   
+ARCADE SEQUENCE - The Fight with Snake
+
+   NOTE: The DOS version will automaticly allow you to win the arcade
+         sequences when you die five times.  The Sega CD version does
+         not have this option, but both have infinate continues so as
+         long as you saved your game before-hand you should be alright.
+
+   Jump to the right off the platform you start on.  If you land in the oil
+you die.  So be carefull.  Quickly duck and shoot to get rid of the crouching
+guard, then take out the other two guards while ducking to avoid their shots.
+Crawl underneath the fog and quickly shoot the quards in front of you.  Then
+quickly jump over the hole in the ground.  Jump both up and over to avoid
+falling into the hole.
+
+   Walk under the lamp only right after the red beam is done shining.  Then
+take out the awaiting guards.  Slip under the fog and the red beam when you
+can.  You may have to practice your timing.  Then jump over the next hole and
+walk to the right, crawling underneath the electrical field where The Snake
+will make his appearance.
+
+   The best technique to beating Snake is to fight hand to hand.  Get off as
+many shots as you can at first and when he comes across the hole in the
+ground, make sure you're standing right next to where he'll land...as soon as
+he drops down keep attacking and you'll beat him with your gun while can't
+get a shot off.
+
+   If you only have the handgun, then expect all the enemies to be harder to
+defeat.  The automatic rifle will allow you to kill most of the guards in one
+shot.  After defeating Snake, you'll recieve Snake's ID Card which you can use
+to sneak into Deng Hwang's Headquarters.  This is the easiest way in, but I
+recommend detouring to the reservoir just to experience all the Arcade
+sequences in the game.
+
+   You can take the Em-way straight to Deng Hwang's if you want.  Just use
+Snake's ID Card to get past security.  If you choose this option, skip to
+section 11 in this walkthrough.
+
+
+10. The Reservoir
+
+ARCADE SEQUENCE - The Reservoir
+
+   Unlike the other arcade sequences, you will only have one chance at this
+one.  Make it count.  It's a very good idea to save just before you go to the
+Reservoir.  As soon as you get there go into your inventory and equip your
+most powerfull gun.  If you only have the handgun, then I sincerely wish you
+luck.  You'll need it!
+
+   You'll find yourself attacked very quickly.  There are five enemies you
+need to take out.  If you're wearing the bullet-proof vest you'll be able to
+withstand more hits, but your still going to have to get out there and kick
+some ass.  Below are the locations of the five enemies you need to kill.
+
+   1. behind the truck to the left
+   2. in the window just past the first enemy
+   3. on the roof
+   4. behind the hovercar
+   5. to the right of the hovercar behind a rock
+
+   The stakes are very simple.  Win, and you can steal the hovercar.  Lose, and
+not only do you die, but so does the entire population of Los Angeles.  For
+everyone's sake I hope you win.  You can fly the hovercar to most of the city,
+but time is short.  If you haven't seen the next Meanwhile sequence yet, you
+will very soon.  Karyn tries to struggle with the guards, and it looks as if
+Hwang plans to kill you if you try to rescue her.  Save your game and take the
+car directly to Hwang's headquarters.
+
+
+11. Dragon's Den
+
+   When you land on the roof take a deep breath and be prepared.  For the rest
+of the game you will have to act extremely quick.  The best advice I can offer
+is to save often.  But it's a good idea to save in a seprate file than the one
+you have saved on so far.  The Sega CD allows you to save up to three games so
+take advantage.
+
+Note: If you took the Em-Way to Hwang's, you will arrive at the security gate
+      rather than the roof.  Either way, once you enter the building you will
+      be in the same room as you would have had you took the hovercar.
+
+   When you take the elevator down, your next goal is to break into the
+security room.  By far the most appealing way to get by the receptionist is to
+spray her with Napent.  This is one of the best scenes in the Sega CD version
+of the game, and unfortunately it is entirely absent in the DOS version of the
+game.  If you're playing the DOS version, you should have no problem talking
+your way into the room, but you better hurry and get inside before she double-
+checks your story!
+
+   When you get inside, go straight to the control panel and lock the break
+room!  The receptionist won't be fooled long and you need to keep the guards at
+bay as long as you can.  Next make sure the interrogation room and the 
+janitor's closet are both unlocked.  Your next step is to shut down the
+electronic gate that you need in order to get past the room with the
+receptionist.  In order to do that you're going to have to shut down the
+security feature first.
+
+   Click the Security switch to off, you'll have to insert a card or punch in
+the manual override.  You can try any of the ID Cards you have, but you won't
+have the proper clearance so you're going to have to do this the hard way.
+Notice the colored buttons at the bottom of the panel?  Now's the time to
+read your fortune cookie.  The letters on the cookie's note correspond to the
+color of the buttons in the order you need to press them.
+
+   RYP-YWP-YRPWRY-PBW
+
+   This translates to: 1. Red
+                       2. Yellow
+                       3. Purple
+                       4. Yellow
+                       5. White
+                       6. Purple
+                       7. Yellow
+                       8. Red
+                       9. Purple
+                      10. White
+                      11. Red
+                      12. Yellow
+                      13. Purple
+                      14. Blue
+                      15. White
+
+   After entering this sequence of buttons, shut down the gate and get out of
+there as fast as you can.  Hurry, the guards will be on your tale
+for the rest of the game.
+
+
+12. Karyn's Fate
+
+   As soon as your done explaining to the receptionist, head down the hall.
+Take the first door on your right, this will be the janitor's closet.  Quickly
+open the top and bottom panels on the circuit box.  Flip the switch to the left
+to shut off the current, and then take the screwdriver from the sink.  Use it
+to remove the wires from the lower box.
+
+   Hurry on out of this room, and head to the next one.  Here you'll find
+Karyn!  She has three plugs coming out of her neck, and precious few seconds
+to live.  Keep on your toes pal, this is getting serious.  Place the wires
+across her body, then remove the three plugs as quickly as you can.  If you
+can't save her, you can still win the game so hurry on out of here to confront
+Bahumat.  You may wish to save the game before rescuing Karyn so that you can
+compare the endings.
+
+
+13. Rise of the Dragon
+
+ARCADE SECUENCE - The Final Battle
+
+   This arcade sequence controls very like the fight with snake, but as you'd
+expect, it's a bit harder to get through.  Once again, if you're playing the
+DOS version you will be able to go ahead and win if you die five times.
+
+   After the shocking introduction, walk to the right and shoot the three
+guards, jump straight up and shoot the red switch to shut of the flames.  Then
+continue to the right and up the stairs.  Take out the guards and continue
+until you come to the end of the raised platform.  This is the hard part, first
+drop down to the lower platform.  Then duck and shoot the guard before he
+shoots you.  Duck, and crawl underneath the flames.
+
+   The next jump is a big one, get as close to the edge as you can without
+falling in and jump both up and to the right.  You should just barely make it
+to the other side in time for another similarly difficult jump.  Take out the
+guard and shut off the flames the same way you did the first ones.  Continue
+to the right.
+
+   Quickly cross the bridge and take out all the guards before they can do too
+much damage to you.  Continue across, shoot the next guard and then jump across
+to the other platform.  Climb the golden stairs and prepare to face Bahumat!
+
+The strategy for beating Bahumat is pretty easy.  Stay at a distance, his tail
+will easily defeat you in close range combat.  Limit him to his fireballs and
+shoot as often as you can with your gun.  If you only have the handgun then
+you should probably try to avoid his fireballs, but regardless, make sure
+standing up straight on the same platform as Bahumat when you shoot.  This will
+ensure that each shot hits him sqaure in the chest, resulting in the most
+damage.
+
+   After he's defeated, watch the epilogue, followed by the credits.  You have
+successfully beaten the game.  Congratulations.
+
+   NOTE: The ending will be slightly different depending on whether or not you
+         save Karyn.  I hope you enjoyed the game as much as I did.
+
+///////////////////////////////////////////////////////////////////////////////
+
+
+

@@ -1,0 +1,7 @@
+
+
+All Weapons	
+Up, Right, Left, Down, B, L, R, A, Right, X, B, Left, R, Y, Up
+
+Invincibility	
+Down, Left, Up, Right, L, A, X, Left, R, B, Y, Up, L, A, Down

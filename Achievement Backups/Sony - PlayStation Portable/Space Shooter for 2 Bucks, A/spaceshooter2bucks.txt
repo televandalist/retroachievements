@@ -1,0 +1,45 @@
+Warm-Up						Defeat 100 aliens
+Pest Control				Defeat 1000 aliens
+Take That, Alien Scumbags	Defeat 10000 aliens
+Alienator					Defeat 50000 aliens
+The Day of Reckoning		Defeat 100000 aliens
+Buyer						Buy an upgrade at the shop
+Armed & Ready				Buy all upgrades of the Main Cannon
+We Meet Again, Jenna!		Buy all upgrades at the shop
+Survivor					Survive 5 minutes in Survival mode
+Lost in Space				Survive 30 minutes in Survival mode
+This is Totally Insane!		Survive 60 minutes in Survival mode
+Awesome Skills				Obtain a x10 multiplier in Survival
+That Was Easy				Obtain a score of 10000 Survival
+A Truckload of Points		Obtain a score of 50000 points in Survival
+It's Gonna Be Legen...		Obtain a score of 100000 points in Survival
+...Wait for it...			Obtain a score of 250000 points in Survival
+Dary!						Obtain a score of 1000000 points in Survival
+Randomness					Complete Helyix sector
+Entropy						Complete Blattar VI sector
+Noise						Complete Korceus sector
+Haphazardness				Complete Virdys sector
+Stochasticity				Complete Alkar sector
+Nothingness					Defeat the Void in the Underius IV sector
+Hell Yeah!					Defeat the Fiend in the Agazaru II sector
+Your Majesty				Defeat the Empress in the Superia sector
+Halfway Through				Complete all sectors of the Aliendar System
+Unpredictable				Complete Xertha V sector
+Erratic						Complete Manakar sector
+Ergodicity					Complete Zemdor sector
+Aleatory					Complete Ulziel IX sector
+Irregular					Complete Alio sector
+Haunted						Defeat the Phantom in the Ravengarus III sector
+Cold Blooded				Defeat the Chill in the Tolarr sector
+P-Man: Master of the Universe	Defeat X, the Supreme ALien God Emperor in the Final Sector
+That's How It Is Done!		Complete all sectors of the Bartodir system
+The Void Dance				Defeat the Void without being hit by any meteorite
+Toreador					Defeat the Fiend by dodging all charged attacks
+Majestic					Defeat the Empress without being hit by her personal beam attack
+Ghostly						Defeat the Phantom without being hit by the charged beams
+Chilled Out					Defeat the Chill without being hit by his Frost Nova attack
+Untouchable					Reach a boss without being hit
+Pacifist					Reach a boss without shooting
+Got Enough for 2 Bucks?		Complete the game on Competent difficulty setting
+Insane in the Brain			Complete the game on Insane
+Crazy and Immortal			Complete the game on Die Trying	

@@ -1,0 +1,10 @@
+0x3191c8c	[32-Bit] Macca
+0x3191cb0	[16-Bit] Flynn - Strength
+0x3191cb2	[16-Bit] Flynn - Dexterity
+0x3191cb4	[16-Bit] Flynn - Magic
+0x3191cb6	[16-Bit] Flynn - Agility
+0x3191cb8	[16-Bit] Flynn - Luck
+0x3191cba	[16-Bit] Flynn - Current HP
+0x3191cbc	[16-Bit] Flynn - Current MP
+
+0x35f8cd4	[16-Bit] Enemy 1 - Current HP

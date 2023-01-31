@@ -1,0 +1,294 @@
+00 - Attack Knife
+01 - Machete
+02 - Tonfa
+03 - Spike Rod
+04 - Replica Sword
+5
+- Unnamed Katana
+06 - Seiryu-to
+07 - Scorpion Whip
+08 - Battle Hammer
+09 -
+San-setsu-kon
+0A - Bizen's Tanto
+0B - Chainsaw
+0C - Athame Knife
+0D -
+Gladius
+0E - Meito Kotetsu
+0F - Tomoe's Naginata
+10 - Mikazuchi's Tachi
+11 -
+Kodachi of Light
+12 - Guillotine Axe
+13 - Lotus Whip
+14 - Bizen-Osafune
+15 -
+Raiden's whip
+16 - Lance of Curses
+17 - Kamudo's Sword
+18 - Plasma Sword
+19 -
+Kusanagi-no-tsurugi
+1A - Brionac
+1B - Tokkosho
+1C - Kuchinawa's Sword
+1D -
+Futsu-no-mitama
+1E - Sonic Blade
+1F - Cliamh Solais
+20 - Shichiseisen
+21 -
+Higyosanko
+22 - Kodachi of Kikusui
+23 - Yoto Nihiru
+24 - Present from Hades
+25
+- Gae Bolga
+26 - Maken Murasame
+27 - Deathbringer
+28 - Headhunter Spoon
+29 -
+Cat of Nine Tails
+2A - Renki-no-ken
+2B - Ame-no-Nuboko
+2C - Yatsuki's Sword
+2D
+- Valhalla Sword
+2E - Sword of Hao
+2F - Hades Hazuki
+30 - Angel's Trumpet
+31 -
+Luna Blade
+32 - Reaper's Bell
+33 - Majousen
+34 - Lotus Wand
+35 - Longinus
+36 -
+Soul Blade
+37 - Stradivari
+38 - Ame-no-Murakumo
+39 - Fuujin-ken
+3A -
+Raijin-ken
+3B - Karyu-ken
+3C - Sword of Heaven
+3D - Masakado's Katana
+3E -
+Kurikara's Sword
+3F - Hinokagutschi
+40 - New Nanbu
+41 - Beretta 92F
+42 - MPS
+Machinegun
+43 - M16 Rifle
+44 - SPAS12
+45 - M249 Minimi
+46 - Browning L2
+47 -
+Pauza P50
+48 - Explosive Gun
+49 - Golden Gun
+4A - Gigasmasher
+4B - Kunitomo's
+Gun
+4C - L134 Minigun
+4D - Rail Gun
+4E - Megido Fire
+4F - Peacemaker
+50 -
+Bullets
+51 - Shotgun Shells
+52 - Poisoned Bullets
+53 - Nerve Bullets
+54 -
+Cursed Bullets
+55 - Blessed Bullets
+56 - Silver Bullets
+57 - Uranium Slugs
+58 -
+Plutonium Slugs
+59 - Magic Shells
+5A - Medusa Shells
+5B - Antimagic Shells
+5C -
+Flash Slugs
+5D - Happy Shot
+5E - Bullets of Light
+5F - Bullets of Darkness
+60 -
+Headgear
+61 - Full Helm
+62 - Fritz Helm
+63 - Metal Crown
+64 - Dullachan Helm
+65
+- Tricorne Hat
+66 - Dark Crown
+67 - Demoneater Helm
+68 - Spirit Crest
+69 -
+Dragon Helm
+6A - Crimson Helm
+6B - Circlet of Knowledge
+6C - Masquerade
+6D -
+Safe
+6E - Hermes Helm
+6F - Panzer Helm
+70 - Jagd Helm
+71 - Sturm Helm
+72 -
+Magician's Mask
+73 - Moonbeam String
+74 - Suwa Hossho's Helmet
+75 - Jesus
+Helm
+76 - Tenma Helmet
+77 - Masakado's Helmet
+78 - Survival Vest
+79 - Kevlar
+Vest
+7A - Fire Guard
+7B - Thunder Guard
+7C - Highleg Armor
+7D - Ageha Dress
+7E
+- Italiarmor
+7F - Tetrajammer
+80 - Haou's Armor
+81 - Robe of Law
+82 - Dragon
+Mail
+83 - Crimson Armor
+84 - Devil Corset
+85 - Black Armor
+86 - Powered Suit
+87
+- Hakuma's Armor
+88 - Panzer Suit
+89 - Jagd Armor
+8A - Sturm Suit
+8B - Earth
+Mail
+8C - Argama Suit
+8D - Jesus Armor
+8E - Tenma Armor
+8F - Masakado's
+Armor
+90 - Leather Glove
+91 - Rivet Knuckle
+92 - Kaiser Knuckle
+93 -
+Gauntlet
+94 - Cyber Arm
+95 - Iron Claw
+96 - Atlas Gauntlet
+97 - Kishin
+Gauntlet
+98 - Draupnir
+99 - Crimson Gauntlet
+9A - Panzer Fist
+9B - Jagd
+Glove
+9C - Sturm Glove
+9D - Jesus Glove
+9E - Tenma Gauntlet
+9F - Masakado's
+Gauntlet
+A0 - Leather Boots
+A1 - Combat Boots
+A2 - Rider Boots
+A3 - Jet Boots
+A4 - Sky
+Heels
+A5 - Metal Boots
+A6 - Dancing Heels
+A7 - Dragon Boots
+A8 - Musha
+Greaves
+A9 - Crimson Greaves
+AA - Panzer Legs
+AB - Jagd Leg
+AC - Sturm Legs
+AD
+- Jesus Legs
+AE - Tenma Greaves
+AF - Masakado's Greaves
+B0 - Ointment
+B1 - Gyuotan
+B2 - Magic Stone
+B3 - Muscle Drink
+B4 - Orb
+B5 -
+Hiranya
+B6 - Dis-Poison
+B7 - Dis-Paralyze
+B8 - De-Stone
+B9 - Soma
+BA - Gold
+Pill
+BB - Soul Incense
+BC - Magic Bottle
+BD - Strength Incense
+BE -
+Intelligence Incense
+BF - Magic Incense
+C0 - Stamina Incense
+C1 - Speed
+Incense
+C2 - Luck Incense
+C3 - Molotov Cocktail
+C4 - Hand Grenade
+C5 -
+Stinger
+C6 - Dragon ATM
+C7 - Poison Bottle
+C8 - Agirao Stone
+C9 - MahaAgi
+Stone
+CA - Jionga Stone
+CB - MahaZio Stone
+CC - MahaBufu Stone
+CD - Holy
+Water
+CE - Soul Returner
+CF - Hamaya
+D0 - Hell-Soul
+D1 - Charm
+D2 - Poison
+Arrow
+D3 - Hiko-Bari
+D4 - Angel Hair
+D5 - Ashura Hand
+D6 - Pentagram
+D7 -
+Segaki Rice
+D8 - Kodokuzara
+D9 - Smoke Bomb
+DA - Nyorai Statue
+DB - Amida
+Beads
+DC - Rosary
+DD - Amulet
+DE - Talisman
+DF - Fuma Bell
+E0 - Core Shield
+E1
+- Gushing Jar
+E2 - Omikuji
+E3 - Indulgence
+E4 - Garnet
+E5 - Amethyst
+E6 -
+Aquamarine
+E7 - Diamond
+E8 - Emerald
+E9 - Pearl
+EA - Ruby
+EB - Onyx
+EC -
+Saphire
+ED - Opal
+EE - Topaz
+EF - Turquoise
