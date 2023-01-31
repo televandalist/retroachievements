@@ -1,0 +1,128 @@
+0x003f	
+Current Magic (80 Hex = Twin Fire, 60 Hex = Blizzard, 40 Hex = Breaker, 10 Hex = Overdrive, 08 Hex = Thunder)
+
+0x0042	
+Player 1 Input
+
+0x0043	
+Player 2 Input
+
+0x004f	
+Attack
+
+0x0060	
+Stage Progession (Every cycle of 0x000060 causes 0x000061's value to go up a digit)
+
+0x0064	
+Inventory
+Bit7=Bracelet
+Bit6=Jumpboots
+Bit5=Blizzard Active
+Bit3=DragonCarving
+Bit1=WizardStaff
+
+0x0066	
+Level
+
+0x0074	
+Stage Progression
+
+0x0075	
+Stage Progression
+
+0x00ae	
+(80 Hex) When Magic Selected (00 Hex) When Magic Deactivated
+
+0x00e0	
+Music
+
+0x0300	
+00 Idle, 01 Walking, 02 Jump/Fall, 0A Hex Death, 16 Hex Player Lives Screen, F7 Hex Title Screen, 15 Hex Ending Scene ( Warning - Also grabbing power up at end of stages - Only reliable for achievements based in stage 6) 29 Hex = Flying as Dragon
+
+0x0301	
+Attack Used? - 08 Normal, 09 Idle, 0B Hex Twin Fire, 11 Hex Blizzard, 14 Hex Thunder, 2E Hex Breaker, 3C Hex Overdrive. Will Move to 0x000302 and 0x000303 if Blizzard is active
+
+0x030f	
+In Menu? = 03 / Ending = 0C
+
+0x0340	
+Walking animation timer during title screen
+
+0x0370	
+Player X
+
+0x03a0	
+Player Y
+
+0x0440	
+Health
+
+0x0446	
+Stage 1 / 2 Boss Health
+
+0x0450	
+Sprite Animation?
+
+0x0466	
+Counts Down From 24 Hex to 00 When Stage 1 Boss Dies (Flashing)
+
+0x048f	
+Lives Remaining
+
+0x0490	
+Magic Points Remaining
+
+0x0570	
+Health Jug?
+
+0x0571	
+Feather = bit0
+Resets every stage
+
+0x0574	
+Extra Life - Bit0 = 0 At the start of every stage. Bit0 = 1 when Extra life is picked up.
+
+0x0580	
+Stage 4 Eye Position Top
+
+0x0581	
+Stage 4 Eye Position Middle
+
+0x0582	
+Stage 4 Eye Position Bottom
+
+0x0583	
+Final Boss Part of Arm HP
+
+0x0584	
+Final Boss Part of Arm HP / Stage 4 Boss Health - 80 Hex Defeated (Top Eye)
+
+0x0585	
+Stage 4 Boss Health - 80 Hex Defeated (Middle Eye)
+
+0x0586	
+Stage 4 Boss Health - 80 Hex Defeated (Bottom Eye)
+
+0x111e	
+health jug?
+
+0x1b0a	
+Stage 3 Plant Red Bullet Attack (2C Hex Attack, 2F Bullet Explode, FF No Bullet)
+
+0x1b0b	
+Stage 3 Plant Red Bullet Attack (2C Hex Attack, 2F Bullet Explode, FF No Bullet)
+
+0x1b0c	
+Stage 3 Plant Red Bullet Attack (2C Hex Attack, 2F Bullet Explode, FF No Bullet)
+
+0x1b0d	
+Stage 3 Plant Red Bullet Attack (2C Hex Attack, 2F Bullet Explode, FF No Bullet)
+
+0x1b0e	
+Stage 3 Plant Red Bullet Attack (2C Hex Attack, 2F Bullet Explode, FF No Bullet)
+
+0x1b57	
+Stage 3 Boss Plant Y Position
+
+0x1b58	
+Stage 3 Boss Plant Y Position

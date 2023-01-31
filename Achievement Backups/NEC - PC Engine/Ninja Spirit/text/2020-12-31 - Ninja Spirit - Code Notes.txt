@@ -1,0 +1,79 @@
+0x000c
+0x00 - Arcade Mode
+0x10 - PC Engine Mode"
+
+0x0039
+Screen
+0a:Title
+0c:Menu
+0d:Sound Test
+04:Opening
+
+0x0047
+Shadows
+04 - none
+08 - one
+0c - both
+
+0x0078
+88=demo mode
+80=title
+
+0x0b47
+Cheat input. 0xff when active
+
+0x0b4a
+Stage Select Number (1-6)
+
+0x0b4c
+Secret Message I
+0xff when activated
+I, II, II, I, Select, Run
+
+0x0b4d
+Secret Message 2
+0xff when activated
+II, I, I, II, Select, Run
+
+0x0b5e
+Timer
+
+0x0b68
+Num Vida
+
+0x0b6a
+Stage Number
+
+0x0b6b
+Stage Start (1-6)
+
+0x0b70
+Current Score X 100 - 32-bit
+
+0x0b78
+bit0 - Upgraded Shuriken
+bit1 - Upgraded Sword
+bit2 - Upgraded Bombs
+bit3 - Upgraded Sickle and Chain"
+
+0x14b6
+Weapom [Mostrador Auxiliar]
+02-sword
+00-shuriken
+04-bombs
+06-sickle/chain
+
+0x153b
+Flame Upgrade
+
+0x17c9
+Health
+
+0x1be1
+Weapon [Mostrador Principal]
+
+0x1c64
+Weapon [Mostrador Auxiliar]
+
+0x1ff8
+Hi Score X100 - 32-bit

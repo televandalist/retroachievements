@@ -1,0 +1,16 @@
+Format:Digit
+FormatType:VALUE
+
+Lookup:Stage
+0=the Cursed Chapel
+1=the Hell of Entrails
+2=the Poison Moss Land
+3=the Golden Temple
+4=the Demonic Palace
+5=the Black Slayer
+
+Display:
+?0xh48f=0?GAME OVER
+?0xh48f=255?At the title screen
+?0xh30f=3?Looking through the menu
+Randy is at @Stage(0xh66) | Lives Remaining: @Digit(0xh48f)

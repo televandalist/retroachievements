@@ -1,0 +1,10 @@
+Format:Digit
+FormatType=Value
+
+Lookup:Shadows
+0x4=🚶‍♂️
+0x8=🚶‍♂️🚶‍♂️
+0xc=🚶‍♂️🚶‍♂️🚶‍♂️
+
+Display:
+Score: @Digit(0xXb70*100) | @Shadows(0xl47)

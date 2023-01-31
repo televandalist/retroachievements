@@ -1,0 +1,25 @@
+Format:Digit
+FormatType:VALUE
+
+Lookup:Mode
+0x1=1P
+0x2=2P
+0x3=3P
+0x4=4P
+0x5=Slow Motion 1P
+0x6=Slow Motion 2P
+0x7=Slow Motion 3P
+0x8=Slow Motion 4P
+
+Lookup:Ball
+0x0=1
+0x1=2
+0x2=3
+0x3=4
+0x4=5
+
+Display:
+?0xh7=0?Probably selected something they shouldn't have
+?0xh7=255?Not playing Thunderball! Not yet anyway...
+?0xh29=5?Game Over! Much sad!
+@Mode(0xh7) Mode | Ball number @Ball(0xh29) | Score: @Digit(b0xh2b*10000_b0xh2c*100_b0xh2d*1) | Bonus Pile: @Digit(b0xh30*100_b0xh31*1)

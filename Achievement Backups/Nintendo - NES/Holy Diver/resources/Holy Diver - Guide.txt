@@ -1,0 +1,1185 @@
+ _   _   _____   _      _   _      ___    _____  __      __  _____   _____
+| | | | |  _  | | |    | |_| |    |   \  |_   _| \ \    / / |  ___| |  _  |
+| |_| | | | | | | |    |_   _|    | |\ \   | |    \ \  / /  | |__   | |_| |
+|  _  | | | | | | |      | |      | | | |  | |     \ \/ /   |  __|  |    _|
+| | | | | |_| | | |___   | |      | |/ /  _| |_     \  /    | |___  | |\ \
+|_| |_| |_____| |_____|  |_|      |___/  |_____|     \/     |_____| |_| \_\
+
+
+Copyright Irem 1989
+Written By Brian P. Sulpher
+E-mail: briansulpher@hotmail.com
+Version FotM
+Dates Written: May 25th to May 28th, 2004
+
+I dedicate this to NES fans everywhere as I return to my love in writing...
+The NES Gaming Community.  I write these things to assist new and old 
+players alike, so here's hoping this assists you in your trials with this 
+game!
+
+I also dedicate this to Trace "Meowthnum1" Jackson, Nathan "Minesweeper" 
+Norris, and Chad "BTB" Steele for listening to me complain about how hard 
+this game can be in some places while I was writing this FAQ.  Thanks guys,
+you are awesome!
+
+Also, for Cougar, Howler, and Koonce.  I miss you, and I hope you are living
+it up in the afterlife as you did in this world.  You will always be in my 
+memories, and you will never be forgotten.
+
+-----------
+Version 1.0
+-----------
+
+-Submitted guide on May 28th, 2004
+
+-----------
+Version 1.5
+-----------
+
+-Submitted guide on June 2nd, 2004
+-Added in strategy for the Stage 2 Boss, Parasite
+-Added in a secret area in Stage 5
+-The above two additions are the work of GameFAQs user "Starion" so a 
+ multitude of thanks to him for his knowledge on this game!
+
+-----------
+Version 1.6
+-----------
+
+-Submitted guide on September 21st, 2004
+-Did some format updating
+
+-----------
+Version 2.0
+-----------
+
+-Submitted guide on July 16th, 2005
+-I added in Retronintendo and Honestgamers as sites allowed to use my FAQs
+-Altered the format to make it easier on the eyes of the reader
+-Added in new info on the "Parasite" fight in Stage Two, thanks to Nick 
+ Morgan for the contribution
+
+------------
+Version FotM
+------------
+
+-Submitted guide on February 6th, 2015
+-Made a correction to the story as the hero is named "Randy", not Randy
+ (thanks to D Walter for the correction)
+
+----------------------------------------------------------------------------
+-----------------------------Table Of Contents------------------------------
+----------------------------------------------------------------------------
+
+1) Introduction
+2) Controls
+3) Stage 1
+4) Stage 2
+5) Stage 3
+6) Stage 4
+7) Stage 5
+8) Stage 6
+9) Magic Spells
+10)Items
+11)Final Word
+
+----------------------------------------------------------------------------
+-------------------------------Introduction---------------------------------
+----------------------------------------------------------------------------
+
+1) Here is a hard to find, Japanese game that plays similarly to those
+   Castlevania games that so many others love.  It even uses the whole 
+   medieval motif, though magic spells are far more prominent.  Anyhow, it
+   also has a very high challenge level, but nothing too tough to begin 
+   with.  However, once you reach Stage Five or Stage Six (I defy ANYONE to
+   get through the quintuple Rock Face room without save stating once since
+   that is likely where you will play it), you will have surpassed even 
+   Battletoads for nearly impossible to beat challenge (and I am dead 
+   serious in stating this).  However, despite this limited availability, I 
+   will not be telling you where to find any ROMs or Emulators, so any 
+   e-mails asking for them will be ignored completely (I am not a ROM 
+   dealer, so don;t even bother trying to ask me).
+
+   The following is a story constructed based on the ending of the game, so
+   it may not be 100% accurate to what the game programmers had in mind when
+   they made the game:
+
+
+Randy, the hero, is setting out to retrieve the five emblem seals belonging
+to the King Crimson Family in an attempt to expell the greatest evil, the
+Black Slayer.  He will have to battle through the horde of evil and dark 
+creatures at Black Slayer's command however, making his mission near 
+impossible!  However, he can counter their Black Magics as he gains the use
+of new, Holy Magics as well as some much needed equipment!  So, set out with
+courage, hope, and a little luck, or the darkness will surely dominate!
+
+
+   Sounds pretty sweet eh?  Well, despite the insane challenge later on in
+   the game, this is a truly great game and I highly recommend you see it 
+   through to the end to reap the bounty this game has to offer.
+
+----------------------------------------------------------------------------
+---------------------------------Controls-----------------------------------
+----------------------------------------------------------------------------
+
+2) This section will give all the goods on how to control Randy and vanquish
+   the evil.
+
+
+D-Pad   : LEFT and RIGHT move Randy in the corresponding direction.
+          DOWN will cause Randy to duck.  Hold UP to throw a 
+          fireball upwards.
+
+SELECT  : Toggles your currently selected Magic Spell ON/OFF.
+
+START   : Pauses/unpauses the game.
+
+B Button: Throws your fireball as well as triggers some Magic Spells.
+
+A Button: Randy will leap into the air.
+
+----------------------------------------------------------------------------
+----------------------------------Stage 1-----------------------------------
+----------------------------------------------------------------------------
+
+3) Welcome to NOROI NO KYOKAI!  Here you will first get to experience the 
+   tough challenges ahead of Randy!
+
+
+                               o---------o
+                               | Enemies |
+                               o---------o
+
+Daemons......: These small, flying, evil entities will usually appear in 
+               large numbers, flying a zig-zag pattern at Randy.  If they 
+               are allowed past, they will loop around to attack from
+               behind.  One shot takes them down, but they can be tough
+               to destroy.
+
+Executioner..: These small, red-hooded fellows walk around at a brisk pace, 
+               looking to run into Randy.  They are rather basic enemies, 
+               so stick a fireball into them and they will go away.
+
+Flying Devil.: These large, spear and shield carrying devils will hover for 
+               a few seconds before charging at Randy.  You can either jump
+               and throw fireballs into them, get underneath them to throw 
+               fireballs into them on a ninety degrees angle, or you can 
+               let them charge, bringing them down to your level of fire.  
+               They take two hits, so the first two options are the 
+               recommended method of disposal.
+
+Purple Baller: These purple guys will charge and somersault all around your
+               character in an attempt to make themselves tough to hit as 
+               they sap your stamina.  Shoot them twice to destroy them, 
+               remembering that ducking their attacks can save some 
+               aggravation.
+
+
+                             o-------------o
+                             | Walkthrough |
+                             o-------------o
+
+The game begins with the protagonist on a tall cliff, overlooking a gnarled
+old tree by the entrance of an ancient castle on a dark night lit up by 
+constant flashes of lightning.  Head on down the tree or just free fall to 
+the side of it (does not hurt you to do so), followed by moving right to 
+pass through the door to the inside of the castle.
+
+Head down and to the right, killing the kamikaze-like Executioners as they
+charge forward.  After a little bit of walking, Flying Devils will appear,
+so jump and fire away or get underneath them and throw fireballs upwards to
+eliminate them.  Continue moving right past these two foes to find a 
+stairway leading upwards, but go under the platform first to grab the 
+Bracelet, which allows your fireballs to destroy certain blocks.
+
+Once you have climbed the stairs, destroy the blocks (thanks to the power of
+the Bracelet), collecting the Items within.  If you are still not completely
+full on Lifer and Magic, go down the stairs and come back up to reset the
+blocks, allowing more Items to be collected.  Once you are ready, head right
+to find Daemons appearing in sets of three, using their zig-zag attack 
+patterns.  Try to destroy them as they come at you, but be ready to jump 
+them if you miss, followed by destroying them as they come at you from 
+behind.  Flying Devils will also appear here, so work forward quickly but 
+efficiently to escape this trap.  You will come across more breakable blocks
+and a Purple Baller (who often has a Life Potion on hand to refill your 
+health) as well as the door to the next area.
+
+You will once again be outside, this time the tree you see will need to be
+climbed upwards.  Purple Rollers will attack as you progress upwards, so use
+your upwards fireball ability to kill them before they get to the branch you
+are on.  Once you reach the top, grab the 1-Up Doll to add an extra player
+to your reserves, and then move left to pass through the door to the BOSS
+FIGHT!
+
+
+                                o-------o
+                                | Satyr |
+                                o-------o
+
+this part goat, part human abomination is the lovely fellow that guards the
+end of this level.  Before you even enter the fray, toggle your Magic Spells
+ON, allowing you to use Twin Fire.  Head left to see the beat appear, giving
+you time to shoot it once in the head.  It will then charge and jump over 
+you, so jump and fire at it's head as it lands, then start running in the 
+opposite direction, stopping when it leaps over you again or starts to throw
+fireballs of it's own.  Once he finally decides to throw fireballs, run away
+from him till he is just off-screen, signaling his fireballs will not reach
+Randy (if he is closer to the side of the area, just get as far away as you 
+possibly can).  Once this occurs, he will continue with the same attacks 
+patterns, so keep whittling him down, as he takes twenty hits of Twin Fire to
+destroy!  Now head left to exit the room to come across the Blizzard Magic.
+
+----------------------------------------------------------------------------
+---------------------------------Stage 2------------------------------------
+----------------------------------------------------------------------------
+
+4) Welcome to ZOUMOTSU ZIGOKU!  Here your Blizzard Magic will get christened
+   as the challenge takes a large leap forward!
+
+
+                               o---------o
+                               | Enemies |
+                               o---------o
+
+Bat..........: These grey beings will sit on the roof, hopping back and 
+               forth, firing off triple shots at the ground when your 
+               character nears.  Hit it twice while it is in motion to 
+               destroy these severe annoyances.
+
+Blob.........: These red balls of matter will bounce all around, trying to
+               smother Randy.  use a single shot to wipe them out.
+
+Flame Dragon.: These nasty fellows will hop around, spewing fireballs at 
+               Randy.  They take about a dozen hits to take down, so using 
+               Twin Fire Magic is highly recommended to make life easier.
+
+Purple Baller: These purple guys will charge and somersault all around your
+               character in an attempt to make themselves tough to hit as 
+               they sap your stamina.  Shoot them twice to destroy them, 
+               remembering that ducking their attacks can save some 
+               aggravation.
+
+Tearing Eye..: These wall hanging annoyances shed tear after tear of harmful
+               acid, which flows downwards through the area they inhabit.
+               If you are moving downward in that area, just shoot them as 
+               you move, removing their threat.  if you are moving upward,
+               avoid the acid till it is possible to shoot them.  They take
+               two hits to dispose.
+
+Winged Archer: These flying annoyances will hound Randy with sheets of 
+               falling arrows.  Aim upwards and land two fireballs to rid
+               yourself of this annoyance.
+
+
+                             o-------------o
+                             | Walkthrough |
+                             o-------------o
+
+Winged Archers start out the fun here as Randy moves right, jumping a gap to
+continue moving till you arrive at pools of lava.  Here is where the 
+Blizzard Magic will first be used, as the lava pools (as well as the 
+annoying enemies) will be frozen, allowing swift passage.  Just remember
+that if you press SELECT to toggle the Magic OFF, you can shoot enemies that
+are in your way.  It will likely take two blasts of Blizzard to get across
+the lava fields, reaching some breakable bricks (many of which will contain
+Magic and Life refills).  Continue to the right until you see an enemy 
+appear, which is the sign that another Blizzard should be used, allowing 
+easy crossing of a few gaps and a lava pool to enter into a cave.
+
+Head right past the Bats and Purple Rollers, taking your time to eliminate
+them one at a time (use the Twin Fire Magic between blast from the Bats to
+eliminate then a little easier due to the extended range of your Magic).  
+When you see the lava fields, use your Blizzard Magic to freeze them (if you
+are needing Magic Points, kill the Purple Roller down in the lava to make a
+Magic Potion appear), allowing Randy to head right, shooting the frozen lava
+to remove it from your path so the ledge on the right can be reached.  Here 
+you will find more Purple Rollers and Bats, so move slowly right, taking 
+them on one at a time, arriving at the entrance to a new area of the cave.
+
+Purple Rollers and Tearing Eyes inhabit this small, downward portion of the
+cave, so move down slowly, wiping out the enemy as you go, moving to the 
+right side to fall down to the entrance to the next area.  Just be sure to 
+not to fall into the lava as it will sap your life.  The next area starts 
+out with a Winged Archer, some breakable bricks, Blobs, and then combos of
+Blobs, Winged Archers, breakable bricks, and bottomless pits.  Your goal is
+to move right past all of this to find lava fields, requiring a dose of 
+Blizzard to freeze them, followed by shooting through the resulting frozen
+lava flows to reach solid ground.  Now head right past all the Blobs to 
+climb the stairs to the next area.
+
+Head right, fight a Bat, then head right to hop a gap to find a Tearing Eye
+hovering over a gap.  Wait for an opening in the tears, jump the gap, and 
+then you will see a closed in area with another Tearing Eye over a gap.  To
+clear this gap, wait for an opening in the tears, and then jump, but you 
+will need to line your jump up so the low hanging roof will clip your jump, 
+causing your guy to just clear the gap (if you go too early on the jump, 
+into the gap.  Go too late, you hit the Tearing Eye and then fall into the 
+gap).  After passing one more gap a nd a couple Tearing Eyes, use the 
+Blizzard Magic to freeze the lava flow, followed by using your fireballs to 
+carve a path up and then right to reach the high ledge (try to get the 1-Up
+Doll as you go along).  Take on the Bat as you move right, fighting past 
+some Tearing Eyes to see a hole leading down, but if you can, grab the Life 
+Extender on the right, which will not only fill up your Life Meter, but
+extend it by one bar!
+
+Take on the Bat, followed by moving right to find a Flame Dragon (equip Twin
+Fire and go crazy on the attack to rid yourself of it), which is then 
+followed by a few more Bats and two more Flame Dragons.  Continue to the 
+right to find a hole in the floor, which leads to the BOSS FIGHT!
+
+
+                               o----------o
+                               | Parasite |
+                               o----------o
+
+This nasty fellow is located on the right side of the room, where it is 
+stationary.  It will spew blobs of acid in sets of three, looking to hit
+Randy as he attacks.  To win, start off by going to the left, getting into 
+the smaller cubby hole you will see, equip the Twin Fire Magic, and then 
+time your shots so they hit the Parasite between blobs of acid (be sure to 
+jump incoming blobs of acid), and if it survives your Twin Fire Magic 
+attacks (ie run out of Magic Points), charge forward while shooting the 
+incoming acid blobs and fire at it's face from close range to get the 
+victory as well as the Breaker Magic Spell!  The other option is 
+(preferably with full Life and Magic Points) is to just step right up near 
+the Parasite and unleash everything you have, killing it off before it can 
+kill you off, though this is risky.
+
+A "safe spot" to stand has been pointed out to me by GameFAQs user Starion,
+so I will add this in hopes it makes a tough battle easier.  When you fall
+into the room, look at the design of the floor, finding the second from the
+right "exclamation point shaped" rock.  Put your back foot just slightly to
+the right of this spot and begin to throw your fireballs as fast as you can.
+If you have lined up correctly, two of the three blobs of acid will pass 
+overhead every time he pits them, with the third one being destroyed by your
+fireballs.  This is a safer version of the all out kamikaze attack, as you 
+should take no damage if this is done properly.
+
+Thanks to another GameFAQs user (Nick Morgan), another strategy that can 
+make this fight IMPOSSIBLE to lose!  When Randy is falling from the top 
+screen before the Parasite has 'woken up', if you move him while in the air 
+to the right and then jump up the step and get as far behind the parasite as 
+possible (on the right hand side) very quickly, before it gets going, it is
+impossible for it to hit you. Then, just face the Parasite and open fire 
+until it dies.
+
+----------------------------------------------------------------------------
+---------------------------------Stage 3------------------------------------
+----------------------------------------------------------------------------
+
+5) Welcome to DOGUGOKE TAIRIKU!  Here you will find a new Item as well as 
+   the most challenging set of enemies yet!
+
+
+                               o---------o
+                               | Enemies |
+                               o---------o
+
+Bat..........: These grey beings will sit on the roof, hopping back and 
+               forth, firing off triple shots at the ground when your 
+               character nears.  Hit it twice while it is in motion to 
+               destroy these severe annoyances.
+
+Blade Blob...: These bouncing terrors will bounce along the ground, trying 
+               to slice and dice Randy.  Do your best to pop them quickly, 
+               or they will swarm you under.
+
+Flies........: These annoyances will often appear in multiple numbers while 
+               they fly around the area.  They seem to be invincible, so do
+               your best to avoid them, though the Blizzard Magic will 
+               freeze them in their place.
+
+Floater......: This Fish may be floating but it is not dead!  This tough gal
+               will release a few smaller fish from it's mouth which will 
+               worm along the ground, followed by charging right at your 
+               character.  A tough enemy as it takes multiple hits to 
+               destroy, so Twin Fire Magic is recommended here.
+
+Green Bounder: These insanely tough entities will bounce all over the room,
+               firing off a ton of shots at Randy.  You can destroy the 
+               incoming shots, but your best bet is to just charge forward 
+               and land as many hits as you can because long range attacks 
+               tend to be blocked or are just too tough to aim accurately.
+
+Larvae Nest..: These newly born, orange bugs will pop from the soil in 
+               multiple numbers, hopping all around, firing off shots.  If 
+               you can get close enough, you can exterminate them as they
+               appear, but if they get loose, try to use hit and run tactics
+               if at all possible to facilitate with their deaths.
+
+Tearing Eye..: These wall hanging annoyances shed tear after tear of harmful
+               acid, which flows downwards through the area they inhabit.
+               If you are moving downward in that area, just shoot them as 
+               you move, removing their threat.  if you are moving upward,
+               avoid the acid till it is possible to shoot them.  They take
+               two hits to dispose.
+
+
+                             o-------------o
+                             | Walkthrough |
+                             o-------------o
+
+Head right to find three Larvae Nests and multiple Blade Blobs, which are
+guarding a few lava pools, so use the Blizzard Magic to allow passage across
+to the far side where more Blade Blobs and Flies await.  Rush past them 
+while the Blizzard Magic holds, passing through the door to the next area.
+Here you will find Flies and Tearing Eyes in a vertical area, so use 
+Blizzard to freeze the enemies, climb upwards, and kill the first Tearing 
+Eye for the Life Potion is possesses.  Continue climbing (re-applying the 
+Blizzard Magic once again after it runs out), kill the second Tearing Eye
+for the Magic Potion it holds, and then continue the climb to find a door
+to the next area.
+
+Here you will find a cave leading downwards that has a lot of Flies in it.
+Your first goal is to reach the bottom of the cave, so start falling down 
+past the flies, finding a ledge near the bottom that has the Jump Boots,
+which will allow Randy to leap higher into the air!  Now use the Blizzard 
+Magic to freeze the pesky Flies, then start climbing upwards, looking for a 
+passage on the right side of the cave to pass through to the next area.
+
+A Bat and a Floater greet you in this area, so Twin Fire the Floater quickly
+before it can charge at you.  Continue to the right, fighting a couple Bats 
+and another Floater to reach a lava pool that can be leaped with a perfect
+jump (thank to Jump Boots), which leads to a few more scraps with Bats and
+Floaters, all of which guards a stairway leading upwards to the next area.
+
+When you arrive in this area, you will see two Floaters, so bait the one on
+the right to get on your left side, then jump across the small gap by the
+stairs.  Here you will need to wait for them to dive at you, dodge it, and 
+then hit them as they retreat.  Repeat this till they are wiped out, then 
+continue on to the left to find another Floater to wipe out.  Grab the Mana
+Extender, jump the first lava pool, kill the two Floaters, and then use the
+Blizzard Magic to freeze the lava, allowing Randy to reach the high ledge. 
+Moving left fill bring you to two (one at a time thankfully) Green 
+Bounders, which require a lot of hits to destroy, which allows your 
+character to climb the stairs to the next area.
+
+Here you will find a vertical shaft where Blade Blobs dominate the enemy
+population, so as you climb, always be ready to shoot upwards to kill 
+incoming enemies.  After passing through the hole on the right side, you
+will arrive in a room that is highly over run by the Blade Blobs as well.
+Use the Blizzard Magic to freeze them, followed by moving to ther right.
+You will find a Mana Extender, which will add to your Magic as well as 
+refill it, followed by continuing to the right to find a hole to fall 
+through to the next area.
+
+Here you will find a Bat by your stairs, as well as a 1-Up Doll in the lava.
+If you have around two and a half bars of life or more, dive into the lava,
+walk left under the stairs as you sink, grab the 1-Up Doll, and then head
+back up one screen to kill the Blade Blobs to refill your Life Meter.  Once
+you are prepared, head right to kill the Bat, then you will have to face a
+Green Bounder (use Breaker Magic from afar to weaken it, then switch to Twin
+Fire Magic after a couple hits).  Next up is another Bat, then Blizzard 
+Magic to freeze the lava flow, followed by plowing a path through the frozen
+magma to find a second Green Bounder in this area (equip Twin Fire and go
+directly after it).  You will find a Life Extender under a bat, so eliminate
+the enemy, grab the lovely Power-Up, and then work your way right to take on
+yet another Green Bounder (Twin Fire Magic from afar works wells, just jump
+incoming attacks), then a few more Bats, and finally a doorway to pass 
+through to the next area.
+
+Use Blizzard Magic immediately to freeze the incredibly annoying Flies, then
+jump up the platforms to move through the entrance on the right to find the
+BOSS FIGHT!
+
+                         o--------------------o
+                         | Carnivorous Plants |
+                         o--------------------o
+
+you will see six little holes (three on the roof, three on the floor) where
+two pink, flesh eating plants appear at and disappear from during the fight.
+These plants have three main attacks:
+
+  i) Moving in a vertical line across the room, releasing one or two small
+     worms that bounce around the room (these can be destroyed by your 
+     fireballs).
+
+ ii) If they appear in the top but do not charge downwards, they will fire
+     off spread shots before retreating back into the hole network.
+
+iii) If they appear in the bottom but do not charge upwards, they will fire
+     off arcing shots that pepper the ground area.
+
+To win, simple take care of their worms as they are released, followed by 
+shooting at the plants whenever they are near.  The easiest time to really 
+nail them is during attack type iii), as they are low to the ground, 
+allowing Randy to unleash a ton of fireballs to the exposed plants.  These 
+two are not that tough at all, which is nice after the insanely hard level 
+you just navigated.  For winning, you will gain the use of the Overdrive 
+Magic!
+
+----------------------------------------------------------------------------
+---------------------------------Stage 4------------------------------------
+----------------------------------------------------------------------------
+
+6) Welcome to OUGON NO SHINAEN!  Here you will face an even tougher 
+   challenge, which will also introduce Randy to some new foes as well as 
+   the Wizard's Staff!
+
+
+                               o---------o
+                               | Enemies |
+                               o---------o
+
+Bat..........: These grey beings will sit on the roof, hopping back and 
+               forth, firing off triple shots at the ground when your 
+               character nears.  Hit it twice while it is in motion to 
+               destroy these severe annoyances.
+
+Boulders.....: These bouncing rocks will try to plow you over, so land a
+               shot to break them apart.
+
+Fire Snake...: These long, quick enemies appear around the outside of the
+               castle, flying in looping and streaking patterns in an 
+               attempt to ram into Randy.  They take several shots to 
+               destroy, so the Twin Fire is recommended for long range
+               destruction.
+
+Gargoyle.....: These flying annoyances will stay out of your regular 
+               fireball range, firing their own fireballs.  When they draw 
+               near, blast them into bits.
+
+Golem........: This large, pink, humanoid figure will attack with weak 
+               fireballs (your fireballs can break them) in twos as well as
+               strong fireballs (can not be destroyed).  Duck the strong
+               fireballs and just lay into him with Twin Fire Magic to 
+               destroy this tough guy.
+
+Larvae Nest..: These newly born, orange bugs will pop from the soil in 
+               multiple numbers, hopping all around, firing off shots.  If 
+               you can get close enough, you can exterminate them as they
+               appear, but if they get loose, try to use hit and run tactics
+               if at all possible to facilitate with their deaths.
+
+Sparks.......: These small, flying, balls of electricity will usually appear
+               in large numbers, flying a zig-zag pattern at Randy.  If they
+               are allowed past, they will loop around to attack from 
+               behind.  One shot takes them down, but they can be tough to 
+               destroy.
+
+Stone Head...: These bouncing guys shoot a lot of shots and look 
+               intimidating, but they do not shoot at the lowest levels that
+               they can reach very often.  Use this to your advantage by 
+               standing and firing to kill them off easily, though they do 
+               require multiple hits.
+
+
+                             o-------------o
+                             | Walkthrough |
+                             o-------------o
+
+Boulders and Gargoyles will be your starting tests, so try to use the 
+breakable bricks for cover as well as refills on Life.  Once you reach the
+gaps, try using the Overdrive Magic to help repel enemies, as the Gargoyles
+will continue to attack along with the ever persistent Larvae Nests.  Upon
+getting across this insanely hard portion, apply the Overdrive Magic to get
+by the Boulders and one final Larvae Nest, allowing entrance into the next
+area.
+
+A Bat greets you, so kill him for his troubles, followed by moving to the
+right, passing Boulders to kill a Larvae Nest and another Bat.  The Boulders
+will continue to harass and annoy as Randy moves right to find a solo Bat 
+(which holds a Magic Potion) guarding the stairs leading up to the next 
+area.
+
+Upon arriving, immediately blast your way through the breakable bricks on 
+the left, sticking to the lowest two brick line you can, thus avoiding the
+attacks from the Stone Head as well as the Bat.  Next up, toggle ON your
+Magic and equip Twin Fire, which you should to blast the Stone Head to the
+left of the next wall (don't jump, as it can not fire low enough to hit 
+you), followed by exterminating a Bat so you can move left to deal with one
+more Bat before heading up the stairs to the next area.
+
+Three Stone heads greet you, so kill the one on the left first (he carries a
+Life Potion), then move right, equip Twin Fire, and shoot the first one 
+through the wall before climbing over to take out the third one with your
+conventional fireball attack.  Head right quickly, as boulders will start 
+coming from behind, grab the Mana Extender from the small perch, and then
+head up the stairs to the next area.
+
+You will now be outside on the castle walls, so watch your step.  Toggle ON
+your Magic, equip Twin Fire, and start across the gaps.  Whenever you see a
+Firesnake appear, stand still, aim upwards, and unleash multiple Fireballs
+when the Fire Snake begins to pass overhead, as you will be able to kill it
+(if not, it will come back for you, and you do not want that).  The third 
+one will often yield a Life potion, so try to catch it if at all possible.
+When you are done, pass through the entrance to find the next challenge.
+
+you will see a path leading upwards and a path leading to the right, so you
+have to choose (however, I will tells ya since I am so darn nice).  Head 
+upwards, battling past the Bats and the Gargoyles to find a Wizard's Staff,
+which cuts the cost of Magic Spells in half!  Head back down to the fork,
+this time heading through the door on the right.
+
+You should toggle your Magic ON, equip Twin Fire, and jump tot he next ledge
+to make the Golem appear.  As soon as it appear, jump back over the gap, 
+turn to face the Golem, and duck.  Now fire away like crazy, as the Twin 
+Fire will hurt the Golem, scorch his weak fireballs, and the ducking will
+take care of the powerful fireballs as they will pass overhead quite 
+harmlessly.  Once he is destroyed, he will drop a Dragon Carving, which will
+transform Randy into a Dragon that can fly and shoot fire!  Put this 
+newfound ability to use by flying to the right, getting your Dragon aligned 
+about two spaces above the columns in the background (if it appears you 
+could just fit another Dragon sprite between the column top and your Dragon,
+then you are in the right sport).  Head right, firing off shots to kill the 
+Sparks and the Fire Snake, only dipping down to snag the 1-Up Doll on the 
+pillars below.  Once you reach the end of the area, press SELECT to change 
+back into your regular character's form.
+
+Upon appearing on the stairs, use Overdrive Magic, grab the Mana Extender,
+and then head right past the Sparks to face another Golem (equip Twin Magic
+after grabbing the Mana Extender).  After destroying the Golem, beat the 
+Sparks as you grab the Life Extender, followed by another Golem that guards
+the stairwell leading downwards to the next area.
+
+More Sparks and  Golem are first up (the Golem carries a Magic Potion),
+followed by gap jumping and still more Sparks.  If you manage to bypass this
+tough sequence, you will arrive at the BOSS FIGHT!
+
+
+                             o------------o
+                             | Eye Column |
+                             o------------o
+
+This is one nasty fight, as one false step will equal a plunge down the 
+bottomless pit below.  you will see four floating platforms that can be 
+stood upon (one to the left, two below, one to the right) of the Guardian,
+the rotating pillar with the Eyes (the vulnerable point on this evil).  To
+defeat this foe, you must be extremely good at dodging his attacks, because
+the fireballs can often be enough to knock you into the hole below.  You can
+use one of two strategies: 
+
+  i) make use of your Breaker and/or Twin Fire Magic.  Shoot the Eyes just
+     as they rotate into the vulnerable area (ie near Randy) while
+     shooting/dodging the incoming fireballs.
+
+ ii) make sue of the Overdrive Magic.  use the encircling mana blades to cut
+     the enemy and some of the incoming fireballs down, possibly firing off
+     regular fireballs.  Re-apply Overdrive every time it wears out to help
+     with the killing process.
+
+Either way you choose to go, this is one really tough Guardian, so a salute
+to anyone who can actually beat this tough old bugger of a guy!  You may 
+want to concentrate your fire on one of three rotating portions of the 
+Guardian at one time, as this will allow for quicker removal of the 
+fireballs from that portion of the Column.  Once you are victorious, you 
+will gain the use of the Thunder Magic!
+
+----------------------------------------------------------------------------
+---------------------------------Stage 5------------------------------------
+----------------------------------------------------------------------------
+
+7) Welcome to DKUMA NO KYUDEN!  Here more mind boggling enemies, toughest 
+   around with their speed and intensity ratcheted up quite a bit!
+
+
+                               o---------o
+                               | Enemies |
+                               o---------o
+
+Boulders......: These bouncing rocks will try to plow you over, so land a
+                shot to break them apart.
+
+Flame Dragon..: These nasty fellows will hop around, spewing fireballs at 
+                Randy.  They take about a dozen hits to take down, so using
+                Twin Fire Magic is highly recommended to make life easier.
+
+Ghost Pillars.: These appear in sets of two, springing from the ground to 
+                surround Randy.  Go after the one Ghost Pillar who block 
+                the way forward, killing it off as quickly as possible. 
+                Just be aware that they shoot lots of small fireballs while
+                you are doing this, so leave a bit of space so your shots 
+                can hit them, thus destroying them.
+
+Large Snake...: These long, quick enemies appear periodically, flying in 
+                looping and streaking patterns in an attempt to ram into 
+                Randy.  They take several shots to destroy, so the Twin 
+                Fire is recommended for long range destruction.
+
+Skeletal Flyer: These flying annoyances will hound Randy with sheets of 
+                falling bones.  Aim upwards and land two fireballs to rid 
+                yourself of this annoyance.
+
+Stone Head....: These bouncing guys shoot a lot of shots and look 
+                intimidating, but they do not shoot at the lowest levels 
+                that they can reach very often.  Use this to your advantage 
+                by standing and firing to kill them off easily, though they
+                do require multiple hits.
+
+
+                             o-------------o
+                             | Walkthrough |
+                             o-------------o
+
+You will have Skeletal Flyers and Boulders (which are green in this world)
+to start off with, so work past them until you see some lava pools.  Here
+you will have to use Blizzard Magic and shoot through the frozen lava flows
+for the next portion, all the while contending with Skeletal Flyers and 
+Boulders (one of the Skeletal Flyers may drop a Life Potion to you).  
+Continue to the right for a brief period, fighting more of the same enemies,
+eventually finding a doorway to the next area.
+
+In this tiny cave are numerous Skeletal Flyers, so take them out as you work
+upwards, exiting through the right side of the screen (have Twin Fire Magic
+equipped).  Roast the three incoming Skeletal Flyers immediately, then move
+right to kill another Skeletal Flyer, this one carrying a Magic Potion.  Now
+continue to the right past two more Skeletal Flyers, locating another 
+entrance to pass through.
+
+Upon entering, jump tot he ledge on the right (have twin Fire Magic 
+equipped), destroy the Large Snake, and grab the resulting Dragon Carving to
+transform into a Dragon.  Fly upwards, dodging the second Large Snake, 
+reaching the ledge on the right, which is where a door waits to move your
+character to the next challenge.  here you will find a hallway leading up,
+where Skeletal Flyers and Boulders start out the party, followed by a Large
+Snake that guards the passage to the next room.
+
+Equip the Thunder Magic, step forward to reveal the Large Snake, zap the
+Magic twice to kill the Large Snake (making sure it is in a wide open area 
+for the second zap) to reveal the Dragon Carving, and collect the Dragon
+Carving to become a Dragon.  Fly carefully past the Large Snake, making sure
+to grab both Mana Extenders as well as the 1-Up Doll before exiting the 
+area.
+
+Use the Blizzard Magic to freeze the lava, cross over to the far side, 
+battle the Flame Dragon (it has a Life Potion), and then equip the Twin Fire
+to blast the Ghost Pillar on the right (ignoring the one on the left).  As
+soon as the Ghost Pillar is gone, use the Blizzard Magic to cross the lava,
+battling the Flame Dragon from the safety of the frozen lava (you will need
+to use Blizzard multiple times) as it will yield a Magic Potion upon it's
+demise, and then head right with the Twin Fire equipped to kill the Ghost
+Pillar on the right again, which you should follow up on by killing the next
+Flame Dragon.  Cast Blizzard to freeze the lava below, followed by deploying
+Overdrive magic to break the ice.  This will allow for Randy to break the 
+ice, grabbing the 1-Up Doll, and then he should drop through the hole to the
+room below where he will find a Flame Dragon guarding a Mana Extender as 
+well as a Life Extender!  Head back up the lava flow (make use of Blizzard
+Magic as necessary) to get to the previous room, then climb the stairs to 
+the next area.
+
+A Skeletal Flyer and a Stone head greet you here, so head left after wiping 
+them out to find lava pools. Make use of Blizzard Magic as you head to the
+left, fighting off the Stone Heads and the Skeletal Flyers, reaching solid
+ground once again, where a Flame Dragon will greet you.  Head into the next
+room, where a Skeletal Flyer and a Stone Head appear, so use the Twin Fire
+Magic to rid yourself of them.  Now hop up to the floating ledge, then to
+the ledge on the right, where you should equip the Overdrive Magic.  Set 
+Overdrive Magic off, jump to the ledge on the left, where the Overdrive 
+Magic will cream the Stone Head, and then switch over to the Twin Fire Magic
+to kill the Stone Head across the gap on the right (he will drop a Life 
+Potion).  Now climb up the left side of the room to find the exit to the 
+next area as well as a Skeletal Flyer.  
+
+Start off by shooting the Skeletal Flyer, then wear down the two Stone Heads
+while dodging their shots.  Next up, head underneath the second ledge you 
+can, equip the twin Fire Magic, and shoot the Skeletal Flyer as the Ghost
+Pillars appear above.  Now stand there and wait for the Ghost Pillars to 
+combine, thus destroying them, followed by retreating left, getting onto the
+ledge the Ghost Pillars just sat upon, and take out the Stone head across 
+the gap.  Continue to the right, killing Skeletal Flyers as they attack,
+reaching a platform where Ghost Pillars attack, so blast the one on the 
+right backwards as you move towards a Stone Head, leaping past it first
+chance you get to exit the screen.
+
+Although you can go down here to get a Mana Extender, the danger far 
+outweighs the rewards, as Stone Heads, Skeletal Flyers, and the Flame Dragon
+guard the treasure.  Kill the Skeletal Flyer, go right and start climbing 
+upwards, fighting the Stone Head and the next Skeletal Flyer for the rights 
+to a Mana Extender.  Next are breakable bricks to remove so Randy can take 
+on a Flame Dragon and Stone head with Twin Fire Magic.  Continue upwards 
+to find another floating platform, which will take Randy into the BOSS 
+FIGHT!
+
+
+                          o--------------------o
+                          | Embodiment Of Evil |
+                          o--------------------o
+
+Here you have an ultimate evil, in it's purest form, seeking to hunt down
+and destroy Randy itself.  The vulnerable part of the enemy is the small ball
+in the middle of the three circling pieces, so it must be the portion that is
+shot.  The best way to deal with the protectibv portions circling the 
+vulnerable portion is to make use of the Breaker Magic, as it's shot pass 
+right through the protective barrier, damaging the ball.  Continually move, 
+dodging the fireballs, firing off Breaker shots whenever you can, waiting 
+till you see the attack pattern change.  Once the enemy decides to gather 
+together and charge down at Randy, switch to Overdrive Magic, as the 
+circling mana blades will damage the ball while the enemy tries to ram you. 
+Land fifteen hits to send this wannabe meatball packing, but the dude on the
+cross will fall through the floor!  Your prize for winning this battle is 
+the Cape Of Protection, which will half the damage taken from enemies.
+
+----------------------------------------------------------------------------
+---------------------------------Stage 6------------------------------------
+----------------------------------------------------------------------------
+
+8) Welcome to BLACK SLAYER!  Here is the final test for Randy, so expect the
+   toughest challenge possible!
+
+
+                               o---------o
+                               | Enemies |
+                               o---------o
+
+Blob..........: These red balls of matter will bounce all around, trying to
+                smother Randy.  use a single shot to wipe them out.
+
+Daemons.......: These small, flying, evil entities will usually appear in 
+                large numbers, flying a zig-zag pattern at Randy.  If they 
+                are allowed past, they will loop around to attack from 
+                behind.  One shot takes them down, but they can be tough to
+                destroy.
+
+Ghost Pillars : These appear in sets of two, springing from the ground to 
+                surround Randy.  Go after the one Ghost Pillar who blocks
+                the way forward, killing it off as quickly as possible. Just
+                be aware that they shoot lots of small fireballs while you 
+                are doing this, so leave a bit of space so your shots can 
+                hit them, thus destroying them.
+
+Golem.........: This large, grey, humanoid figure will attack with weak 
+                fireballs (your fireballs can break them) in twos as well as
+                strong fireballs (can not be destroyed).  Duck the strong
+                fireballs and just lay into him with Twin Fire Magic to 
+                destroy this tough guy.
+
+Green Bubble..: This annoyance will float around the room, trying to hit your
+                character.  It is indestructible, so you are best to just 
+                avoid it or freeze it, though a well placed Overdrive Magic
+                may force it off the screen.
+
+Large Snake...: These long, quick enemies appear periodically, flying in 
+                looping and streaking patterns in an attempt to ram into 
+                Randy.  They take several shots to destroy, so the Twin Fire
+                is recommended for long range destruction.
+
+Rock Face.....: This large monolith fires off a lot of Fireballs, usually
+                located in an area where their are plenty of gaps to knock
+                Randy into and no way to pass them.  They are also quite 
+                tough to kill, so hit them directly with your attacks, as 
+                even Thunder takes three hits to destroy them.
+
+Spider........: These creepy crawlies will scuttle and jump along the 
+                ground, trying to draw close enough to hit you.  They take a
+                few hits to kill, so Twin Fire Magic is advisable to make 
+                them die quicker.
+
+Tearing Eye...: These wall hanging annoyances shed tear after tear of 
+                harmful acid, which flows downwards through the area they 
+                inhabit.  If you are moving downward in that area, just 
+                shoot them as you move, removing their threat.  if you are
+                moving upward, avoid the acid till it is possible to shoot 
+                them.  They take two hits to dispose.
+
+
+                             o-------------o
+                             | Walkthrough |
+                             o-------------o
+
+The first portion of this level has an option in which way you can go, so 
+both Routes will be covered.  Route One will be the conventional Route, 
+while Route Two will be the harder to take Route.  Neither is easier than 
+the other, so it is up to you for personal preference on the route.  Just 
+note that Route One is longer with more Mana Extenders to collect, while
+Route Two is shorter with less Mana Extenders to collect (also contains a
+1-Up Doll, though going the other Route just means you have to go onto the
+back end of the other Route to grab it).
+
+                                =========
+                                Route One
+                                =========
+
+Head down the first shaft, but instead of flying through the hole on the
+left side of the area, go down to the bottom and exit through the right 
+side.  Be sure to be on the look out for the 1-Up Doll on the left side of
+the shaft as you descend.
+
+Kill the Tearing Eye, kill the Ghost Pillar on the right for a Dragon 
+Carving, and then fly through the Tearing Eyes to the far right where two
+Tearing Eyes guard the stairway leading downwards.  Use the Thunder Magic
+right away to kill two Tearing Eyes, then grab the Mana Extender before
+jumping back to the ledge tot he left.  Now you have to make use of the
+Blizzard spell to freeze the lava flows, upon which you will have to carve 
+your path.  When the spell is about to expire, get ready to cast the 
+Blizzard Magic again, freezing the flow, digging yourself out, and then 
+continuing to cut yourself a path.  Once you make it past the Tearing Eyes
+to solid ground, head through the hole to the next room.
+
+Walk towards the first gap with the Twin Fire equipped, watching for the 
+Large Snake to fly up out of the gap, at which point you shoot it to make a
+Dragon Carving appear, allowing Randy to become a Dragon.  Now fly to the 
+left, shooting Blobs and Tearing Eyes while collecting FOUR Mana Extenders. 
+Once you reach the stairs, dodge the Large Snake, turn back into your usual 
+character, and climb the stairs to rejoin the path!
+
+                                =========
+                                Route Two
+                                =========
+
+Start off by heading down past the first ledge where the skulls block the 
+hole to land on a second ledge on the left, where Ghost Pillars will appear.
+destroy the one on the right, making a Dragon Carving appear, allowing your
+character to become a Dragon.  Fly down the left side of the shaft, taking 
+the exit located there.  You may wish to go past it slightly to grab a 1-Up
+Doll first however.
+
+Kill the Ghost Pillar on the left as you grab the Mana Extender, then use 
+Blizzard to freeze the lava flows, allowing you to blast paths through 
+resulting ice.  It will take a few sets of this to get past the Blobs and 
+the Tearing Eyes, resulting in a meeting of one more set of Ghost Pillars 
+and a Tearing Eye, as they are the last thing between you and the entrance
+to the next room (grab the 1-Up Doll as you go).
+
+                                 ========
+                                 Rejoined
+                                 ========
+
+Head left past some Daemons to jump a gap, at which point you should employ 
+the Overdrive Magic as you move forward.  A Golem will appear, so time your
+approach and jump to clear it perfectly, which will allow the mana blades to
+bust the skulls, allowing Randy through.  When you land, apply the Overdrive
+again, move past the Daemons, and then hop over a second Golem to exit the 
+screen on the left side of the area.
+
+Spiders everywhere!  Use your Twin Fire Magic as you begin your climb 
+upwards because the Spiders will continually spawn here, so make use of 
+quick and accurate hops to bypass the seemingly endless Spider, reaching the
+top where a 1-Up Doll is on the right and the exit to the next area is on 
+the left.
+Head left, fighting Spiders and a Golem, then more Spiders before a gap.
+Following that are even more Spiders and another Golem, all of which guard a
+hole leading down to the next area.  Get off the stairs, equip the Overdrive
+Magic, and then jump across the many gaps carefully, outwitting the 
+multitudes of Daemons that inhabit the area.  The next room has a Tearing
+Eye as soon as you enter, so kill it, then begin your descent downwards, 
+using the Overdrive Magic to bust the skulls as well as to kill the Spiders
+coming from above, eventually heading down through a hole.
+
+Here you will find a Green Bubble, which will usually bugger off if you use
+your Overdrive Magic.  Now equip the Thunder Magic, go left, and get down to
+the ledge that puts Randy just across from the Rock Face.  Your job is to 
+kneel, throw a Thunder shot, then jump up and then forward, using the 
+fireball shot from the Rock Face at you to bounce yourself back onto the 
+platform, where you will need to repeat this pattern twice more to destroy
+the tough Rock Face.  head left to face off with another Rock Face, this 
+time firing from afar to get the three Thunder hits for the kill, then
+continue to the left to grab the 1-Up Doll, which is closely guarded by yet 
+another Rock Face.  Jump to the next ledge, use the Blizzard Magic, and 
+then crank yet another Rock Face to continue left to face one final Rock 
+Face, which covers the entrance to the next area.
+
+Here you will face Skeletal Fliers, which will drop a Life Potion as well as
+a Magic Potion (just like finding a 1-Up Doll!), then equip Overdrive Magic
+and begin to scale the platforms in the middle of the room, climbing up to
+the very top to be whisked through the door to the BOSS FIGHT!
+
+
+                             o--------------o
+                             | Black Slayer |
+                             o--------------o
+
+This fight can be particularly nasty as Spiders will appear through out the
+fight, twirling nails will loop through the room, cutting Randy, and the 
+centre appendage can lash out to hit you.  However, this fight is so easy 
+compared to what you just went through, as all you need to do is equip the
+Thunder Magic and hit the enemy directly in the middle to start, moving over
+to the next vulnerable appendage after destroying the central appendage, 
+continuing this movement outwards.  Once the Thunder Magic runs dry, make 
+use of the Twin Fire Magic to destroy the remaining appendages, wrecking the
+entity!
+
+OR DID YOU!?  Yes, the enemy will get one more crack at wrecking you, so as
+you transform into a Dragon, get prepared for Round two with this vicious
+thug!  You are a Dragon, and the enemy will attack by releasing Green 
+Bubbles that will attack you.  Avoid these as they move out, then line up 
+with the eye of the enemy and start firing off shots as fast as you can.  
+Since the vulnerable portion NEVER moves, you can knock the Boss out for
+good rather easily!  if you are playing on a ROM, it may seem that the enemy 
+moves, but it does not, so ignore it if the sprite appears to go up to the 
+top of the screen.
+
+
+CONGRATULATIONS ON FINISHING THE GAME!  NOW ENJOY THE ENDING AS YOU DESERVE
+TO RELAX AFTER THAT HARROWING GAME ORDEAL!
+
+----------------------------------------------------------------------------
+-------------------------------Magic Spells---------------------------------
+----------------------------------------------------------------------------
+
+9) This section will look at all the Magic Spells within the game, including
+   the Magic Points cost, the effect, and where they are found.  Remember 
+   that the Wizard's Staff will half the cost of these spells once it is 
+   located.
+
+
+                               o----------o
+                               | Blizzard |
+                               o----------o
+
+MP Cost: 10.
+Effect.: Freezes lava as well as lesser enemies in their tracks.
+Found..: Defeat the Stage 1 Guardian, Satyrs.
+
+
+                               o---------o
+                               | Breaker |
+                               o---------o
+
+MP Cost: 10.
+Effect.: Concentrates a large blast of Mana into a devastating attack.
+Found..: Defeat the Stage 2 Guardian, Parasite.
+
+
+                              o-----------o
+                              | Overdrive |
+                              o-----------o
+
+MP Cost: 16.
+Effect.: Sends two large blades of mana out to encircle Randy for several 
+         seconds, destroying enemies and some blocks.
+Found..: Defeat the Stage 3 Guardian, Carnivorous Plants.
+
+
+                               o---------o
+                               | Thunder |
+                               o---------o
+
+MP Cost: 40.
+Effect.: Sends a bolt of lightning out, which explodes, killing all enemies
+         on screen.
+Found..: Defeat the Stage 4 Guardian, Eye Column.
+
+
+                              o-----------o
+                              | Twin Fire |
+                              o-----------o
+
+MP Cost: 2.
+Effect.: Doubles the attack power of your fireball and lengthens reach to 
+         the entire screen.
+Found..: Begin the game with this Magic.
+
+----------------------------------------------------------------------------
+----------------------------------Items-------------------------------------
+----------------------------------------------------------------------------
+
+10)This section will take a look at the Items that will assist your 
+   character in his quest.
+
+
+                             o-----------o
+                             | 1-Up Doll |
+                             o-----------o
+
+These small dolls can be found through out your journey, offering another
+chance in this tough old game.
+
+
+                              o----------o
+                              | Bracelet |
+                              o----------o
+
+Once you collect this beauty from Stage 1, you will have the ability to 
+bust some blocks with your fireballs.
+
+
+                         o--------------------o
+                         | Cape Of Protection |
+                         o--------------------o
+
+This is won by defeating the Stage 5 Guardian, and it will half the damage
+taken from enemies, essentially doubling your Life Meter.
+
+
+                           o----------------o
+                           | Dragon Carving |
+                           o----------------o
+
+Found in the later stages, defeat an enemy to become a scary dragon, capable
+of flight and breathing fire for a limited amount of time.
+
+
+                               o-------o
+                               | Heart |
+                               o-------o
+
+This Item is found in breakable bricks and by defeating enemies, it will 
+refill one half of a Life Meter box.
+
+
+                             o------------o
+                             | Jump Boots |
+                             o------------o
+
+Found in Stage 3, these Boots will increase the jumping ability of your
+character significantly.
+
+
+                            o---------------o
+                            | Life Extender |
+                            o---------------o
+
+These large, red jugs will not only refill your Life Meter, but they also 
+add an additional square to your life meter.
+
+
+                             o-------------o
+                             | Life Potion |
+                             o-------------o
+
+This red flask will completely refill your Life Meter, and it is dropped 
+by certain enemies within a level.
+
+
+                             o--------------o
+                             | Magic Potion |
+                             o--------------o
+
+This blue flask will completely refill your Magic Points, and it is dropped 
+by certain enemies within a level.
+
+
+                                 o------o
+                                 | Mana |
+                                 o------o
+
+These blue orbs are found in breakable bricks and by defeating enemies, each 
+will refill 2 Magic Points.
+
+
+                             o---------------o
+                             | Mana Extender |
+                             o---------------o
+
+These small feathers will not only refill your Magic Points, but they also 
+add an additional 8 Magic Points to your maximum total.
+
+
+                             o----------------o
+                             | Wizard's Staff |
+                             o----------------o
+
+Found in Stage 4, this useful Item will slash the cost of Magic Spells in
+half, essentially doubling the amount of your Magic Points.
+
+----------------------------------------------------------------------------
+--------------------------------Final Word----------------------------------
+----------------------------------------------------------------------------
+
+11)As is the usual, this walkthrough is copyright property of Brian P. 
+   Sulpher, 2004.  The only website, group, person, etc. to have access to
+   post it is www.gamefaqs.com, www.ign.com, www.retronintendo.com, and 
+   www.honestgamers.com.  You must ask for permission before posting this, 
+   as doing so without consent is a violation of international copyright 
+   law.
+
+   If you liked it, hated it, have anything to add, then please E-mail me at
+   briansulpher@hotmail.com.  You can also contact me through MSN messenger
+   through the same E-mail address.
+
+   Fun, challenging, great.  All three words are excellent descriptive words
+   of a game that few have played, but many of those love.  It's wicked 
+   challenge does pose a formidable playing experience, but it also makes it
+   that much more satisfying once the end is reached.  Take a break if it 
+   gets too frustrating, and remember that it is just a game after all! ;)
+Restore Page

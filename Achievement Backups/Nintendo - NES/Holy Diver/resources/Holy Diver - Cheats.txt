@@ -1,0 +1,7 @@
+Extra Lives
+Start a new game, and in the beginning jump right to the top of the tree. 
+Press Start on the first controller to pause the game, hold A + B on the 
+second controller, then press Start on the first controller again. The lives 
+counter will be increased each time you do this. It is only works on the 
+specified height coordinates, there is a lot of places with such coordinates 
+other than this, although this is the earliest known rendition of it.
