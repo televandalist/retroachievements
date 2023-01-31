@@ -1,0 +1,5 @@
+Format:Digit
+FormatType=Value
+
+Display:
+Score: @Digit(b0xh5a*1_b0xh59*100_b0xh58*10000) | Lives Remaining: @Digit(0xl45)

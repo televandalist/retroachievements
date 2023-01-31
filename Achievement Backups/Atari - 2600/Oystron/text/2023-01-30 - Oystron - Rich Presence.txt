@@ -1,0 +1,11 @@
+Format:Digit
+FormatType=Value
+
+Lookup:Diff
+0x00=Beginner
+0x01=Intermediate
+0x02=Expert
+
+Display:
+?0xT65=1?Watching the Demo
+@Diff(0xh65) Difficulty | @Digit(b0xh54*1000_b0xh53*10)

@@ -1,0 +1,1041 @@
+CHAPTER I: AMNESIA
+-------------------------------------------------------------------------
+A.) Elfas
+Recommended Level: He:1
+Enemies: Yellow Slime, Pink Slug, Pink Bull
+Treasures: Revive, Herb, Cloth Vest, Meatx4, Rusty Sword
+-------------------------------------------------------------------------
+
+The game starts with the Hero lying prone in a clearing in Guard Forest
+North.  A man passing by mistakes the Hero for a bandit and challenges him
+to a fight.  The would-be-squabble is interrupted by an ambush by four
+Yellow Slimes.  Bash their faces in.  After this "battle" the man
+introduces himself as Darus.  The Hero, on the other hand, has amnesia and
+can only remember one name, which you must choose.  This will be the
+Hero's name throughout the game.  Darus suggests that you head north to
+village of Elfas.  Good suggestion!  Follow the path to Elfas.  You'll be
+introduced to Chief Rollo of Elfas and his daughter Mina.  They'll escort
+you upstairs to rest.  Do so by climbing in to the bed.  For the remainder
+of the game, climbing into any bed anywhere restores all HP and Tech
+Points and gives you the option to save.
+
+When you wake up, you'll learn that Mina has been kidnapped by bandits
+(she was wandering near a notorious hideout for bandits for no
+conceivable reason) and it's your duty to save her.  Search the left
+dresser for a REVIVE and head downstairs.  Check the right dresser on the
+western side of the 1st floor for a HERB.  Head outside and northeast
+towards the Tool Shop.  Search the right dresser for a CLOTH VEST.  Sell
+this at the counter for 75 Gil.  Exit the Tool Shop and go west towards
+the large house.  The second pot from the right contains a MEAT and the
+second pot from the left contains MEATx3.
+
+That's it for Elfas for the time being, so head east out of time and north
+into Guard Forest East.  The enemies here drop Meats and give decent
+experience for the time (you'll get to Level 2 after 2 fights at most). 
+Follow the linear path (west, north, west, cross bridge, northeast across
+another bridge, exit to the northeast) to Mt. Belzend. Here, head west
+until you see a ramp, then north.  You'll encounter the bandits and their
+boss, Baru.  Evidently, Baru actually saved Mina from monsters. 
+Interesting...  After the scene, you are teleported back to Elfas.  Here,
+sell your Meats and buy a Hide Vest for the Hero.  Head for Chief Rollo's
+house and talk to Mina.  She'll give you the RUSTY SWORD to deliver to
+Nyuta.  I suggest you do just that.  When you're done, rest up.
+
+During the night, the Hero and Darus will have a conversation.  You'll
+learn that Darus is a Samaran mage out to get revenge on Nova, the wizard
+who executed Darus' father and undoubtedly caused the disappearance of
+Darus' sister.  After this pleasant conversation, the party notices a
+light crashing into Mt. Belzend.  It's time to investigate.
+
+-------------------------------------------------------------------------
+B.) Mt. Belzend
+Recommended Level: He:2/Da:2
+Enemies: Yellow Slime, Pink Slug, Pink Bull, Blue Hornet
+Treasures: 500 Gil, Steel Sword
+-------------------------------------------------------------------------
+
+Head through the Guard Forest East to Mt. Belzend.  Level up to level 3 or
+4 near the base of Mt. Belzend (walk east at the base to trigger a fight
+with three Pink Bulls.  After killing them, keep triggering the fight). 
+Now head to Baru's Hideout and rest in a bed.  Head out and continue up
+the mountain until you find a crashed ship.  You'll find a girl inside and
+take her back to Elfas.
+
+Rollo will tell you to go to Zenobia in the northwest to try to locate
+anyone who knows the girl.  He'll give you 500 Gil to help.  Now head to
+the Weapons Store and buy a Hide Vest for the Hero.  Sell your old Cloth
+Vest and 20 or so Meats for some more cash.  Now head east out of town. 
+You'll be caught by Nyuta, who gives you the trusty STEEL SWORD.  You can
+either go back and sell the Short Sword or just wait until Zenobia; it
+doesn't matter.  Either way, it's to Zenobia for you.
+
+-------------------------------------------------------------------------
+CHAPTER II: ZENOBIA'S SACRED TREES
+-------------------------------------------------------------------------
+A.) The Cave
+Recommended Level: He:4/Da:4
+Enemies: Yellow Slime, Pink Slug, Pink Bull, Blue Hornet, Blue Bat, Yellow
+Snail
+Treasures: Herbx2, Scroll, Tusk, 790 Gil, Bonex3, Meat, Cloth Vest, Fool's
+Dust, DongameFt, Sleep Jar
+-------------------------------------------------------------------------
+
+Head through Guard Forest East towards Mt. Belzend.  On the ledge above
+Baru's Hideout, you should see a dead end near a waterfall.  Walk into
+this dead end and walk back out to trigger a fight with Pink Bulls and
+Blue Hornets, who give 6 EXP and Meat.  Kill them until you are level 5,
+then continue up the mountain until you reach the Cave.
+
+Head west, grab the HERB, then head south towards the exit to the second
+floor.  Now head east and grab the SCROLL.  Use this on Darus so he'll
+learn his first tech, Impa.  Continue south along the windy path and grab
+the TUSK near the exit.  Descend to floor 3.  Here, head east and then
+northeast to a little treasure grotto.  Take 790 Gil and BONEx3 from the
+treasure chests.  Now head southwest and bust open the chest for an HERB. 
+Head north and through the exit.
+
+You are now in Guard Forest North (yes, the forest south of Elfas...). 
+Head west and north to Zenobia, ignoring the Hyupos blocking the western
+path.
+
+In Zenobia, head for the Weapons Shop and buy a Silk Robe and Tree Ring
+for Darus.  Buy another Silk Robe for a character who'll join later while
+you're at it.  Now take the door to the left of the Weapons shop.  Search
+the pots and dressers here for FOOL's DUST, a DONGAMEFT, and a SLEEP JAR. 
+Now head towards the southwest house in Zenobia.  Search the lower pot for
+a MEAT.  Head to the northwestern house and search the left dresser for a
+CLOTH VEST.  Now head to the Inn.  Before talking to the girl at the
+counter, sell the Cloth Vest at the tool shop.  Don't sell your Meats,
+you'll need them for the upcoming dungeon.  Now talk to the girl at the
+counter, Yura, who'll say that Ralph the traveler is held prisoner at
+Necrude Castle.  You volunteer to help rescue Ralph.  Head upstairs and
+rest in the southeast bed.  In the middle of the night, Yura will wake you
+up and take you to a secluded area of Hyupos' forest.  Here you'll see
+that Hyupos are turning into trees to protect the forest.  Anyway, head
+north towards the secret passage (a stairway).
+
+-------------------------------------------------------------------------
+B.) Necrude Castle
+Recommended Level: He:5/Da:5
+Enemies: Blue Bat, Pink Soldier, Blue Soldier, Brown Soldier
+Treasures: Scroll, Meatx3, TravelBell, Herbx2, Surprise!, Potion, Bone, Tusk
+-------------------------------------------------------------------------
+
+You'll be in the Secret Tunnel.  Head north and take another SCROLL.  Use
+it Darus so he'll learn Healus.  Now head north into B1 of Necrude Castle.
+ The enemies in Necrude Castle hit a lot harder than the foes you once
+fought, meaning you'll end up using some Meats along the way.
+
+Search the pots for MEATx3, then take the stairs to 1F.  Go south, then
+north through the western door for a TRAVELBELL.  Head south for a HERB
+and then go up the stairs.  On 2F, go south through the door to get a
+SURPRISE.  Go back and head north.  Turn east to get a POTION.  Ignore the
+pots and bookshelves here, they contain nothing.  Continue north, then turn
+around and head south down the hall.  Take the stairs to 3F.  Now head
+south, north, east, and take the easternmost path south.  Take the stairs
+down to 2F.
+
+Go north into the cell and talk to Ralph.  He's a fake.  A Samaran
+magician, Saam, shows up and laughs at you.  He locks you in.  Sleep on
+the bed (hey, what else is there to do?)   Baru will get thrown in the
+next morning, telling you that he came to snoop around (regarding the
+trees being cut down and all).  Anyway, he kicks down the door so you can
+leave and joins your party.  Head out of the cell and this time take the
+door that was locked to another stairwell.  Go north to get a BONE, HERB,
+and TUSK.  Now go south and down to B1.
+
+Check the easternmost cell to find Ralph.  Talk to him and he'll tell you
+that he'll follow you outside. You can either warp outside with the
+Travelbell you found earlier or walk out.  I walked out.  Either way, head
+back to the Inn in Zenobia and rest.  Now talk to Mina and Ralph, who are
+hanging out near the Tool Shop.  Apparently, Duke Necrude is an impostor. 
+Also, knights have been searching for the Princess of Ark (guess who that
+is?).  They are currently in the Selfrone Grasslands west of Zenobia. 
+Ralph volunteers to tell the Hyupos that are blocking the Grasslands to
+get the hell out.  When you're ready, head south from Zenobia and west
+into the Selfrone Grasslands.
+
+-------------------------------------------------------------------------
+C.) Selfrone Grasslands
+Recommended Level: He:6/Da:6/Ba:6
+Enemies: Turtle, Blue Flyer, Yellow Slime, Pink Slug, Blue Bat, Yellow
+Snail
+Treasures: None
+-------------------------------------------------------------------------
+
+The Turtle enemies here give up to 12 EXP and drop Tusks, but offer little
+challenge.  I suggest spending some time leveling up here later on (wait
+until you get the next character).  Head north, west, south, and go west.
+When you attempt to cross the second westward bridge, you'll be attacked
+by Samarans.  Thankfully, Haman and Rushika come to the rescue.  Haman
+turns out to be a knight of Sarejia looking for Lefis, the Princess of
+Ark.  When you inform him that Lefis is at Elfas, Haman tells his troops
+to go there and joins your party.  You're supposed to go back to Elfas
+(yes, it's a long way-but there are a few shortcuts you can take).  Well,
+now is as good a time as any to level up your characters.  I took them to
+Lv. 7 and accumulated a few Tusks to sell.   When you're done, return to
+the Cave (to Zenobia).  Follow the path until you reach a hall blocked by
+2 giant holes (you passed this on your way here).  Haman has the power to
+move earth, and thus opens up a whole new path for you to traverse by
+clearing those holes away.
+
+-------------------------------------------------------------------------
+D.) Elfas Castle
+Recommended Level: He:7/Da:7/Ba:7/Ha:7
+Enemies: Blue Slime, Green Slime, Green Slug, Blue Blob
+Treasures: Scroll, Meatx4, BlueLapis, Revive
+-------------------------------------------------------------------------
+
+Head out of the cave and southwest.  This area of Mt. Belzend is populated
+by stronger enemies than you've faced before, but they are still pretty
+easy.  Just head south off the mountain to Elfas Castle.  Head south from
+the Castle back to the village.  Go to Rollo's house, where you meet Lefis
+(this time she's conscious).  You'll learn several things: Lefis'
+stepbrother, Gadiss, has taken over Ark; Gadiss is looking for keys to
+Radia Tower; and the name of the Hero means "Guardian of the Light" in the
+language of Ark.  How convenient!  Your goal is to go to Fubart and to
+find out why Nova is having the Sacred Trees chopped down in Zenobia.
+
+After the scene, feel free to loot Elfas Castle.  On the third floor,
+check the westernmost bookshelf for a SCROLL.  Use it on Haman teach him
+Ganbor.  Search the pots in the northeast corner of the room for MEAT and
+MEATx3.  On the 2nd floor, check the bookshelves for a BLUELAPIS and a
+REVIVE.  Give the BlueLapis to whoever you think needs it (I gave it to
+the Hero).  Head to the first floor and check the pots for a HERB.  Now
+exit the castle and head back to the Selfrone Grasslands (all the way
+back...)
+
+-------------------------------------------------------------------------
+CHAPTER III: FUBART'S WING OF WIND
+-------------------------------------------------------------------------
+A.) Byuure Wasteland and Fubart
+Recommended Level: He:7/Da:7/Ba:7/Ha:7
+Enemies: Red Turtle, Green Snail, Purple Bull
+Treasures: Scroll, Gadora Thorn, Bajir Pad*
+Boss: Samaran Knightx2
+-------------------------------------------------------------------------
+*: This a "secret" item, won from an enemy.
+
+Head north, west, south, west, and across the newly built bridge.  Head
+west into the Byuure Wasteland (you'll return shortly to Selfrone).  Head
+west, then up the nearest ramp.  Continue the trail up this mountainous
+wasteland.  When you reach the top (rock face to the north of you), go
+east and into a small cave.  Obtain a SCROLL and use it on Baru to teach
+him Caspar. Now head west again and follow the path.  You'll soon
+encounter 2 Samaran Knights beating up a mage, so you step in.
+
+-------------------------------------------------------------------------
+Samaran Knightsx2
+Recommended Level: He:7/Da:7/Ba:7/Ha:7
+Reward: 10 EXP
+Strategy: Corner a Knight and slash him repeatedly to defeat him.  While
+the Hero kills one Knight, your allies should be killing the other.
+-------------------------------------------------------------------------
+
+Saria, a Samaran mage, joins your party after you kill the Knights.  Give
+her the Silk Robe you were saving from Zenobia. Continue on northwest into
+the Zaam Valley.  Cross the bridge to reach another part of the
+Wastelands.  In this area, a Purple Bull will attack you.  You can win
+some good armor from him, but first, explore the town of Fubart.
+
+Head for the armory (southwestern house).  Buy a Long Sword for the Hero
+(1200 Gil), a Leather Vest for the Hero and Baru (1800 Gil), Wind
+Boomerang for Baru (2000 Gil), and a Wind Ring for Darus and Saria (2000
+Gil).  That's a total of 7000 Gil.  Sell any Tusks and Bones you have in
+addition to your old equipment.  Now feel free to explore the rest of the
+town.
+
+In the house south of the vegetable patch search, a Bookshelf for a GADORA
+THORN. Now snoop around.  You'll learn that the Sacred Trees are being
+used to build an airship for Lord Nova, called the Fitzkarard.  However,
+Nova needs the Wing of Wind to complete his airship.  Head for the Chief's
+house to the west of a ramp.  Talk to Tosuran, who rushes off to a town
+meeting.  Apparently, the Headwinds have imprisoned the Fairwinds
+underground (it used to be the other way around).  You'll also learn that
+Baru is from Fubart.  Anyway, follow Tosuran to the meeting hall
+(northwest building, large doors).  Nova has brainwashed the Headwinds, so
+it's up to you to dispel his evil mind control.  The plot requires you to
+explore more of Fubart, but there is something you should do
+first.
+
+Remember that powerful Purple Bull right outside Fubart?  He sometimes
+drops a Bajir Pad, a good piece of armor. Keep killing him until you can
+get a Bajir Pad for all of your party members.  Rest in Fubart, then head
+south on a ramp towards the shoreline, then go north into the Underground
+House.
+
+-------------------------------------------------------------------------
+B.) The Cave of Wind
+Recommended Level: He:8/Da:8/Ba:8/Ha:8/Sa:7
+Enemies: Blue Bat, Purple Bag, Green Gnome
+Treasures: TravelBell, Meatx3, Silent Herb, Scroll, Gadora Pad, Bonex3
+Boss: Shura
+------------------------------------------------------------------------
+
+Travel north and take the easternmost door.  Search the Bookshelves for a
+TRAVELBELL.  The middle door is a Tool Shop where you should buy 9
+Purifies.  Take the western door and search the pots for MEATx3.  Now go
+farther west and into the room.  Talk to Reg, who asks you to retrieve the
+Wing of Wind from the Shrine of Wind.  Rest at the beds and head out to
+the shrine (northeast of Reg's house).
+
+Naturally, the Shrine of Wind is buried underground and you'll have to go
+through a cave to get to it.  In B1, head north to get a SILENTHERB.  Head
+west, then north again.  Grab a SCROLL and use it on Saria.  Head all the
+way east to get a GADORA PAD.  You can equip this on anyone, even if they
+already have a Bajir Pad.  Now, head north and west to the stairwell. 
+Just head north on the 1st floor (as if you needed directions).  Talk to
+man in front of the Shrine, then heal up with Meats.  Now head into the
+Shrine.
+
+-------------------------------------------------------------------------
+Shura
+Recommended Level: He:9/Da:9/Ba:9/Ha:8/Sa:8
+Reward: 15 EXP
+Strategy: Shura shoots out 2 tornadoes which do small damage to whoever
+they hit.  Corner him against a pillar and slash/stab/shoot him until he
+dies.
+-------------------------------------------------------------------------
+
+After disposing of Shura, a Samaran agent runs in and snatches the Wing of
+Wind.  You follow him, of course.  Head west, then south.  Grab BONEx3
+from the treasure chest and exit the Cave of Wind.  You're too late to
+stop Samara's Fitzkarard from flying off to Elfas.  However, you do get the
+pleasure of seeing Reg and Tosuran unite (although the Fairwinds still
+live underground for no apparent reason).
+
+-------------------------------------------------------------------------
+C.) A Raid!
+Recommended Level: He:8/Da:8/Ba:8/Ha:8/Sa:8
+Enemies: Silver Moths
+Treasures: None
+------------------------------------------------------------------------
+
+Head out of Fubart and the Byuure Wastelands.  The bridge across Zaam
+Valley will collapse, meaning you can't return to Fubart at the time
+being.  Once you get back to Selfrone, head north into the cave.  Rest and
+sell off all your Meats.  Now, head east into the Rema Desert.  Wander
+around until you encounter a group of Silver Moths.  Have everyone Defend,
+then use Impa, Ganbor, Caspar, and Impa again to kill off the Moths
+(you'll get 125 Experience and 20 Meats).  Now head back to the cave,
+rest, and sell off your Meats.  Do this until you are Level 12, and then
+kill off some more groups to get some more Meat (you should take at least
+60).  This whole ordeal should take around 25-35 battles, and you should
+make a lot of money off your Meats.
+
+With that done, make your way back to Elfas Castle.  You'll learn that
+Samarans under the command of Duke Necrude kidnapped the Princess and
+killed Rushika.  It's time to go back to Zenobia and return the favor.
+
+-------------------------------------------------------------------------
+D.) Necrude Castle, Take Two
+Recommended Level: He:12/Da:12/Ba:12/Ha:12/Sa:12
+Enemies: Blue Warlock, Green Gnome, Yellow Soldier, Blue Soldier, Brown
+Soldier, Pink Soldier
+Treasures: Cloth Vest, Revivex2, Potion, Scrollx3, Bone, Meatx4, Wakeupx3,
+Mirror Ring, Sleepward, Leather Vest, Miracle
+Boss: Saam
+------------------------------------------------------------------------
+
+In Zenobia, walk straight through the gates and into Necrude Castle (that
+barrier has disappeared for no apparent reason).
+
+Once inside, head through the door right ahead of you and take the stairs
+to the throne.  Talk to Necrude, who turns out to be Saam (didn't see that
+one coming).  He flies off, so you have to find him...  Head back to the
+ground floor and take the door to your left.  Head north and talk to the
+wounded Ralph.  He'll tell you that Duke Necrude is imprisoned
+underground.  Exit the Room of Mirrors and head east, then north.  Search
+the right bookshelf in the first outlet for a CLOTH VEST (like that's what
+you need at this point).  Head north (ignore the second outlet) and search
+the bookshelves for a REVIVE.  Head west and take the stairs to the second
+floor.
+
+Follow the hallway east for a POTION, then head south and take the door.
+Go north and get a SCROLL.  Use it on Baru so he learns Bakim.  Now head
+all the way back to the Room of Mirrors.  Take the door to the north.
+Search the pots for a REVIVE, then take the stairs right above the door.
+Search the bookshelves for a BONE and the pots for MEATx3.  Now head back
+upstairs and go south into the hallway.  Search the pots in the first
+outlet for WAKEUPx3.  Head south and take the stairs.  Talk to Duke
+Necrude and he'll give you the MIRROR RING to use on a false mirror.  Head
+back to the room of mirrors and go up to the mirror one away from the door
+(the second mirror from the left).  Take the stairs to another part of the
+second floor.  Head into the room and rest, then search the rooms above
+you for a SLEEPWARD and a LEATHER VEST.  Rest up again (if you want), then
+head south and east.  Search the pots for MEAT and the bookshelves for 2
+SCROLLS.  Use them both on Darus so he'll learn Swapra and Ligar. Head
+north to get a MIRACLE, then take the stairs to the Castle Roof.  Saam is
+waiting for you.
+
+-------------------------------------------------------------------------
+Saam
+Recommended Level: He:12/Da:12/Ba:12/Ha:12/Sa:12
+Reward: 20 EXP
+Strategy: Saam releases three lightning bolts, then rushes around the room
+to charge up his magic.  If you hit him, he'll lose his concentration and
+won't be able to cast any spells.  Just corner him and hack him to pieces
+(if a character gets hit by a lightning bolt, the lightning bolt will
+disappear).
+-------------------------------------------------------------------------
+
+After killing Saam, head out to the roof (either exit will do) and head
+west.  You're too late to stop the Fitzkarard, but Necrude tells you that
+it's headed for the Tower of Water in Guandia.  Baru suggests you return
+to his hideout, which is what you should do.  Go back to the Cave, take
+Haman's shortcut, and cross the new bridge to Baru's Hideout (interesting
+how these things pop up).  Baru has ordered his bandits to fix up the
+Princess' airship, which is what you'll fly to Guandia.  Unfortunately, it
+crashed just after crossing the ocean.  A spy?
+
+-------------------------------------------------------------------------
+CHAPTER IV: GUANDIA'S SACRED WATER
+-------------------------------------------------------------------------
+A.) Birdie's Forest and Guandia
+Recommended Level: He:13/Da:13/Ba:12/Ha:12/Sa:12
+Enemies: Purple Slime, Rabbit, Red Frog
+Treasures: Scroll, Holy Orb, Purifyx3, Fool's Dust, Water Ring
+------------------------------------------------------------------------
+
+Head east to Birdie's Hut.  Search the dresser for a SCROLL and use it on
+Haman so he learns Gashir.  Now head back to Birdie's Forest and head
+north, west, south, west, north, then east to Guandia.
+
+Those Samaran punks have frozen most of Guandia.  All the buildings to the
+left of the central fountain are frozen shut.  Well, head for the eastern
+Weapons Shop and buy a Bastard Sword for the Hero, a Cutlass for Haman,
+and a ThundrClaw for Baru.  That will cost you 10300 Gil.  Now, head
+northeast to the inn.  Go upstairs, rest, and search the treasure chest
+for a HOLY ORB.  Now go downstairs and search the pots for PURIFYx3.  Go
+to the basement and search the bottom row of dressers for a FOOL'S DUST. 
+Now take the door leading north on the first floor.  Go into the
+northeastern house and take the WATER RING in the house.  Give it to Darus.
+Follow the path north to the Tower of Water, the next dungeon.
+
+-------------------------------------------------------------------------
+B.) The Tower of Water
+Recommended Level: He:13/Da:13/Ba:13/Ha:13/Sa:13
+Enemies: Ghost, IceGolem, Blue Fire, Red Wizard, Blue Frog
+Treasures: SilentHerb, Scrollx3, GadoraThorn, Surprise!, Bone, Purifyx3,
+Revive, Herb, ChainMail, Herbx6, Eilxir, Open Helm, Water Ring, Holy Orb
+Boss: Veg and Fire Soldiers
+------------------------------------------------------------------------
+
+Head west and then north to get a SilentHerb.  Take the stairs to B1. 
+Follow the labyrinth like path to the stairs and 1F.  Head west and take
+the stairs leading down.  Follow the path to get a SCROLL and a
+GADORATHORN.  Use the Scroll on Baru to learn Panmum.  Head back to 1F
+and take the floors up to the second floor.
+
+Head south and turn west at the first hallway.  Enter the door and snatch
+a SURPRISE!, then head back to the main hallway.  Head south and turn into
+the next hallway you see.  The first door contains a BONE and PURIFYx3.
+The second door contains a REVIVE.  Now head east, then north.  Grab a
+HERB from the chest and follow the path to the stairs.  Head east and grab
+a SCROLL.  Use it on Baru to learn Spahri and then head to the stairs (and
+to B1).  Grab a CHAINMAIL from the chest and give it to the Hero (you can
+equip vests under the Chainmail). Follow the path to the stairs and ascend
+to the first floor.  Follow the path south, then west.  Grab HERBx3 from
+the chest and then ascend to the second floor.
+
+Bust open the chest for 150 Gil, then head for the third floor.  Follow
+the path and take the door to reach a balcony.  Take the other door to get
+back in the Tower.  Snag an ELIXIR from the chest and take the stairs
+leading down.  Search the middle room for HERBx3 and an OPEN HELM (for
+Haman), then head back up the stairs.  Take the other set of stairs to the
+fourth floor.  Head northwest and grab the WATER RING for Saria.  Now head
+west to the stairs.  Take the HOLY ORB that's right in front of you, then
+head south.  Follow the path to a stairwell and a chest.  Open the chest
+for a SCROLL (use it on Saria so she'll learn Escape). Now take the stairs
+to the sixth floor.  Heal up and go to the roof of the Tower, where you'll
+meet and fight Veg.
+
+-------------------------------------------------------------------------
+Veg and Fire Soldiers
+Recommended Level: He:13/Da:13/Ba:13/Ha:13/Sa:13
+Reward: 40 EXP (Veg), 7 EXP/Fire Soldier 
+Strategy: Veg shoots out four Fire Soldiers and then rushes around,
+shooting fireballs at your party.  If you kill one or more Fire Soldiers,
+Veg will replace them, so just concentrate on Veg and don't go out of your
+way to kill Fire Soldiers.  As with all bosses, simply corner Veg and hack
+him to death.
+-------------------------------------------------------------------------
+
+Just as you finish off Veg, the Fitzkarard begins to take off.  Haman
+holds Veg off while you board the ship.
+
+-------------------------------------------------------------------------
+C.) Fitzkarard
+Recommended Level: He:13/Da:13/Ba:13/Sa:13
+Enemies: Red Wizard, Blue Frog, Green Frog, Green Knight, IceGolem, Yellow
+Soldier, Brown Soldier, Purple Frog
+Treasures: Potionx2, Herbx3, SilentHerb, Scrollx2, Fool's Dust, MagicBelt
+------------------------------------------------------------------------
+
+Head north into the room and rest/save.  Head west until you reach a
+stairway leading to the 1st floor.  Take it and head north for a POTION.
+Return to Floor 2 and follow the path south for HERBx3.  Return to the
+cabin and rest if you want.  Head south, then east.  Head north at the
+first outlet for a POTION and a stairwell.  Get a SILENTHERB and SCROLL
+from the rooms here.  Use the Scroll on Saria so she'll learn Rupias.
+Return to 2F and follow the path until you come to more stairs.  If you
+need to rest, take the stairs and use the bed in the cabin.  Otherwise
+follow the path until you reach yet another set of stairs.  Take them.
+
+Head north for a FOOL'S DUST from the cabin.  Go back and head east. Enter
+the cabin for another SCROLL.  Use it on Saria to teach her Death and then
+head east to the stairs.  Go south and open the chest for a MAGICBELT.
+Take the stairs to the first floor, then take another set of stairs to the
+bridge.  If Saria has anything important, de-equip it (this doesn't
+include the Bajir Pad) and give it to someone else.  Now rest at the bed
+and head towards the piloting computer.
+
+Lefis will tell you that you are the Guardian of the Light from Ark's
+legend and that you need to escape.  Nova then teleports in and presents
+his daughter Saria (the spy).  He tries to get the Hero to tell him the
+spell to open Radia Tower, but Leorina busts in and teleports everyone
+away from the Fitzkarard with the tech Escape.
+
+-------------------------------------------------------------------------
+CHAPTER V: BANDORA'S STONE OF FLAME
+-------------------------------------------------------------------------
+A.) Bandora Village
+Recommended Level: He:14/Da:14/Ba:14/Le:10
+Enemies: Purple Slime, Rabbit, DarkBlue Flyer, Pink Bat, Grey Bull, Grey
+Knight, Pink Crab, Pink Snail, Blue Flyer
+Treasures: Scroll, Herbx3, Fire Sari, Flame Ring, Sleep Jar
+------------------------------------------------------------------------
+
+You'll learn that Leorina is one of the surviving Guandians, with her
+servant Sofie being the other.  Head back to the Tower of Water and you'll
+be led to the Kreps' Mansion, where Haman is being nursed by Sofie.  Your
+party decides to retrieve the Stone of Flame from Bandora to help melt the
+ice.  Head north out of Kreps' Mansion and across Nasha's Spring to the
+Forest of Godo.
+
+Head east, north, and west to the base of Mt. Bernard.  Scale the mountain
+and enter the cave to the northwest.  Head through this cave into the Lava
+Region.  Head west, north, east, south, west, and north to the Burning
+Town Bandora.
+
+Bandora is deserted, but there is some decent treasure lying around. Enter
+the first house and search the pots for a SCROLL.  Use it on Leorina to
+teach her Strella.  Exit to the north and go to the western house. Search
+the pots for HERBx3 and the dresser for a FIRE SARI.  Give this to
+Leorina.  Go to the northeastern house and check the pots for a FLAME
+RING.  Search the dresser in the northwestern house for a SLEEP JAR. 
+Well, that's it for Bandora, so head north and enter Ruji Bafumunt's Palace.
+
+-------------------------------------------------------------------------
+B.) Ruji Bafumunt's Palace
+Recommended Level: He:14/Da:14/Ba:14/Le:11
+Enemies: Grey Knight, Fire, Red Ghost, Pink Crab
+Treasures: Scroll, Magic Robe. DongameFt, 3850 Gil, Potionx3, Bonex3, Holy
+Orb, Scroll, PoisnWard
+------------------------------------------------------------------------
+
+Head north and rest at the beds.  Search the bookshelves for a SCROLL (use
+it on Leorina to learn Aquam) and open the chest for a MAGIC ROBE.  Give
+the Magic Robe to Darus.  Head west and take the first stairs you see.
+Take the second hallway to snag a DONGAMEFT, then continue south and turn
+east.  Enter the throne room and talk to Ruji.  Apparently, an Agira has
+stolen the Stone of Flame and is hiding in the Cave of Flame.  But before
+going there, you should clean house at Ruji's Palace.  So exit the throne
+room and head east.  Grab 3850 Gil, POTIONx3, BONEx3, then drop down the
+hole.  Walk west and fall down another hole, into the basement.  Walk
+south, then walk due east until you see a chest.  Open it for a HOLY ORB.
+Now walk a few steps west and straight north until you see another chest.
+Open it for a SCROLL; use it on Leorina to teach her WtrBall.  Now head
+northwest and take the stairs back to the 1st floor.  Head to Ruji's
+throne room.  Head east from Ruji, rest, and fall down the hole.  Open the
+chest for a POISNWARD.  Now exit to the south (ignore the hole).  Follow
+the path to enter the Cave of Flame.
+
+-------------------------------------------------------------------------
+C.) Cave of Flame
+Recommended Level: He:15/Da:15/Ba:14/Le:12
+Enemies: Ghost, BlueFire, Pink Puffer, Red Golem, Salamander, Pink Blob,
+Orange Blob
+Treasures: Cutter, Scroll, Potionx6. Fool's Dust, Full Metal Sword, Battle
+Dress, Herbx3, Miracle, Elixir, TravelBell, Stone of Flame
+Boss: Fire Knightx5
+------------------------------------------------------------------------
+
+There are three doors to take.  The plaque says "First draw your sword."
+This means take the right path.  If you take the center path, you can get
+a CUTTER and loop around off the left path.  So take the right path.  Loop
+around to get a SCROLL.  Hold onto this.  Head south.  The plaque now says
+"Then raise the shield."  This means to take the left path.  Follow the
+path to a chest containing POTIONx3, then exit to the south.  The plaque
+now says "Finally, run through the gap!".  This means you should take the
+central path.  As soon as you can, head east and follow the path.  Grab
+the FOOL'S DUST, then follow the path to a POTIONx3.  Keep along the path
+to reach a chest containing the FULL METAL SWORD.  Loop all the way around
+and exit to the northwest.  Take the eastern path and take the stairs. 
+Grab a BATTLE DRESS and HERBx3.  Go back up the stairs, and this time head
+west and take another set of stairs.  Head north and take the stairs up. 
+Follow the path of rooms and you'll eventually pass a room with a chest
+containing a MIRACLE.   Keep going down and you'll end up in Agiras'
+Village.
+
+Rest up in the inn (right western house) and sell off your Tusks in the
+Tool Shop (left western house).  Head for the right eastern house, the
+Weapons Shop.  Sell off your old gear and buy the Hayabusa Gear for Baru.
+Now take the door to the northeast to enter the Shrine of Fire.  Search
+the chests for an ELIXIR and a TRAVELBELL.  Now head north and grab the
+STONE OF FLAME.
+
+Use a Travelbell to escape the Cave of Flame and re-enter Ruji Bafumunt's
+Palace.  Jump down the hole, exit B1, and return to Ruji's Throne Room
+(rest using the bed on the second floor first).  Upon talking to Ruji,
+Gadiss will appear and take the stone.  Ruji orders some Fire Knights to
+finish you off.
+
+-------------------------------------------------------------------------
+Fire Knightx5
+Recommended Level: He:15/Da:15/Ba:15/Le:13
+Reward: 75 EXP
+Strategy: The five soldiers shoot fireballs and use attack techs to harm
+the party.  They also move pretty fast.  Have each party member "Rush" a
+Fire Knight.  As the Hero, just corner one and stab it repeatedly.  Not a
+hard fight.
+-------------------------------------------------------------------------
+
+An Agira will show up with the REAL Stone of Flame, so you're set.  Make
+the long trip back to Count Kreps' Mansion.
+
+-------------------------------------------------------------------------
+D.) Kreps' Mansion
+Recommended Level: He:16/Da:16/Ba:16/Le:14
+Enemies: Blue Frog, Purple Wizard, Orange Penguin, Pink Frog
+Treasures: Holy Orb, Iron Vest, Saber, BlueLapis, Elixir, WaterArm
+Boss: Sol
+------------------------------------------------------------------------
+
+The Kreps' Mansion is now teeming with monsters.  Make your way east to
+the beds and rest up.  Now head south and follow the hall east past the
+throne room. Take the first door you see and ascend to the second floor.
+Grab the chest for a HOLY ORB then head south through the door.  On the
+balcony, take the western door and descend to the first floor.  Grab an
+IRON VEST (this can be equipped under a Chainmail) and a SABER, then
+return to the balcony.  Take the farthest eastern door and descend to 1F.
+Grab a BLUELAPIS and an ELIXIR.  Now take the door to the left of this one
+and follow the path for a WATERARM (equip it on Leorina). Finally, exit
+and take the central door and climb to the third floor.  Sol, one of
+Nova's lackeys, is responsible for freezing Guandia.  Time to take him
+out...
+
+-------------------------------------------------------------------------
+Sol
+Recommended Level: He:16/Da:16/Ba:16/Le:14
+Reward: 100 EXP
+Strategy: Sol floats around the screen, shooting out for ice orbs which
+freeze a character upon contact.  Try not to get in a position where he
+can repeatedly freeze you).  Anyway, just stab him when he moves by and
+don't corner him.
+-------------------------------------------------------------------------
+
+After killing Sol, the ice begins to melt (so, where did the Stone of
+Flame figure in?).  Count Kreps agrees to let you use his ship to head
+back to Elfas.  Leorina leaves the party, but Haman joins again.  Well,
+before heading to the docks you should visit the unfrozen shops and houses
+in Guandia.
+
+Visit the weapons shop and buy a RingMail for the Hero (ignore the Steel
+Armor).  Cross the bridge and search the dresser in the first house for a
+CLOTH VEST (the house across from the Tool Shop).  Now head for the docks
+(southeast corner) and sail back to Elfas.
+
+-------------------------------------------------------------------------
+CHAPTER VI: BERNARD'S HEART OF IRON
+-------------------------------------------------------------------------
+A.) Bernard
+Recommended Level: He:16/Da:16/Ba:16/Ha:13
+Enemies: None
+Treasures: Scroll, Sleep Jar, Wakeupx3, Surprise, Silk Robe
+------------------------------------------------------------------------
+
+Head west to Elfas, then go to Elfas Castle.  Talk to Rollo.  Apparently,
+Radia Tower is the sanctuary which has the power to gather dreams and
+shape Lemuria.  Nova and Gadiss plan to use the tower to remake the world.
+They'll need 8 treasures: the Sun's Treasure in Ark, the Moon's Treasure
+in Samara, the Sacred Trees of Zenobia, the Wing of Wind from Fubart, the
+Sacred Water of Guandia, the Stone of Flame from Bandora, the Heart of
+Iron from Bernard, and the Compass of Earth from Sarejia.  Of those, Nova
+and Gadiss have all but the Stone of Flame, the Mattock of Iron, and the
+Compass of Earth.  Sarejia is safe, so you must secure the treasure of
+Bernard.
+
+Head back to the docks and sail to Guandia (you'll have to go to Fubart,
+then to Guandia).  Head back to Mt. Bernard, but this time head east at
+the summit.  Haman will remove the holes, allowing you to access a cave.
+Follow this to the Alpine Town Bernard.
+
+Rest in the house to your left, then climb the ladder and enter the
+weapon's shop (second house after ladder).  Buy a Cross Sword for the
+Hero, a Swallow Boomerang for Baru, and a Paladin Helm/PlateMail for Haman
+(see why the Steel Armor was a waste of money?).  Talk around, then climb
+back down the ladder and take the ladder on the eastern side of the
+platform.  Enter the house and open the chest for a SCROLL.  Climb back
+up the ladder and take the eastern cave.  Follow the cave, exit, and enter
+the cave to the left of the inn.  Search the shelves for a SLEEP JAR and
+WAEKUPx3 and exit the cave.  You'll come out near Aburo's house.  If you
+talked to anyone in the town, you'll know that Aburo has found the
+ancestral treasure of Bernard.  You'll also know that someone (maybe Nova
+and Gadiss!) are trying to buy it.  Anyway, head into Aburo's house.  The
+maid will explain what I just told you, but Aburo appears and cuts her
+off.  He throws you out and locks the door. So, back to the platform with
+the Inn.  Climb down the ladder and enter the cave.  Just before you do,
+you'll spot Aburo climbing down the ladder behind his house.  Now's your
+chance to follow him.  Go back to Aburo's house (you might want to rest at
+the Inn along the way).  Search the dressers in his house for a SURPRISE!
+and a SILK ROBE.  Now take the ladder.
+
+-------------------------------------------------------------------------
+B.) Mt. Bernard
+Recommended Level: He:16/Da:16/Ba:16/Ha:13
+Enemies: Turtleman, Blue Puffer, Purple Bat, Pink Bag, Lizard Knight
+Treasures: Magic Robe, Scroll, Ball of Life, GadoraThorn, Miracle,
+SilentHerb, 5400 Gil, DongameFt, Potionx3, Earth Ring, W.Mattock
+Boss: Beruga
+------------------------------------------------------------------------
+
+Head north and grab a MAGIC ROBE from the chest.  Continue north and grab a
+SCROLL and a BALL OF LIFE from the chests.  Exit to the north.  Head east
+and follow the path to a GADORATHORN and a SCROLL.  Head back and go north
+this time.  In the next room, head north then east.  Grab a MIRACLE from
+the chest and head north to the stairs.  On the next floor, head south and
+grab a SILENTHERB and 5400 Gil along the way.
+
+You'll see Beruga trashing Aburo with his mattock, and being the good
+Samaritans you are, you won't stand for it.  Head east for a DONGAMEFT,
+then take the western path.  Someone else is trying to help Aburo...could it
+be the person that looks like Darus???  Anyway, grab POTIONx3 from the
+chest and take the stairs.  Head north and grab the EARTH RING for Darus.
+Now exit to the south.  Aburo is wounded, but will survive.  He tells you
+protect the Heart of Iron.  Take the northeastern exit.  Heal up, then
+head north to the Lost Sea Priosheene.  Midea, Darus' long lost sister,
+will join you to take on Beruga.
+
+-------------------------------------------------------------------------
+Beruga
+Recommended Level: He:17/Da:17/Ba:17/Ha:14/Mi:13
+Reward: 200 EXP
+Strategy: As soon as the battle begins, equip Midea with a Magic Robe and
+Darus' old Flame Ring.  Beruga creates four mirror images of himself to
+fool you, then walks around and hacks at you with his mattock (this can be
+a devastating attack).  Hitting the mirror images does nothing, so you'll
+have to find the real one.  To do this easily, have everyone Rush the
+first target choice at the beginning.  Your party members will now track
+down Beruga wherever he is, making the fight easy.
+-------------------------------------------------------------------------
+
+You'll obtain the Mattock of Water (W.MATTOCK) after beating Beruga.  Head
+up to the water and the Shrine of Iron will rise out of the water.  The
+Heart of Iron, though, is nowhere to be found.  Gadiss shows up and
+reveals that he used the Hero to get the Heart of Iron.  He leaves with
+the Stone of Flame after blasting the Hero.
+
+The Hero comes to in Aburo's House.  As a gesture of peace, Aburo offers
+the Hero a COPPUN DIADEM.  A cut-scene is shown of Gadiss and Lefis in Ark.
+ Gadiss has but one treasure to get and he plans to use the Hero to get
+it.  Anyway, the game goes back to the Hero in Elfas Castle.  Your next
+destination is Sarejia, Haman's homeland.
+
+-------------------------------------------------------------------------
+CHAPTER VII: SAREJIA'S COMPASS OF EARTH
+-------------------------------------------------------------------------
+Sarejia
+Recommended Level: He:17/Da:17/Ba:17/Ha:14/Mi:14
+Enemies: Silver Moth, Green Crab, Green Hornet
+Treasures: SilentHerb, Potion, Purifyx3, Amulet of Earth, Sleep Jar,
+Compass of Earth
+Boss: Nero, Gestahl, and Baron Spider
+-------------------------------------------------------------------------
+
+First, use your scrolls on Haman to teach him Forsba and Magnid.  Then
+equip the Coppun Diadem on someone. Now head for the Rema Desert.  Take
+the stairs you find in the northeastern corner of the desert (ignore the
+cave).  You'll be in Earth-Rooted Sarejia. 
+
+The town is infested with monsters.  Head east and south towards the main
+area of Sarejia. Take the first door and enter the Weapon Shop.  Buy a
+Coronial Sword for the Hero, a Holy Saber for Haman, an Earth Ring for
+Midea, and 2 RuneScarfs (for Midea and Darus).  Skip the door to the left
+and take the next door.  Search the bookshelves for a SILENTHERB and a
+POTION.  Search the shelves in the northwestern-most house for PURIFYx3,
+then rest.  Head up the steps near the weapons shop and enter the house.
+Descend to the basement and talk to Geo, who gives you the AMULET OF
+EARTH.  Now you can enter that shrine northeast of the main town.  Pop
+open the chest for a SLEEP JAR, rest, then head for the Shrine.  Head into
+the large door.  Nero, Gestahl, and Baron Spider show up to crash the party.
+
+-------------------------------------------------------------------------
+Nero, Gestahl, and Baron Spider
+Recommended Level: He:17/Da:17/Ba:17/Ha:15/Mi:14
+Reward: 200 EXP
+Strategy: Have everyone Rush either Nero or Gestahl.  Nero and Gestahl's
+sword attacks are devastating, while Baron Spider's attacks aren't.  Clean
+up Nero and Gestahl, then corner the Baron Spider and hack it to pieces. 
+Use Healus and Revives when necessary (you'll need them).
+-------------------------------------------------------------------------
+
+After vanquishing the foes, you'll recover the Compass of Earth.  Your
+only hope now is to got Samara and recover the other 7 treasures.  The
+cave to Samara is directly northeast of the stairs leading to Sarejia. 
+Rest up and head there.
+
+-------------------------------------------------------------------------
+CHAPTER VIII: THE SHRINE OF THE MOON
+-------------------------------------------------------------------------
+A.) Cave to Samara
+Recommended Level: He:17/Da:17/Ba:17/Ha:15/Mi:14
+Enemies: Pink Hornet, Pink Lizardman, Red Golem, Pink Blob, Pink Tadpole,
+Pink Turtle, Green Hornet
+Treasures: Potionx3, Amulet, Holy Orb, Cutter, Coppun Diadem, Scroll,
+Magic Robe, Sleep Jar, Unstunx3, Medallion
+-------------------------------------------------------------------------
+
+Head east (this area was blocked off before for no reason) and south.  Now
+head south and grab POTIONx3.  Head farther south and take the stairs.
+Climb two more sets of stairs until you reach a large room.  Head west and
+grab an AMULET.  Descend the stairs into another large room.  Head east
+for a HOLY ORB, then head back west and grab a CUTTER (yes, that's what
+you need when entering the capital of your enemy).  Take the stairs, loop
+around the building, and head back up.  Head east and exit the cave into
+the Hilly Region Lunos.  Head east into the Powerful Nation Samara.
+
+Head straight to the Weapons Shop.  Buy 2 New Moon Rings (Darus and Midea,
+a Steel Coat (Hero), a Ninja Gear (Baru), and 2 Master Robes (Darus and
+Midea).  This will cost a phenomenal 63200 Gil!.  Needless to say, you may
+barely make all these purchases, if that.  If you can't make all the
+purchases, worry not; the enemies here drop a lot of Gil.
+
+Head to the Inn and go upstairs.  Search the dressers in the northwest
+room for a COPPUN DIADEM, then search the bookshelves in the southwestern
+room for a SCROLL (you don't need this, but it sells for 6000 Gil). Search
+the northeastern room for a MAGIC ROBE and a SLEEP JAR.  Sell all of this
+off to replenish some Gil.  Now search the northwestern-most house for
+UNSTUNx3.
+
+If you talked to the people in town, you would know that Nova is resting
+in the Shrine of the Moon.  You would also know that you need a symbol of
+true faith to reach the Shrine called the Medallion.  So, head north to
+the Shrine of the Moon.  Enter the spring and you'll fall through the
+water.  You'll come to in Teto's house.  Teto was a friend of Darus' and
+Midea's father, Phobos, and is leading the resistance against Nova.  As a
+gesture of friendship he gives you the MEDALLION.  Now you can enter the
+Shrine of the Moon.  So fall down into the spring and into the Place of
+Believers.
+
+-------------------------------------------------------------------------
+B.) Shrine of the Moon
+Recommended Level: He:18/Da:18/Ba:18/Ha:16/Mi:15
+Enemies: Black Warlock, Red Gnome, Pink Magician, Black Ninja
+Treasures: Miracle, Holy Orb, Bonex3, Elixir, RapidGlass
+-------------------------------------------------------------------------
+
+Take the left teleporter and head north to the Shrine of Samara.  This
+dungeon is a labyrinth, more complex then any other dungeon in the game. 
+Some paths just loop back into the room you were in, and some are right. 
+When you actually go to a new room, the color will change. Luckily, you
+have a walkthrough (even though it's not that hard to figure out).
+
+Head north and grab a MIRACLE from the chest.  Head west, then west again.
+Grab a HOLY ORB and BONEx3.  Now head north and grab an ELIXIR.  Head
+north again, then east.  Open the chest for a RAPIDGLASS.  Head north and
+take the teleporter to the second floor.
+
+Head south for a SILENTHERB, then west for a SILVERCKT. (If you want, you
+can head west again for a SCROLL and a HERB, then back east).  Head north
+for a RUNESCARF, then west again for a HOLY ORB.  Head north twice and
+check the chest for a TRAVELBELL.  Now head east and north.  Take the
+teleporter to the roof.
+
+After getting on to the roof, Nova incapacitates everyone but the Hero and
+takes the Compass of Earth.  The Hero reveals that Soluna is the spell to
+open Radia Tower.  Just before Nova can kill you off, Teto appears and
+informs Nova that he has been dethroned.  Nova and Saria escape on the
+Fitzkarard, but Teto teleports you on.
+-------------------------------------------------------------------------
+CHAPTER IX: RADIA TOWER
+-------------------------------------------------------------------------
+A.) Fitzkarard
+Recommended Level: He:18/Da:18/Ba:18/Ha:16/Mi:16
+Enemies: Red Gnome, Black Warlock, Red Knight, Black Ninja, Green Penguin,
+Purple Frog, White Knight
+Treasures: SilentHerb, Elixir, Bone, Unstunx3, Potionx6, Banded Mail, Herbx3
+-------------------------------------------------------------------------
+
+The Fitzkarard's layout is exactly the same, but the enemies are harder and
+the treasure is better.  Watch out for the Black Ninjas and White Knights,
+their attacks can inflict a lot of damage.
+
+Head north into the room and rest/save.  Head west until you reach a
+stairway leading to the 1st floor.  Take it and head north for a
+SILENTHERB. Return to Floor 2 and follow the path south for an ELIXIR.
+Return to the cabin and rest if you want.  Head south, then east.  Head
+north at the first outlet for a BONE and a stairwell.  Get UNSTUNx3 and
+POTIONx3 from the rooms here. Return to 2F and follow the path until you
+come to more stairs.  If you need to rest, take the stairs and use the bed
+in the cabin.  Otherwise follow the path until you reach yet another set
+of stairs.  Right before you can take them, the Fitzkarard will dock at
+Radia Tower.  Now take the stairs.
+
+Head north for a BANDED MAIL from the cabin.  Go back and head east. Enter
+the cabin for another POTIONx3.  Take the stairs.  Go south and open the
+chest for HERBx3. Take the stairs to the first floor, then take another
+set of stairs to the bridge. Now rest at the bed and climb down the
+ladder.  Exit the Fitzkarard and climb down into Radia Tower.
+
+-------------------------------------------------------------------------
+B.) Radia Tower
+Recommended Level: He:19/Da:19/Ba:19/Ha:17/Mi:16
+Enemies: Red Gnome, Black Warlock, Pink Knight, Black Ninja, Ice Frog,
+Pink Magician
+Treasures: Paladin Armor, Holy Orb, Star Claw, Ball of Life, Full Moon
+Ring, MoonBlade, MagicBelt, Dragon Saber
+Boss: Nova
+-------------------------------------------------------------------------
+
+Radia Tower is full of excellent treasure, but is also populated with
+dangerous enemies like the Black and Pink Ninja.  Watch out and don't be
+stingy with Healus/Meats/etc.
+
+Head around the west partition and grab the PALADIN ARMOR for Haman.  Now
+head around the east partition for a HOLY ORB.  Take the teleporter.  Head
+west and teleport.  Head east and teleport to the next area.  Grab the STAR
+CLAW for Baru and follow the path to another teleporter.  Grab the chest
+to your east for a BALL OF LIFE.  Take the first teleporter to your left
+and follow the path to a FULL MOON RING.  Give this to Darus and head back
+to the teleporter.  Now take the second teleporter to the left.  Teleport
+until you reach a room with a chest.  Open it for a MOONBLADE.  Give this
+to the Here and return to the room with the Ball of Life.  This time, take
+the northeastern teleporter.
+
+Grab a MAGICBELT from the chest and take the teleporter.  Take the top
+teleporter and grab the DRAGON SABER.  Return to the main room and take
+the bottom teleporter.  Follow the path to another teleporter.  Take the
+teleporter, heal up, and head north.
+
+The shaking sound was the Fitzkarard taking off, with Gadiss aboard.  But
+why would he leave Radia Tower?  Before you get your answers, Nova
+attacks.
+
+-------------------------------------------------------------------------
+Nova
+Recommended Level: He:20/Da:20/Ba:20/Ha:18/Mi:17
+Reward: 200 EXP
+Strategy: Nova shoots out three magic balls and teleports around the room.
+Stay near the center so you can reach him quickly and hack him away.  His
+magic balls do a lot of damage, so remember to cast Healus.
+-------------------------------------------------------------------------
+
+Just as Nova is about to finish you, Saria stops him. Nova reveals that
+this tower is actually the Tower of the Moon and that Gadiss left for the
+Gate of the Sun.  With the power of the Moon and the Sun, Radia Tower can
+be unlocked.  The Gate of the Sun is in Elfas Castle (apparently, the
+people of Elfas are descendants of Ark).  Nova perishes and Saria sends
+you back to the start of your adventures....Elfas Castle.
+
+-------------------------------------------------------------------------
+CHAPTER X: FINALE
+-------------------------------------------------------------------------
+A.) Gate of the Sun
+Recommended Level: He:20/Da:18/Ba:18/Ha:18/Mi:17
+Enemies: Pink Magician, Pink Ninja, Black Ninja
+Treasures: Armguard, Dragon Saber, Holy Orb, Ball of Life, Lemuria Sword
+Boss: Gadiss
+-------------------------------------------------------------------------
+
+Head to Elfas Village.  You'll learn that Gadiss' troops came and
+massacred the castle. Sell all your excess items and Gear.  Stock up on
+some Potions and Herbs if you need to.  Ignore the Weapons Shop, because
+you have better equipment or the same equipment as everything sold there. 
+Anyway, head to the destroyed Tool Shop and take the stairs.
+
+Head east in the Secret Tunnel and snatch an ARMGUARD for Baru.  Head
+farther east for a DRAGON SABER which you can drop.  Head north for a HOLY
+ORB and take the stairs.  Head up all the flights of stairs.  You'll
+eventually come across that pesky treasure chest on the 4th floor.  Open
+it for a BALL OF LIFE.  Go up to the 5th floor, where Lefis has fainted.
+
+*WARNING* AFTER GOING UP THE STAIRS YOU CAN NEVER RETURN TO THE OUTSIDE
+WORLD AND YOUR FIELD OF PLAYING IS RESTRICTED TO THE FINAL DUNGEON.
+
+Heal up, the head to the Place of the Seal.
+
+-------------------------------------------------------------------------
+Gadiss
+Recommended Level: He:20/Da:20/Ba:20/Ha:18/Mi:18
+Reward: 300 EXP
+Strategy: Gadiss' attack will throw you across the screen and inflict
+quite a bit of damage.  However, he can't push you back if there is a
+character behind you, so move someone like Midea, Darus, or Baru behind
+the Hero or Haman (Midea, Darus, and Baru have projectile attacks) and
+corner Gadiss to score an easy win.
+-------------------------------------------------------------------------
+
+Gadiss perishes after claiming that Lemuria will fall to terror.  Aburo,
+Leorina, an Agira, and Ralph show up.  Everyone steps on a crest to light
+the way to Radia Tower...better known as Ark Castle.  Just after the path
+opens, someone that looks exactly like the Hero shows up, claiming to be
+the master of dreams.  Everything that the Hero thinks he remembers is
+really the Master of Dreams' creation.  He kidnaps Lefis and heads for
+Radia Tower.  When the Hero comes to, Aburo presents him with the LEMURIA
+SWORD.  The party then takes the Fitzkarard to Ark Castle.
+
+-------------------------------------------------------------------------
+B.) The Sanctuary
+Recommended Level: He:20/Da:20/Ba:20/Ha:18/Mi:18
+Enemies: Jellyfish, Blue Spider, Red Jellyfish, Purple Spider, Venus Flytrap
+Treasures: SilentHerb, Miracle, Amulet, Ark Armor, Ball of Life, Elixirx2,
+Potionx4, Sun Ring, RuneScarf, Revivex3
+Boss: Nightmare Monster
+-------------------------------------------------------------------------
+
+The enemies in the sanctuary are pretty tough, but they all drop Meats.
+Use things like Holy Orbs and Healus if you need to, as you'll be getting
+better items like Elixirs in the dungeon.  Getting to the final boss is
+actually harder than the final boss, and that's not saying much.
+
+Equip the Lemuria Sword and rest at the bed.  Exit the Fitzkarard and enter
+the Sanctuary.  Take the teleporter to the second floor.  Ignore the
+SILENTHERB to the west and head north.  Follow the path and collect a
+MIRACLE.  Head south for an AMULET, then east for the ARK ARMOR (equip
+this on the Hero).  Head north and warp to the third floor.
+
+Head north and grab a BALL OF LIFE, then swing east and snatch an ELIXIR.
+Head farther south and east for a POTION, then turn north.  Follow the
+path and grab a SUN RING for Darus.  Give his old Full Moon ring to Midea.
+ Follow the path and teleport to the last floor.
+
+There are no enemies here.  Collect an ELIXIR, POTIONx3, RUNESCARF (drop
+this), and REVIVEx3 from the side passages here.  Make sure you have full
+HP before opening the blue door.
+
+The equipment I had right now was:
+Hero: Lemuria Sword, Steel Coat, Ark Armor, Bajir Pad, Coppun Diadem
+Midea: Full Moon Ring, Master Robe, RuneScarf, Bajir Pad, MagicBelt
+Darus: Sun Ring, Master Robe, RuneScarf, Bajir Pad, SilverRckt
+Haman: Dragon Saber, Paladin Armor, Paladin Helm, Bajir Pad, RapidGlass
+Baru: Star Claw, Ninja Gear, Armguard, Gadora Pad, Coppun Diadem
+
+Once in the Center of Dreams, head west to find the Master of Dreams and
+Lefis.  The Master of Dreams reveals that Lemuria is a world of dreams and
+that he loosed dream monsters on the world to unify it as a nightmare
+(yeah, sure).  And then, during his speech, he gets eaten by the Nightmare
+Monster behind him.  Okay....
+
+-------------------------------------------------------------------------
+Nightmare Monster
+Recommended Level: He:22/Da:22/Ba:22/Ha:20/Mi:19
+Reward: None
+Strategy: The Nightmare Monster releases 4 Dream Monsters to attack you,
+then periodically opens its mouth to spit out a giant fireball.  Have
+Haman and Baru Rush the Nightmare monsters and let Darus and Midea fight
+freely.  Stand by the mouth of the Nightmare Monster and repeatedly stab
+it (hold down B).  When your HP gets low, have Darus or Midea use Healus.
+-------------------------------------------------------------------------
+
+Sit back and watch the ending.

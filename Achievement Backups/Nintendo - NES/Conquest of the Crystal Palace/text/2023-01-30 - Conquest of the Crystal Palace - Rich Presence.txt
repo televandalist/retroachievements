@@ -1,0 +1,16 @@
+Format:Digit
+FormatType:Value
+
+Lookup:Stage
+0x01=Mount Crystal
+0x02=the Realm of the Guardian
+0x03=the Lair of Hungry Ghosts
+0x04=the Gateway of Flame
+0x05=the Realm of Zaras
+
+Display:
+?0xh3f=255?Whoops
+?0xh3f=1?Title screenin' it. 
+?0xh3f=2?Watching the intro.
+?0xh3f=3?Watching the demo.
+Making their way through @Stage(0xh2b) | Lives: @Digit(0xh74)

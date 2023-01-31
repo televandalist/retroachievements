@@ -1,0 +1,16 @@
+Format:Digit
+FormatType=Value
+
+Lookup:Difficulty
+0=Easy
+1=Normal
+2=Hard
+3=Pro
+
+Lookup:Mode
+0=A
+1=B
+2=C
+
+Display:
+Score: @Digit(b0xh6*10_b0xh7*1000_b0xh4*100000) | Difficulty: @Difficulty(0xh68) | Mode: @Mode(0xh76) | Lives: @Digit(0xh6e)

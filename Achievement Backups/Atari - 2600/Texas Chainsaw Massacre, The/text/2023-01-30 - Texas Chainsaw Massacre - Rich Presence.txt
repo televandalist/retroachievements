@@ -1,0 +1,11 @@
+Format:Digit
+FormatType=VALUE
+
+Lookup:Fuel
+3=⛽⛽⛽
+2=⛽⛽
+1=⛽
+
+Display:
+?0xU7d=0? Title Screen
+☠:@Digit(b0xLc*10_b0xUd) and @Fuel(0xL0f) Remaining
