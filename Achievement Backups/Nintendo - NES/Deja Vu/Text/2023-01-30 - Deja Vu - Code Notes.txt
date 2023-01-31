@@ -1,0 +1,682 @@
+0x00a5	
+Cursor X-axis
+
+0x00a6	
+Cursor Y-axis
+
+0x00ab	
+Item selected
+0x00 - Coins
+0x07 - $20-Bill
+0x54 - $20-Bill
+
+0x00ac	
+Command Selected
+0x00 - Exam.
+0x01 - Speak
+0x02 - Hit
+0x03 - Close
+0x04 - Open
+0x05 - Take
+0x06 - Leave
+0x07 - Use
+0x09 - Save
+0x0a - Move
+0x0b - Note Left
+0x0c - Note Right
+0xff - nothing
+
+0x0311	
+Slot Machine 1
+00 - bar
+01 - Watermelon, 7
+02 - banana or bell or purple lime?
+
+0x0312	
+Slot Machine 2
+
+0x0313	
+Slot Machine 3
+
+0x0420	
+Dead guy's pocket
+bit0 - open or closed
+
+0x0421	
+Upstairs office desk
+bit0 - open or closed
+
+0x0422	
+Upstairs office wallsafe
+bit0 - open or closed
+
+0x0423	
+Secretary's desk
+bit0 - open or closed
+
+0x0425	
+Desk drawer (Kedzie)
+bit0 - Open or closed
+
+0x0426	
+Cabinet (Dr. Brody's Office)
+bit0 - Open or closed
+
+0x0427	
+Your office desk
+bit0 - Open or closed
+
+0x0428	
+Cabinet in your office
+bit0 - Open or closed
+
+0x0429	
+Auburn Rd. Mailbox
+bit0 - Open or closed
+
+0x042a	
+Doors
+bit0 - Auburn Rd. - Master bedroom - Nite Table
+
+0x042b	
+Auburn Rd. Guestroom Nite Tabel
+bit0 - Open or closed
+
+0x042c	
+Women's toilet
+bit0 - open or closed
+
+0x0450	
+bit0 - Get Coin
+bit1 - Get Lighter
+bit2 - Get Gum
+bit3 - Get Hanky
+bit4 - Get Sunglasses
+bit5 - Get Key 1
+bit6 - Get Card
+bit7 - $20-Bill1
+
+0x0451	
+Bit2=Capsules
+Bit3=Key2
+Bit4=Pencil
+Bit5=Key3
+
+0x0452	
+Bit0=Bill
+Bit1=Note2
+Bit2=Map
+Bit3=Snapshot
+
+0x0453	
+bit6 - Obtain Letter 1
+
+0x0454	
+bit2 - Obtain Letter 2
+bit4 - Obtain Memo
+bit5 - Obtain Ball Pen
+bit6 - Obtain Glasses
+bit7 - Obtain Seltzer
+
+0x0455	
+Bit1=Medic.2 in Weird Room
+bit4 - Get gag
+
+0x0456	
+bit7 - Get sausage
+
+0x0457	
+bit0 - Dish
+bit1 - Frying pan
+bit2 - Pitcher
+
+0x045a	
+bit4 - $20-bill2
+
+0x0468	
+Coat
+bit0 - Obtained
+bit1 - Open
+
+0x0469	
+Wallet
+bit0 - Obtained
+bit1 - Open
+
+0x046a	
+Gun1
+bit0 - Obtained
+bit1 - Open
+
+0x046b	
+Folder
+bit0 - Obtained
+bit1 - Open
+
+0x046c	
+Box
+bit0 - Obtained
+bit1 - Open
+
+0x046d	
+Envelope 1
+bit0 - Obtained
+bit1 - Open
+
+0x046e	
+Handbag
+bit0 - Obtained
+bit1 - Open
+
+0x046f	
+Gun2
+bit0 - Obtained
+bit1 - Open
+
+0x0470	
+Diary
+bit0 - Obtained
+bit1 - Open
+
+0x0471	
+Ammo Case
+bit0 - Obtained
+bit1 - Open
+
+0x0472	
+Envelope 2
+bit0 - Obtained
+bit1 - Open
+
+0x0473	
+Bowl 1
+bit0 - obtained
+bit1 - open
+
+0x0474	
+Bowl 2
+bit0 - obtained
+bit1 - open
+
+0x0475	
+Envelope 3
+bit0 - Obtained
+bit1 - Open
+
+0x0476	
+Candybox
+bit0 - Obtained
+bit1 - Open
+
+0x0477	
+Briefcase
+bit0 - Obtained
+bit1 - Open
+
+0x0478	
+Bowl 3
+bit0 - obtained
+bit1 - open
+
+0x0479	
+Gun3
+bit0 - Obtained
+bit1 - Open
+
+0x0480	
+Doors - 0=Closed 1=Open
+bit0 - Men's restroom - Stall door
+bit1 - Men's restroom - Door to hallway
+bit2 - Dingy hallway - Door to women's restroom
+bit3 - Dingy hallway - Door to bar
+bit4 - Women's restroom - Stall door
+bit5 - Bar - Main - Door to wine cellar
+bit6 - Bar - Main - Entrance
+
+0x0481	
+Doors, 0=Open 1=Closed
+bit0 - Door from wine cellar to secret area
+bit1 - Door to casino
+
+0x0482	
+Doors - 0=Closed 1=Open
+bit0 - Window to strange room
+bit2 - Upstairs office window
+bit4 - Secretary's office - Door to main office
+bit5 - Upstairs hallway - Door to secretary's office
+
+0x0483	
+Doors
+bit0 - Manhole cover (street)
+bit3 - Mercedes passenger door
+bit6 - Gunshop door
+
+0x0484	
+Doors
+bit2 - Manhole cover (Alley)
+
+0x0485	
+Doors
+bit5 - Westend - Entrance
+bit7 - Westend - Elevator door
+
+0x0486	
+Doors
+bit1 - Kedzie - Front door
+bit3 - Sherman - Front door
+
+0x0487	
+Doors
+bit0 - Sherman - your office door
+bit4 - Auburn Rd. - Kitchen door
+bit6 - Auburn Rd. - Master bedroom door
+bit7 - Auburn Rd. - Bedroom door
+
+0x0488	
+Doors
+bit0 - Auburn Rd. - Door between bedrooms
+bit7 - Mercedes trunk
+
+0x0489	
+Doors
+bit0 - Mercedes - Dashboard
+
+0x0490	
+bit5 - punch mugger first time
+bit6 - second time
+bit7 - third time
+
+0x0492	
+bit6 - Shot the guy in your office
+
+0x0493	
+bit2 - Read Memo
+
+0x0494	
+bit0 - Wastebasket open or closed (Strange room)
+bit3 - Wastebasket open or closed (Outside gun store)
+bit5 - Got your memories back
+
+0x0495	
+bit2 - Gave street mugger $20
+bit3 - Gave the alley mugger $20
+bit4 - took two doses of medicine
+
+0x049a	
+bit7 - enter office with dead guy
+
+0x049b	
+bit3 - unlock office with dead guy
+bit6 - unlock your office door
+
+0x04a0	
+bit5 - Make Martha talk
+
+0x04a2	
+bit7 - Obtain Letter 1
+
+0x04a4	
+bit1 - Discard Gun1
+bit2 - Discard Map
+bit3 - Discard File 5
+bit4 - Discard Note 1
+
+0x04c0	
+Address Book Line 1
+0xFF if not obtained
+
+0x04c1	
+Address Book Line 2
+0xFF if not obtained
+
+0x04c2	
+Address Book Line 3
+0xFF if not obtained
+
+0x04c3	
+Address Book Line 4
+0xFF if not obtained
+
+0x04c4	
+Address Book Line 5
+0xFF if not obtained
+
+0x04ce	
+Inventory Slot 1
+00 - Coins
+01 - Lighter
+02 - Gum
+03 - Hanky
+04 - Sunglasses
+05 - Key1
+06 - Card
+07 - $20-Bill
+08 - Bul1
+0a - Capsules
+0b - Key2
+0e - Note1
+0f - Key4
+10 - Bill
+11 - Note2
+12 - Map
+13 - Snapshot
+14 - Cosmetic
+15 - Key5
+16 - Bookmark
+
+0x04cf	
+Inventory Slot 2
+17-1a - File1-File4
+1b - File5
+1c - File6
+1d - File7
+1e - Letter1
+2c - Gag
+2f - Photo
+30 - Note4
+31 - Note3
+32 - Earring
+49 - Bul1
+54 - $20-Bill (from woman)
+60 - Coat
+61 - Wallet
+62 - Gun1
+63 - Folder
+64 - Box
+65 - Envel. 1
+67 - Gun2
+68 - Diary
+69 - Ammo Case
+6a - Envel. 2
+
+0x04d0	
+Inventory Slot 3
+33 - Medic. 4
+34 - Medic. 5
+35 - Medic. 6
+36 - Medic. 3
+55 - Medic. 1
+56 - Medic. 1
+57 - Medic. 1
+58 - Medic. 2
+59 - Medic. 2
+5a - Medic. 4
+5b - Medic. 6
+5c - Medic. 6
+
+0x04d1	
+Inventory Slot 4
+21 - Tissue
+22 - Letter2
+24 - Memo
+25 - Ball Pen
+26 - Glasses
+37 - Sausage
+38 - Dish
+39 - Frypan
+3a - Pitcher
+6b - Bowl1
+6c - Bowl2
+6d - Envel.3
+6e - Candybox
+6f - Bri'case
+70 - Bowl3
+
+0x04d2	
+Inventory Slot 5
+
+0x04d3	
+Inventory Slot 6
+
+0x04d4	
+Inventory Slot 7
+
+0x04d5	
+Inventory Slot 8
+
+0x04d6	
+Inventory Slot 9
+
+0x04d7	
+Inventory Slot 10
+
+0x04d8	
+Inventory Slot 11
+
+0x04d9	
+Inventory Slot 12
+
+0x04da	
+Inventory Slot 13
+
+0x04db	
+Inventory Slot 14
+
+0x04dc	
+Inventory Slot 15
+
+0x04dd	
+Inventory Slot 16
+
+0x04de	
+Inventory Slot 17
+
+0x04df	
+Inventory Slot 18
+
+0x04e0	
+Inventory Slot 19
+
+0x04e1	
+Inventory Slot 20
+
+0x04e2	
+Inventory Slot 21
+
+0x04e3	
+Inventory Slot 22
+
+0x04e4	
+Inventory Slot 23
+
+0x04e5	
+Inventory Slot 24
+
+0x04e6	
+Inventory Slot 25
+
+0x04e7	
+Inventory Slot 26
+
+0x04e8	
+Inventory Slot 27
+
+0x04e9	
+Inventory Slot 28
+
+0x04ea	
+Inventory Slot 29
+
+0x04eb	
+Inventory Slot 30
+
+0x04ec	
+Inventory Slot 31
+
+0x04ed	
+Inventory Slot 32
+
+0x04ee	
+Inventory Slot 33
+
+0x04ef	
+Inventory Slot 34
+
+0x0514	
+Current Room
+
+0x0515	
+Image Modifier
+
+0x00=Bathroom Stall (Beginning) - Door Open
+0x01=Bathroom Stall (Beginning) - Door Closed
+0x02=Men's Bathroom - Door Closed
+0x03=Men's Bathroom - Door Open
+0x04=Dingy Hallway - Both Doors Closed
+0x05=Dingy Hallway - Bathroom Door Closed
+0x06=Dingy Hallway - Bar Door Closed
+0x07=Dingy Hallway - Both Doors Open
+0x08=Women's Bathroom - Both Doors Closed
+0x09=Women's Bathroom - Stall Door Open
+0x0A=Women's Bathroom - Door Open
+0x0B=Women's Bathroom - Both Doors Open
+0X0C=Women's Bathroom Stall - Lid Closed
+0X0D=Women's Bathroom Stall - Lid Open
+0X0E=Bar - 1st Floor - All Doors Closed
+0X0F=Bar - 1st Floor - Cellar Door Open
+0x10=Bar - 1st Floor - Door Open
+0x11=Bar - 1st Floor - Both Doors Open
+0x12=Wine Cellar
+0x13=Wine Cellar - Passage Revealed
+0x14=Small Room - Secret Door Open
+0x15=Small Room - Both Doors Open
+0x16=Small Room - Both Doors Closed
+0x17=Small Room - Casino Door Open
+0x18=Bar - Casino - Door Open
+0x19=Bar - Casino - Door Closed
+0x1A=Bar - 1F - Outside Elevator - Door Closed
+0x1B=Bar - 1F - Outside Elevator - Door Open
+0x1C=Bar - 1F - Inside Elevator - Door Open
+0x1D=Bar - 3F - Inside Elevator - Door Closed
+0x1E=Bar - 3F - Inside Elevator - Door Open
+0x1F=Bar - 2F - Inside Elevator - Door Open
+0x20=Bar - 3F - Weird Room - Window Closed
+0x21=Bar - 3F - Weird Room - Elevator Door Open
+0x22=Bar - 3F - Weird Room - Window Open
+0x23=Bar - 3F - Weird Room - Elevator Door and Window Open
+0x24=Bar - 3F Fire Escape - Window Closed
+0x25=Bar - 3F Fire Escape - Window Open
+0x26=Bar - Fire Escape - Window Closed
+0x27=Bar - Fire Escape - Window Open
+0x28=Bar - Office with Dead Guy
+0x29=Bar - Office with Dead Guy - Window Open
+0x2A=Bar - Office with Dead Guy - Safe Open
+0x2B=Bar - Office with Dead Guy - Safe and Window Open
+0x2C=Bar - Upstairs Reception Room - Door Closed
+0x2D=Bar - Upstairs Reception Room - Door Open
+0x2E=Bar - Upstairs Hallway - Door Closed
+0x2F=Bar - Upstairs Hallway - Door Open
+0x30=Outside Bar
+0x31=Outside Bar - Car Door Open
+0x32=Outside Bar - Trunk Open
+0x33=Outside Bar - Door Open
+0x34=Outside Bar - Manhole Open
+0x35=Outside Bar - Trunk and Car Door Open
+0x36=Outside Bar - Car Door and Door Open
+0x37=Outside Bar - Car Door and Manhole Open
+0x38=Outside Bar - Trunk and Door Open
+0x39=Outside Bar - Trunk and Manhole Open
+0x3A=Outside Bar - Door and Manhole Open
+0x3B=Outside Bar - Car Door, Trunk, and Door Open
+0x3C=Outside Bar - Car Door, Trunk, and Manhole Open
+0x3D=Outside Bar - Car Door, Door, and Manhole Open
+0x3E=Outside Bar - Trunk, Door, and Manhole Open
+0x3F=Outside Bar - Car Door, Trunk, Door, and Manhole Open
+0x40=Mugger 1 - Outside of Bar - 1st Visit
+0x41=Inside Car
+0x42=Inside Car - Dashboard Open
+0x43=Looking at Trunk
+0x44=Looking at Woman in Trunk
+0x45=Newspaper Stand
+0x46=Mugger 1 - In front of newspaper stand - 1st visit, 3rd visit
+0x47=Outside Gun Shop - Door Closed
+0x48=Outside Gun Shop - Door Open
+0x49=Mugger 1 - In front of gun shop - 1st visit
+0x4A=Inside Gun Shop
+0x4B=Outside Blue Cab - Peoria St.
+0x4C=Mugger 1 - In front of Blue cab - 2nd visit
+0x4D=Outside Yellow Cab - Peoria St.
+0x4E=Outside Police Station
+0x4F=Outside Police Station - Doors open
+0x50=DANGER CONSTRUCTION ZONE
+0x51=Streets - Dark Alley - Manhole Closed
+0x52=Streets - Dark Alley - Manhole Open
+0x53=Streets - Ugly Bum
+0x54=Muscle Mugger
+0x55=Meet Woman in Red
+0x56=Woman in Red - Unconscious
+0x57=Woman Close-Up (You got shot)
+0x58=Inside Blue Cab - Peoria St.
+0x59=Inside Blue Cab
+0x5A=Inside Yellow Cab
+0x5B=Inside Yellow Cab
+0x5C=Westend - Outside - Door Closed
+0x5D=Westend - Outside - Door Open
+0x5E=
+0x5F=
+0x60=Westend - Lobby - Door Closed
+0x61=Westend - Lobby - Door Open
+0x62=Westend - Elevator - Door Closed
+0x63=Westend - Elevator - Door Open
+0x64=Westend - Elevator Upstairs - Door Open
+0x65=Westend - Penthouse
+0x66=Kedzie Bungalow - Door Closed
+0x67=Kedzie Bungalow - Door Open
+0x68=
+0x69=
+0x6A=Kedzie Bungalow - Inside
+0x6B=Sherman St. - Outside - Door Closed
+0x6C=Sherman St. - Outside - Door Open
+0x6D=
+0x6E=
+0x6F=Sherman St. - Lobby
+0x70=Sherman St. - Outside Brody's Office - Door Closed
+0x71=Sherman St. - Outside Brody's Office - Door Opened
+0x72=Sherman St. - Inside Brody's Office - Filing Cabinet Open
+0x73=Your office door after shooting it
+0x74=Your office door after opening it
+0x75=Your office
+0x76=Man in your office
+0x77=Outside Auburn Rd. House
+0x78=
+0x79=Outside Auburn Rd. House - Front Door - Closed
+0x7A=Butler
+0x7B=Inside Mansion - Right Door Closed
+0x7C=Inside Mansion - Right Door Open
+0x7D=Mansion - Kitchen
+0x7E=Mansion - Upstairs - Doors Closed
+0x7F=Mansion - Upstairs - Left D Closed - Right D Open
+0x80=Mansion - Upstairs - Left D Open - Right D Closed
+0x81=Mansion - Upstairs - Both Doors Open
+0x82=Mansion - Master Bedroom
+0x83=Mansion - Master Bedroom - Door Open
+0x84=Mansion - Bedroom - Door Closed
+0x85=Mansion - Bedroom - Door Opened
+0x86=Sewer
+0x87=Sewer - Three-Way Path
+0x88=Sewer - Manhole Closed
+0x89=Sewer - Path and Ladder
+0x8A=Sewer - Deepest Part
+0x8B=Sewer - Under Manhole - Closed
+0x8C=Sewer - Under Manhole - Open
+0x8D=Alligator
+0x8E=Dead Alligator
+0x8F=? Scene - Bathroom - Beginning
+0x90=You Cleared Your Name
+0x91=The Ace Harding School of Investigation
+0x92=Handcuffs
+0x93=R.I.P. ACE HARDING
+0x94=SOCKO!
+0x95=BLAM!
+0x96=KABOOM!
+0x97=Slot Machine
+0x98=Snapshot
+
+0x051a	
+Number of addresses found
+
+0x051b	
+Number of coins - 8-bit - hex
+
+0x052f	
+bit1 - look in the mirror?
