@@ -1,0 +1,18 @@
+Format:Digit
+FormatType:VALUE
+
+Lookup:Player
+0=Blow
+1=Falla
+
+Lookup:Diff
+0=Easy
+1=Normal
+2=Hard
+
+Display:
+?0xh2f9=9?Watching a cutscene
+?0xh2f9=12?Game Over
+?0xh2f9=0?At the title screen
+?0xh2f9=17?Watching the intro
+@Player(0xh2ff) is plowing through Stage @Digit(0xh2f9) on @Diff(0xh2f5) Difficulty

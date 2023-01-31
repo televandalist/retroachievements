@@ -1,0 +1,28 @@
+Lookup:Stage
+0x00=Heat Man
+0x01=Air Man
+0x02=Wood Man
+0x03=Bubble Man
+0x04=Quick Man
+0x05=Flash Man
+0x06=Metal Man
+0x07=Crash Man
+0x08=Mecha Dragon (Wily 1)
+0x09=Picopico-kun (Wily 2)
+0x0a=Guts Tank (Wily 3)
+0x0b=Boobeam Trap (Wily 4)
+0x0c=Boss Rush (Wily 5)
+0x0d=Alien (Wily 6)
+
+Format:Lives
+FormatType=VALUE
+
+Format:ETanks
+FormatType=VALUE
+
+Lookup:Difficulty
+0x00=Normal
+0x01=Hard
+
+Display:
+Stage:@Stage(0xh002a), ⚖:@Difficulty(0xh00cb), 🚶:@Lives(0xh00a8), E-Tanks:@ETanks(0xh00a7)

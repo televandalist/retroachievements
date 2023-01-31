@@ -1,0 +1,62 @@
+Format:Digit
+FormatType=VALUE
+
+Lookup:Map
+0=Mt. Fuji
+1=Mt. Fuji
+2=Mt. Fuji
+3=Guilin
+4=Guilin
+5=Guilin
+6=Emerald Temple
+7=Emerald Temple
+8=Emerald Temple
+9=Angkor Wat
+10=Angkor Wat
+11=Angkor Wat
+12=Australia
+13=Australia
+14=Australia
+15=Taj Mahal
+16=Taj Mahal
+17=Taj Mahal
+18=Russia
+19=Russia
+20=Russia
+21=Paris
+22=Paris
+23=Paris
+24=London
+25=London
+26=London
+27=Barcelona
+28=Barcelona
+29=Barcelona
+30=Athens
+31=Athens
+32=Athens
+33=Egypt
+34=Egypt
+35=Egypt
+36=Kenya
+37=Kenya
+38=Kenya
+39=New York
+40=New York
+41=New York
+42=Maya
+43=Maya
+44=Maya
+45=Antarctic
+46=Antarctic
+47=Antarctic
+48=Easter Island
+49=Easter Island
+50=Easter Island
+51=Space
+52=Space
+53=Space
+
+Display:
+?0xh1a>=36?Saved the world from killer balloons!
+Saving @Map(0xh1a) from killer balloons! 😱🎈 | @Digit(d0xLa1*1_d0xLa2*10_d0xLa3*100_d0xLa4*1000_d0xLa5*10000_d0xLa6*100000_d0xLa7*1000000)

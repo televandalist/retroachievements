@@ -1,0 +1,53 @@
+Lookup:Location
+0x00=Cross Town High (Generic Dudes' Turf)
+0x01=Sticksville (Generic Dudes' Turf)
+0x02=Grotto Mall
+0x03=Sticksville (Frat Guys' Turf)
+0x04=Sherman Park
+0x05=Sticksville
+0x06=Waterfront Mall
+0x07=Capital Ave. Bridge (Home Boys' Turf)
+0x08=Capital Ave. Bridge
+0x09=Downtown (Home Boys' Turf)
+0x0a=W.S.L. Co. Warehouse (Mob's Turf)
+0x0b=W.S.L. Co. Warehouse (Jocks' Turf)
+0x0c=W.S.L. Co. Warehouse (Home Boys' Turf)
+0x0d=Armstrong Thru-way (Mob's Turf)
+0x0e=Armstrong Thru-way (Mob's Turf)
+0x0f=Armstrong Thru-way (Mob's Turf)
+0x10=Downtown (Home Boys' Turf)
+0x11=Flatirons Mall
+0x12=Flatirons Mall
+0x13=Downtown (Squids' Turf)
+0x14=Vacant 3rd Wheel Factory (Squids' Turf)
+0x15=Vacant 3rd Wheel Factory (Squids' Turf)
+0x16=Vacant 3rd Wheel Factory
+0x17=Downtown
+0x18=Oak Hill Mall
+0x19=Oak Hill Mall
+0x1a=Burb Village
+0x1b=Burb Village (Squids' Turf)
+0x1c=River City High (Squids' Turf)
+0x1d=River City High (Plague's Turf)
+0x1e=River City High (Internationals' Turf)
+0x1f=River City High (Cowboys' Turf)
+0x20=River City High (Cowboys' Turf)
+0x21=
+0x22=River City High (Rooftop)
+
+Lookup:Difficulty
+0x1=Novice
+0x2=Advanced
+
+Format:Money
+FormatType=VALUE
+
+Format:Stamina
+FormatType=VALUE
+
+Lookup:Character
+0x0=Alex
+0x1=Ryan
+
+Display:
+@Character(0xh0038) is barfing through @Location(0xh0042), @Difficulty(0xh1e4c) Difficulty, $@Money(0xU04c8*10_0xL04c8*1).@Money(0xU04c7*10_0xL04c7*1), @Stamina(0xh04c0)/@Stamina(0xh04bf) HP

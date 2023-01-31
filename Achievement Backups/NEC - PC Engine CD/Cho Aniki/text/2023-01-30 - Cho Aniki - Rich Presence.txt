@@ -1,0 +1,23 @@
+Format:Digit
+FormatType:VALUE
+
+Lookup:Stage
+1=Stage 1
+2=Stage 2
+5=Stage 3
+6=Stage 4
+8=Stage 5
+
+Lookup:Diff
+0=Easy
+1=Normal
+2=Hard
+
+Lookup:Char
+0=Idaten
+8=Benten
+
+Display:
+?0xhf!=1?Not Doing the Muscle
+?0xh6d2=10?Watching the ending
+@Char(0xU1) is Doing the Muscle in @Stage(0xh6d2) on @Diff(0xh6e0)

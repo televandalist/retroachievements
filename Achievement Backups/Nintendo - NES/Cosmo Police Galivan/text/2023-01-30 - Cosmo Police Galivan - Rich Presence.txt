@@ -1,0 +1,19 @@
+Format:Digit
+FormatType:Value
+
+Lookup:Armor
+0x00=Galivan Armor Not Equipped
+0x01=Galivan Armor Equipped
+
+Lookup:Blade
+0x00=Beam
+0x01=Metal
+0x02=Fire
+0x03=Laser
+0x04=Thunder
+0x05=Hyper
+0x06=Cosmo
+
+Display:
+?0xh6c1=0?Probably fell asleep at the title screen.
+Using the @Blade(0xh7fae) Blade to slash their way through Area @Digit(0xh6c1) | @Armor(0xh6d4) | Level @Digit(b0xL7f9a*10_b0xL7f99*1)

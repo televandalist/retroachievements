@@ -1,0 +1,30 @@
+Lookup:LevelName
+0x0=Gravity Man
+0x1=Wave Man
+0x2=Stone Man
+0x3=Gyro Man
+0x4=Star Man
+0x5=Charge Man
+0x6=Napalm Man
+0x7=Crystal Man
+0x8=Proto Man's Castle Stage 1
+0x9=Proto Man's Castle Stage 2
+0x0a=Proto Man's Castle Stage 3
+0x0b=Proto Man's Castle Stage 4
+0x0c=Dr. Wily's Fortress Stage 1
+0x0d=Dr. Wily's Fortress Stage 2
+0x0e=Re-fighting the Robot Masters
+0x0f=The Final Battle!
+0x10=Menu
+
+Format:Lives
+FormatType=VALUE
+
+Format:Tanks
+FormatType=VALUE
+
+Format:MTanks
+FormatType=VALUE
+
+Display:
+@LevelName(0xh0026), @Lives(0xh00bf) Lives, @Tanks(0xl00bd) E-Tanks, @MTanks(0xl00be) M-Tanks

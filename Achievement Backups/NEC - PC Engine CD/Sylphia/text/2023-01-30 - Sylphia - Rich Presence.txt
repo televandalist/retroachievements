@@ -1,0 +1,29 @@
+Lookup:Stage
+01=Castle City Ruins
+02=Crete
+03=The Aegean Sea
+04=The False Temple
+05=Hades
+06=The Tower of Olympus
+07=The Clouds Above Styx
+08=The Gates of Tartarus
+
+Lookup:Diff
+0x00=(easy)
+0x10=(normal)
+0x20=(hard)
+0x28=(special hard)
+
+Lookup:Weapon
+00=Fire
+02=Water
+04=Wind
+06=Earth
+
+Format:Digit
+FormatType=VALUE
+
+Display:
+?0xh0039=00?Preparing for battle
+?0xh004e=01?Preparing for battle
+Sylphia is battling through @Stage(0xh0039) @Diff(0xh002f) wielding @Weapon(0xh003f) magic. @Digit(0xh0041) Lives. @Digit(b0xu0004)@Digit(b0xl0004)@Digit(b0xu0005)@Digit(b0xl0005)@Digit(b0xu0006)@Digit(b0xl0006)@Digit(b0xu0007)@Digit(b0xl0007) Points.

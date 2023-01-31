@@ -1,0 +1,12 @@
+Format:Digit
+FormatType=VALUE
+
+Lookup:Difficulty
+0=[⚖️Easy]
+1=[⚖️Normal]
+2=[⚖️Hard]
+
+Display:
+?0xh0=0? Not Klaxxing
+?0xh59=1? ▌▌
+@Difficulty(0xh6d1) @Digit(0xh3c>d0xh3c) Klaxes in Wave @Digit(0xh0)

@@ -1,0 +1,28 @@
+Format:Lives
+FormatType=Value
+
+Format:Score
+FormatType=Value
+
+Lookup:Level
+0=destroying oil rigs in the Geo-Cruiser
+1=protecting Yellowstone Park in the Eco-Copter
+2=rescuing whales in the Eco-Sub
+3=rescuing elephants in the Eco-Copter
+4=navigating ice caverns in the Geo-Cruiser
+
+Lookup:Structure
+0=oil refinery
+1=secret lab
+2=cannery
+3=ivory factory
+4=cfc factory
+
+Display: 
+?0xh7d4=1?🌎Watching the demo🌍
+?O:0xh4a9=hdd_O:0xh4a9=hde_O:0xh4a9=hdf_O:0xh4a9=he4_0xh4a9=0?🌎Getting ready to save the planet🌍
+?O:0xh4a9=hc1_O:0xh4a9=he1_0xh4a9=he2?You allowed Earth to wither and die you monster!
+?0xh4a9=he5_d0xh4a9!=he4?🌎Our Powers Combined!🌍
+?0xh799=0?The Planeteers are @Level(0xhfc), Lives:@Lives(0xh713), Score:🌎@Score(b0xL7c3*100000_b0xL7c4*10000_b0xL7c5*1000_0xL7c6*100)🌍
+?0xh799=1?Captain Planet is in the @Structure(0xhfc) saving the planet... you're welcome!, Lives:@Lives(0xh713), Score:🌎@Score(b0xL7c3*100000_b0xL7c4*10000_b0xL7c5*1000_0xL7c6*100)🌍
+RP by Keltron3030 - 11/25/2020

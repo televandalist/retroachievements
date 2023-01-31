@@ -1,0 +1,24 @@
+Format:Digit
+FormatType:Value
+
+Lookup:Mode
+0x00=Game A
+0x01=Game B
+
+Lookup:Stage
+00=Stage 1
+01=Stage 2, the Old Underpass
+02=Stage 2, Tunnel of Ice
+03=Stage 3, Corridor of Disorder
+04=Stage 3, Path of the Crystal
+05=Stage 4, Ruins 
+06=Stage 4, Underground Stream
+07=Stage 5, Graves (Left)
+08=Stage 5, Graves (Right)
+09=Stage 6, Room of Magma
+
+Display:
+?0xX88=0_0xX8c=0?What are you waiting for?
+?0xhe=4?Watching the ending.
+?0xh4a=10?Hopefully kicking a boss' ass.
+Player Lv. @Digit(0xhc0) | @Mode(0xhe) | @Stage(0xh4a) | @Digit(0xhf3)h@Digit(0xhf2)m@Digit(0xhf1)s
