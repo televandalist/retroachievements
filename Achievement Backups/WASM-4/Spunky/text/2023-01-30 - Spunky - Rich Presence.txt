@@ -1,0 +1,7 @@
+Format:Digit
+FormatType=Value
+
+Display:
+?0xM1ad8=1?Very dead
+?0xX1a18>1500?Running from a monster with @Digit(0xX1ad0) points
+Avoiding a monster with @Digit(0xX1ad0) points
