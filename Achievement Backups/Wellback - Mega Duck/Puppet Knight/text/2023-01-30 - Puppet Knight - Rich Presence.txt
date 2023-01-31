@@ -1,0 +1,9 @@
+Format:Digit
+FormatType:VALUE
+
+Display:
+?0xhc051>9? Certainly not blowing things up.
+?0xhc042>4? Definitely not blowing things up.
+?0xhc041=0?And that is what we call a "Game Over"
+?0xhc048=0_0xhc049=0_0xhc04a=0_0xhc04b=0_0xhc042=0_0xhc043=0?Getting ready to blow stuff up!
+Thinking about playing Bomberman instead on Stage @Digit(0xhc042_1)-@Digit(0xhc043_1) | 🚶‍♂️ @Digit(0xhc041) | 💣 @Digit(0xhc04c)/5 - 🔥 @Digit(0xhc04d_1)/4 - 🥾 @Digit(0xhc04e_1)/3 | ❤️ @Digit(0xhc051)/9
