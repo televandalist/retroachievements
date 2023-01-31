@@ -1,0 +1,248 @@
+0	Main Game - Normal - 1-1 - Fastest Time
+0	Main Game - Normal - 1-1 - Highest Hit Ratio
+0	Main Game - Normal - 1-1 - Least Kills
+0	Main Game - Normal - 1-1 - Most Kills
+0	Main Game - Normal - 1-2 - Fastest Time
+0	Main Game - Normal - 1-2 - Highest Hit Ratio
+0	Main Game - Normal - 1-2 - Least Kills
+0	Main Game - Normal - 1-2 - Most Kills
+0	Main Game - Normal - 1-3 - Fastest Time
+0	Main Game - Normal - 1-3 - Highest Hit Ratio
+0	Main Game - Normal - 1-3 - Least Kills
+0	Main Game - Normal - 1-3 - Most Kills
+0	Main Game - Normal - 2-1 - Fastest Time
+0	Main Game - Normal - 2-1 - Highest Hit Ratio
+0	Main Game - Normal - 2-1 - Least Kills
+0	Main Game - Normal - 2-1 - Most Kills
+0	Main Game - Normal - 2-2 - Fastest Time
+0	Main Game - Normal - 2-2 - Highest Hit Ratio
+0	Main Game - Normal - 2-2 - Least Kills
+0	Main Game - Normal - 2-2 - Most Kills
+0	Main Game - Normal - 2-3 - Fastest Time
+0	Main Game - Normal - 2-3 - Highest Hit Ratio
+0	Main Game - Normal - 2-3 - Least Kills
+0	Main Game - Normal - 2-3 - Most Kills
+0	Main Game - Normal - 3-1 - Fastest Time
+0	Main Game - Normal - 3-1 - Highest Hit Ratio
+0	Main Game - Normal - 3-1 - Least Kills
+0	Main Game - Normal - 3-1 - Most Kills
+0	Main Game - Normal - 3-2 - Fastest Time
+0	Main Game - Normal - 3-2 - Highest Hit Ratio
+0	Main Game - Normal - 3-2 - Least Kills
+0	Main Game - Normal - 3-2 - Most Kills
+0	Main Game - Normal - 3-3 - Fastest Time
+0	Main Game - Normal - 3-3 - Highest Hit Ratio
+0	Main Game - Normal - 3-3 - Least Kills
+0	Main Game - Normal - 3-3 - Most Kills
+0	Main Game - Normal - 3-4 - Fastest Time
+0	Main Game - Normal - 3-4 - Highest Hit Ratio
+0	Main Game - Normal - 3-4 - Least Kills
+0	Main Game - Normal - 3-4 - Most Kills
+0	Main Game - Normal - 4-1 - Fastest Time
+0	Main Game - Normal - 4-1 - Highest Hit Ratio
+0	Main Game - Normal - 4-1 - Least Kills
+0	Main Game - Normal - 4-1 - Most Kills
+0	Main Game - Normal - 4-2 - Fastest Time
+0	Main Game - Normal - 4-2 - Highest Hit Ratio
+0	Main Game - Normal - 4-2 - Least Kills
+0	Main Game - Normal - 4-2 - Most Kills
+0	Main Game - Normal - 4-3 - Fastest Time
+0	Main Game - Normal - 4-3 - Highest Hit Ratio
+0	Main Game - Normal - 4-3 - Least Kills
+0	Main Game - Normal - 4-3 - Most Kills
+0	Main Game - Normal - 4-4 - Fastest Time
+0	Main Game - Normal - 4-4 - Highest Hit Ratio
+0	Main Game - Normal - 4-4 - Least Kills
+0	Main Game - Normal - 4-4 - Most Kills
+0	Main Game - Normal - 5-1 - Fastest Time
+0	Main Game - Normal - 5-1 - Highest Hit Ratio
+0	Main Game - Normal - 5-1 - Least Kills
+0	Main Game - Normal - 5-1 - Most Kills
+0	Main Game - Normal - 5-2 - Fastest Time
+0	Main Game - Normal - 5-2 - Highest Hit Ratio
+0	Main Game - Normal - 5-2 - Least Kills
+0	Main Game - Normal - 5-2 - Most Kills
+0	Main Game - Normal - 5-3 - Fastest Time
+0	Main Game - Normal - 5-3 - Highest Hit Ratio
+0	Main Game - Normal - 5-3 - Least Kills
+0	Main Game - Normal - 5-3 - Most Kills
+0	Main Game - Normal - 5-4 - Fastest Time
+0	Main Game - Normal - 5-4 - Highest Hit Ratio
+0	Main Game - Normal - 5-4 - Least Kills
+0	Main Game - Normal - 5-4 - Most Kills
+0	Main Game - Normal - Fastest Time Overall
+0	Main Game - Normal - Final Chapter - Fastest Time
+0	Main Game - Normal - Final Chapter - Highest Hit Ratio
+0	Main Game - Normal - Final Chapter - Least Kills
+0	Main Game - Normal - Final Chapter - Most Kills
+0	Main Game - Normal - Highest Hit Ratio Overall
+0	Main Game - Normal - Least Kills Overall
+0	Main Game - Normal - Most Kills Overall
+0	Main Game - Professional - 1-1 - Fastest Time
+0	Main Game - Professional - 1-1 - Highest Hit Ratio
+0	Main Game - Professional - 1-1 - Least Kills
+0	Main Game - Professional - 1-1 - Most Kills
+0	Main Game - Professional - 1-2 - Fastest Time
+0	Main Game - Professional - 1-2 - Highest Hit Ratio
+0	Main Game - Professional - 1-2 - Least Kills
+0	Main Game - Professional - 1-2 - Most Kills
+0	Main Game - Professional - 1-3 - Fastest Time
+0	Main Game - Professional - 1-3 - Highest Hit Ratio
+0	Main Game - Professional - 1-3 - Least Kills
+0	Main Game - Professional - 1-3 - Most Kills
+0	Main Game - Professional - 2-1 - Fastest Time
+0	Main Game - Professional - 2-1 - Highest Hit Ratio
+0	Main Game - Professional - 2-1 - Least Kills
+0	Main Game - Professional - 2-1 - Most Kills
+0	Main Game - Professional - 2-2 - Fastest Time
+0	Main Game - Professional - 2-2 - Highest Hit Ratio
+0	Main Game - Professional - 2-2 - Least Kills
+0	Main Game - Professional - 2-2 - Most Kills
+0	Main Game - Professional - 2-3 - Fastest Time
+0	Main Game - Professional - 2-3 - Highest Hit Ratio
+0	Main Game - Professional - 2-3 - Least Kills
+0	Main Game - Professional - 2-3 - Most Kills
+0	Main Game - Professional - 3-1 - Fastest Time
+0	Main Game - Professional - 3-1 - Highest Hit Ratio
+0	Main Game - Professional - 3-1 - Least Kills
+0	Main Game - Professional - 3-1 - Most Kills
+0	Main Game - Professional - 3-2 - Fastest Time
+0	Main Game - Professional - 3-2 - Highest Hit Ratio
+0	Main Game - Professional - 3-2 - Least Kills
+0	Main Game - Professional - 3-2 - Most Kills
+0	Main Game - Professional - 3-3 - Fastest Time
+0	Main Game - Professional - 3-3 - Highest Hit Ratio
+0	Main Game - Professional - 3-3 - Least Kills
+0	Main Game - Professional - 3-3 - Most Kills
+0	Main Game - Professional - 3-4 - Fastest Time
+0	Main Game - Professional - 3-4 - Highest Hit Ratio
+0	Main Game - Professional - 3-4 - Least Kills
+0	Main Game - Professional - 3-4 - Most Kills
+0	Main Game - Professional - 4-1 - Fastest Time
+0	Main Game - Professional - 4-1 - Highest Hit Ratio
+0	Main Game - Professional - 4-1 - Least Kills
+0	Main Game - Professional - 4-1 - Most Kills
+0	Main Game - Professional - 4-2 - Fastest Time
+0	Main Game - Professional - 4-2 - Highest Hit Ratio
+0	Main Game - Professional - 4-2 - Least Kills
+0	Main Game - Professional - 4-2 - Most Kills
+0	Main Game - Professional - 4-3 - Fastest Time
+0	Main Game - Professional - 4-3 - Highest Hit Ratio
+0	Main Game - Professional - 4-3 - Least Kills
+0	Main Game - Professional - 4-3 - Most Kills
+0	Main Game - Professional - 4-4 - Fastest Time
+0	Main Game - Professional - 4-4 - Highest Hit Ratio
+0	Main Game - Professional - 4-4 - Least Kills
+0	Main Game - Professional - 4-4 - Most Kills
+0	Main Game - Professional - 5-1 - Fastest Time
+0	Main Game - Professional - 5-1 - Highest Hit Ratio
+0	Main Game - Professional - 5-1 - Least Kills
+0	Main Game - Professional - 5-1 - Most Kills
+0	Main Game - Professional - 5-2 - Fastest Time
+0	Main Game - Professional - 5-2 - Highest Hit Ratio
+0	Main Game - Professional - 5-2 - Least Kills
+0	Main Game - Professional - 5-2 - Most Kills
+0	Main Game - Professional - 5-3 - Fastest Time
+0	Main Game - Professional - 5-3 - Highest Hit Ratio
+0	Main Game - Professional - 5-3 - Least Kills
+0	Main Game - Professional - 5-3 - Most Kills
+0	Main Game - Professional - 5-4 - Fastest Time
+0	Main Game - Professional - 5-4 - Highest Hit Ratio
+0	Main Game - Professional - 5-4 - Least Kills
+0	Main Game - Professional - 5-4 - Most Kills
+0	Main Game - Professional - Fastest Time Overall
+0	Main Game - Professional - Final Chapter - Fastest Time
+0	Main Game - Professional - Final Chapter - Highest Hit Ratio
+0	Main Game - Professional - Final Chapter - Least Kills
+0	Main Game - Professional - Final Chapter - Most Kills
+0	Main Game - Professional - Highest Hit Ratio Overall
+0	Main Game - Professional - Least Kills Overall
+0	Main Game - Professional - Most Kills Overall
+1	Assignment Ada - Fastest Time Overall
+1	Assignment Ada - Highest Hit Ratio
+1	Assignment Ada - Least Kills
+1	Assignment Ada - Most Kills
+2	Separate Ways - Chapter 1 - Fastest Time
+2	Separate Ways - Chapter 1 - Highest Hit Ratio
+2	Separate Ways - Chapter 1 - Least Kills
+2	Separate Ways - Chapter 1 - Most Kills
+2	Separate Ways - Chapter 2 - Fastest Time
+2	Separate Ways - Chapter 2 - Highest Hit Ratio
+2	Separate Ways - Chapter 2 - Least Kills
+2	Separate Ways - Chapter 2 - Most Kills
+2	Separate Ways - Chapter 3 - Fastest Time
+2	Separate Ways - Chapter 3 - Highest Hit Ratio
+2	Separate Ways - Chapter 3 - Least Kills
+2	Separate Ways - Chapter 3 - Most Kills
+2	Separate Ways - Chapter 4 - Fastest Time
+2	Separate Ways - Chapter 4 - Highest Hit Ratio
+2	Separate Ways - Chapter 4 - Least Kills
+2	Separate Ways - Chapter 4 - Most Kills
+2	Separate Ways - Chapter 5 - Fastest Time
+2	Separate Ways - Chapter 5 - Highest Hit Ratio
+2	Separate Ways - Chapter 5 - Least Kills
+2	Separate Ways - Chapter 5 - Most Kills
+2	Separate Ways - Fastest Time Overall
+2	Separate Ways - Highest Hit Ratio
+2	Separate Ways - Least Kills Overall
+2	Separate Ways - Most Kills Overall
+3	The Mercenaries - Castle Map - Highest Kill Combo as Ada
+3	The Mercenaries - Castle Map - Highest Kill Combo as HUNK
+3	The Mercenaries - Castle Map - Highest Kill Combo as Krauser
+3	The Mercenaries - Castle Map - Highest Kill Combo as Leon
+3	The Mercenaries - Castle Map - Highest Kill Combo as Wesker
+3	The Mercenaries - Castle Map - Highest Score as Ada
+3	The Mercenaries - Castle Map - Highest Score as HUNK
+3	The Mercenaries - Castle Map - Highest Score as Krauser
+3	The Mercenaries - Castle Map - Highest Score as Leon
+3	The Mercenaries - Castle Map - Highest Score as Wesker
+3	The Mercenaries - Castle Map - Most Kills as Ada
+3	The Mercenaries - Castle Map - Most Kills as HUNK
+3	The Mercenaries - Castle Map - Most Kills as Krauser
+3	The Mercenaries - Castle Map - Most Kills as Leon
+3	The Mercenaries - Castle Map - Most Kills as Wesker
+3	The Mercenaries - Commando Base Map - Highest Kill Combo as Ada
+3	The Mercenaries - Commando Base Map - Highest Kill Combo as HUNK
+3	The Mercenaries - Commando Base Map - Highest Kill Combo as Krauser
+3	The Mercenaries - Commando Base Map - Highest Kill Combo as Leon
+3	The Mercenaries - Commando Base Map - Highest Kill Combo as Wesker
+3	The Mercenaries - Commando Base Map - Highest Score as Ada
+3	The Mercenaries - Commando Base Map - Highest Score as HUNK
+3	The Mercenaries - Commando Base Map - Highest Score as Krauser
+3	The Mercenaries - Commando Base Map - Highest Score as Leon
+3	The Mercenaries - Commando Base Map - Highest Score as Wesker
+3	The Mercenaries - Commando Base Map - Most Kills as Ada
+3	The Mercenaries - Commando Base Map - Most Kills as HUNK
+3	The Mercenaries - Commando Base Map - Most Kills as Krauser
+3	The Mercenaries - Commando Base Map - Most Kills as Leon
+3	The Mercenaries - Commando Base Map - Most Kills as Wesker
+3	The Mercenaries - Pueblo Map - Highest Kill Combo as Ada
+3	The Mercenaries - Pueblo Map - Highest Kill Combo as HUNK
+3	The Mercenaries - Pueblo Map - Highest Kill Combo as Krauser
+3	The Mercenaries - Pueblo Map - Highest Kill Combo as Leon
+3	The Mercenaries - Pueblo Map - Highest Kill Combo as Wesker
+3	The Mercenaries - Pueblo Map - Highest Score as Ada
+3	The Mercenaries - Pueblo Map - Highest Score as HUNK
+3	The Mercenaries - Pueblo Map - Highest Score as Krauser
+3	The Mercenaries - Pueblo Map - Highest Score as Leon
+3	The Mercenaries - Pueblo Map - Highest Score as Wesker
+3	The Mercenaries - Pueblo Map - Most Kills as Ada
+3	The Mercenaries - Pueblo Map - Most Kills as HUNK
+3	The Mercenaries - Pueblo Map - Most Kills as Krauser
+3	The Mercenaries - Pueblo Map - Most Kills as Leon
+3	The Mercenaries - Pueblo Map - Most Kills as Wesker
+3	The Mercenaries - Waterworld Map - Highest Kill Combo as Ada
+3	The Mercenaries - Waterworld Map - Highest Kill Combo as HUNK
+3	The Mercenaries - Waterworld Map - Highest Kill Combo as Krauser
+3	The Mercenaries - Waterworld Map - Highest Kill Combo as Leon
+3	The Mercenaries - Waterworld Map - Highest Kill Combo as Wesker
+3	The Mercenaries - Waterworld Map - Highest Score as Ada
+3	The Mercenaries - Waterworld Map - Highest Score as HUNK
+3	The Mercenaries - Waterworld Map - Highest Score as Krauser
+3	The Mercenaries - Waterworld Map - Highest Score as Leon
+3	The Mercenaries - Waterworld Map - Highest Score as Wesker
+3	The Mercenaries - Waterworld Map - Most Kills as Ada
+3	The Mercenaries - Waterworld Map - Most Kills as HUNK
+3	The Mercenaries - Waterworld Map - Most Kills as Krauser
+3	The Mercenaries - Waterworld Map - Most Kills as Leon
+3	The Mercenaries - Waterworld Map - Most Kills as Wesker

@@ -1,0 +1,118 @@
+Enemy Formation of Current Battle
+
+
+---Great Hollow--- 0x03
+0x00 - LizardFtr x6 (Scripted) (Chris)
+0x01 - LizardFtr x6 (Scripted) (Chris)
+
+---Iksay Village--- 0x06
+0x00 - LizardFtr x4 (Scripted) (Chris)
+
+---Brass Castle - Secret Passage--- 0x09+0x1b-0x1e
+0x00 - Banshee x2
+0x01 - Banshee x3
+0x02 - 
+0x03 - 
+0x04 - Dokugumo x2
+0x05 - 
+0x06 - 
+0x07 - 
+0x08 - Devil Eye x1, Banshee x1
+
+---Zexen Forest--- 0x0d
+0x00 - 
+0x01 - SparkBeetl x2 (Chris)
+0x02 - 
+0x03 - Dark Hare x2
+0x04 - Shadow x1 (Chris)
+0x05 - 
+0x06 - Shadow x1, Dark Hare x2 (Chris)
+0x07 - Shadow x2 (Chris)
+0x08 - 
+0x09 - 
+0x0a - Holly Shrub x6
+0x0b - Vermitor x2
+
+--Plain Amur-- 0x0e
+0x00 - Wild Boar
+0x01 - Wild Boar x2
+
+--Northern Cavern-- 0x0f
+0x00 - SparkBeetl x2 (Chris)
+0x01 - 
+0x02 - 
+0x03 - 
+0x04 - 
+0x05 - SparkBeetl x1, BoneSldr x3 (Chris)
+0x06 - 
+0x07 - SparkBeetl x1, BoneSldr x2 (Chris)
+0x08 - SparkBeetl x2, BoneSldr x2 (Chris)
+
+
+--Mountain Path-- 0x10
+0x00 - Devil Eye x2
+0x01 - 
+0x02 - YellwSvire x3
+0x03 - 
+0x04 - Twin Snake, Right Head, Left Head (TREASURE BOSS)
+0x04 - Salamander (sub map 0x07)
+0x05 - 
+0x06 - Salamander x1, YellwSvire x3
+0x07 - 
+0x08 - 
+0x09 - 
+0x0a - Chon-Chon x3, Devil Eye x2 
+
+--Ancient Highway-- 0x11
+0x00 - 
+0x01 - 
+0x02 - 
+0x03 - 
+0x04 - 
+
+--Yaza Plain-- 0x13
+0x00 - Dark Hare x1 (Chris)
+0x00 - HollyShrub x1 (Thomas)
+0x01 - Dark Hare x2 (Chris)
+0x01 - HollyShrub x2 (Thomas)
+0x02 - Dark Hare x3 (Chris)
+0x02 - HollyShrub x4 (Thomas)
+0x03 - Dokugumo x2 (Chris)
+0x03 - Killer Bee x2 (Thomas)
+0x04 - Dokugumo x4 (Chris)
+0x04 - HollyShrub x3, Killer Bee x1 (Thomas)
+0x05 - 
+0x06 - Wild Boar (Geddoe)
+0x07 - 
+0x08 - 
+0x09 - 
+0x0a - Peckles + helpers (Geddoe)
+
+1fffaf0 - 19f3870
+
+
+0x0375 - SparkBeetl
+0x0559 - LizardFtr
+0x056d - BoneSldr
+56e
+56f
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+57a
+57b
+57c
+57d
+57e
+57f
+580
+581
+582
+0x0583 - Rock Golem

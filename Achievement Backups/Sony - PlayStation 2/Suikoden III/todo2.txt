@@ -1,0 +1,106 @@
+The Suikoden II data you load must be a save game after defeating the final boss in that game.
+
+------------------------------------------------------------------------------
+No obstacles:  49-50 secs, default prize is Deer Antler (49.677)
+Some obstacles: 49-51 secs, default prize is Mini-Cactus (49.853)
+Lots of obstacles:  49-52 secs, default prize is Mini-Cactus (49.677)
+
+*******************************************************************************
+-------------------------------------------------------------------------------
+5g.  Attack Combos
+
+For the 2-person combos, put the characters in the same pair.  For combos with
+more than two people, just put them all in the same party.  I've probably
+missed some but this is most of them.
+
+2 People:
+---------
+
+Ayame and Watari
+Ayame and Landis
+Emily and Juan
+Belle and Gadget Z
+Bright and Gadget Z
+Borus and Percival
+Ace and Joker
+Duke and Elaine
+Dupa and Lucia
+Shabon and Sgt. Joe (mwahaha)
+Alanis and Melville
+Hallec and Fubar
+Big and Small Viki
+Yumi and Yuiri
+Cecile and Thomas
+Any 2 of Wan Fu, Mua, and Leo.  Leo must be on foot
+Fred and Rico
+
+3 People:
+---------
+
+Chris + any 2 of Leo, Borus, and Percival.  All must be on horseback
+Emily, Sharon, and Sanae Y
+Bright, Futch, and Sharon
+Futch, Fred, and Franz
+Bazba, Shiba, and Dupa
+Juan, Joker, and Kenji
+Mel, Belle, and Big Viki
+Nei, Toppo, and Shabon
+Lilly, Reed, and Samus
+Estella and Chris in bath
+
+4 People:
+---------
+
+Duke, Elaine, Nicolas, and Gau
+
+5 People:
+---------
+
+Ace, Joker, Queen, Jacques, and Geddoe
+Koroku, Connie, Kosanji, Kogoro, and Koichi
+
+
+*******************************************************************************
+6.  My Really Important Items List
+
+6a.  Introduction
+
+The various items below are what I consider the best in the game.  For lists
+that are comprehensive, I recommend you check suikosource.com and Ryvius' FAQ
+here on gamefaqs.
+
+-------------------------------------------------------------------------------
+6b.  Runes
+
+-Balance.  Protects wearer from unbalanced status.  Random item for Mt. Path
+ treasure boss in ch. 4.  Very rare.
+
+-Champion.  Enemies that can be "Let Go" will no longer approach.  Rare
+ encounters and treasure bosses will still appear.  Usually found as item for
+ Cyndar Ruins treasure boss in ch. 5.
+
+-Cyclone.  Higher level Wind rune.  Climb ladder at Chisha Appraiser shop; a
+ woman there will give it to you in ch. 4 (if Chris is main character, will
+ have to wait until ch. 5 to get it).  Random treasure on Kuput Forest corpse
+ closer to Chisha side.  Bazba comes with it (can't be removed).
+
+-Double Strike.  Damage given and received is multiplied by 2.  Random treasure
+ item for Mt. Hei-Tou boss in ch. 2, a common item at the Le Buque Rune Shop in
+ ch. 5.
+
+-Firefly.  Wearer is the first choice of an enemy attack.  Very useful for
+ Tank characters.  Drop item of Purple Creepers in North Cavern during Thomas'
+ chapters.  Rody comes with it (removable).
+
+
+More modifiers
+Characters:
+0xca - Masked Luc
+0xcc - Masked Kidd
+0xcd - FC
+0xce - Wyatt
+0xcf - Sana
+0xd0 - Fire Bringer
+0xd1 - Ruby
+0xd6 - Ultra Gadget Z
+0xd7 - Zexen Aila

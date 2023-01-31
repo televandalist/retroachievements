@@ -1,0 +1,98 @@
+Lucia	(If Chris/Geddoe is FC)
+1) Greetings I'm Lucia, the Karaya Chief. Best regards.
+2) Leader You are the leader of this group. I think you know that you have heavy responsibilities.
+3) Grasslands There are different people in the Grasslands Clans. Some are difficult. Get used to them.
+
+Ace	(If Geddoe is FC)
+1) Good job today Commander, good job today. This is okay, but do your job, too.
+2) Restaurant Can't you do something about that restaurant?  The food is alright, but the amount...
+3) At a bath I took a bath with Joker and Jacques, but we ended up bickering with each other. These guys are such a pain!
+4) Restaurant Mamie gave me a cold glance... Did I do something wrong?
+5) Thinking aloud I guess this kind of castle is alright. Though I won't be able to stay forever.
+
+Gau (If Geddoe is FC)
+1) There are reasons I'm fighting with you, but after this war let's fight a duel. Don't run away.
+2) About posts What are 'posts'? I'm not complaining, of course.
+3) Another message Don't think that the Kobolds are all like the warehouse keeper. Of course, there are many people like that.
+4) A message I owe my life to Duke. I'm helping you because he ordered it. Remember that.
+
+Beecham	(If Geddoe/Chris is FC)
+1) Greetings I'm Beecham, the assistant of the Karaya Clan Chief, Lucia. I'm old, but have seen service. [Successor], I'll always standby.
+2) Feelings If I give priority to individual feelings, I can't forgive the Zexen Knights. After the war, I'll fight against them. I have to.
+3) For recovery The only home to the Karayans is the meadows of Grassland. The recovery of the clan is my strong wish.
+4) Prosperity The castle is getting settled. The prosperity of the castle means the prosperity of Grassland. It's worth the work.
+5) To everybody The people of Karaya do not fear war. Let's fight powerfully and bravely for all the people of Grassland.
+
+Fred	(If Geddoe?Chris? are FC)
+1) Sword Your swordcraft is great. No wonder they say 'live and learn.' I'd like to have a game, but I'll wait until the war ends.
+2) Eternal life? What is it like to live the eternal life that a true rune brings? You look sad, but maybe it's just my imagination.
+
+Fubar	(If Chris/Geddoe is FC)
+4) From Fubar Take care of Hugo. Letter writer: Sergeant Joe
+5) From Fubar Sorry, but I can only take on Hugo. Letter writer: Sergeant Joe
+
+Roland	(If Chris is FC)
+1) Dear Chris The power of the True Fire Rune is strong. We will always support you, Chris. Never forget: the Knights of Zexen are always with you.
+2) The scenery of the  lake near this castle is beautiful. I know you're busy but why don't you take a walk sometime?
+3) About Gadget Z But I don't know how it works. I'm impressed with the high techniques of human beings.
+
+Leo	(If Chris is FC)
+2) Defensive Gear Dominic is a skilled worker. He adjusted my defensive gear, and it's back in good condition. It's nice to have these people around.
+
+Percival (If Chris is FC)
+1) Greetings again Chris, it's wonderful that you've become 'Flame Champion.' The knights will always follow you.
+2) Long ride Chris-- Next time, let's take a long horse ride. I'll show you how good I am.
+3) Brass Castle I can only relax at Brass Castle, although [Budehec] Castle is quite unique and fun. 
+4) Future knights Melville and Elliot asked me to train them. It's quite nice training future knights, when you have time.
+5) Ranch Ranches are good places for equitation. Let's see who's better, for a change.
+
+Queen	(If Geddoe is FC)
+1) Hi Hi. You're doing something that doesn't suit you. Being a leader of so many people.
+2) Alright? Strange people are gathering at this castle. But I won't complain, since you sent them.
+3) About Mel Mel, who has a doll, was teasing me. I taught her a lesson. These days, young people don't have manners.
+4) It must be tough to be a leader. Though I might not understand, when you feel like it, I'll always listen.
+5) Let's have fun! Lately you're more reticent. Everybody's worried. Let's have a drink. Ace will treat us.
+
+Duke	(If Geddoe is FC)
+1) I'll help you So, you're the 'Flame Champion.' I'll lend you some of my strength, but I don't like cozy relationships.
+2) Not like you It doesn't suit you, asking everybody's opinion. I guess someone planted the idea in your head.
+3) Manners Elaine said guys in your troop pick on her. Teach them some manners.
+4) Our troop The guys in our troop are stimulated at this castle. They are improving their skills with the tutor. They should be.
+5) Since you've borne the true rune, you've become as strong as me. After the war, let's see who's stronger.
+
+Nicolas	(If Geddoe is FC)
+1) Excuse me Duke might be aggressive. I guess it's a bother, but I hope you can cope with him. Alright?
+2) Our members Just like your unit, our members are tough guys. They're difficult to cope with, but please try.
+3) Back home After the war, I guess we'll go back to our previous lives. Your team and my team will never have cozy ties.
+
+Belle	(If Chris or Geddoe is FC)
+1) Pay for repairs Gadget Z was destroyed again, and I need money to repair it. Could you pay for me? I don't have money now.
+2) Request for food At that restaurant they don't serve cutlet bowls. Could you ask them to serve more food?. 
+3) I'd like to go to a party with Hugo. I don't like parties that Joker attends. His breath reeks of alcohol.
+4) I was with Mel in a bath, and she had a doll with her. Funny girl.
+5) That girl Aila was talking friendly with Hugo. Maybe it's just because they're from the same village.
+
+Jimba	(If Geddoe is FC)
+1) It's selfish to say this, but I'm glad that you inherited his rune.
+
+Louis	(If Chris FC)
+1) Greetings Nice to meet you.  I'm glad that Chris  is Flame Champion.
+2) About runes The True Fire Rune  suits Chris!  It's great!
+3) Kidd is a little strange. I guess he's the same age as I am. Don't you wonder how he was brought up? Maybe I'm nosy.
+
+Gordon	(If Chris is FC)
+1) Need a change? You look tired these days, so how about some coffee? There's a nice place  near...
+2) A picnic? It's sad to see a lady like you fighting all the time. How about a picnic?
+3) Invitation Nice weather lately. We should go to the theater together. There's a nice play at Vinay del Zexay.
+4) The bouquet Did you receive the bouquet I sent you? If you don't like it, please throw it in the lake.
+5) Admired Recently, I saw you walking under the moonlight after midnight. The word 'beautiful' was meant for you. Would you like to dine with me?
+
+Geddoe
+2) No title Don't take it  too seriously.
+
+Borus	(If Chris is FC)
+1) It's funny It's funny writing to you, Chris. Today I just wanted to  say hello.
+2) My family If my family asks about me, tell them I'm fine. Really.
+3) Ranch Have you been to the ranch? A girl who knows a lot about horses runs it. She seems to be interested in Chris's horse.
+4) A suggestion Maybe I'm not the person to say this, but it's a pity what happened at the villages of Karaya and Alma Kinan. But don't blame yourself too much.
+5) How about wine? I've got great wine. How about drinking some with the people at the castle? Everybody would love to see you, Chris.

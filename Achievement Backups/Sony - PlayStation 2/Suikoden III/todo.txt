@@ -1,0 +1,106 @@
+CH3	Alma Kinan	Rune
+CH3 Alma Kinan	Supply
+CH5	Alma Kinan	Rune
+CH5	Alma Kinan	Supply
+CH1	Brass Castle	Supply
+CH1 Brass Castle	Armor
+CH1 Brass Castle	Rune
+CH3	Brass Castle	Supply
+CH3 Brass Castle	Armor
+CH3 Brass Castle	Rune
+CH5	Brass Castle	Supply
+CH5 Brass Castle	Armor
+CH5 Brass Castle	Rune
+CH2 Caleria	Rune
+CH2 Caleria Armor
+CH2 Caleria Rune
+CH4 Caleria	Rune
+CH4 Caleria Armor
+CH4 Caleria Rune
+CH3 Chisha Village Supply
+CH3 Chisha Village Armor
+CH5 Chisha Village Supply
+CH5 Chisha Village Armor
+CH2 Duck Village Supply
+CH2 Duck Village Rune
+CH4 Duck Village Supply
+CH4 Duck Village Rune
+CH1 Great Hollow Supply
+CH1 Great Hollow Armor
+CH3 Great Hollow Supply
+CH3 Great Hollow Armor
+CH5 Great Hollow Supply
+CH5 Great Hollow Armor
+CH2 Iksay Village	Supply
+CH4 Iksay Village	Supply
+CH1 Karaya Village	Supply
+CH1 Karaya Village	Armor
+CH2 Le Buque	Supply
+CH2 Le Buque	Armor
+CH2 Le Buque	Rune
+CH5 Le Buque	Supply
+CH5 Le Buque	Armor
+CH5 Le Buque	Rune
+CH5 Mt. Senai	Supply
+CH1	Vinay del Zexay	Supply
+CH1	Vinay del Zexay	Armor
+CH1	Vinay del Zexay	Rune
+CH3	Vinay del Zexay	Supply
+CH3	Vinay del Zexay	Armor
+CH3	Vinay del Zexay	Rune
+CH5	Vinay del Zexay	Supply
+CH5	Vinay del Zexay	Armor
+CH5	Vinay del Zexay	Rune
+CH1 Zexan Guildhouse Supply
+CH1 Zexan Guildhouse Armor
+CH1 Zexan Guildhouse Rune
+CH4 Zexan Guildhouse Supply
+CH4 Zexan Guildhouse Armor
+CH4 Zexan Guildhouse Rune
+
+
+
+Medicine D
+Medicine C
+Mega Medicine D
+Mega Medicine C
+Mega Medicine B
+Antitoxin
+Throat Drops
+Flaming Arrows
+Dancing Flames
+Berserk Blow
+Kindness Drops
+Sacrificial Jizo
+Escape Scroll
+Star Pierce
+Sun Badge
+Belt of Strength
+Feather Earrings
+Fish Badge
+Water Amulet
+Wind Amulet
+Flame Amulet
+Silver Beak
+Blade Tail Ornament
+Wall Rune
+Alertness Rune
+
+
+Power Boots	Brass Castle Ch.3
+Custom Tunic Chisha Ch.5
+Premier Robe Chisha Ch.5
+Feather Earrings Chisha Ch.5
+Flame Amulet Chisha Ch.5
+Chief's Hat Great Hollow Ch.5
+Karaya Village Bandana Ch.1
+
+Titan Brass Castle Ch. 1,3/Caleria Ch2
+Shield Brass Castle Ch. 1,3
+Sword of Cyclone Brass Castle Ch.3
+Alertness Brass Castle Ch.5
+Sunbeam Brass Castle Ch.5
+Counter Le Buque Ch.5
+Double-Strike Le Buque Ch.5
+Violence Le Buque Ch.5
+Sword of Thunder VdZ Ch.5

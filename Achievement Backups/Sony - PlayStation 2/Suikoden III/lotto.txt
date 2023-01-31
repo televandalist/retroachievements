@@ -1,0 +1,45 @@
+Pretty simple.  Again, you should empty your party inventory prior to using
+these codes (see the item code description).  Load up with your winning
+ticket(s), save, reload without the codes and cash in.
+
+Replace ?? with one of the Lotto Digits below.
+
+*--------------*
+* Lotto Digits *
+*--------------*
+
+-------* Vinay del Zexay Lottery *-------
+0A - Grand Prize    
+14 - First Prize
+1E - Second Prize
+28 - Third Prize
+32 - Third Prize (alt)
+3C - Fourth Prize
+46 - Special Prize
+
+---------* Duck Village Lottery *--------
+0B - Grand Prize    
+15 - First Prize
+1F - Second Prize
+29 - Third Prize
+33 - Third Prize (alt)
+3D - Fourth Prize
+47 - Special Prize
+
+---------* Iksay Village Lottery *-------
+0C - Grand Prize    
+16 - First Prize
+20 - Second Prize
+2A - Third Prize
+34 - Third Prize (alt)
+3E - Fourth Prize
+48 - Special Prize
+
+------* Homeland (Castle) Lottery *------
+0D - Grand Prize    
+17 - First Prize
+21 - Second Prize
+2B - Third Prize
+35 - Third Prize (alt)
+3F - Fourth Prize
+49 - Special Prize
