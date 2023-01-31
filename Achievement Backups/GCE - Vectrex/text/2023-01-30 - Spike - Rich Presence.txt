@@ -1,0 +1,7 @@
+Format:Digit
+FormatType=VALUE
+
+
+Display:
+?0xl100=0_0xl101=1_0xl102=2?Not even playing yet!
+🚩: @Digit(0xh121_1) 🚶: @Digit(0xh120)| Score: @Digit(0xl122*100000_0xl123*10000_0xl124*1000_0xl125*100_0xl126*10_0xl127*1)
