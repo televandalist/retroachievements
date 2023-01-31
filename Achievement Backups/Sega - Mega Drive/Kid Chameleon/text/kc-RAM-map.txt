@@ -1,0 +1,453 @@
+# This list is highly incomplete, and primarily included to
+# have all known RAM addresses in one place.
+
+# byte = 1 byte
+# word = 2 bytes
+# long = 4 bytes
+
+FF0000 FF0280	Sprite_Table: $280 bytes, 8 bytes per sprite ($50 sprites)
+FF0280 FF0500   ?
+FF0500 ?        DMA queue? Format: 6 bytes per entry. word: length, long: source address.
+?      FF0DA0	?
+FF0DA0 FF2448	Object RAM: $74 bytes per object, $32 slots.
+FF2448 FF3B24	GfxObject RAM: $16DC bytes, $4C bytes per object ($4D objects)ff
+FF3B24 FF43BC   Block list: 8/16/10 bytes per prize/ghost-group/teleporter block
+FF43BC FF47A6   Queue with 2x2 cells to write onto FG plane map in VRAM (10 bytes per entry: 1 word VDP control command, 2 words data)
+FF47A6 FF4A04   Queue with 2x2 cells to write onto FG plane map in VRAM (6 bytes per entry: 1 word xpos, 1 word ypos, 1 word in format of Level_Layout cell)
+FF4A04 FF4B80	List of pointers (words) to beginning of each row in Level_Layout, including 2 above the top and 8 below the bottom (at FF9E32 FFA652)
+FF4B80 FF4D5C   List of pointers (words) to beginning of each row in Level foreground layout
+FF4D5C FF4E58   List of pointers (words) to beginning of each row in background buffer
+FF4E58 FF4ED8	Palette_Buffer: $80 bytes
+FF4ED8 FF4F58	more palette buffers?
+FF4F58 FF4FD8   more palette buffers?
+FF4FD8 FF503A	?
+FF503A FF52C2	Block_Mappings: $288 bytes
+FF52C2 FF7392	Level foreground layout: $20D0 bytes. 1 byte per entry (30 screens of $118 entries each)
+FF7392 FF7432	Horizontal scrolling related data
+FF7432 FF77B2	Horizontal Scroll Buffer: $380 bytes. a.k.a. deformation array
+FF77B2 FF87B2   decompression buffer
+FF87B2 FF9CB2   background buffer
+FF9CB2 FF9E32   ? -- in Final Marathon, this RAM up to FFA652 is filled with background mappings it seems? And the 2 rows of tiles are relocated to the last part of Level_Layout
+FF9E32 FFA652   2 rows of tiles, 1 above the top, 1 below bottom of the levels (same format as Level_Layout) -- top: solid, bottom: non solid
+FFA652 FFE7F2	Level_Layout: $41A0 bytes. 2 bytes per entry: 1 bit ?, 3 bits collision, 4 bits block, 8 bits skin (30 screens of $118 entries each)
+FFE7F2 ?		Object RAM?: ($13 objects), $E bytes per object
+FFE90A ?        Disappearing evanescent block RAM: ($13 objects), $C bytes per object
+FFE9FA ?        Shooter Block Bullet RAM: ($27 objects), $C bytes per object
+FFEBDA ?        Object RAM?: ($27 objects), $C bytes per object
+FFEDBA ?        Platform RAM?: ($11 objects), $22 bytes per object
+FFF01E ?        
+FFF2AC FFF5B0   Diamond Power Object RAM: ($10 objects), $4C bytes per object
+FFF5B0 ?        Object RAM? - for collision purposes? stack space?
+?      FFF7FE   Stack
+FFF7FE FFF862   ?
+FFF862 ?        Object RAM? - red stealth sword, axe, skull for collision purposes? - with pointers into GfxObject_RAM
+FFF8C0 ?        Object RAM? - for collision purposes?
+?      FFF8FE   Misc variables
+FFF8FE ?        Enemy status table, one word entry per enemy in enemy layout (whether it's loaded or something)
+FFFBDA FFFC18   RNG RAM and related variables
+?      FFFFFF	Misc variables
+
+# To be merged with the above table:
+FF7D8E	Some Palette Buffer	(0x40 bytes)
+FF87B2  BG tile layout buffer (bytes or plane map depending on $FFFFFB48)
+FF8EB2  BG tile layout buffer (plane map) 
+FF95B2  BG tile layout buffer (plane map)
+FF98F2  BG tile layout buffer (plane map) for hail
+
+# Miscellaneous variables
+FFF5A4  long    Diamond Power Object RAM: Address of first object slot in list
+FFF5A8  long    Diamond Power Object RAM: Address of next free object slot
+FFF5AC  long    Diamond Power Object RAM: Address of last object slot in list
+FFF5B8  byte    flag: whether diamond power is active
+FFF5BA  word    ID of active diamond power (equals HelmetID for 20-diamonds, HelmetID+10 for 50-diamonds)
+FFF5BE	word	Diamond power timer
+FFF80A	byte	Indicator that V-Int has occurred (flag)
+FFF80E	byte	Ctrl_1_Pressed (newly pressed this frame)
+FFF80F	byte	Ctrl_2
+FFF810	byte	Ctrl_2_Held
+FFF811	byte	Ctrl_2_Pressed
+FFF812	byte	Ctrl_Held	# depending on input mode (i.e. currently active player?):
+FFF813	byte	Ctrl_Pressed # depending on input mode (i.e. currently active player?):
+FFF824	long	X camera background position? (16.16 fixed point)
+FFF828	long	Y camera background position? (16.16 fixed point)
+FFF830  word    ?
+FFF832  long    Address of next available slot in Sprite_Table
+FFF836  byte    Number of sprites in Sprite_Table
+FFF838  long    Address of next empty slot in DMA queue
+FFF83C  word    Tile offset of next free destination in tile VRAM for DMA queue
+FFF83E  long    Address of next available Object slot
+FFF842  long    Address of first Object in Object_RAM
+FFF846  long    Address of currently executed Object
+FFF84A  word    Number of Objects
+FFF854  long    Address of next available GfxObject slot
+FFF858  long    Address of first GfxObject in GfxObject_RAM
+FFF85C  word    Number of GfxObjects
+FFF85E  long    Pointer to GfxObject that belongs to the kid
+FFF866  long    Pointer to GfxObject that belongs to the kid's projectile (Maniaxe axe, Juggernaut skull, Red Stealth slash). 0 if none present.
+FFF890  byte    flag indicating palette has changed
+FFF89E  word    width in 16x16 blocks
+FFF89C  word    width in 8x8 tiles
+FFF89A  word    width in pixels
+FFF8A0  word    height in pixels
+FFF8A2  word    height in 8x8 tiles
+FFF8A4  word    height in 16x16 blocks
+FFF8A6  word    background width
+FFF8A8  word    background height
+FFF8AA  word    Foreground theme (also determines music)
+FFF8AC  word    Background theme
+FFF8AE  long    Address of theme mappings
+FFF8B2  long    pointer to next free space in FF43BC array
+FFF8B6  long    pointer to next free space in FF47A6 array (FGPlane_UpdateQueue)
+FFF8BA  word    maximal camera X position (width in pixels - $140)
+FFF8BC  word    maximal camera Y position (height in pixels - $E0)
+FFF8BE  word    ?  (related to FFE7F2 RAM)
+FFF8C0  word    ?  (related to FFE7F2 RAM)
+FFF8C2  word    Address of first object in FFE7F2 RAM
+FFF8C4  word    Address of next free object in FFE7F2 RAM
+FFF8C6  word    Address of first object in Disappearing evanescent block RAM
+FFF8C8  word    Address of next free object in Disappearing evanescent block RAM
+FFF8CA  word    Address of first object in shooter block RAM
+FFF8CC  word    Address of next free object in shooter block RAM
+FFF8CA  word    Address of first object in FFEBDA RAM
+FFF8CC  word    Address of next free object in FFEBDA RAM
+FFF8D4  long    pointer to block list?
+FFF8F2  long    pointer to enemy layout
+FFF8F6  long    pointer to last two header bytes of enemy layout
+FFFA34          array with number of enemies active of each type?
+FFFA6D  byte    flag whether kid is currently transforming
+FFFA76  word    Cyclone y-acceleration
+FFFA7A  word    Kid hitbox left
+FFFA7C  word    Kid hitbox right
+FFFA7E  word    Kid hitbox top
+FFFA80  word    Kid hitbox bottom
+FFFA88  long    Pointer to current platform layout
+FFFA8C  word    Offset to platform in current platform layout
+FFFA8E  word    Pointer to first element in platform list
+FFFA90  word    Pointer to next free slot in platform list
+FFFA92  word    Number of platforms currently loaded
+FFFA8C  word    Offset in current platform layout that the platform loading manager will process next
+FFFA94  word    Pointer to platform kid is currently on
+FFFAC1	byte	Murder wall flag:	-1 = Murder wall, 0 = None
+FFFAC2	byte	Murder wall flag if both bits of the 3rd entry of maphdr are set?
+FFFAC8	long	Murder wall speed
+FFFACC	long	Murder wall terminal speed
+FFFAD1	byte	selected option in Pause menu: 0=continue, 1=restart/give up
+FFFAD2	byte	flags from top 2 bits of map header y position, times 2 -- this is a width in blocks added to the next 4 variables (scaled accordingly)?
+FFFAD6  word    timer for storm background (counts down from 4, and if 0, display rain background)
+FFFADA  word    ?  (storm related)
+FFFADC  word    ?  (storm related)
+FFFADE  long    address to the level's storm (rain) palette
+FFFB40	word	Level Special Effects: 0 = None, 1 = Lava Geyser, 2 = Storm, 3 = Storm+Hail, >=4 = Invalid
+FFFB48	byte	background format (flag): 0 = pieces, -1 = enigma. (only depends on bg theme)
+FFFB4A  byte    background scrolling flag: if set, don't scroll background.
+FFFB66  word    number of UFOs on screen
+FFFBD4  long    address of map header
+FFFBDA-FFFC12   RNG RAM ($37 bytes)
+FFFC12  word    offset for next random number
+FFFC14  long    random number word/long buffer
+FFFC37  byte    flag: enable level skipping by holding A+C+Start
+FFFC38	byte	two player flag: 0 = single player, -1 = two players
+FFFC39  byte    current player: 0 = first player, -1 = second player
+FFFC3B	byte	No Hit Bonus: 0 = retained, -1 = lost
+FFFC3C	byte	No Prize Bonus: 0 = retained, -1 = lost
+
+FFFC6A	word	Player 2 - Lives
+FFFC6C	word	Player 2 - Hit points
+FFFC6E	word	Player 2 - Diamonds
+FFFC70	word	Player 2 - Level number
+FFFC72	word	Player 2 - Transformation number
+FFFC74	word	Player 2 - Continues
+FFFC76	word	Player 2 - Extra hit point slots
+FFFC78	long	Player 2 - Score
+
+FFFD26  word    Player 2: number of one-time prizes collected
+FFFD28-FFFDC8   Player 2: one-time prizes collected, 2 words per entry: pointer into Level_Layout, Level ID
+FFFDC8	byte	selected sub-option 1 in options menu (flag). 2 Players: One controller = 0, Two = -1
+FFFDC9	byte	selected sub-option 3 in options menu (flag). Speed: Normal = 0, Fast = -1
+FFFDCA	word	selected sub-option 2 in options menu: Controls (0-5)
+FFFDCC	word	Options menu selection
+FFFDCC	word	selected option in options menu
+FFFDCE	word	Clocks collected in level
+!FFFDC6	byte	HACK: used for level select
+!FFFDC7	byte	HACK: used as level select flag
+FF0DB8	word	Menu timer
+FF0DBD	byte	main menu option
+FF0DC1	byte	main menu option * 2
+FF2596	word	main menu option selector Y position
+
+# unsure about these:
+FF0DB8    Menu timer    ; word
+FF0DBD    main menu option  ; byte
+FF0DC1    main menu option * 2  ; byte
+FF2596    main menu option selector Y position  ; word
+?FFFAD2    flags from top 2 bits of map header y position, times 2 -- this is a width in blocks added to the next 4 variables (scaled accordingly)?  ; byte
+    and in fact seems to be added to any kind of object
+
+
+Palette_Buffer ($FFFF4E58):
+- is transferred to CRAM via DMA
+
+
+Sprite Table ($FFFF0000), $280 bytes, 8 bytes per sprite
+- is transferred to VRAM via DMA
+- The first few slots seems to fixed for various HUD elements:
+ 0:  Ankh
+ 8:  first digit of number of lives
+10:  second digit of number of lives, or x
+18:  Minutes
+20:  colon
+28:  Seconds, upper digit
+30:  Seconds, lower digit
+38:  diamond
+40:  first digit of number of diamonds
+48:  second digit of number of diamonds, or x
+The slots after 50 are allocated dynamically, first the
+hitpoint display, then kid sprites, then other objects.
+
+
+Object RAM
+----------
+
+Objects and GfxObjects are organized in a linked list. There are
+a few more RAM sections organized like linked lists, e.g. for 
+platforms or bullets shot from shooter blocks.
+
+Each object entry starts with a pointer to its successor, or a NULL
+pointer in case it's the last object in the list. For both the
+Object and GfxObject list, there are RAM addresses containing
+(1) pointer to the first element in the list
+(2) pointer to the next empty object slot in RAM
+(3) the current number of objects in the list
+
+For both object lists, there are functions for
+(1) initializing the list
+(2) allocating a slot for use and returning its address
+(3) deleting an element from the list
+
+The Object RAM at FF0DA0 consists of $32 slots, $74 bytes per object.
+Each object has a pointer to its code at offset 4. Once per frame,
+the game goes through the list of objects and for each object executes
+that code. Before executing the code, the values stored at offsets 
+$16 to $36 are unpacked into the registers d0-d3 and a0-a3 (in that
+order). Executing of object code stops when the object deletes itself,
+or hibernates. Upon hibernation, the objects stores the register values
+d0-d3 and a0-a3 at offset $16 to $36 again, and will resume at the
+position in the code after the call to the hibernation function in the
+next frame (or after a larger amount of frames if a hibernation duration
+was provided). There is also a RAM address with a pointer of to the
+object that is currently being executed.
+
+Most or all object also have one or multiple GfxObjects associated
+to them. The GfxObject RAM at FF2448 consists of $4D slots, $4C bytes per 
+object. These contain data such as position/velocity of the object and 
+animation data. Each frame, the game goes through all GfxObjects and
+adds velocity to position, computes the animation, computes collision
+with the level and the kid and possibly more stuff. The game also
+compiles each GfxObject into a Sprite_Table entry which are then transferred
+to VRAM to be displayed. There are also RAM addresses
+FFF866
+FFF86A
+FFF86E
+FFF872
+whose purpose is currently unknown.
+
+
+Object format for objects from Object RAM at FF0DA0:
+ 0: (long) pointer to next object in list (0 if it's the last object)
+ 4: (long) pointer to object code
+ 8: (word) object hibernation counter
+ A: (long) pointer to some GfxObject?
+ E: ?
+10: (byte) flag
+11: ?
+12: (long)
+16: (8*long) values unpacked into d0-d3 and a0-a3
+36: (long) pointer to GfxObject in FF2448
+3A: (long) pointer to subobject in FF2448?
+3E: (long) pointer to subobject in FF2448?
+42: (byte) lower 6 bits: index in Enemy status table; bits 6&7: unknown flags.
+43: ?
+44: (long) for enemies: address in enemy layout. For platforms: corresponding platform object
+48-62: ?
+62: (long) some pointer to animation
+66: (long) some pointer to animation
+70-74: ?
+
+
+Object format for GfxObject from GfxObject RAM at FF2448:
+ 0: (long) pointer to next objectData
+ 4: (long) ???address to some kind of gfxobject slot
+ 8: (word) ???lower word from value of a3 at allocation call; related to FFF866 etc
+ A: (word) ?upper word from value of a3 at allocation call -- priority?
+ C: (long) address of corresponding object (a5)
+10: (byte) priority flag: 0=low priority, 1=high priority, 2=depends on FFF896
+11: (byte) palette line
+12: (byte) flag: whether sprite art is uncompressed and thus DMA'd
+13: (byte) flag: whether to display the object
+14: (byte) flag: whether to move object (i.e. add vel to pos)
+15: (byte) flag: whether to animate object
+16: (byte) flag: horizontal direction
+17: (byte) flag
+18: (byte) flag: whether animation has finished?
+19: (byte) flag
+1A: (long) X position (16.16 fixed point)
+1E: (long) Y position (16.16 fixed point)
+22: (word) offset from DataIndex to current sprite (to be displayed)
+24: (word) tile address to art in VRAM
+26: (long) X velocity (16.16 fixed point)
+2A: (long) Y velocity (16.16 fixed point)
+2E: (long) pointer to current anim_frame
+32: (word) animation frame duration countdown?
+34: ?
+38: (word) collision event ID
+     0: no collision
+     4: right wall
+     8: left wall
+     C: floor
+    10: ceiling
+    14: up-slope /
+    18: down-slope \
+    1C: hurt, by e.g. shooter bullet, sword, axe, ...
+    20: kid is to the right
+    24: kid is to the left
+    28: kid is below
+    2C: kid is above (jumped on top of object)
+    negative: ?
+3A: (word) bits 0-7: object ID, see e.g. EnemyLoad_Index. bit E: ?, bit F: flag whether berzerker recoils when hitting enemy?
+3C: (byte) flag: whether to execute level collision
+3D: (byte) flag: whether to execute collision with the kid
+3E: (word) for enemies: Enemy type VRAM slot. (long) other: some x position relative to camera? 
+40: (word) for enemies: Number of hitpoints.
+42: (long) some y position relative to camera?
+46: ?
+48: (word)
+4A: (word)
+
+The Kid is part of the GfxObject RAM and starts at $FF24E0.
+In particular, we have the following RAM addresses:
+FF24FA  long    Kid X position (16.16 fixed point)
+FF24FE  long    Kid Y position (16.16 fixed point)
+FF2506  long    Kid X speed
+FF250A  long    Kid Y speed
+
+
+Object format for Platform Objects from Platform RAM at FFEDBA:
+ 0: (word) pointer to next in list
+ 2: (long) x position
+ A: (long) x velocity
+ E: (long) y velocity
+12: (long) scripted: address of current position in platform preset; special: (byte/flag) whether to delete?
+16: (word) scripted: duration countdown; special: word from word_282E depending on s bits
+18: (word) art address in VRAM
+1A: (word) horizontal size in pixels
+1C: (word) vertical size in pixels
+1E: ?
+1F: (byte) 8ths byte from platform layout definition (ts bits)
+20: (word) Offset to platform in current platform layout
+
+
+Object format for Diamond Power Object from Diamond Power Object RAM at FFF2AC:
+ 0: 
+ 4: (long) pointer to next object in list
+ 8: (word)
+1A: (word) x_pos?
+1E: (word) y_pos?
+22: (word)
+24: (word) sprite ID (1-6: small to large diamond, 7: ankh, 8: hitpoint)
+38: (word)
+3E: (word)
+40: (word) relative x pos from Kid?
+42: (word) relative y pos from Kid?
+46: (word)
+48: (word)
+
+
+Object format for Disappearing evanescent block Objects from Disappearing evanescent block RAM at FFE90A:
+ 0: (word) Address in Level_Layout at object's position
+ 2: (word) x position (in blocks)
+ 4: (word) y position (in blocks)
+ 6: (word) shooting directions (bit0=up, bit1=right, bit2=down, bit3=left)
+ 8: (word) increasing timer (starts from negative value?) that triggers bullets when 0
+ A: (word) pointer to next in list
+
+
+Object format for Shooter bullet Object from Shooter block Bullet RAM at FFE9FA:
+ 0: (word) Address in Level_Layout at object's position
+ 2: (word) x position (in pixels)
+ 4: (word) y position (in pixels)
+ 6: (word) direction (0=up, 1=right, 2=down, 3=left)
+ 8: (word) Counter from 0 to 4, updating value at offset 0 every 4th frame
+ A: (word) pointer to next in list
+
+
+
+Block List (FF3B24-?)
+----------
+
+One entry per prize block, teleporter block and ghost block group.
+Other block types are not present here.
+
+# Prize block (8 bytes)
+word: address of block in Level_layout RAM
+word: xpos (in blocks)
+word: ypos (in blocks)
+byte: bit 7: disguised flag
+byte: bits 0-3: content ID.
+
+# Ghost block group (16 bytes)
+word: timer value (time until appear/disappear)
+byte: bit 7: ?
+byte: mapping frame (0=solid, 3=vanished, 1/2/4/5=in between?)
+word: amount of time block is solid
+word: amount of time block is vanished
+word: address of block in Level_layout RAM
+word: xpos (in blocks)
+word: ypos (in blocks)
+byte: bits 0-3: number of blocks in group
+byte: bit 0: 0=horizontal group, 1=vertical group
+
+# Teleport (10 bytes)
+word: address of block in Level_layout RAM
+word: xpos (in blocks)
+word: ypos (in blocks)
+byte: destination map id
+byte: destination ypos (in blocks)
+word: destination xpos (in blocks)
+
+
+Level_Layout (FFA652-FFE7F2)
+----------
+
+2 bytes per 16x16 level cell
+    1 bit: flag whether cell contains block,
+    3 bits: collision type, (commonly =6 when call has block)
+    4 bits: block type, 
+    8 bits: skin (visible terrain piece)
+collision type (3 bits):
+    0  empty
+    1
+    2
+    3
+    4  downhill slope
+    5  uphill slope
+    6  solid
+    7  spikes
+block type (4 bits):
+    0  Smash block
+    1  Prize block
+    2  Ice block
+    3  Solid block (ghost block?)
+    4  Teleporter block
+    5  Metal block
+    6  Rubber block
+    7  Shifting block
+    8  
+    9  Mushroom block?
+    A  Evanescent block?
+    B  lift?
+    C  Drill?
+    D
+    E
+    F  freshly deleted block?
+	
+	
