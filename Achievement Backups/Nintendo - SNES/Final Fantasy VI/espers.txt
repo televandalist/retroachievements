@@ -1,0 +1,35 @@
+Espers
+0x001a69
+	bit0 - Ramuh (0xe2)
+	bit1 - Ifrit (0x108)
+	bit2 - Shiva (0x108)
+	bit3 - Siren (0xe2)
+	bit4 - Terrato - Midgardsormr (0x100)
+	bit5 - Catoblepas-Shoat (0x112)
+	bit6 - Madiun (0x112)
+	bit7 - Bismarck (0x112)
+	
+0x001a6a
+	bit0 - Stray-Cait Sith  (0xe2)
+	bit1 - Palidor (0x18e)
+	bit2 - Tritoch - Valigarmanda (0x0023)
+	bit3 - Odin (0x196)
+	bit4 - Raiden (0x198)
+	bit5 - Bahamut (0x11)
+	bit6 - Alexander (0x7b)
+	bit7 - Crusader (0x162)
+
+0x001a6b
+	bit0 - Ragnarok (0x18)
+	bit1 - Kirin  (0xe2)
+	bit2 - Zona Seeker (0xc8)
+	bit3 - Carbuncle (0x112)
+	bit4 - Phantom (0x112)
+	bit5 - Seraph - Sraphim (0x132)
+	bit6 - Golem (0xc8)
+	bit7 - Unicorn (0x112)
+
+0x001a6c
+	bit0 - Fenrir (0x9a)
+	bit1 - Lakshmi (0xd0)
+	bit2 - Phoenix (0xbd)
