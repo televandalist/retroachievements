@@ -1,0 +1,110 @@
+
+
+Chapter (0x2ce98)
+0x00 - Prologue
+0x01 - Chapter 1
+0x02 - Chapter 2
+0x03 - Chapter 3
+0x04 - Chapter 4
+0x05 - Chapter 5x
+0x06 - Chapter 5
+0x07 - Chapter 6
+0x08 - Chapter 7
+0x09 - Chapter 8
+0x0a - Chapter 9 (Eirika) - 0x38->0x0a
+0x0b - Chapter 10 (Eirika)
+0x3D - Chapter 11 (Eirika)
+0x0c - Chapter 12 (Eirika)
+0x0d - Chapter 13 (Eirika) 
+0x0e - Chapter 14 (Eirika)
+0x0f - Chapter 15 (Eirika)
+0x17 - Chapter 9 (Ephraim)
+0x18 - Chapter 10 (Ephraim)
+0x3E - Chapter 11 (Ephraim)
+0x19 - Chapter 12 (Ephraim)
+0x1a - Chapter 13 (Ephraim)
+0x1b - Chatper 14 (Ephraim)
+0x1c - Chatper 15 (Ephraim)
+0x10 - Chapter 16
+0x11 - Chapter 17
+0x12 - Chapter 18
+0x13 - Chapter 19
+0x14 - Chapter 20
+0x15 - Chapter 21a
+
+Lookup:Map
+0x00=Prologue
+0x01=Chapter 1
+0x02=Chapter 2
+0x03=Chapter 3
+0x04=Chapter 4
+0x05=Chapter 5x
+0x06=Chapter 5
+0x07=Chapter 6
+0x08=Chapter 7
+0x09=Chapter 8
+0x0a=Chapter 9a
+0x0b=Chapter 10a
+0x3d=Chapter 11a
+0x0c=Chapter 12a
+0x0d=Chapter 13a
+0x0e=Chapter 14a
+0x0f=Chapter 15a
+0x10=Chapter 16 16
+0x11=Chapter 17 17 
+0x12=Chapter 18 18
+0x13=Chapter 19 19
+0x14=Chapter 20 20
+0x15=Chapter 21a 21
+0x16=Chapter 21b 22
+0x17=Chapter 9b
+0x18=Chapter 10b
+0x3e=Chapter 11b
+0x19=Chapter 12b
+0x1a=Chapter 13b
+0x1b=Chapter 14b
+0x1c=Chapter 15b
+0x1d=Chapter 16 29
+0x1e=Chapter 17 30
+0x1f=Chapter 18 31
+0x20=Chapter 19 32
+0x21=Chapter 20 33
+0x22=Chapter 21a 34 
+0x23=Chapter 21b 35
+0x24=Tower of Valni Floor 1 36
+0x25=Tower of Valni Floor 2 37
+0x26=Tower of Valni Floor 3 38
+0x27=Tower of Valni Floor 4 39
+0x28=Tower of Valni Floor 5 40
+0x29=Tower of Valni Floor 6 41
+0x2a=Tower of Valni Floor 7 42
+0x2b=Tower of Valni Floor 8 43
+0x2e=Lagdou Ruins Floor 1 46
+0x2f=Lagdou Ruins Floor 2 47
+0x30=Lagdou Ruins Floor 3 48
+0x31=Lagdou Ruins Floor 4 49
+0x32=Lagdou Ruins Floor 5 50
+0x33=Lagdou Ruins Floor 6 51
+0x34=Lagdou Ruins Floor 7 52
+0x35=Lagdou Ruins Floor 8 53
+0x36=Lagdou Ruins Floor 9 54
+0x37=Lagdou Ruins Floor 10 55
+
+
+0x1940	0x02df78 = 0x025f48
+0x02e710 - 0266e0
+
+Floor 1 - 40
+FLoor 2 - 50
+Floor 3 - 45
+Floor 4 - 35
+Floor 5 - 31
+Floor 6 - 
+Floor 7 - 
+Floor 8 - 
+Floor 9 - 
+Floor 10 - 
+
+0x33d00	Turn number
+0x33cfe map
+0x2ce98 chapter

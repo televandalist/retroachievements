@@ -1,0 +1,63 @@
+Format:Digit
+FormatType=Value
+
+Lookup:Map
+0x00=Prologue
+0x01=Chapter 1
+0x02=Chapter 2
+0x03=Chapter 3
+0x04=Chapter 4
+0x05=Chapter 5x
+0x06=Chapter 5
+0x07=Chapter 6
+0x08=Chapter 7
+0x09=Chapter 8
+0x0a=Chapter 9a
+0x0b=Chapter 10a
+0x3d=Chapter 11a
+0x0c=Chapter 12a
+0x0d=Chapter 13a
+0x0e=Chapter 14a
+0x0f=Chapter 15a
+0x10=Chapter 16
+0x11=Chapter 17
+0x12=Chapter 18
+0x13=Chapter 19
+0x14=Chapter 20
+0x15=Chapter 21a
+0x16=Chapter 21b
+0x17=Chapter 9b
+0x18=Chapter 10b
+0x3e=Chapter 11b
+0x19=Chapter 12b
+0x1a=Chapter 13b
+0x1b=Chapter 14b
+0x1c=Chapter 15b
+0x1d=Chapter 16
+0x1e=Chapter 17
+0x1f=Chapter 18
+0x20=Chapter 19
+0x21=Chapter 20
+0x22=Chapter 21a
+0x23=Chapter 21b
+0x24=Tower of Valni Floor 1
+0x25=Tower of Valni Floor 2
+0x26=Tower of Valni Floor 3
+0x27=Tower of Valni Floor 4
+0x28=Tower of Valni Floor 5
+0x29=Tower of Valni Floor 6
+0x2a=Tower of Valni Floor 7
+0x2b=Tower of Valni Floor 8
+0x2e=Lagdou Ruins Floor 1
+0x2f=Lagdou Ruins Floor 2
+0x30=Lagdou Ruins Floor 3
+0x31=Lagdou Ruins Floor 4
+0x32=Lagdou Ruins Floor 5
+0x33=Lagdou Ruins Floor 6
+0x34=Lagdou Ruins Floor 7
+0x35=Lagdou Ruins Floor 8
+0x36=Lagdou Ruins Floor 9
+0x37=Lagdou Ruins Floor 10
+
+Display:
+@Map(0xh33cfe) | Turn @Digit(0xh33d00)

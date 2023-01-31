@@ -1,0 +1,601 @@
+0x05f4	
+Last item obtained (not from shops)
+
+0x2a6dc	
+16-bit - Shop Sprite ID
+
+0x2ce60	
+Music ID
+
+0x2ce62	
+Music (00=Off, 01=On)
+
+0x2ce98	
+Chapter (06=5, 05=5x)
+
+0x2debe	
+Currently selected item in R screen.
+
+0x33cf8	
+Funds 24-bit
+
+0x33cfd	
+Fog of War (flag)
+
+0x33cfe	
+Map (06=5, 05=5x)
+
+0x33cff	
+Phase 0=Player, 40=Neutral, 80=Enemy
+
+0x33d00	
+Turn number (resets when next fight starts)
+
+0x33d04	
+Difficulty? 40_41_42_50=Hard
+Prologue-5 = 40
+5x = 41
+
+0x33d38	
+Enemies Killed in Current Battle
+
+0x33e4c	
+1st Character Portrait 16-bit
+
+0x33e50	
+1st Character Class 16-bit
+
+0x33e54	
+1st Character Level
+
+0x33e55	
+1st Character - EXP: 00-63. FF for "--"
+
+
+0x33e58	
+00: In Battle
+01: In Battle (Prep or Selected)
+02: Turn Over - Inactive
+0b: Not in Battle
+05: Dead?
+21: Traveling
+23: Traveling
+
+0x33e5c	
+1st character X position
+
+0x33e5d	
+1st character Y position
+
+0x33e5e	
+1st Character - Max HP
+
+0x33e5f	
+1st Character - Current HP
+
+0x33e60	
+1st Character - Strength Stat
+
+0x33e61	
+1st Character - Skill Stat
+
+0x33e62	
+1st Character - Speed Stat
+
+0x33e63	
+1st Character - Defense Stat
+
+0x33e64	
+1st Character - Resistance Stat
+
+0x33e65	
+1st Character - Luck Stat
+
+0x33e66	
+1st Character - Aid Stat
+
+0x33e67	
+1st Character - "Traveling" ID
+
+0x33e69	
+1st Character = Movement _
+
+0x33e6a	
+1st Character - Item 1
+
+0x33e6b	
+1st Character - Item Slot 1 Qty
+
+0x33e6c	
+1st Character - Item 2
+
+0x33e6d	
+1st Character - Item 2 Qty
+
+0x33e6e	
+1st Character - Item 3
+
+0x33e6f	
+1st Character - Item 3 Qty
+
+0x33e70	
+1st Character - Item 4
+
+0x33e71	
+1st Character - Item 4 Qty
+
+0x33e72	
+1st Character - Item 5
+
+0x33e73	
+1st Character - Item 5 Qty
+
+0x33e74	
+1st Character - Sword Rank. 00-fb
+
+0x33e75	
+1st Character - Lance Rank. 00-fb.
+
+0x33e76	
+1st Character - Axe Rank. 00-fb.
+
+0x33e77	
+1st Character - Bow Rank - 00-fb
+
+0x33e78	
+1st Character - Weapon Use Type - 00=Standard. 01=Magic.
+
+0x33e79	
+1st Character - Anima Rank - 00-fb
+
+0x33e7a	
+1st Character - Light Magic Rank - 00-fb
+
+0x33e7b	
+1st Character - Dark Magic Rank - 00-fb
+
+0x33e7c	
+1st Character - Staff Rank - 00-fb
+
+0x33e7e	
+1st Character - 1st Support Level - C:51-a0 - B:a1-f0 - A:f1
+
+0x33e7f	
+1st Character - 2nd Support Level - C:51-a0 - B:a1-f0 - A:f1
+
+0x33e80	
+1st Character - 3rd Support Level - C:51-a0 - B:a1-f0 - A:f1
+
+0x33e81	
+1st Character - 4th Support Level - C:51-a0 - B:a1-f0 - A:f1
+
+0x33e82	
+1st Character - 5th Support Level - C:51-a0 - B:a1-f0 - A:f1
+
+0x33e83	
+1st Character - 6th Support Level - C:51-a0 - B:a1-f0 - A:f1
+
+0x33e94	
+2nd Character Portrait
+
+0x33ea4	
+2nd character X position
+
+0x33ea5	
+2nd character Y position
+
+0x33eb2	
+CH.2-Item1
+
+0x33eb3	
+Ch2.IT1-QTY
+
+0x33eba	
+CH2.IT5
+
+0x33ebb	
+CH2.IT5.QTY
+
+0x33edc	
+3rd Character Portrait
+
+0x33efa	
+CH3.IT1
+
+0x33f02	
+CH3.IT5
+
+0x33f03	
+CH3.IT5.QTY
+
+0x33f24	
+4th Character Portrait
+
+0x33f42	
+4th character's 1st item - *adjustable*
+
+0x33f43	
+4th Character's 1st Item Qty - *adjustable*
+
+0x33f44	
+4th Ch. 2nd Item *adjustable*
+
+0x33f45	
+4th Ch. 2nd Item Qty - *adjustable*
+
+0x33f46	
+4th ch 3rd item - *adjustable*
+
+0x33f47	
+4th ch 3rd item qty - *adjustable*
+
+0x33f48	
+4th ch 4th item - *adjustable*
+
+0x33f49	
+4th ch. 4th item qty - *adjustable*
+
+0x33f4a	
+4th ch. 5th item - *adjustable*
+
+0x33f4b	
+4th ch. 5th item qty - *adjustable*
+
+0x33f6c	
+5th Character Portrait
+
+0x33f8a	
+5th Ch It 1
+
+0x33f92	
+5th ch. it 5
+
+0x33fb4	
+6th Character Portrait
+
+0x33fd2	
+6th Ch. Item 1
+
+0x33fda	
+6th Ch. Item 5
+
+0x33ffc	
+7th Character Portrait
+
+0x3401a	
+7th CH. Item 1
+
+0x34022	
+7th Ch. Item 5
+
+0x34044	
+8th Character Portrait
+
+0x34062	
+8th ch item 1
+
+0x3406a	
+8th ch. item 5
+
+0x3408c	
+9th Character Portrait
+
+0x340d4	
+10th Character Portrait
+
+0x340f2	
+10th Ch. 1st Item. 16-bit xx(qty)xx(item_) - Ex.: 32aa = Dragonstone (aa) 50/50 (32).
+
+0x3411c	
+11th Character Portrait
+
+0x34120	
+11th Character's Class - 16-bit
+
+0x34124	
+11th Character - Current Level
+
+0x34125	
+11th Character - EXP
+
+0x34127	
+11th Character - Menu Position (Will always be 0b[11])
+
+0x34128	
+00: In Battle
+01: In Battle (Prep or Selected)
+0b: Not in Battle
+05: Dead?
+
+0x3412e	
+11th Character - Max HP
+
+0x3412f	
+11th Character - Current HP
+
+0x34130	
+11th Character - Magic Stat
+
+0x34131	
+11th Character - Skill Stat
+
+0x34132	
+11th Character - Speed Stat
+
+0x34133	
+11th Character - Defense Stat
+
+0x34134	
+11th Character - Resistance Stat
+
+0x34135	
+11th Character - Luck Stat
+
+0x34136	
+11th Character - Constitution _
+
+0x34137	
+11th Character's Traveler
+
+0x34139	
+11th Character - Movement _
+
+0x3413a	
+11th Character - 1st Item
+
+0x3413b	
+11th Character - 1st Item Qty
+
+0x34143	
+11th Character - 5th item qty
+
+0x34148	
+11th Character - Weapon Type - 00:Reg 01:Mag
+
+0x34149	
+11th Character - Anima Rank - 00-fb
+
+0x3414a	
+11th Character - Light Magic Rank
+
+0x3414b	
+11th Character - Dark Magic Rank
+
+0x3414c	
+11th Character - Staff Rank
+
+0x34164	
+12th Character Portrait
+
+0x341ac	
+13th Character Portrait
+
+0x341f4	
+14th Character Portrait
+
+0x3423c	
+15th Character Portrait
+
+0x34284	
+16th Character Portrait
+
+0x342cc	
+17th Character Portrait
+
+0x34314	
+18th Character Portrait
+
+0x3435c	
+19th Character Portrait
+
+0x343a4	
+20th Character Portrait
+
+0x343ec	
+21st Character
+
+0x34434	
+22nd Character
+
+0x3447c	
+23rd Character
+
+0x344c4	
+24th Character
+
+0x3450c	
+25th Character
+
+0x34554	
+26th Character
+
+0x3459c	
+27th Character
+
+0x345e4	
+28th Character
+
+0x3462c	
+29th Character
+
+0x34674	
+30th Character
+
+0x346bc	
+31st Character
+
+0x34704	
+32nd Character
+
+0x3474c	
+33rd Character
+
+0x34794	
+34th Character
+
+0x347dc	
+35th Character
+
+0x34824	
+36th Character
+
+0x3486c	
+37th Character
+
+0x348b4	
+38th Character
+
+0x348fc	
+39th Character Portrait
+
+0x34907	
+Menu Position
+
+0x34944	
+40th Character Portrait
+
+0x3494f	
+40th Character Menu Position
+
+0x34fbc	
+Enemy Portrait
+
+0x424ec	
+Current character portrait 16-bit (Active or R screen)
+
+0x424f0	
+Character class 16-bit
+
+Arc-3c34, Ass-3b38, Ber-49a8, Bis-41c8/421c, Cav-3550, Cle-4bf4, Dan-4cf0, Dru-4318, Falkn-4ba0, Fig-4858, Gen-3748, GrKn-4510, Her-3940, Jou-47b0, Kn-36ao, Ld(Ep)-3400, Ld(Er)-3454, Mag-4024, MagKn-4174, Makte-475c, Mer-3898, Mon-49fc, Myrm-39e8/3a3c, Pal-35f8, PegKn-4b4c, Pir-4954, Pri-4a50, Pup-4804, Ran-3d84, Rec-4af8, Rog-4468, Sag-40cc, Sha-4510, Sni-3cdc, Sum-43c0, Swma-3a90, Thi-37f0, Tro-4c48, Val-4c9c, War-48ac, WyvKn-3f28/3f7c, WyvLd-3e80, WyvRi-3dd8
+
+0x424f4	
+Level
+
+0x424f5	
+Experience
+
+0x424f7	
+Character position in menu
+
+0x424f8	
+Battle status (00=OnMap 01=UsingPrep 09=NotUsing 0b=NotUsingPrep 0d=Dead)
+
+0x424fc	
+X position
+
+0x424fd	
+Y position
+
+0x42500	
+Current Character's Strength
+
+0x42501	
+Current Character's Skill Stat
+
+0x42502	
+Current Character's Speed
+
+0x42503	
+Current Character's Defense
+
+0x42504	
+Current Character's Resistance
+
+0x42505	
+Current Character's Luck
+
+0x42506	
+Current Character's Constitution(?) Stat
+
+0x42509	
+Current Character's Movement Stat
+
+0x4250a	
+Current Character's First Item
+
+0x4250b	
+Current Character's First Item Qty
+
+0x4250c	
+Current Character's Second Item
+
+0x4250d	
+Current Character's Second Item Qty
+
+0x4250e	
+Current Character's Third Item
+
+0x4250f	
+Current Character's Third Item Qty
+
+0x42510	
+Current Character's Fourth Item
+
+0x42511	
+Current Character's Fourth Item Qty
+
+0x42512	
+Current Character's Fifth Item
+
+0x42513	
+Current Character's Fifth Item Qty
+
+0x42514	
+Sword mastery level
+
+0x42515	
+Lance mastery level
+
+0x42516	
+Axe mastery level
+
+0x42517	
+Bow mastery level
+
+0x42518	
+Staff mastery level
+
+0x42519	
+Anima mastery level
+
+0x4251a	
+Light mastery level
+
+0x4251b	
+Dark mastery level
+
+0x4251e	
+Support 1
+
+0x4251f	
+Support 2
+
+0x42520	
+Support 3
+
+0x42521	
+Support 4
+
+0x42522	
+Support 5
+
+0x42523	
+Support 6
+
+0x42524	
+Support 7
+
+0x42964	
+When selecting characts on the map, this is their number in the menu.
+
+0x42966	
+X Coordinate for a moving unit's stopping point.
+
+0x42967	
+Y Coordinate for a moving unit's stopping point.
+
+0x42968	
+How many spaces a character just moved.
+
+0x42969	
+Battle Status of Current Character
