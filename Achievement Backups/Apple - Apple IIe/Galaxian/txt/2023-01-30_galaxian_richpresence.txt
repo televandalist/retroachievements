@@ -1,0 +1,7 @@
+Format:Digit
+FormatType:VALUE
+
+Display:
+?0xh2=0_0xhd>0?Watching a demo or in the menu
+?0xh2=0_0xhd=255?Game Over!
+Lives: @Digit(0xhd) | Wave Number @Digit(0xh16) | Score: @Digit(b0xh12*1000_b0xh11*10)
