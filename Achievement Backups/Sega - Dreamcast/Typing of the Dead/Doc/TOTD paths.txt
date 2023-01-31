@@ -1,0 +1,106 @@
+Chapter 01 (0x00)
+0x00=Start
+0x01=Library
+	0x09=Save woman
+		0x07=Save guy
+			0x08=Bypass
+		0x02=Don't save guy
+			0x03=Courtyard
+	0x0a=Don't save woman
+			0x03=Courtyard
+0x04=Back Street
+	0x05=Don't save barrel woman
+	0x0b=Save barrel woman
+0x0e=Judgment Fight
+
+Chapter 02 (0x01)
+0x00=Start
+	0x01=Save guy in car
+		0x02
+		0x03=Zombies jump out of van
+		0x04=After repel mission
+		0x05=Save person in building
+			0x06=Get key
+				0x07=Building after saving kid
+			0x15=Don't get key
+				0x10=Waterway after Clock Tower
+				0x23=Fight Hierophant at Wharf
+		0x19=Save kid's dad
+		0x1b=After saving guy in the alley
+		0x1c=Waterway to Sunset Bridge
+	0x0b=Don't save guy in car
+		0x0c=After seeing news report in Jewelry Store
+		0x0d=Alley
+		0x0e=Alley 2
+			0x16=Save woman behind gate
+				0x17
+				0x1a
+			0x10=Don't save woman/Waterway
+				0x23=Fight Hierophant at Wharf
+			0x25=Fight Hierophant at Sunset Bridge
+
+Chapter 03 (0x02)
+0x00=Start in Boat
+	0x01=Watergate is blocked (don't save guy)
+	0x03=Watergate is opened
+0x07=Start after Sunset Bridge
+	0x08=Save boat guy
+		0x02=After repel mission
+		0x0b=Guy gets pulled away - Boss
+	0x09=Boat blows up
+	0x04=Go to underground passage
+	0x05=After mission
+		0x06=Save guy
+		0x0d=Guy gets pulled away - Boss
+		
+Chapter 04 (0x03)
+0x00=Start
+	0x01=Down Steps
+		0x02=After saving duct guy
+	0x17=Is this the colosseum? (boss)
+0x04=Start at waterfall
+	0x09=Don't save guy in hole (I'm not gonna let you get away)
+	0x0b=Save guy in jail cell
+		0x0a=after that hall
+		0x0c=jump down to lizards
+			0x0e=save guy on walkway
+			0x0f=about to go up staircase
+			
+Chapter 05 (0x04)
+0x00=Start - Main Street
+0x01=Hop in the car
+0x02=After killing first miniboss
+0x03=Start of second miniboss fight
+0x04=After killing second miniboss
+0x05=After bridge/in tunnel
+0x07=Outside HQ (boss)
+
+Chapter 06 (0x05)
+0x00=Start
+0x01=After elevator
+0x02=After water tanks
+0x03=After miniboss
+0x04=After mission
+0x0c=up the stairs (boss)	
+	
+
+
+OSERLCG
+
+UFOVGJK		Unlock all Drills, CPU Mode Characters
+
+
+UECHODA
+
+
+bit0	5 Lives			SMILEBI
+bit1	9 continues		EUUKDCC
+bit2	Free Play		VKZWHBN
+bit3	Start Original Mode with two molotovs
+bit4	vs CPU mode		PERKINS	CIZXSPI	
+bit5	Chapter 6 in Original Mode available	LUIPMAM
+bit6	start Original Mode with Golden Hands
+
+bit0, bit1, bit2		DLDDCDD
+bit0-6	TESSAIS
+Unlock all Drills	TODWKCP

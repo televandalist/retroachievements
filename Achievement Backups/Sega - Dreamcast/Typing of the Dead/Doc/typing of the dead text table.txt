@@ -1,0 +1,98 @@
+20	[SPACE]
+21	!
+41	A
+42	B
+43	C
+44	D
+45	E
+46	F
+47	G
+48	H
+49	I
+4a	J
+4b	K
+4c	L
+4d	M
+4e	N
+4f	O
+50	P
+51	Q
+52	R
+53	S
+54	T
+55	U
+56	V
+57	W
+58	X
+59	Y
+5a	Z
+61	a
+62	b
+63	c
+64	d
+65	e
+66	f
+67	g
+68	h
+69	i
+6a	j
+6b	k
+6c	l
+6d	m
+6e	n
+6f	o
+70	p
+71	q
+72	r
+73	s
+74	t
+75	u
+76	v
+77	w
+78	x
+79	y
+7a	z
+
+ad	B
+ca	e
+c6	a
+c8	c
+cd	h
+ea	space
+c7	b
+c6	a
+c7	b
+ca	e
+
+
+
+State2	b2f394
+State5	bbbfbc
+State6	c4e12c
+
+0x520fbc
+b7bf04 ->	0x51dd1c
+b2f38c ->	0x521304
++54068
+b833f4 ->	0x51fdf0	S10
+
+
+0x519f7c	24-bit +4c	(Direct Pointer to Dictionary Entry)
+0x519f7c	8-bit +54	Word 1 Letter 1
+0x519f7c	8-bit +55	Word 1 Letter 2
+0x519f7c	8-bit +56	Word 1 Letter 3
+0x519f7c	8-bit +57	Word 1 Letter 4
+0x519f7c	8-bit +58	Word 1 Letter 5
+0x519f7c	8-bit +59	Word 1 Letter 6
+0x519f7c	8-bit +5a	Word 1 Letter 7
+0x519f7c	8-bit +5b	Word 1 Letter 8
+0x519f7c	8-bit +5c	Word 1 Letter 9
+0x519f7c	8-bit +5d	Word 1 Letter 10
+0x519f7c	8-bit +5e	Word 1 Letter 11
+0x519f7c	8-bit +5f	Word 1 Letter 12
+0x519f7c	8-bit +95	Letter count goal of Word 1
+0x519f7c	8-bit +96	Current letter count typed of Word 1
++9d Timer
+
+
+Love is blind - 0d - 31 - 0c
