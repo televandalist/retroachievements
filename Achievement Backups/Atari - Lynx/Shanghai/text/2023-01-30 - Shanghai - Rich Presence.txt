@@ -1,0 +1,16 @@
+Format:Digit
+FormatType=Value
+
+Lookup:Game
+0=Dragon
+1=Hawk
+2=Butterfly
+3=Fish
+4=Bear
+5=Spider
+6=Turtle
+
+Display:
+?0xh3f=0?At the title screen
+?0xh3f=1?Selecting a game
+Solving the @Game(0xh45) Game | Tiles Matched: @Digit(b0xla6*100_b0xha7) | Tiles Remaining: @Digit(b0xl9f*100_b0xha0*1)
