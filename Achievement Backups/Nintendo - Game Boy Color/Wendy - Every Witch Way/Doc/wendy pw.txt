@@ -1,0 +1,30 @@
+Level 1-2	Star, Triangle, Minus, Minus.
+Level 1-3	Star, Plus, Minus, Square.
+Level 2-1	Star, Triangle, Plus, Circle.
+Level 2-2	Star, Minus, Minus, Plus.
+Level 2-3	Star, Triangle, Circle, Plus.
+Level 3-1	Star, Square, Square, Circle.
+Level 3-2	Star, Star, Triangle, Plus.
+Level 3-3	Star, Triangle, Circle, Minus.
+Level 4-1	Star, Square, Square, Star.
+Level 4-2	Star, Circle, Triangle, Square.
+Level 4-3	Star, Plus, Triangle, Circle.
+Level 4-4 (Final Stage)	Square, Star, Minus, Plus.
+
+Level 1-2	Triangle, Square, Star, Circle
+Level 1-3	Triangle, Circle, Star, Square
+Level 2-1	Triangle, Plus, Minus, Triangle
+Level 2-2	Triangle, Minus, Plus, Triangle
+Level 2-3	Triangle, Star, Circle, Star
+Level 3-1	Triangle, Triangle, Plus, Minus
+Level 3-2	Triangle, Triangle, Star, Circle
+Level 3-3	Triangle, Triangle, Square, Square
+Level 4-1	Triangle, Plus, Circle, Circle
+Level 4-2	Triangle, Circle, Square, Minus
+Level 4-3	Triangle, Minus, Plus, Square
+
+Advance World (Level ?-2)	Plus, Minus, Plus, Minus.
+Advance World (Level ?-3)	Square, Minus, Star, Plus.
+Cheat Password (Wand Powerup)	Minus, Circle, Circle, Minus.
+
+Debug Menu	Left(x5), Up(x5), Right(x5), Down(x5), Select(x5) at the Title Screen.

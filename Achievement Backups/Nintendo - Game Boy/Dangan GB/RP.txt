@@ -1,0 +1,31 @@
+Lookup:Stage
+1=1:Shooter
+2=2:Bomber
+3=3:Crusher
+4=4:Laser
+5=5:Seeker
+6=6:Ultima
+
+Format:Digit
+FormatType=VALUE
+
+Lookup:Difficulty
+0=Easy
+1=Normal
+2=Hard
+
+Lookup:Speed
+0=Normal
+1=Fast
+
+Lookup:Paused
+0x33=▌▌
+
+Display:
+?0xhd537=4?Game Victory!  Final💯@Digit(0xLd500*1000000_0xLd501*100000_0xLd502*10000_0xLd503*1000_0xLd504*100_0xLd505*10_0xLd506*1) | Achievements by televandalist, RP&LBs by kdecks 
+?0xhd537=1_0xLd52f!=3?@Stage(0xLd52e) Complete | ✈x@Digit(0xLd539) 💣x@Digit(0xLd53a) ⚖:@Difficulty(0xLd53d) 💯@Digit(0xLd500*1000000_0xLd501*100000_0xLd502*10000_0xLd503*1000_0xLd504*100_0xLd505*10_0xLd506*1)
+?0xhd537=2?Stage @Stage(0xLd52e) FAILURE. GAME OVER
+?0xhd537=3?Dangan弾丸GB Title | Presented by snorpung and nordloef
+@Paused(0xhff24)🚩@Stage(0xhd52e) | ✈x@Digit(0xLd539) 💣x@Digit(0xLd53a) ⚖:@Difficulty(0xLd53d), Speed:@Speed(0xLd53c) 💯@Digit(0xLd500*1000000_0xLd501*100000_0xLd502*10000_0xLd503*1000_0xLd504*100_0xLd505*10_0xLd506*1)
+
+rich presence by kdecks
