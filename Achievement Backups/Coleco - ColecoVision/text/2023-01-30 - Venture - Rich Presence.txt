@@ -1,0 +1,18 @@
+Format:Digit
+FormatType:Value
+
+Lookup:Mode
+0x01=Skill 1 - 1P
+0x02=Skill 2 - 1P
+0x03=Skill 3 - 1P
+0x04=Skill 4 - 1P
+0x05=Skill 1 - 2P
+0x06=Skill 2 - 2P
+0x07=Skill 3 - 2P
+0x08=Skill 4 - 2P
+
+Display:
+?0xh260=0?ColecoVision Presents Exidy's Venture
+?0xh260=15?Selecting their mode
+?0xh251=5_0xh140=255?😱 Running from the Hallmonster 😱
+Winky is on level @Digit(0xh5c) | @Mode(0xh260) | Score: @Digit(b0xh5a*10000_b0xh59*100) | Lives: @Digit(0xh56)
