@@ -1,0 +1,7 @@
+Format:Digit
+FormatType=Value
+
+Display:
+?0xh48c!=3?Needs to set the game speed to normal!
+?0xh610=0?Either dead or not playing!
+Lives: @Digit(0xh610) | Size: @Digit(0xh628) | Score: @Digit(0xd30*1000_0xd10)
