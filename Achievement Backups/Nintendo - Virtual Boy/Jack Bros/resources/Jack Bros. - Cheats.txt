@@ -1,0 +1,11 @@
+Complete Map
+Press Start to pause, then press Up, Left, Down, Right. To disable this code, press Up, Right, Down, Left.
+
+Hard Mode
+At the title screen use the left control pad to press Right (6), Left (3), Right (6)
+
+Play as Pixie
+Enter 4649 at the password screen and confirm by holding L + R + Select + A
+
+Sound Test (Japanese Version)
+At the title screen use the left control pad to press Up (3), Down (4)

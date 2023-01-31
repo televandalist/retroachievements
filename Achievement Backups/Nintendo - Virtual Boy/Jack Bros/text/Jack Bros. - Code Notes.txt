@@ -1,0 +1,81 @@
+0x002e
+ff = game paused
+
+0x00ce
+0x0000 = DEMO
+0xFFFF = NOT DEMO
+
+0x00f4
+16-bit
+0xffff - hard mode
+
+0x0100
+Floor
+0x00=1
+0x01=2
+etc
+
+0x0112
+Stage Timer
+
+0x0113
+Stage Timer Overflow
+
+0x0114
+Number of Special Attack Stars
+
+0x0118
+Character
+00:Jack Frost
+01:Jack Lantern
+02: Jack Skelton
+03: Pixie
+
+0x012a
+"Got hit" flashing timer 16-bit
+
+0x012c
+0xffff - when dead
+
+0x0150
+Invincibility Potion
+
+0x0160
+16-bit
+ffff = attacking
+
+0x0164
+Area Clear Star Bonus
+0x14 - Secret Bonus
+
+0x016e
+16-bit
+continue screen timer
+
+0x017a
+00=menu
+01=demo
+02=game
+
+0x6306
+Jack Shield (third bubble)
+
+0x6346
+Jack Shield (second bubble)
+
+0x6386
+Jack Shield (first bubble)
+
+0x6431
+Health Bar
+All bosses except Lamia
+
+0x7a31
+Boss 01 - Lamia - Health
+
+0xebfc
+Sound Address
+
+0xec50
+01 during demo
+freezes game if written into memory

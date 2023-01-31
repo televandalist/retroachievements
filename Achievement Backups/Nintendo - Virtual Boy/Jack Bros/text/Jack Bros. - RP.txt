@@ -1,0 +1,13 @@
+Format:Digit
+FormatType=Value
+
+Lookup:Player
+0=⛄
+1=🎃
+2=🔪
+3=🧚
+
+?0xh2e=ff?▌▌
+?0x17a=0?In the menu
+Display:
+@Player(0x118) is on Floor @Digit(0xh100_1) | ⏰: @Digit(0x112) |⭐: @Digit(0xh114)

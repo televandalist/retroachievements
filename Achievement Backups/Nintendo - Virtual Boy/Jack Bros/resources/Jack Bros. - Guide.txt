@@ -1,0 +1,1178 @@
+*******************************************************************************
+Jack Bros. for Virtual Boy FAQ/Walkthrough
+
+by BHodges
+
+Version  1.0
+Created  12/14/08
+
+This document Copyright 2008 by Brian Hodges.  This FAQ is not to be posted
+without explicit permission by me.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+*******************************************************************************
+Table of Contents
+
+I.     Introduction
+II.    Adjusting the Virtual Boy
+III.   Auto Pause
+IV.    Background Story
+V.     Getting Started
+VI.    Characters
+         A.  Jack Frost
+         B.  Jack Lantern
+         C.  Jack Skelton
+         D.  Pixie
+VII.   Enemies and Traps
+VIII.  Items
+         A.  Special Attack Star
+         B.  Invincibility Potion
+         C.  Jack Shield
+         D.  Time Clock
+         E.  Key
+IX.    Basic Gameplay
+         A.  Controls
+         B.  How to Play
+X.     Walkthrough
+         A.  Forest of Fairies
+         B.  Grim Reaper's Cavern
+         C.  Temple of Nightmare
+         D.  Dragon's Belly
+         E.  Mecha Fortress
+         F.  Crystal Palace
+XI.    Secrets and Passwords
+XII.   Game Review
+XIII.  Special Thanks
+XIV.   Version History
+XV.    Contact Information
+
+*******************************************************************************
+I.  Introduction
+
+This is a FAQ for the Virtual Boy game Jack Bros.  It contains instructions on
+how to play, a complete walkthrough, passwords, and a mini-review.
+
+*******************************************************************************
+II.  Adjusting the Virtual Boy
+
+If you have never used a Virtual Boy before, here is how to adjust the screen:
+
+On the screen that says 'Virtual Boy' and has squares in the corners, turn the 
+dial on top until you can see all four squares.  Then use the sliding bar until
+the screen is in focus.
+
+*******************************************************************************
+III.  Automatic Pause
+
+If you turn this on, the game will automatically pause after you have been 
+playing for 30 minutes to remind you to take a break and rest your eyes.
+
+*******************************************************************************
+IV.  Background Story
+
+Here is the story from the instruction booklet:
+
+Every year on Halloween morning, the portal to the World of Fairies opens,
+allowing a pathway to form between their world and ours.  This year, the
+mischievous Jack Brothers from the World of Fairies have decided to set off on
+an adventure in our world.  They will have to pass through the portal again by
+midnight or be banished from their world forever.
+
+The thrill of their adventure takes their mind off the clock, and before they
+know it, the 11 o' clock hour is upon them.  As they start to race through the
+long pathway to their home, Pixie the Fairy appears and offers to show them a
+shortcut to the World of Fairies.  The shortcut is dangerous and seldom used,
+but if they used their regular route, they will not make it back in time.  The
+Jack Brothers have no choice but to follow Pixie and choose their battles 
+wisely.  They can only hope that it's not too late ....
+
+*******************************************************************************
+V.  Getting Started
+
+On the title screen you are given the choice to either start a new game or to
+enter a password.
+
+Selecting Start will take you to the character selection screen.  Use the left
+control pad to highlight the character you want, then press A to begin.
+
+On the password screen use the left control pad to select a number and press
+A to enter it.  If your password is accepted, you will start your game, 
+otherwise, you get an error message.  To return to the title screen, press
+Select.
+
+*******************************************************************************
+VI.  Characters
+
+-------------------------------------------------------------------------------
+A.  Jack Frost
+
+Jack Frost attacks with snowballs.  His attack is by far the weakest of any
+of the Jack Bros., but he compensates by having a much faster fire rate than
+the others.  His special attack freezes all enemies for a few seconds.
+
+Rapid Fire:    5
+Attack Power:  1
+Agility:       2
+
+-------------------------------------------------------------------------------
+B.  Jack Lantern
+
+Jack Lantern attacks with fireballs from his lantern.  He is the weakest
+character overall.  His special attack damages all enemies.
+
+Rapid Fire:    3
+Attack Power:  2
+Agility:       2
+
+-------------------------------------------------------------------------------
+C.  Jack Skelton
+
+Jack Skelton (aka Jack Ripper) attacks with a knife.  It's attack power more
+than makes up for his lack of a ranged attack.  His special attack will kill
+all enemies (except bosses) on screen.
+
+Rapid Fire:    2
+Attack Power:  5
+Agility:       3
+
+-------------------------------------------------------------------------------
+D.  Pixie
+
+Beating Hard mode will give you a code to access Pixie.  She has a very
+powerful ranged attack, but you can only fire one shot at a time.  Her
+special attack has the same effect as an invincibility potion.
+
+Rapid Fire:    1?
+Attack Power:  5?
+Agility:       3?
+
+(Pixie's stats are not given in the instruction booklet, these are just
+guesses.)
+
+*******************************************************************************
+VII.  Enemies and Traps
+
+-------------------------------------------------------------------------------
+Slime
+
+Slimes appear on the very first floor.  They are very slow moving and can be
+killed with a single shot from Jack Frost.
+
+-------------------------------------------------------------------------------
+Goblin Brothers
+
+You first encounter the Goblin Brothers on the 2nd floor.  They will drop
+bombs.  Goblin Brothers take two shots from Jack Frost to die.
+
+-------------------------------------------------------------------------------
+Lamia
+
+Lamia appears on the 3rd floor and is the first boss in the game.  She attacks
+by shooting three plasma balls at you.  These will ricochet off the walls, but
+can be destroyed by your own shots.  To kill her, shoot her in the head when
+she pops out of a hole.
+
+-------------------------------------------------------------------------------
+Tomcat
+
+Tomcat is first found on the 4th floor.  She's very fast, but not that hard to
+kill.
+
+-------------------------------------------------------------------------------
+Jack Traps
+
+You first encounter Jack Traps on the 5th floor.  Wait for the spikes to drop,
+then quickly cross them.
+
+-------------------------------------------------------------------------------
+Elf
+
+Elf is first found on the 6th floor.  She fires arrows with her bow at specific
+intervals.  Dodge her shots then take her out!
+
+-------------------------------------------------------------------------------
+Boulder
+
+These are first found on the 7th floor.  You can push them, but can't pull
+them.  Boulders are handy for taking cover from enemy shots.
+
+-------------------------------------------------------------------------------
+Sinister Scar
+
+Sinister Scar appears on the 8th floor and is the second boss in the game.  He
+looks like a giant skull.  He will start out slowly moving around the room,
+occasionally firing skulls out in all directions.  Once he stops, he will fire
+a long snake at you.  Afterwards, he will begin crashing around the run in
+an easy to avoid pattern.  Every time he stops, he will fire a snake at you.
+
+In order to defeat Sinister Scar, you just have to avoid his attacks while
+firing at him.
+
+-------------------------------------------------------------------------------
+Paradice
+
+Paradice is first found on the 9th floor.  They are two spikes that will try
+to trap you when you walk between them.
+
+-------------------------------------------------------------------------------
+Warp Tile
+
+This are first found on the 10th floor.  They will warp you back to the
+previous floor.  This can be used to reset boulders when you push them the
+wrong way.
+
+-------------------------------------------------------------------------------
+Mystic Morgan
+
+Mystic Morgan first appears on the 12th floor.  He has the ability to disappear
+and reappear.
+
+-------------------------------------------------------------------------------
+Furin
+
+Furin first appears on the 13th floor.  Furin has a shield that blocks all
+frontal attacks.  
+
+-------------------------------------------------------------------------------
+Poltergeist
+
+Poltergeist first appears on the 14th floor.  They run away when they see you,
+but they carry clocks that give you 50 extra seconds!
+
+-------------------------------------------------------------------------------
+Vampire
+
+Vampire is the third boss in the game and is found on the 15th floor.  He 
+attacks with bats that can be destroyed by your shots.
+
+-------------------------------------------------------------------------------
+Double Lasers
+
+These are first found on the 19th floor.  They always come in pairs and fire
+a laser between them.  The problem is that if you kill one, the beam from the
+other one will get you so you have to kill them from the side.  You can also
+use boulders to block the beams.
+
+-------------------------------------------------------------------------------
+Dark Zone
+
+These are first found on the 20th floor.  They are areas where you can't see
+and can often hide enemies.
+
+-------------------------------------------------------------------------------
+Skelipede
+
+Skelipede is first encountered on the 21st floor.  He is very fast and spits
+fire.  His weak point is his head.
+
+-------------------------------------------------------------------------------
+Luminous Lex
+
+Luminous Lex is first found on the 22nd floor.  He cannot be destroyed, either
+run away or block him with a boulder!
+
+-------------------------------------------------------------------------------
+Firebreather
+
+Firebreather is first found on the 24th floor.  He spits fire and like 
+Luminous Lex cannot be killed.  Either avoid them or block them with a 
+boulder.
+
+-------------------------------------------------------------------------------
+Spider Orb
+
+Spider Orb is found on the 25th floor and is the fourth boss in the game.  He
+is very tough and annoying.  He fires a burst of five stars and if any of them
+hit you, you will be paralyzed for a long time.  His weak point is his eye.
+
+-------------------------------------------------------------------------------
+Angel
+
+Angel is first found on the 27th floor.  He attacks with a ball and chain.  
+These can be hit with your shots to bounce the chain back at him.
+
+-------------------------------------------------------------------------------
+Cyclops
+
+Cyclops first appears on the 31st floor.  He is very tough and can cause
+earthquakes that stun you for a second.
+
+-------------------------------------------------------------------------------
+Wybern
+
+Wybern is found on the 40th floor and is the fifth boss in the game.  He is
+a dragon that shoots out a large flame.  The entire floor is also covered in
+Jack Traps.
+
+-------------------------------------------------------------------------------
+Belzoff
+
+Belzoff if found on the 60th floor and is the final boss in the game.  He has
+two forms.  In his first form, he shoots three fireballs at you.  There are
+also two Jack Traps, these do a lot of damage so avoid them at all costs.
+Don't use any special attacks on his first form, just keep hitting him.  Once
+his life meter hits zero, he will transform into his true form.  He will now
+have a HUGE life meter.  He will spit flies at you, you can kill these with
+your shots.  He will also spit five fireballs at you.  The Jack Traps are still
+there.  Unload all your Special Attacks and just keep hitting him.
+
+*******************************************************************************
+VIII.  Items
+
+-------------------------------------------------------------------------------
+A.  Special Attack Star
+
+These allow your character to unleash special attacks.
+
+-------------------------------------------------------------------------------
+B.  Invincibility Potion
+
+Picking up an invincibility potion makes your character invincible for about
+ten seconds.
+
+-------------------------------------------------------------------------------
+C.  Jack Shield
+
+Jack shields will surround your character with bubbles and will allow you to
+take up to three hits before losing time.
+
+-------------------------------------------------------------------------------
+D.  Time Clock
+
+Time clocks will increase your timer by the number displayed on the clock.
+
+-------------------------------------------------------------------------------
+E.  Key
+
+Keys are the most critical item in the game.  Each area has a certain number
+of keys, you have to collect them all in order to exit the area.  Keys that
+you are still missing will be displayed on your radar as stars.
+
+*******************************************************************************
+IX.  Basic Gameplay
+
+-------------------------------------------------------------------------------
+A.  Controls
+
+Left Control Pad:   Moves your character
+Right Control Pad:  Fires in the direction you press (like in Robotron)
+A and B:            Fire in the direction you are facing
+R Button:           Launch a Special Attack
+Start:              Pauses the game
+Select:             Toggles autofire on/off
+
+-------------------------------------------------------------------------------
+B.  How to Play
+
+The object of the game is to make it through all the floors before the timer
+runs out.  The timer doubles as your life meter, taking damage from enemies
+decreases the amount of time you have left.  Once you run out of time, the
+game is over.  You are given the chance to continue, but you must start back
+at the very beginning of the current world.
+
+Each floor (excluding boss stages) has a certain number of keys.  You must
+collect all of the keys before you can move to the next floor.  Keys appear
+as stars on your radar.  Once you have all the keys, the exit will open.  Jump
+down to move on to the next floor.
+
+*******************************************************************************
+X.  Walkthrough
+
+-------------------------------------------------------------------------------
+A.  Forest of Fairies
+
+...............................................................................
+Floor 1
+
+Pixie:
+
+"Collect all the keys you find!  When the goal appears, jump down from there.
+The only enemy here is Slime.  Defeat him quickly and let's be on our way!"
+
+
+The first floor is very straight forward.  Go south a few steps to collect the
+first key.  To your right is a Slime, take him out then proceed east, then 
+south and grab the second key.  There is another Slime below you, take him out.
+Head west and take out the last Slime on the floor.  Grab the final key and
+Pixie will pop back in.
+
+Pixie:
+
+"Once you have the keys, look for the goal!  The goal is marked by the letter
+[E] on your radar."
+
+
+Follow her advice and head east to the exit.
+
+
+Pixie:
+
+"This is the goal!  Jump down to the floor below!  To jump down, press the
+Control Pad in the direction with no walls.  Then you can get to the next
+floor!  See?  It's easy!
+"
+
+Go ahead and hop down to the second floor.
+
+...............................................................................
+Floor 2
+
+Pixie:
+
+"Watch out for the Goblin Brothers on this floor!  They like to drop bombs so
+be careful!
+
+Grab the two keys at the start, then head left and pick up the Jack Shield.
+There will be a Goblin Brother coming towards you, take him out!  Head north
+and take out the other Goblin Brother.  Grab the key on the right, then head 
+northwest and get the other key.  Go south on the path to the far left and
+make your way to the exit.
+
+Pixie:
+
+"Lamia is just ahead.  Use your weapon against Lamia's plasma attacks.  The
+enemy's HP is displayed on the bottom right.  This is the enemy's life meter."
+
+
+...............................................................................
+Floor 3
+
+The 3rd floor is a boss battle with Lamia.  She is very easy to beat.  Her
+primary attack consists of a burst of three plasma balls.  The only thing you 
+have to be careful of is the fact that these will ricochet off the walls.  
+It's a whole lot easier just to destroy them with your own shots.
+
+To beat Lamia, just shoot her in the head whenever she pops out of a hole.  You
+most likely won't have a lot of time left, so go ahead and use a special attack
+if you need to.
+
+-------------------------------------------------------------------------------
+B.  Grim Reaper's Cavern
+
+...............................................................................
+Floor 4
+
+Pixie:
+
+"Look out for Tomcat's surprise attacks!  She'll attack when you least expect
+it, so be on your guard!  Enemies may have keys also."
+
+Start by heading south.  Kill the slime to reveal a key.  Continue south and
+you will run into a Tomcat.  After taking her out, head left and kill the
+Goblin Brother.  Head to the southeast corner of the floor and kill the Slime
+to get another key.  Head all the way to the left and pick up the clock for
+extra time.
+
+Head north and kill the Slime to get the final key.  Now head for the exit,
+take out the last Tomcat and jump down to the next floor.
+
+...............................................................................
+Floor 5
+
+Pixie:
+
+"Watch out for the Jack Traps on this floor!  When the Jack Traps are down
+it's safe to step on them.  Don't step on them when they pop up!"
+
+Head down the right side of the floor, killing the Tomcat.  When you reach the
+Jack Trap, wait for the spikes to drop, then quickly cross it.  Grab the key,
+then head to the bottom right.
+
+Grab the key here, then head left.  Grab that key, then head to the far left
+of the floor to grab the remaining key.  Then head for the exit and jump down.
+
+...............................................................................
+Floor 6
+
+Pixie:
+
+"Wait a minute ... I hear something ..... a bow?  Sounds like Elf is around.
+Avoid the arrows and try to defeat her!"
+
+Start by heading due east and grabbing the key, then head south.  Next head
+west and grab the key and potion.  While you are invincible, head west, 
+grabbing the key and plowing through Elf.  Head north, grab the key, then
+head north some more.  Grab the clock and head east killing the Goblin Brother
+and Elf.  Head south and grab the key and then head towards the exit.
+
+...............................................................................
+Floor 7
+
+Pixie:
+
+"The path is blocked by boulders.  You can push the boulders, but you can't
+pull them.  Move the boulders carefully or you can't go through."
+
+Head north and grab the key.  Then head south, pushing the boulder out of the
+way so you can go to the right.  Now go right and down.  Slowly push the
+boulder down, making sure you don't get hit by one of Elf's arrows.  Wait for
+her to turn and fire away from you, then take her out.  Grab the key and then
+continue heading down straight for the exit.
+
+Pixie:
+
+"You must defeat Sinister Scar to escape here!  When Scar stops moving, look
+out!  You'll be attacked by snake!"
+
+...............................................................................
+Floor 8
+
+The 8th floor is a boss battle against Sinister Scar.  He will attack by 
+shooting skulls in all directions.  After a while he will stop, a giant snake
+will shoot out towards you.  He will then start crashing around the room.  He
+will stop and shoot another snake at you, then start crashing around again.
+
+All you have to do is avoid his attacks, while constantly shooting him.  Don't
+be afraid to use a special attack if you start running low on time.
+
+-------------------------------------------------------------------------------
+C.  Temple of Nightmare
+
+...............................................................................
+Floor 9
+
+Pixie:
+
+"Oh, no, it's Paradice!  If you try to pass between them, you'll get caught in
+ the middle.  It's all timing so try not to get caught!"
+
+Start off by running north.  Don't worry about getting caught by Paradice, as
+long as you'll keep moving, you'll be fine.  Grab the key and while the trap
+is resetting, move back down.
+
+Keep going south, you will run into three Slimes, they shouldn't be any trouble
+at this point.  Continue south and STOP right before the Paradice.  The idea is
+to go forward and then dart back, setting off the Paradice.  While they are
+resetting, grab the key and head to the exit.
+ 
+...............................................................................
+Floor 10
+
+Pixie:
+
+"This is the Warp Tile.  You can warp somewhere.  If you warp, the boulders
+will reset themselves.  Use it when you get into trouble, ok?"
+
+The Warp Tile will take you back to the 9th floor if you step on it.  This
+sounds crazy, but go ahead and step on it now.  Once you are back on the 9th
+floor, go to the exit.  You will get a message about a Secret Bonus and 20
+extra seconds will be added to the clock.  Jump back down.  
+
+
+Head north, ignoring the Warp Tile this time.  (Sorry, but going back up a 
+second time won't give you more time.)  Take the path to the right, you want
+to push the boulder to the LEFT.  Grab both keys and head north.  Wait for Elf
+to turn her back, then kill her.  Proceed to the next floor.
+
+...............................................................................
+Floor 11
+
+Pixie:
+
+"Hey Jack are you using the + Button on the right?  It's gonna be tough if 
+you don't know how to use it."
+
+Time to put Pixie's advice to good use!  Head north, when the Tomcat charges,
+back away while firing with the right control pad.  Grab the key, then head
+south.  Take the path that branches right.  Grab the key, then continue 
+heading south.
+
+Make your way pass the Jack Traps and head right.  Grab the key.  You will
+see two exits, if you head north you will pick up two 20 sec clocks.  Take
+care of the Goblin Brother and jump down to the next floor.
+
+...............................................................................
+Floor 12
+
+Pixie:
+
+"Mystic Morgan is here so don't let your guard down!  He'll appear suddenly and
+use his magic powers on you."
+
+Head left and step on the Warp Tile, it will take you to the bottom left of
+the level.  Now head left, grab the special attack star and the potion.  Head
+north and step on the Warp Tile.  Head left and jump down to the 13th floor.
+
+...............................................................................
+Floor 13
+
+Pixie:
+
+"There's Furin just up ahead.  Furin has a shield so you can't attack from the
+front.  Your attacks will be blocked.  Attack from behind or from the side!
+Good Luck!"
+
+Follow the path to the right.  When it begins going north, you will be 
+ambushed by a Tomcat.  Continue following the path and you will be attacked by
+a Furin.  Kill Furin by retreating and continuing to fire.  You will be able
+to hit him when the path bends.
+
+Once Furin is dead, continue back along the path.  When the path splits, head
+northeast and jump down.
+
+...............................................................................
+Floor 14
+
+Pixie:
+
+"There's a Poltergeist.  It's rumored he has something very useful.  He's
+quite quick to run away, so don't lose him!"
+
+The item Pixie is referring to is a 50 second clock, so be sure to kill any 
+Poltergeists you see.
+
+Start by going northwest and grab the key.  Now go back and take the path to
+the south.  Grab the clock and head south.  Get the key, then head west.
+
+Head south then take the path to the right to get another key.  Continue east
+and follow the path south.  Continue following the path all the way to the 
+left to get the final key.  Head back east and north until you hit the wall.
+Head west and follow the path to the exit.
+
+Pixie:
+
+"Vampire is on the next floor.  He controls the vampire bats so watch out!
+
+...............................................................................
+Floor 15
+
+The 15th floor is a boss battle with Vampire.  He will attack with bats, you
+can destroy these with your shots.  The floor is also a conveyor belt that
+changes direction every few seconds.
+
+Vampire isn't too difficult and if you managed to track down a couple of
+Poltergeists in the previous level, you should have plenty of time.  Use
+the left control pad to stay directly beneath him and hold up on the right
+control pad to continually fire on him.  Shoot any bats that get too close.
+
+-------------------------------------------------------------------------------
+D.  Dragon's Belly
+
+...............................................................................
+Floor 16
+
+Pixie:
+
+"There's a lot of goals on this floor.  The best goal is .............. Hmm
+....  Sorry, I forget."
+
+There are eight keys on this floor and four of them are inside of enemies, so
+you are going to have to use your radar to track them down.  Once you manage to
+get all of the keys, EIGHT exits will appear!  The best one that Pixie was
+talking about is the one on the bottom right.  This one let's you jump down 
+right next to the exit for floor 17, this is great because that floor contains
+an army of enemies that you're better off just avoiding.
+
+Remember: best exit = bottom right
+
+...............................................................................
+Floor 17
+
+Pixie:
+
+"After you go down, make sure you check the area.  There may be enemies 
+standing right next to you."
+
+This is a very tough floor, there are tons of Tomcats and Furins to deal with,
+unless of course you chose the correct exit on the previous floor.  There's
+no keys on this floor, so just jump right down to the 18th floor.  If you
+chose the bottom right exit on the 16th floor, you will be right next to the
+exit here AND will get a 20 second secret bonus to boot!
+
+...............................................................................
+Floor 18
+
+Head north and grab the first key.  Kill any Slimes in your way and run across
+to the left when the Jack Traps are down, you have to keep moving to avoid
+the Paradice.  Continue left and grab the other key, then jump down the exit.
+
+...............................................................................
+Floor 19
+
+Pixie:
+
+"There's a weapon here called Double Lasers.  They face each other and a beam
+shoots out in between them.  To destroy it, approach from the side.  If you
+try to attack from behind, you'll get hit.  You can block the beam with a 
+boulder too!  Move the boulders around carefully!"
+
+Head north until you see the boulder.  Instead of pushing it, head south.
+Destroy the laser.  Head back up and go right.  Now head down and kill the
+second laser to eliminate the beam.  Grab the key.  If you want, you can
+kill the other two lasers at the bottom the same way to get powerups or you
+can head north.  Now push the boulder up.  Go down, left, and up and kill the
+laser.  Now work your way back to the right side and kill the other laser.
+
+Grab the 20 second clock then go get the key.  Now just jump down to the 20th
+floor.
+
+...............................................................................
+Floor 20
+
+Pixie:
+
+"see how the floor's hidden in some places?  That's Dark Zone.  You'd better
+be careful!  Enemies might be hiding in there!"
+
+Start by heading south as far as you can to grab a key.  Then backtrack north
+and take the path to the left.  As you are heading down, be sure to grab the
+clock on the right.  Follow the path ALL the way down then to the right then
+up then left to grab a key.  Then head back down to the exit.  Right above the
+exit is a Dark Zone hiding the final key.  Grab it then jump down to the next
+floor.
+
+...............................................................................
+Floor 21
+
+Pixie:
+
+"Skelipede's here.  His weak point is his head.  But, he's really fast and
+spits fire, so he won't be easy to beat!"
+
+Start by heading north towards the keys.  There's a potion here, grab it,
+grab the two keys, then head for the exit.
+
+...............................................................................
+Floor 22
+
+Pixie:
+
+"Watch out for Luminous Lex!  He moves around and shoots at you and he can't
+be destroyed.  Either dodge the beam or use a boulder to block it."
+
+Luminous Lex isn't as bad as he sounds.  Just make your way south, grab
+all three keys, then jump down the exit.  The one on the left gave me a 20
+second time bonus.
+
+...............................................................................
+Floor 23
+
+Pixie:
+
+"This is an easy floor.  But it looks like there are enemies so be careful!
+
+Pixie wasn't kidding, this is one of the easiest floors in the game!  Just
+head north while holding UP on the right control pad and you won't have any
+trouble.  I took the exit on the right, I don't know if the one on the left is
+any better or worse.
+
+...............................................................................
+Floor 24
+
+Pixie:
+
+"Firebreathers!  They spit out flames and get in your way!  They're really
+strong so you can't defeat them!  Either dodge the flames or block them with
+a boulder."
+
+Head south, avoiding the flames as you go.  When you get to the bottom, go 
+left and then push the boulder up to block the Firebreather.  Grab the key
+and go up.  Wait for the second Firebreather's flame to go out, then continue
+north.  Grab the second key and head up to the exit.
+
+Pixie:
+
+"Spider Orb is your next opponent.  He has 6 arms and shoots a beam from his
+eye.  If the beam hits you, you'll be temporarily paralyzed."
+
+...............................................................................
+Floor 25
+
+The 25th floor is a boss battle with Spider Orb.  His weak point is his eye,
+his legs will move in and out of the way.  When he pauses, he will shoot a
+burst of five stars.  DO NOT GET HIT BY THESE.  They will cause you to be
+paralyzed for a LONG time, during which you can still be damaged by his normal
+attacks.  Don't be afraid to use all of your special attacks here.
+
+-------------------------------------------------------------------------------
+E.  Mecha Fortress
+
+...............................................................................
+Floor 26
+
+Start out by grabbing the key on the left, then head north.  Take the left 
+path, making sure to grab the two clocks (we'll grab the two on the right on
+the way back down).  Continue north and grab all four keys at the top.  Now
+go back down taking the path on the right.  Grab the two clocks and continue
+south, taking the path on the right.  Grab the last key and step on the Warp 
+Tile.
+
+Head down the left side.  Grab the Special Attack Star, then go to the right
+side of the level and get the other one.  Then head back down all the way to
+the exit.
+
+...............................................................................
+Floor 27
+
+Pixie:
+
+"This is Angel's floor.   ... Why is Angel here?  I think Angel was bored and
+ended up here.  Hit the ball and chain to attack Angel."
+
+Start by heading north.  Wait for the Firebreather's flame to disappear, then
+quickly grab the key and head north.  You can ignore the Angels, they will
+stay in the center and their attacks are easy to dodge.  Wait for the flame to
+disappear then grab the 2nd key and the clock above it.  Wait again for the
+flame to disappear, then head west.
+
+Again grab the key and clock and make your way south.  Grab the last key and
+then head down to the exit.
+
+...............................................................................
+Floor 28
+
+Pixie:
+
+"Hey, Jack!  You know what? I don't know too much about this area.  So I'm not
+going to say anything for a while.  Don't worry!  If I come up with anything
+I'll let you know!"
+
+Start off by heading north, taking out any Mystic Morgans you encounter.  Head
+right then down.  Now CAREFULLY push the boulder down until you are able to 
+get around it, then push it north to block the laser beam.  Now head down and
+to the right and do the same thing with the other boulder.
+
+The path to the north is now clear, so head on up.  There will be a 30 second
+clock to your left and a special attack star to your right.  Grab these and 
+continue up to the key.  Now head back down to the exit in the bottom right.
+
+...............................................................................
+Floor 29
+
+Again start out by heading north.  Keep moving and grab the first seven keys
+without stopping.  To get the last one, you'll have to bait the Jack Trap,
+then go up and back while it is resetting.  Then just run straight south
+without stopping and jump down to the next floor.
+
+...............................................................................
+Floor 30
+
+Head north, then kill the Slime on your left.  Avoid the Jack Trap and grab
+the key, then head SOUTH and grab the 50 second clock.  You'll get hit by the
+Jack Trap while it's resetting, but you'll still net some time.  Make your
+way north avoiding the traps and collecting keys as you go, then take the exit
+on the right.
+
+...............................................................................
+Floor 31
+
+Pixie:
+
+"Cyclops roams this floor.  He's a powerful giant who can create earthquakes.
+Attack several times to defeat him ... You can do it!"
+
+Start out by heading south and grab the key.  Then go left and up and grab a
+key.  Then head down and grab the last key and the star below it.  Then head
+to the exit in the bottom right.
+
+...............................................................................
+Floor 32
+
+Head to the far left and go up.  Kill Elf for a 30 second secret bonus.  Then
+go up and to the left and jump down.
+
+...............................................................................
+Floor 33
+
+Head north and to the left.  Continue up and step on the Warp Tile.  Back on
+the 32nd floor.  Push the boulder down and head right.  Continue south and
+jump back down to the 33rd floor.  Grab all of the keys and step on the Warp
+Tile.  Make your way right and up and push the boulder to the left.  Go up
+and jump down.  Make your way to the exit on the lower left and jump down.
+
+...............................................................................
+Floor 34
+
+Start off by pushing the boulder all the way to the right.  Kill Elf and go
+right.  Wait for the flames to go away and grab the key.  Then when it's safe
+go right and grab the key and clock.  Then head down and to the right to the
+exit.
+
+...............................................................................
+Floor 35
+
+Start by going north and to the right.  Grab the key and then head left.
+Grab the second key and then head up to the last one.  Head to the exit on
+the lower left.
+
+...............................................................................
+Floor 36
+
+Stay in the center and kill the two Skelipedes, then step on the Warp Tile.
+Again stay in the center, kill the two Skelipedes, then step on the Warp Tile.
+All you have to do now is jump down to the 37th floor.
+
+...............................................................................
+Floor 37
+
+Grab the potion and just follow the path as fast as you can.  Collect the two
+keys and then head to the exit in the lower left.
+
+...............................................................................
+Floor 38
+
+Follow the path until you reach the area with the Jack Traps.  Kill the Cyclops
+for a key, grab the 30 second clock, then head to the top left.  Grab the key
+and then head right to the exit.
+
+...............................................................................
+Floor 39
+
+Start off by pushing the boulder left.  Then head north and to the right to
+grab the two keys.  Now just head left and down to the exit.
+
+Pixie:
+
+"This is Wybern's Fortress.  He attacks by shooting flames and flapping his
+wings.  In addition, there are Jack Traps everywhere!"
+
+...............................................................................
+Floor 40
+
+The 40th floor is a boss battle against Wybern.  He is extremely difficult!
+He shoots out a large flame from his mouth.  On top of that the entire floor
+is covered in Jack Traps!  They will make their way up row by row.  You should
+have plenty of Special Attacks, so use them.  Hit him anywhere to damage him.
+
+-------------------------------------------------------------------------------
+F.  Crystal Palace
+
+...............................................................................
+Floor 41
+
+Head left, set off the Jack Trap and then head down and grab the keys.  Then
+just head to the exit and jump down.
+
+...............................................................................
+Floor 42
+
+Head north, running as fast as you can.  Once you get both of the keys, head
+back south to the exit.  As long as you don't stop moving, the lasers won't
+hit you!
+
+...............................................................................
+Floor 43
+
+Head up then go left as fast as you can.  Grab the potion, then the keys, then
+go to the exit on the bottom left.
+
+...............................................................................
+Floor 44
+
+Go north.  Do NOT step on the Warp Tiles.  Push the boulders right, then up
+repeatedly, then continue north.  Go all the way to the top and step on the
+Warp Tile.  Go left, avoiding the traps and drop down the top left exit.
+
+Grab the two keys, then push the first boulder up and the second one to the
+right.  Head south to the exit, pushing the boulders left and down.
+Go down and then right to the exit.
+
+...............................................................................
+Floor 45
+
+Head left then up.  There are a couple of Poltergeists here, the 50 second
+clocks will come in handy, so try to get them if you can.  Grab the two keys,
+then head to the exit.
+
+...............................................................................
+Floor 46
+
+Start by heading north.  Go right when the path "appears" to split.  Go south,
+then west.  Grab the key then head back east.  Then go south and grab the
+last key.  Go north and take the THIRD path left to reach the exit.
+
+...............................................................................
+Floor 47
+
+Start out by going north.  In order to reach the keys, you need to push one
+boulder up above the path and one into it to block the beams.  Once you get
+the keys, head left to the exit.
+
+...............................................................................
+Floor 48
+
+Head east then north.  Start on the left and make your way right destroying
+all the lasers, then grab the key and any powerups they left.  Make your way
+north.  This time start at the TOP and kill those lasers first.  Grab the last
+key and head to the exit.
+
+...............................................................................
+Floor 49
+
+Start by going south, there is a key inside the Dark Zone, follow the path
+around the left to get it.  Head down, there is another key in this Dark Zone.
+Now head to the exit.
+
+...............................................................................
+Floor 50
+
+Make your way south then west.  The first Dark Zones hide Firebreathers and the
+second ones Angels.  Grab the key then head to the exit.
+
+...............................................................................
+Floor 51
+
+Carefully make your way north then east, avoiding the flames along the way.
+Go north to grab that key first, then get the other one.  Now head to the exit.
+
+...............................................................................
+Floor 52
+
+Set off the trap then grab the key to the left.  Set it off again and go north.
+Ignore the clock and star, you'll be able to get them later.  Now go north, set
+off the trap and go left to get the key.  Grab that potion and NOW get those 
+power ups the Jack Traps are guarding.  Go to the exit when you are done.
+
+...............................................................................
+Floor 53
+
+Start by going south then right and grab the key.  Then go north and right to
+get the other.  Go north, grab a key, then west and grab the other one.  Now
+head south to the last key.  Head east to the exit.
+
+...............................................................................
+Floor 54
+
+The Jack Traps here only go off if you get between them.  Go north and grab
+the keys while avoiding the traps.  Then make your way to the exit.
+
+...............................................................................
+Floor 55
+
+This is a very easy floor.  Take the time to kill all the Poltergeists you 
+can, you need the extra time!  Once you get them all, head to the exit.
+
+...............................................................................
+Floor 56
+
+Make your way north, killing Furins along the way.  Grab the key in the top
+left corner, then head to the exit.
+
+...............................................................................
+Floor 57
+
+Push the boulder on the left to the left and the one on the right to the right.
+Now go south and push the boulders on the left and right down.  Then push the 
+center boulder left and head for the exit.
+
+...............................................................................
+Floor 58
+
+Head north, kill the Tomcat for a key.  Head north, then east, then south
+for the other Tomcat holding a key.  Take the path on the far right to the
+exit.
+
+
+...............................................................................
+Floor 59
+
+Kill the Furin for a key, then pick the other one up.  Step on the bottom Warp
+Tile.  Kill Furin for the key, then pick the other one up.  Step on the
+tile on the right.  Now step on the one on the left.  Again kill the Furin
+and get the two keys.  Step on the Warp Tile on the left.  Then the one on the
+left then left again.  Again kill the Furin and grab the keys.  Step on the
+bottom Warp Tile then the one on top.  Head south to the exit.
+
+Pixie:
+
+"Finally, this is the last floor!  Your last opponent is Belzoff, ruler of the
+Monster World.  He's a lot stronger than those other guys.  Give it your best
+shot, Jack!"
+
+...............................................................................
+Floor 60
+
+This is it, the final boss battle with Belzoff!  He will start out by spitting
+three fireballs at a time, there are also a pair of Jack Traps to watch out
+for.  Just keep hitting him, DON'T use any special attacks yet ...
+
+HOLY @#$%%, look at that energy bar!  Now is the time to use those special
+attacks!  In this form, he will spit flies at you, you can kill them with
+your shots.  He will also shot five fireballs at a time.  Keep hitting him
+and he will eventually go down.  The Jack Traps are still there and are still
+the biggest cause of damage.
+
+Once you beat him, just sit back and watch the ending!
+
+*******************************************************************************
+XI.  Secrets and Passwords
+
+Note:  I got most of the following from KR115E's FAQ.
+
+Hard Mode
+
+To activate Hard Mode, while on the title screen press right, right, right,
+right, right, right, left, left, left, right, right, right, right, right, right
+on the left control pad.  If you do it right, the message "FOR SUPER PLAYERS"
+will appear.
+
+
+Passwords
+
+
+           |  J. Frost    |  J. Lantern  |  J. Skelton  |  Pixie       |
+           |  Norm  Hard  |  Norm  Hard  |  Norm  Hard  |  Norm  Hard  |
+  ---------|--------------|--------------|--------------|--------------|
+  Level 1  |  ----  ----  |  ----  ----  |  ----  ----  |  ----  4649  |
+  Level 2  |  3267  2980  |  4965  3910  |  0246  9730  |  ----  1118  |
+  Level 3  |  8453  0854  |  5923  3570  |  2745  0385  |  ----  1708  |
+  Level 4  |  1309  2448  |  0919  2293  |  9537  4169  |  ----  1227  |
+  Level 5  |  7285  5331  |  2827  1396  |  3598  6228  |  ----  1917  |
+  Level 6  |  6378  5783  |  6313  3939  |  0531  0893  |  ----  5963  |
+
+Note:  
+
+You must confirm the last number of Pixie's password by pressing L, R, Select,
+and A simultaneously.  Hard passwords only work when Hard mode is active.
+
+
+*******************************************************************************
+XII.  Game Review
+
+Jack Bros. is a great game and makes wonderful use of the Virtual Boy's 
+capabilities.  The graphics are outstanding, especially during the cutscenes. 
+This game has some of the best music you can find on the system.  And of course
+the gameplay is a lot of fun.  Definitely pick this one up.
+
+Pros
+
+-  Awesome graphics.
+-  Awesome sound.
+-  Lots of fun to play.
+-  It actually has a story!
+
+Cons
+
+-  Game is just a tad too short.
+-  The last level can be very frustrating.
+ 
+
+*******************************************************************************
+XIII.  Special Thanks
+
+Special Thanks to KR155E for his awesome FAQ on the game as well as his site
+www.vr32.de.
+
+*******************************************************************************
+XIV.  Version History
+
+1.0  12/14/08  Completed FAQ.
+
+*******************************************************************************
+XV.  Contact Information
+
+You can contact me at Bhodges080@aol.com
+
+I would appreciate hearing what you thought of this guide and any thoughts
+you have for improving it.  Be sure to let me know if I have missed anything.
+
+*******************************************************************************
+
+
+
+
+
+End
+Restore Page
