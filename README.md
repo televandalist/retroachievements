@@ -14,3 +14,6 @@ Wiki Plans:
 
 Other:
 - RATools scripts whenever I make that move
+
+Missing:
+- Rich Presence: Star Wars Arcade (32X)

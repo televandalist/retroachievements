@@ -1,0 +1,50 @@
+0x0000=SEGA
+0x0001=Copyright Info
+0x0002=Lucas Arts
+0x0003=Intro
+0x0004=Rankings
+0x0005=
+0x0006=
+0x0007=
+0x0008=Pre-Intro?
+0x0009=Pre-Title - Hanger shot
+0x000a=Showing Ships
+0x000b=Choose a Game
+0x000c=Continue Screen
+0x000d=Ackbar Briefing
+0x000e=Rebel Attack (End Credits)
+0x000f=Rebel Attack (After Credits, Obi Wan and Yoda)
+0x0010=Vader - Game Over
+0x0011=Demo|Enter High Score|Rebel Attack (Arcade 1)|Training 1
+0x0012=Rebel Attack (Arcade Level 2)
+0x0013=Rebel Attack (Arcade Level 3)
+0x0014=Rebel Attack (Arcade Level 4)
+0x0015=Training Mission 1
+0x0016=First Mission
+0x0017=Second Mission
+0x0018=Third Mission
+0x0019=Fourth Mission
+0x001a=Fifth Mission
+0x001b=Sixth Mission
+0x001c=Seventh Mission
+0x001d=Eigth Mission
+0x001e=Ninth Mission
+0x001f=Tenth Mission
+0x0020=Final Mission
+0x0021=Rebel Attack (Blow Up Death Star)
+0x0022=
+0x0023=Rebel Attack (Watching Super Star Destroyer Explode)
+
+
+Sound Test
+
+	
+	15
+	20
+	25
+	30
+	
+	
+Pause the game and press Left, Down, A, C, Down, Up
+Pause the game at any time and press Down, B, B, Up, Right, Left.
+Pause the game and enter: Up, Right, Left, A, Down, C
