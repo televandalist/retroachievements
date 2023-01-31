@@ -1,0 +1,138 @@
+Aug 17, 2019 - my initial pitch to staff about "Cheevo Adoption"
+Nov 14, 2020 - <https://github.com/RetroAchievements/RAWeb/pull/519#issuecomment-727282927>
+Nov 14, 2020 - <https://github.com/RetroAchievements/RAWeb/issues/520>
+
+
+32-bit 0x1d06a0 = 0xffffffff
++
+8-bit 0x1d06b8 = 0x01
++
+16-bit 0x1d06c6 >= 0x88b8
++
+16-bit 0x1d06ca = mem 16-bit 0x1d06c6
+
+
+then add 0x10 to each address and check for the same value
+749 times...
+
+1d0670
+
+1d26a6
+1d14b6 (-11F0)
+1d26b6 (+1200)
+1d1676 (-1040)
+
+ec1ad
+
+0x1d835a 0xd25b8 5cb4
+0x1d835a 0xd13c8 6ea4
+0x1d835a 0xd25c8 5ca4 12e4 1000ee
+0x1d835a 0xd0ef8 6ce4 3832 10077e
+
+25b8 - 9656
+13c8 - 5064
+25c8 - 9672
+0ef8 - 3832
+
+
+540 - 21c
+781 - 30d
+724 - 2d4
+
+
+
+
+|---Ancient Valley Race---|
+State	Time Address	Difference		Value at 0x1d05ae	Offset		152b26
+F1		0x1d2772						26a0				0x1d00d2	06a0
+F2		0x1d2fc2		+0x850			2e20				0x1d01a2	06e0 (+0x40)
+F3		0x1d5dc2		+0x2e00			34a0				0x1d2922	2340 (+0x1c60)
+F4		0x1d6d62		+0xfa0			6bc0				0x1d01a2	0710 (-0x1c30)
+F5		0x1d6da2		+0x40			6c00				0x1d01a2	06a0 (-0x70)
+F6		0x1d6d82		-0x20			3588				0x1d37fa	06a0 (+0x00)
+
+State	Time Address	Difference		Value at 0x1d05aa	Offset		152b26
+F1		0x1d2772						0920				1d1e52
+F2		0x1d2fc2		+0x850			0980				1d2642
+F3		0x1d5dc2		+0x2e00			1610				1d47b2
+F4		0x1d6d62		+0xfa0			0990				1d63d2
+F5		0x1d6da2		+0x40			1b30				1d5272
+F6		0x1d6d82		-0x20			0990				1d63f2
+
+
+
+|---Fleet of the Lake---|
+State	Score Address	Difference		Value at 0x1d83aa	Offset
+F7		0x1d22e6						2320				0x1cffc6
+F8		0x1d2646		+0x360			2680				0x1cffc6
+F9		0x1d1676		-0xfd0			16b0				0x1cffc6
+F10		0x1d14b6		-0x1c0			26e0				0x1cedd6
+
+0x1d0576 - First dynamic address past 0x1d0000
+
+908		
+968		+0x60
+15f8	+0xc90
+978		-0xc80	
+1b18	+11a0
+978		+11a0
+
+0x1d835a
+0x0f28
+0x08b8
+0x22f8
+0x26b8
+
+0x1d835e
+0x0fa8
+0x0e08
+0x2378
+0x2738
+
+0x1d83aa
+0x0fc0
+0x0e20
+0x2390
+0x2750
+
+0x1d2fc2	16-bit	Timer (Number of Frames in Hex)
+0x1d2fc6	16-bit	Finish Time (Minutes)
+0x1d2fc8	16-bit	Finish Time (Seconds in Hex)
+0x1d2fce	16-bit	Finish Time (Frames in Hex)
+0x1d2fca	16-bit	Record Finish Time (Minutes)
+0x1d2fde	16-bit	Record Finish Time (Seconds in hex)
+0x1d2fe2	16-bit	Record Finish TIme (Frames in Hex)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

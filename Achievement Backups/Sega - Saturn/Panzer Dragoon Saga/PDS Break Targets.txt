@@ -1,0 +1,590 @@
+0x14a42e	bit0	Free Action	0x18 - Excavation Site #4
+0x14a42e	bit1	Ambrosia	Conana's Nest
+0x14a42e	bit2	D Unit 01	Conana's Nest
+0x14a42e	bit3	Elixir Minor	0x18 - Deep Canyon Gulch
+0x14a42e	bit4	Elixir Minor	0x18 - Deep Canyon Gulch
+0x14a42e	bit5	Berserk Micro	0x18 - Deep Canyon Gulch
+0x14a42e	bit6	Dinys Chip	0x00 - Above Excavation Site
+0x14a42e	bit7	Dinys Chip	0x00 - Above Excavation Site
+0x14a42f	bit0	Stolarium	0x00 - Above Excavation Site
+0x14a42f	bit1	Dinys Chip	0x18 - Excavation Site #4
+0x14a42f	bit2	Dinys Chip	0x18 - Excavation Site #4
+0x14a42f	bit3	Revive	0x18 - Excavation Site #4
+0x14a42f	bit4	Elixor Minor x3	0x18 - Excavation Site #4
+0x14a42f	bit5	Telepathy Shard	0x18 - Excavation Site #4
+0x14a430	bit0	Dinys Chip	0x37 - Blue Oasis
+0x14a430	bit1	Elixir Medis	0x37 - Green Oasis
+0x14a430	bit2	Dinys Chip	0x37 - Green Oasis
+0x14a430	bit3	Berserk Micro	0x37 - Green Oasis
+0x14a430	bit4	Dinys Chip	0x37 - Green Oasis
+0x14a430	bit5	Elixir Minor	0x37 - Green Oasis
+0x14a430	bit6	D Unit 03	0x37 - Garil Desert
+0x14a430	bit7	Free Action x2	0x37 - Garil Desert
+0x14a431	bit0	Elixir Minor	0x37 - Garil Desert
+0x14a431	bit1	Telepathy Shard	0x37 - Garil Desert
+0x14a431	bit2	Elixir Medis	0x37 - Garil Desert
+0x14a431	bit3	D Unit 02	0x1c - Waterfall
+0x14a431	bit4	Energy Prisim	0x1c - Waterfall
+0x14a431	bit5	Elixir Medis	0x1c - Waterfall
+0x14a431	bit6	Elixir Medis	0x18 - Excavation Site #4
+0x14a431	bit7	Dinys Chip	0x18 - Excavation Site #4
+0x14a432	bit0	Gipson Lens	0x97 - Georgius (First Time)
+0x14a432	bit1	Gipson Lens	0x8f - Forbidden Zone
+0x14a432	bit2	Stolarium	0x8f - Forbidden Zone
+0x14a432	bit3	Shell Plate	0x8f - Forbidden Zone
+0x14a432	bit4	Shell Plate	0x8f - Forbidden Zone
+0x14a432	bit5	Telepathy Shard	0x8f - Forbidden Zone
+0x14a432	bit6	Stolarium	0x8f - Forbidden Zone
+0x14a432	bit7	Gipson Lens	0x8f - Forbidden Zone
+0x14a433	bit0	Shell Plate	0x8f - Forbidden Zone
+0x14a433	bit1	Mauler	0x37 - Cave
+0x14a433	bit3	D Unit 4	0x37 - Blue Oasis
+0x14a433	bit4	Elixir Minor	0x37 - Blue Oasis
+0x14a433	bit5	Dinys Chip	0x37 - Blue Oasis
+0x14a433	bit6	Elixir Medis	0x37 - Blue Oasis
+0x14a433	bit7	Berserk Minor	0x37 - Blue Oasis
+0x14a434	bit6	Ship Parts	0x9f - Georgius (Second Time)
+0x14a434	bit7	Shell Plate	0x9f - Georgius (Second Time)
+0x14a435	bit0	Stolarium	0x9f - Georgius (Second Time)
+0x14a435	bit1	Gipson Lens	0x9f - Georgius (Second Time)
+0x14a435	bit2	Telepathy Shard	0x9f - Georgius (Second Time)
+0x14a435	bit3	Stolarium	0x9f - Georgius (Second Time)
+0x14a435	bit4	Stolarium	0x9f - Georgius (Second Time)
+0x14a435	bit5	Gipson Lens	0x9f - Georgius (Second Time)
+0x14a435	bit6	Shell Plate	0x9f - Georgius (Second Time)
+0x14a435	bit7	Gipson Lens	0x97 - Georgius (First Time)
+0x14a436	bit0	Berserk Medis x2	0xdf - Uru - Sunken Ruins
+0x14a436	bit1	Dinys Chip	0xdf - Uru - Passage
+0x14a436	bit2	Elixir Maxis	0xdf - Uru - Sunken Ruins
+0x14a436	bit3	Shield Chip x2	0xdf - Uru - Sunken Ruins
+0x14a436	bit4	Antidote	0xdf - Uru - Passage
+0x14a436	bit5	Dinys Chip	0xdf - Uru - Sunken Ruins
+0x14a436	bit6	Elixir Maxis	0xdf - Uru - Passage
+0x14a436	bit7	Berserk Micro	0xdf - Uru - Passage
+0x14a437	bit0	Dinys Chip	0xdf - Uru - Sunken Ruins
+0x14a437	bit1	Free Action	0xdf - Uru - Sunken Ruins
+0x14a437	bit2	Ambrosia	0xa7 - Inside Shellcoof
+0x14a437	bit3	Ambrosia	0xa7 - Inside Shellcoof
+0x14a437	bit4	Blast Chip	0xa7 - Inside Shellcoof
+0x14a437	bit5	Dragon Booster	0xa7 - Inside Shellcoof
+0x14a438	bit0	Dinys Chip	0xdf - Uru - Deep North
+0x14a438	bit1	Free Action	0xdf - Uru - Deep North
+0x14a438	bit2	Dinys Chip	0xdf - Uru - Deep North
+0x14a438	bit3	Berserk Minor	0xdf - Uru - Deep North
+0x14a438	bit4	Full Elixir	0xdf - Uru - Deep North
+0x14a438	bit5	Speed Chip	0xdf - Uru - Deep North
+0x14a438	bit6	D Unit 6	0xdf - Uru - Deep North
+0x14a438	bit7	Dinys Chip	0xdf - Uru - Passage
+0x14a439	bit0	Elixir Maxis	0xdf - Uru - Passage
+0x14a439	bit1	Plasma Vortex	0xdf - Uru - Passage
+0x14a439	bit2	Elixir Maxis x2	0xdf - Uru - Passage
+0x14a439	bit3	Elixir Medis x2	0xdf - Uru - Passage
+0x14a439	bit4	Free Action x3	0xdf - Uru - Passage
+0x14a439	bit5	Antidote x2	0xdf - Uru - Passage
+0x14a439	bit6	Armor Chip	0xdf - Uru - Sunken Ruins
+0x14a439	bit7	D Unit 5	0xdf - Uru - Sunken Ruins
+0x14a43a	bit0	Blast Chip	0xe7 - Ruins - B4F
+0x14a43a	bit1	Dinys Chip	0xe7 - Ruins - BF4
+0x14a43a	bit2	Elixir Maxis	0xe7 - Ruins - B4F
+0x14a43a	bit3	Dinys Chip	0xe7 - Ruins - BF4
+0x14a43a	bit4	Elixir Medis x5	0xe7 - Ruins - B4F
+0x14a43a	bit5	Elixir Maxis	0xe7 - Ruins - BF4
+0x14a43a	bit6	Ambrosia	0xe7 - Ruins - BF2 N
+0x14a43a	bit7	D Unit 7	0xe7 - Ruins - BF2 North
+0x14a43b	bit0	Hunting Scythe	0xe7 - Ruins - B2E
+0x14a43b	bit1	Blast Chip x2	0xe7 - Ruins - B1
+0x14a43b	bit2	Tri-Burst	0xe7 - Ruins - B1
+0x14a43b	bit3	Restore Speed x2	0xe7 - Ruins - B1
+0x14a43b	bit4	Elixir Minor x9	0xe7 - Ruins - B1
+0x14a43b	bit5	Elixir Medis x4	0xe7 - Ruins - B1
+0x14a43b	bit6	Flash Chip x3	0xe7 - Ruins - B1
+0x14a43b	bit7	Power Chip	0xdf - Uru - Deep North
+0x14a43c	bit0	Elixir Maxis x2	0xe7 - Ruins - B4F
+0x14a43c	bit1	Dinys Chip	0xe7 - Ruins - B4F
+0x14a43c	bit2	Dinys Chip	0xe7 - Ruins - B4F
+0x14a43c	bit3	Dinys Chip	0xe7 - Ruins - B4F
+0x14a43c	bit4	Restore Speed	0xe7 - Ruins - B4F
+0x14a43c	bit5	Blast Chip	0xe7 - Ruins - B4F
+0x14a43c	bit6	Free Action	0xe7 - Ruins - B4F
+0x14a43c	bit7	Dual Blast Chip	0xe7 - Ruins - BF4
+0x14a43d	bit0	Blast Chip	0xe7 - Ruins - B4F
+0x14a43d	bit1	Dual Blast Chip	0xe7 - Ruins - BF4
+0x14a43d	bit2	Blast Chip	0xe7 - Ruins - B4F
+0x14a43d	bit3	Dual Blast Chip	0xe7 - Ruins - BF4
+0x14a43d	bit4	Blast Chip	0xe7 - Ruins - B4F
+0x14a43d	bit5	D Unit 8	0xe7 - Ruins - BF4
+0x14a43d	bit6	Blast Chip	0xe7 - Ruins - B4F
+0x14a43d	bit7	Dual Blast Chip	0xe7 - Ruins - BF4
+0x14a43e	bit0	Dual Blast Chip	0xe7 - Ruins - B??F
+0x14a43e	bit1	Dual Blast Chip	0xe7 - Ruins - B??F
+0x14a43e	bit2	Berserk Maxis	0xe7 - Ruins - B??F
+0x14a43e	bit3	Olfactory Lobe	0xe7 - Ruins - B??F
+0x14a43e	bit4	Speed Chip x3	0xe7 - Ruins - B?F
+0x14a43e	bit5	Power Chip x3	0xe7 - Ruins - B?F
+0x14a43e	bit6	Shield Chip x3	0xe7 - Ruins - B?F
+0x14a43e	bit7	Armor Chip x3	0xe7 - Ruins - B?F
+0x14a43f	bit0	Dinys Chip	0xe7 - Ruins - B4F
+0x14a43f	bit1	Elixir Medis x2	0xe7 - Ruins - B4F
+0x14a43f	bit2	Blast Chip	0xe7 - Ruins - BF4
+0x14a43f	bit3	Speed Chip x2	0xe7 - Ruins - B4F
+0x14a43f	bit4	Power Chip	0xe7 - Ruins - B4F
+0x14a43f	bit5	Elixir Minor	0xe7 - Ruins - B4F
+0x14a43f	bit6	Elixir Minor	0xe7 - Ruins - B4F
+0x14a43f	bit7	Free Action x2	0xe7 - Ruins - B4F
+0x14a440	bit0	Elixir Maxis	0xd7 - The Tower
+0x14a440	bit1	Tri-Blast Chip	0xd7 - The Tower
+0x14a440	bit2	Full Elixir	0xd7 - The Tower
+0x14a440	bit3	Tri-Blast Chip	0xd7 - The Tower
+0x14a440	bit4	Armor Chip	0xd7 - The Tower 2F
+0x14a440	bit5	Speed Chip	0xd7 - The Tower 2F
+0x14a440	bit6	Full Elixir	0xd7 - The Tower
+0x14a440	bit7	Recover x3	0xc7 - Mel-Kava
+0x14a441	bit0	Anesthetic	0xc7 - Mel-Kava
+0x14a441	bit1	Telepathy Shard	0xc7 - Mel-Kava
+0x14a441	bit2	Olfactory Lobe	0xc7 - Mel-Kava
+0x14a441	bit3	Restore Speed	0xc7 - Mel-Kava
+0x14a441	bit4	Berserk Maxis	0xc7 - Mel-Kava
+0x14a441	bit5	Olfactory Lobe	0xc7 - Mel-Kava
+0x14a441	bit6	Bone Slasher	0xe7 - Ruins - B??F
+0x14a441	bit7	Dual Blast Chip	0xe7 - Ruins - B??F
+0x14a442	bit0	Full Elixir	0xd7 - The Tower
+0x14a442	bit1	Ambrosia	0xd7 - The Tower
+0x14a442	bit2	Tri-Blast Chip	0xd7 - The Tower
+0x14a442	bit3	Berserk Micro x40	0xd7 - The Tower
+0x14a442	bit4	Berserk Maxis	0xd7 - The Tower 5F
+0x14a442	bit5	Full Elixir	0xd7 - The Tower
+0x14a442	bit6	Full Elixir	0xd7 - The Tower 5F
+0x14a442	bit7	Shield Chip	0xd7 - The Tower
+0x14a443	bit0	Anesthetic	0xd7 - The Tower 4F
+0x14a443	bit1	Antidote	0xd7 - The Tower 4F
+0x14a443	bit2	Power Chip	0xd7 - The Tower
+0x14a443	bit3	Revive	0xd7 - The Tower 4F
+0x14a443	bit4	Revive	0xd7 - The Tower 4F
+0x14a443	bit5	Berserk Vampire	0xd7 - The Tower
+0x14a443	bit6	Berserk Maxis	0xd7 - The Tower
+0x14a443	bit7	Flash Chip	0xd7 - The Tower
+0x14a444	bit0	Bone Slasher	0xef - Inside Forest of Zoah
+0x14a444	bit1	Elixir Maxis	0xef - Inside Forest of Zoah
+0x14a444	bit2	Olfactory Lobe	0xef - Inside Forest of Zoah
+0x14a444	bit3	D Unit 9	0xef - Inside Forest of Zoah
+0x14a444	bit4	Berserk Medis	0xef - Inside Forest of Zoah
+0x14a444	bit5	Gipson Lens	0xef - Inside Forest of Zoah
+0x14a444	bit6	Shell Plate	0xef - Inside Forest of Zoah
+0x14a444	bit7	Elixir Maxis	0xef - Inside Forest of Zoah
+0x14a445	bit0	Elixir Maxis	0xd7 - The Tower
+0x14a445	bit1	Berserk Maxis	0xd7 - The Tower
+0x14a445	bit2	D Unit 12	0xd7 - The Tower
+0x14a445	bit3	D Unit 11	0xd7 - The Tower
+0x14a445	bit4	Full Elixir	0xd7 - The Tower
+0x14a445	bit5	Berserk Medis	0xd7 - The Tower
+0x14a445	bit6	Elixir Maxis	0xd7 - The Tower
+0x14a445	bit7	Berserk Medis	0xd7 - The Tower
+0x14a446	bit0	Telepathy Shard	0xef - Inside Forest of Zoah
+0x14a446	bit1	Plasma Swarm	0x37 - Garil Desert
+0x14a446	bit2	Elixir Minor	0x18 - Excavation Site #4
+0x14a446	bit3	Olfactory Lobe	Forest of Zoah - Red Ruins
+0x14a446	bit4	Berserk Maxis	Forest of Zoah - Red Ruins
+0x14a446	bit5	Full Elixir	Forest of Zoah - Red Ruins
+0x14a446	bit6	Full Elixir	Forest of Zoah - Red Ruins
+0x14a446	bit7	Gipson Lens	Forest of Zoah - Red Ruins
+0x14a447	bit0	Berserk Maxis	Forest of Zoah - Red Ruins
+0x14a447	bit1	Bone Slasher	Forest of Zoah - Red Ruins
+0x14a447	bit2	Golia Pod	Forest of Zoah - Red Ruins
+0x14a447	bit3	Golia Tail	Forest of Zoah - Red Ruins
+0x14a447	bit4	Golia Fang	Forest of Zoah - Red Ruins
+0x14a447	bit5	Golia Shell	Forest of Zoah - Red Ruins
+0x14a447	bit6	D Unit 10	0xef - Inside Forest of Zoah
+0x14a447	bit7	Berserk Medis	0xef - Inside Forest of Zoah
+0x14a4ac	bit0	Stolarium	0xbf - Imperial Air Force Post
+0x14a4ac	bit1	Elixir Minor	0xbf - Imperial Air Force Post
+0x14a4ac	bit3	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4ac	bit4	Revive	0xbf - Imperial Air Force Post
+0x14a4ac	bit5	Elixir Medis	0xbf - Imperial Air Force Post
+0x14a4ae	bit0	Elixir Maxis	0xbf - Imperial Air Force Post
+0x14a4af	bit7	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4b0	bit0	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4b0	bit1	Revive	0xbf - Imperial Air Force Post
+0x14a4b0	bit2	Berserk Minor	0xbf - Imperial Air Force Post
+0x14a4b1	bit6	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4b1	bit7	Revive	0xbf - Imperial Air Force Post
+0x14a4b3	bit3	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4b3	bit4	Elixir Minor	0xbf - Imperial Air Force Post
+0x14a4b3	bit5	Shell Plate	0xbf - Imperial Air Force Post
+0x14a4b6	bit3	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4b6	bit4	Stolarium	0xbf - Imperial Air Force Post
+0x14a4b6	bit5	Elixir Medis	0xbf - Imperial Air Force Post
+0x14a4ba	bit7	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4bb	bit0	Blast Chip	0xbf - Imperial Air Force Post
+0x14a4bb	bit1	Elixir Minor	0xbf - Imperial Air Force Post
+0x14a4c0	bit7	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4c1	bit0	Shell Plate	0xbf - Imperial Air Force Post
+0x14a4c1	bit1	Elixir Minor	0xbf - Imperial Air Force Post
+0x14a4c1	bit3	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4c1	bit4	Revive	0xbf - Imperial Air Force Post
+0x14a4c1	bit5	Berserk Micro	0xbf - Imperial Air Force Post
+0x14a4c3	bit1	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4c3	bit2	Blast Chip	0xbf - Imperial Air Force Post
+0x14a4c3	bit3	Elixir Minor	0xbf - Imperial Air Force Post
+0x14a4c7	bit4	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4c7	bit5	Stolarium	0xbf - Imperial Air Force Post
+0x14a4c7	bit6	Elixir Medis	0xbf - Imperial Air Force Post
+0x14a4c8	bit4	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4c8	bit5	Stolarium	0xbf - Imperial Air Force Post
+0x14a4c8	bit6	Elixir Maxis	0xbf - Imperial Air Force Post
+0x14a4c9	bit0	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4c9	bit1	Blast Chip	0xbf - Imperial Air Force Post
+0x14a4c9	bit2	Elixir Medis	0xbf - Imperial Air Force Post
+0x14a4cc	bit0	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4cc	bit1	Blast Chip	0xbf - Imperial Air Force Post
+0x14a4cc	bit2	Berserk Minor	0xbf - Imperial Air Force Post
+0x14a4d0	bit3	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4d0	bit4	Blast Chip	0xbf - Imperial Air Force Post
+0x14a4d0	bit5	Berserk Micro	0xbf - Imperial Air Force Post
+0x14a4d2	bit0	Stolarium	0xbf - Imperial Air Force Post
+0x14a4d2	bit1	Berserk Medis	0xbf - Imperial Air Force Post
+0x14a4d4	bit4	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4d4	bit5	Shell Plate	0xbf - Imperial Air Force Post
+0x14a4d4	bit6	Berserk Micro	0xbf - Imperial Air Force Post
+0x14a4d5	bit7	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4d6	bit6	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4d6	bit7	Stolarium	0xbf - Imperial Air Force Post
+0x14a4d7	bit0	Full Elixir	0xbf - Imperial Air Force Post
+0x14a4d9	bit0	Dinys Chip	0xbf - Imperial Air Force Post
+0x14a4d9	bit1	Stolarium	0xbf - Imperial Air Force Post
+0x14a4d9	bit2	Full Elixir	0xbf - Imperial Air Force Post
+0x14a4d9	bit4	Anesthetic	0xbf - Imperial Air Force Post
+0x14a4d9	bit5	Stolarium	0xbf - Imperial Air Force Post
+0x14a4d9	bit6	Elixir Maxis	0xbf - Imperial Air Force Post
+0x14a48a	bit0	Fan	Valley
+0x14a48a	bit1	Macran Jewel	The Valley (Fan)
+0x14a48a	bit2	Fan	Valley
+0x14a48c	bit6	Coolia's Dung	The Valley (Fan)
+0x14a48c	bit7	Fan	Valley
+0x14a48d	bit0	Gem Stone	The Valley (Fan)
+0x14a48d	bit1	Fan	Valley
+0x14a48d	bit2	Albertson Fan	The Valley (Fan)
+0x14a48d	bit3	Tri-Blast Chip	The Valley (Fan)
+0x14a48d	bit4	Fan	Valley
+0x14a48d	bit5	Fan	Valley
+0x14a48d	bit6	Fan	Valley
+0x14a48d	bit7	Fan	Valley
+0x14a4a4	bit0	Hanging Chest	Valley
+0x14a4a4	bit1	Hanging Chest	Valley
+0x14a4a4	bit2	Hanging Chest	Valley
+0x14a4a4	bit3	Hanging Chest	Valley
+0x14a4a4	bit4	Hanging Chest	Valley
+0x14a4a4	bit5	Hanging Chest	Valley
+0x14a4a4	bit6	Hanging Chest	Valley
+0x14a4a4	bit7	Hanging Chest	Valley
+0x14a4a5	bit0	Hanging Chest	Valley
+0x14a4a5	bit1	Hanging Chest	Valley
+0x14a4a5	bit2	Hanging Chest	Valley
+0x14a4a5	bit3	Hanging Chest	Valley
+0x14a4ac	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ac	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ac	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ae	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4af	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b0	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b0	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b0	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b0	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b0	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b1	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b1	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b1	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b1	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b1	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b1	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b2	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b3	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b3	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b3	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b3	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b4	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b5	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b6	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b6	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b6	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b6	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b6	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b7	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b8	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4b9	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ba	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bb	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bb	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bb	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bb	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bb	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bb	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bc	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bd	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4be	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4bf	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c0	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c1	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c1	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c1	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c2	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c2	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c2	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c2	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c3	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c3	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c3	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c3	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c3	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c4	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c5	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c5	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c5	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c5	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c5	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c5	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c6	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c7	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c7	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c7	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c7	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c7	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c8	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c8	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c8	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c8	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c8	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c9	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c9	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c9	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c9	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4c9	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ca	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cb	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cc	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cc	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cc	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cc	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cc	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cd	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4ce	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4cf	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d0	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d0	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d0	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d0	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d0	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d1	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d2	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d2	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d2	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d2	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d2	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d2	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d3	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d4	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d4	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d4	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d4	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d4	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d5	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d6	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d6	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d6	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d6	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d6	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d6	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d7	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d8	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d8	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d8	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d8	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d9	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4d9	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4da	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4da	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4da	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4da	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4da	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4da	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4db	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4db	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4db	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4db	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a4db	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit0	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit1	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit2	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit3	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit4	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit5	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit6	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post
+0x14a504	bit7	Searchlights, Radars, Etc.	0xbf - Imperial Air Force Post

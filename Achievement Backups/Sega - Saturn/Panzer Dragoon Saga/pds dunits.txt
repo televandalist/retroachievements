@@ -1,0 +1,35 @@
+0x14a584	
+The Tower
+bit5 - Entrance
+The Tower 2F (0xd7)
+bit0"
+
+0x14a585
+The Tower 1F East
+bit6,7"
+
+0x14a595	"Map Coverage
+The Tower 4F
+bit1, 5, 7
+The Tower 4F (0xd7)
+bit5,7"
+
+0x14a598	"Map Coverage
+The Tower 5F
+bit0-4
+The Tower 5F (0xd7)
+bit0-3,5"
+
+Tower 14F East (0xd7)
+bit5-7"
+
+0x14a5c2	"Map Coverage
+Tower 15F East 1 (0xd7)
+bit2-3
+bit5-6"
+
+0x14a5cb	"Map Coverage
+The Tower Hanger 2
+bit5,7
+Upper Floors
+bit1,3"
