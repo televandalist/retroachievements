@@ -1,0 +1,15 @@
+Lookup:Music
+0x89=preparing to pillage a smaller civilization's riches in accordance with white people tradition
+0xaa=exploring a coral reef that will soon be as bleached as her hair
+0x87=navigating a sunken ship stuffed with the drowned corpses of men no longer useful to her
+0x81=laying siege to a glorious city of crystal that will live on only as a footnote in her pocketbook
+0x86=touching fuzzy and getting dizzy
+0x82=playing with balls
+0xac=meddling in the interpersonal relationships of sea life
+0xae=fingering the ivories
+0x84=being outperformed by a cetacean
+0x85=one step closer to complete financial domination of the world
+0xad=the only one left standing amidst the carnage of a woman driven mad by greed
+
+Display:
+Barbie is @Music(0xh00ea9f)
