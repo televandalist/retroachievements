@@ -1,0 +1,1582 @@
+Entry 0001: Type: Person Sprite: Skate Punk               284 Flag: 28 00 Flag Use: Invisible if Set
+Entry 0002: Type: Person Sprite: Skate Punk               284 Flag: 6D 01 Flag Use: Invisible if Set
+Entry 0003: Type: Person Sprite: Skate Punk               284 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0004: Type: Person Sprite: Skate Punk               284 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0005: Type: Person Sprite: Skate Punk               284 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0006: Type: Person Sprite: Orange haired nerd kid   117 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0007: Type: Person Sprite: Skate Punk               284 Flag: B9 02 Flag Use: Invisible if Set
+Entry 0008: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0009: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0010: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: C7 FF Flag Use: Visible if Set
+Entry 0011: Type: Person Sprite: Dog                      130 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0012: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0013: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0014: Type: Person Sprite: Mom                      145 Flag: D5 01 Flag Use: Visible if Set
+Entry 0015: Type: Person Sprite: Mom                      145 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0016: Type: Person Sprite: King sleeping            359 Flag: 13 00 Flag Use: Invisible if Set
+Entry 0017: Type: Person Sprite: Pokey                    044 Flag: 2D 01 Flag Use: Visible if Set
+Entry 0018: Type: Person Sprite: King                     040 Flag: 30 01 Flag Use: Visible if Set
+Entry 0019: Type: Person Sprite: Pokey                    044 Flag: 36 01 Flag Use: Visible if Set
+Entry 0020: Type: Person Sprite: Tracy                    146 Flag: 13 02 Flag Use: Visible if Set
+Entry 0021: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0022: Type: Object Sprite: Knocking door            350 Flag: 27 01 Flag Use: Visible if Set
+Entry 0023: Type: Object Sprite: Big window shade         373 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0024: Type: Object Sprite: Big window shade         373 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0025: Type: Person Sprite: Tracy                    146 Flag: D9 01 Flag Use: Visible if Set
+Entry 0026: Type: Item   Sprite: Ness head - sleeping     378 Flag: C7 FF Flag Use: Visible if Set
+Entry 0027: Type: Object Sprite: Zzz                      384 Flag: DD 01 Flag Use: Visible if Set
+Entry 0028: Type: Object Sprite: Big window shade         373 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0029: Type: Object Sprite: Side window w/ curtains  375 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0030: Type: Person Sprite: Tracy                    146 Flag: 12 02 Flag Use: Invisible if Set
+Entry 0031: Type: Object Sprite: Big window shade         373 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0032: Type: Object Sprite: Side window w/ curtains  375 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0033: Type: Person Sprite: Waitress                 142 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0034: Type: Person Sprite: Blonde shopping lady     058 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0035: Type: Person Sprite: Blonde ponytail girl     127 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0036: Type: Person Sprite: Frank                    153 Flag: 49 00 Flag Use: Visible if Set
+Entry 0037: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0038: Type: Person Sprite: Frank                    153 Flag: 74 01 Flag Use: Visible if Set
+Entry 0039: Type: Person Sprite: Hint guy (???)           136 Flag: F0 02 Flag Use: Invisible if Set
+Entry 0040: Type: Person Sprite: Baker                    137 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0041: Type: Person Sprite: Blonde shopping lady     058 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0042: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0043: Type: Person Sprite: Elevator lady            067 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0044: Type: Person Sprite: Aloysius Minch           147 Flag: 25 00 Flag Use: Visible if Set
+Entry 0045: Type: Person Sprite: Lardna Minch             148 Flag: E6 02 Flag Use: Visible if Set
+Entry 0046: Type: Person Sprite: Buzz Buzz                347 Flag: 2F 01 Flag Use: Visible if Set
+Entry 0047: Type: Person Sprite: Picky                    045 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0048: Type: Person Sprite: Fat guy in red suit      059 Flag: 49 00 Flag Use: Visible if Set
+Entry 0049: Type: Object Sprite: Window with curtains     374 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0050: Type: Object Sprite: Window with curtains     374 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0051: Type: Object Sprite: Window with curtains     374 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0052: Type: Person Sprite: Pokey                    044 Flag: 23 00 Flag Use: Visible if Set
+Entry 0053: Type: Person Sprite: Picky                    045 Flag: 22 00 Flag Use: Visible if Set
+Entry 0054: Type: Object Sprite: Window with curtains     374 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0055: Type: Object Sprite: Window with curtains     374 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0056: Type: Object Sprite: Window with curtains     374 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0057: Type: Object Sprite: Side window w/ curtains  375 Flag: A6 01 Flag Use: Invisible if Set
+Entry 0058: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0059: Type: Person Sprite: Hotel attendant          073 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0060: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0061: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0062: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 6A 00 Flag Use: Invisible if Set
+Entry 0063: Type: Person Sprite: Blonde guy in a suit     061 Flag: 6A 00 Flag Use: Invisible if Set
+Entry 0064: Type: Person Sprite: Hotel attendant          073 Flag: 7F 01 Flag Use: Visible if Set
+Entry 0065: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 6A 00 Flag Use: Visible if Set
+Entry 0066: Type: Person Sprite: Blonde guy in a suit     061 Flag: 6A 00 Flag Use: Visible if Set
+Entry 0067: Type: Person Sprite: Captain Strong           075 Flag: C2 01 Flag Use: Invisible if Set
+Entry 0068: Type: Person Sprite: Thick glasses lady       141 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0069: Type: Person Sprite: Cop in sunglasses        074 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0070: Type: Person Sprite: Cop in sunglasses        074 Flag: 27 00 Flag Use: Visible if Set
+Entry 0071: Type: Person Sprite: Captain Strong           075 Flag: C1 01 Flag Use: Visible if Set
+Entry 0072: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0073: Type: Person Sprite: Cop in sunglasses        074 Flag: 21 01 Flag Use: Invisible if Set
+Entry 0074: Type: Person Sprite: Cop in sunglasses        074 Flag: 22 01 Flag Use: Invisible if Set
+Entry 0075: Type: Person Sprite: Cop in sunglasses        074 Flag: 23 01 Flag Use: Invisible if Set
+Entry 0076: Type: Person Sprite: Cop in sunglasses        074 Flag: 24 01 Flag Use: Invisible if Set
+Entry 0077: Type: Person Sprite: Cop in sunglasses        074 Flag: 25 01 Flag Use: Invisible if Set
+Entry 0078: Type: Person Sprite: Fat guy in red suit      059 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0079: Type: Person Sprite: Blonde guy in a suit     061 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0080: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0081: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0082: Type: Person Sprite: Brunette shopping lady   057 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0083: Type: Person Sprite: Blonde guy in a suit     061 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0084: Type: Person Sprite: Guy in blue clothes      055 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0085: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0086: Type: Person Sprite: Mayor Pirkle             154 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0087: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0088: Type: Person Sprite: Cop in sunglasses        074 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0089: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0090: Type: Person Sprite: Blonde ponytail girl     127 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0091: Type: Person Sprite: Fat guy in red suit      059 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0092: Type: Person Sprite: Kid in derby hat         125 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0093: Type: Person Sprite: Pigtail dark haired girl 121 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0094: Type: Person Sprite: Exit mouse               451 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0095: Type: Person Sprite: Exit Mouse mom           436 Flag: 00 02 Flag Use: Invisible if Set
+Entry 0096: Type: Person Sprite: Exit Mouse mom           436 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0097: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0098: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0099: Type: Person Sprite: Old fat guy with hat     054 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0100: Type: Person Sprite: Shy guy                  119 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0101: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 67 00 Flag Use: Invisible if Set
+Entry 0102: Type: Person Sprite: Pigtail blonde girl      120 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0103: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0104: Type: Person Sprite: Blonde guy in blue suit  112 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0105: Type: Person Sprite: Pigtail dark haired girl 121 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0106: Type: Person Sprite: Some brunette kid        113 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0107: Type: Person Sprite: Elevator lady            067 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0108: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0109: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0110: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0111: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0112: Type: Person Sprite: Big smile lady 1         108 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0113: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0114: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0115: Type: Person Sprite: Some brunette kid        113 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0116: Type: Person Sprite: Happy girl in red        128 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0117: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0118: Type: Person Sprite: Old lady with cane       053 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0119: Type: Person Sprite: Lier X. Agerate          152 Flag: 1F 00 Flag Use: Visible if Set
+Entry 0120: Type: Person Sprite: Kid in derby hat         125 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0121: Type: Person Sprite: Kid in detective hat     126 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0122: Type: Person Sprite: Kid in baseball helmet   124 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0123: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0124: Type: Person Sprite: Picky sleeping           382 Flag: D2 01 Flag Use: Visible if Set
+Entry 0125: Type: Person Sprite: Lier X. Agerate          152 Flag: 68 00 Flag Use: Invisible if Set
+Entry 0126: Type: Person Sprite: Cop in sunglasses        074 Flag: 24 00 Flag Use: Visible if Set
+Entry 0127: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0128: Type: Person Sprite: Travelling entertainer   076 Flag: 4E 00 Flag Use: Invisible if Set
+Entry 0129: Type: Person Sprite: Yellow clothes blonde    122 Flag: 77 01 Flag Use: Visible if Set
+Entry 0130: Type: Person Sprite: Helpful mole             188 Flag: 78 02 Flag Use: Invisible if Set
+Entry 0131: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 77 01 Flag Use: Visible if Set
+Entry 0132: Type: Person Sprite: Jamaican guy             078 Flag: 77 01 Flag Use: Visible if Set
+Entry 0133: Type: Person Sprite: Scuzzy guy               115 Flag: 77 01 Flag Use: Visible if Set
+Entry 0134: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 77 01 Flag Use: Visible if Set
+Entry 0135: Type: Person Sprite: Blonde guy in blue suit  112 Flag: 77 01 Flag Use: Visible if Set
+Entry 0136: Type: Person Sprite: Blonde shopping lady     058 Flag: 77 01 Flag Use: Visible if Set
+Entry 0137: Type: Person Sprite: Old lady with cane       053 Flag: 77 01 Flag Use: Visible if Set
+Entry 0138: Type: Person Sprite: Dog                      130 Flag: 77 01 Flag Use: Visible if Set
+Entry 0139: Type: Person Sprite: Guy in blue clothes      055 Flag: 63 00 Flag Use: Invisible if Set
+Entry 0140: Type: Person Sprite: Guy in blue clothes      055 Flag: 63 00 Flag Use: Visible if Set
+Entry 0141: Type: Person Sprite: Trumpet person           077 Flag: 78 02 Flag Use: Invisible if Set
+Entry 0142: Type: Person Sprite: Skate Punk               284 Flag: 6B 01 Flag Use: Invisible if Set
+Entry 0143: Type: Person Sprite: Skate Punk               284 Flag: 6C 01 Flag Use: Invisible if Set
+Entry 0144: Type: Person Sprite: Cop in sunglasses        074 Flag: D2 00 Flag Use: Invisible if Set
+Entry 0145: Type: Person Sprite: Cop in sunglasses        074 Flag: D2 00 Flag Use: Invisible if Set
+Entry 0146: Type: Person Sprite: Frank                    153 Flag: 84 00 Flag Use: Invisible if Set
+Entry 0147: Type: Object Sprite: Invisible                381 Flag: 6C 00 Flag Use: Invisible if Set
+Entry 0148: Type: Person Sprite: Mom                      145 Flag: DA 01 Flag Use: Visible if Set
+Entry 0149: Type: Person Sprite: Orange haired nerd kid   117 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0150: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0151: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0152: Type: Person Sprite: Guy in blue clothes      055 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0153: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0154: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0155: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0156: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0157: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0158: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0159: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0160: Type: Person Sprite: Cop in sunglasses        074 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0161: Type: Person Sprite: Pokey                    044 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0162: Type: Person Sprite: Travelling entertainer   076 Flag: 4E 00 Flag Use: Invisible if Set
+Entry 0163: Type: Person Sprite: Orange haired nerd kid   117 Flag: 40 00 Flag Use: Invisible if Set
+Entry 0164: Type: Person Sprite: Captain Strong           075 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0165: Type: Person Sprite: Nerdy red-haired guy     064 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0166: Type: Person Sprite: Happy girl in red        128 Flag: 69 00 Flag Use: Invisible if Set
+Entry 0167: Type: Person Sprite: Guy in blue clothes      055 Flag: 69 00 Flag Use: Invisible if Set
+Entry 0168: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0169: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0170: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0171: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0172: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0173: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0174: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0175: Type: Object Sprite: White delivery truck     208 Flag: A6 01 Flag Use: Visible if Set
+Entry 0176: Type: Object Sprite: Delivery truck           207 Flag: A6 01 Flag Use: Visible if Set
+Entry 0177: Type: Object Sprite: Police barrier           199 Flag: 69 00 Flag Use: Invisible if Set
+Entry 0178: Type: Object Sprite: Police barrier           199 Flag: 69 00 Flag Use: Invisible if Set
+Entry 0179: Type: Object Sprite: Police barrier           199 Flag: 69 00 Flag Use: Invisible if Set
+Entry 0180: Type: Object Sprite: Police barrier           199 Flag: 69 00 Flag Use: Invisible if Set
+Entry 0181: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0182: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0183: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0184: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0185: Type: Object Sprite: DON'T ENTER sign         228 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0186: Type: Object Sprite: Real taxi                206 Flag: A6 01 Flag Use: Visible if Set
+Entry 0187: Type: Object Sprite: Police barrier           199 Flag: DC 01 Flag Use: Visible if Set
+Entry 0188: Type: Object Sprite: Police barrier           199 Flag: DC 01 Flag Use: Visible if Set
+Entry 0189: Type: Object Sprite: Police barrier           199 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0190: Type: Object Sprite: Police barrier           199 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0191: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0192: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0193: Type: Object Sprite: Oval cloud               203 Flag: A6 01 Flag Use: Visible if Set
+Entry 0194: Type: Object Sprite: Oval cloud               203 Flag: A6 01 Flag Use: Visible if Set
+Entry 0195: Type: Object Sprite: Oval cloud               203 Flag: A6 01 Flag Use: Visible if Set
+Entry 0196: Type: Object Sprite: Oval cloud               203 Flag: A6 01 Flag Use: Visible if Set
+Entry 0197: Type: Object Sprite: Oval cloud               203 Flag: A6 01 Flag Use: Visible if Set
+Entry 0198: Type: Object Sprite: Meteor                   197 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0199: Type: Object Sprite: Police car               377 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0200: Type: Object Sprite: Police car               377 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0201: Type: Object Sprite: Police car               377 Flag: D5 01 Flag Use: Invisible if Set
+Entry 0202: Type: Object Sprite: Frankystein              401 Flag: 40 00 Flag Use: Invisible if Set
+Entry 0203: Type: Person Sprite: Lier X. Agerate          152 Flag: 20 00 Flag Use: Visible if Set
+Entry 0204: Type: Person Sprite: Lier X. Agerate          152 Flag: 21 00 Flag Use: Visible if Set
+Entry 0205: Type: Person Sprite: Lier X. Agerate          152 Flag: 32 01 Flag Use: Visible if Set
+Entry 0206: Type: Person Sprite: Lier X. Agerate          152 Flag: 33 01 Flag Use: Visible if Set
+Entry 0207: Type: Person Sprite: Lier X. Agerate          152 Flag: 34 01 Flag Use: Visible if Set
+Entry 0208: Type: Object Sprite: Evil Mani-Mani           293 Flag: D2 00 Flag Use: Invisible if Set
+Entry 0209: Type: Person Sprite: Carbon Dog               333 Flag: BE 00 Flag Use: Invisible if Set
+Entry 0210: Type: Person Sprite: Baby King                399 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0211: Type: Person Sprite: Crib                     406 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0212: Type: Person Sprite: Punk guy                 085 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0213: Type: Person Sprite: Paula's mother           156 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0214: Type: Person Sprite: Blonde ponytail girl     127 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0215: Type: Person Sprite: Kid in baseball helmet   124 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0216: Type: Person Sprite: Happy girl in red        128 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0217: Type: Person Sprite: Paula's father           155 Flag: 76 00 Flag Use: Invisible if Set
+Entry 0218: Type: Person Sprite: Cat                      131 Flag: 49 00 Flag Use: Visible if Set
+Entry 0219: Type: Person Sprite: Paula                    002 Flag: 7E 02 Flag Use: Visible if Set
+Entry 0220: Type: Person Sprite: Orange Kid               175 Flag: 2A 00 Flag Use: Invisible if Set
+Entry 0221: Type: Person Sprite: Apple Kid                176 Flag: 53 01 Flag Use: Invisible if Set
+Entry 0222: Type: Person Sprite: Grey mouse               281 Flag: 53 01 Flag Use: Invisible if Set
+Entry 0223: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0224: Type: Object Sprite: Tools                    414 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0225: Type: Object Sprite: Tin can                  225 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0226: Type: Person Sprite: Red clothes person       116 Flag: 29 00 Flag Use: Invisible if Set
+Entry 0227: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0228: Type: Person Sprite: Red clothes person       116 Flag: 29 00 Flag Use: Visible if Set
+Entry 0229: Type: Person Sprite: Pigtail blonde girl      120 Flag: 35 01 Flag Use: Visible if Set
+Entry 0230: Type: Person Sprite: Cop in sunglasses        074 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0231: Type: Person Sprite: Pigtail blonde girl      120 Flag: 2B 00 Flag Use: Visible if Set
+Entry 0232: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0233: Type: Person Sprite: Kid in detective hat     126 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0234: Type: Person Sprite: Orange haired nerd kid   117 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0235: Type: Person Sprite: Blonde happy lady        068 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0236: Type: Person Sprite: Mr. T                    079 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0237: Type: Person Sprite: Blonde shopping lady     058 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0238: Type: Person Sprite: Brunette shopping lady   057 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0239: Type: Person Sprite: Sorta bald guy in suit   056 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0240: Type: Person Sprite: Drinking guy             060 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0241: Type: Person Sprite: Dark-haired guy in suit  062 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0242: Type: Person Sprite: Jamaican guy             078 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0243: Type: Person Sprite: Nice hippie              361 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0244: Type: Person Sprite: Blonde lady w blue dress 065 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0245: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0246: Type: Person Sprite: Fat guy in red suit      059 Flag: EF 02 Flag Use: Invisible if Set
+Entry 0247: Type: Person Sprite: Pigtail blonde girl      120 Flag: 2B 00 Flag Use: Invisible if Set
+Entry 0248: Type: Person Sprite: Gorgeous                 149 Flag: 77 00 Flag Use: Invisible if Set
+Entry 0249: Type: Person Sprite: Lucky                    150 Flag: 77 00 Flag Use: Invisible if Set
+Entry 0250: Type: Person Sprite: Runaway Five drummer     185 Flag: 77 00 Flag Use: Invisible if Set
+Entry 0251: Type: Person Sprite: Runaway Five bass player 186 Flag: 77 00 Flag Use: Invisible if Set
+Entry 0252: Type: Person Sprite: Runaway Five sax player  187 Flag: 77 00 Flag Use: Invisible if Set
+Entry 0253: Type: Person Sprite: Poochyfud                158 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0254: Type: Person Sprite: Everdred                 157 Flag: 70 02 Flag Use: Visible if Set
+Entry 0255: Type: Person Sprite: Girl in striped apron    138 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0256: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0257: Type: Person Sprite: Hotel attendant          073 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0258: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0259: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0260: Type: Person Sprite: Hotel attendant          073 Flag: 7F 01 Flag Use: Visible if Set
+Entry 0261: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0262: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0263: Type: Object Sprite: Little mushroom          226 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0264: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0265: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0266: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0267: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0268: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0269: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0270: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0271: Type: Person Sprite: Orange haired nerd kid   117 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0272: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0273: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0274: Type: Person Sprite: Bus driver               111 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0275: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0276: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0277: Type: Person Sprite: Venus' mother            178 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0278: Type: Person Sprite: Hint guy (???)           136 Flag: F0 02 Flag Use: Invisible if Set
+Entry 0279: Type: Person Sprite: Little kid in blue       123 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0280: Type: Person Sprite: Little kid in blue       123 Flag: 44 00 Flag Use: Visible if Set
+Entry 0281: Type: Person Sprite: Blonde guy in a suit     061 Flag: 44 00 Flag Use: Visible if Set
+Entry 0282: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 44 00 Flag Use: Visible if Set
+Entry 0283: Type: Person Sprite: Blonde ponytail girl     127 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0284: Type: Person Sprite: Cat                      131 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0285: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0286: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0287: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0288: Type: Person Sprite: Thick glasses lady       141 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0289: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0290: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0291: Type: Person Sprite: Waitress                 142 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0292: Type: Person Sprite: Baker                    137 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0293: Type: Person Sprite: Old lady with cane       053 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0294: Type: Person Sprite: Red clothes person       116 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0295: Type: Person Sprite: Thick glasses lady       141 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0296: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0297: Type: Person Sprite: Pigtail dark haired girl 121 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0298: Type: Person Sprite: Blonde guy in blue suit  112 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0299: Type: Person Sprite: Pigtail blonde girl      120 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0300: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0301: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0302: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0303: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0304: Type: Person Sprite: Guy in blue clothes      055 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0305: Type: Person Sprite: Kid in detective hat     126 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0306: Type: Person Sprite: Mr. T                    079 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0307: Type: Person Sprite: Old lady with cane       053 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0308: Type: Person Sprite: Fat guy in red suit      059 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0309: Type: Person Sprite: Pigtail blonde girl      120 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0310: Type: Person Sprite: Dog                      130 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0311: Type: Person Sprite: Jamaican guy             078 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0312: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0313: Type: Person Sprite: Shy guy                  119 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0314: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0315: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0316: Type: Person Sprite: Baker                    137 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0317: Type: Person Sprite: Arab Mr. T               096 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0318: Type: Person Sprite: Old lady with cane       053 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0319: Type: Person Sprite: Orange Kid               175 Flag: 2A 00 Flag Use: Visible if Set
+Entry 0320: Type: Person Sprite: Gorgeous                 149 Flag: 35 01 Flag Use: Visible if Set
+Entry 0321: Type: Person Sprite: Paula's father           155 Flag: 76 00 Flag Use: Visible if Set
+Entry 0322: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 25 02 Flag Use: Invisible if Set
+Entry 0323: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 63 02 Flag Use: Visible if Set
+Entry 0324: Type: Person Sprite: Mr. T                    079 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0325: Type: Person Sprite: Orange haired nerd kid   117 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0326: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 25 02 Flag Use: Invisible if Set
+Entry 0327: Type: Person Sprite: Blonde happy lady        068 Flag: 25 02 Flag Use: Invisible if Set
+Entry 0328: Type: Person Sprite: Gorgeous                 149 Flag: 25 02 Flag Use: Invisible if Set
+Entry 0329: Type: Person Sprite: Lucky                    150 Flag: 25 02 Flag Use: Invisible if Set
+Entry 0330: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: D3 00 Flag Use: Invisible if Set
+Entry 0331: Type: Person Sprite: Some brunette kid        113 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0332: Type: Person Sprite: Pigtail blonde girl      120 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0333: Type: Person Sprite: Yellow clothes blonde    122 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0334: Type: Person Sprite: Everdred                 157 Flag: 64 02 Flag Use: Invisible if Set
+Entry 0335: Type: Person Sprite: Grey mouse               281 Flag: 2A 00 Flag Use: Visible if Set
+Entry 0336: Type: Person Sprite: Apple Kid                176 Flag: 2A 00 Flag Use: Visible if Set
+Entry 0337: Type: Person Sprite: Cat sleeping             363 Flag: 49 00 Flag Use: Invisible if Set
+Entry 0338: Type: Person Sprite: Nice hippie              361 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0339: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0340: Type: Person Sprite: Young blonde guy in blue 070 Flag: 49 00 Flag Use: Visible if Set
+Entry 0341: Type: Person Sprite: Little kid in blue       123 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0342: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0343: Type: Person Sprite: Helpful mole             188 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0344: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0345: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0346: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0347: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0348: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0349: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0350: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0351: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0352: Type: Object Sprite: Bus stop sign            202 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0353: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0354: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0355: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0356: Type: Object Sprite: Crossroad signs          231 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0357: Type: Person Sprite: Guy in cool red car      255 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0358: Type: Object Sprite: White delivery truck     208 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0359: Type: Object Sprite: Bicycle                  211 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0360: Type: Object Sprite: Real taxi                206 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0361: Type: Object Sprite: Apple Kid sign           403 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0362: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0363: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0364: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0365: Type: Object Sprite: Orange Kid sign          404 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0366: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0367: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0368: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0369: Type: Object Sprite: Burglin Park sign        433 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0370: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0371: Type: Object Sprite: Bananas                  224 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0372: Type: Object Sprite: Bananas                  224 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0373: Type: Object Sprite: Runaway five bus         243 Flag: 35 01 Flag Use: Visible if Set
+Entry 0374: Type: Object Sprite: Runaway five bus         243 Flag: 77 00 Flag Use: Invisible if Set
+Entry 0375: Type: Object Sprite: Evil Mani-Mani           293 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0376: Type: Person Sprite: Mr. Carpainter           159 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0377: Type: Person Sprite: Guy in blue clothes      055 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0378: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0379: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0380: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0381: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0382: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0383: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0384: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0385: Type: Person Sprite: Insane Cultist           101 Flag: 5F 01 Flag Use: Invisible if Set
+Entry 0386: Type: Person Sprite: Insane Cultist           101 Flag: 60 01 Flag Use: Invisible if Set
+Entry 0387: Type: Person Sprite: Insane Cultist           101 Flag: 61 01 Flag Use: Invisible if Set
+Entry 0388: Type: Person Sprite: Insane Cultist           101 Flag: 62 01 Flag Use: Invisible if Set
+Entry 0389: Type: Person Sprite: Insane Cultist           101 Flag: 63 01 Flag Use: Invisible if Set
+Entry 0390: Type: Person Sprite: Insane Cultist           101 Flag: 64 01 Flag Use: Invisible if Set
+Entry 0391: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0392: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0393: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0394: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Visible if Set
+Entry 0395: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Visible if Set
+Entry 0396: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Visible if Set
+Entry 0397: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0398: Type: Person Sprite: Jamaican guy             078 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0399: Type: Person Sprite: Blonde guy in a suit     061 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0400: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0401: Type: Person Sprite: Insane Cultist           101 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0402: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0403: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0404: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0405: Type: Person Sprite: Venus' mother            178 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0406: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0407: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0408: Type: Person Sprite: Fat guy in red suit      059 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0409: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0410: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0411: Type: Person Sprite: Pokey                    044 Flag: 2C 00 Flag Use: Visible if Set
+Entry 0412: Type: Person Sprite: Unassuming local guy     069 Flag: 43 00 Flag Use: Invisible if Set
+Entry 0413: Type: Person Sprite: Red clothes person       116 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0414: Type: Person Sprite: Nice hippie              361 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0415: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0416: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0417: Type: Person Sprite: Trumpet person           077 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0418: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0419: Type: Person Sprite: Blue cow                 134 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0420: Type: Person Sprite: Yellow clothes blonde    122 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0421: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0422: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0423: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0424: Type: Person Sprite: Shy guy                  119 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0425: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0426: Type: Person Sprite: Mr. Carpainter           159 Flag: 47 00 Flag Use: Visible if Set
+Entry 0427: Type: Person Sprite: Helpful mole             188 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0428: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0429: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0430: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0431: Type: Object Sprite: Bicycle                  211 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0432: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0433: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0434: Type: Object Sprite: Bananas                  224 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0435: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0436: Type: Person Sprite: Jail door                249 Flag: 0D 00 Flag Use: Invisible if Set
+Entry 0437: Type: Person Sprite: Paula                    002 Flag: 0D 00 Flag Use: Invisible if Set
+Entry 0438: Type: Object Sprite: Teddy bear               051 Flag: 0D 00 Flag Use: Invisible if Set
+Entry 0439: Type: Person Sprite: Pokey                    044 Flag: 2D 00 Flag Use: Visible if Set
+Entry 0440: Type: Person Sprite: Insane Cultist           101 Flag: 2D 00 Flag Use: Visible if Set
+Entry 0441: Type: Person Sprite: Insane Cultist           101 Flag: 2D 00 Flag Use: Visible if Set
+Entry 0442: Type: Person Sprite: Spiteful Crow            282 Flag: 2D 00 Flag Use: Visible if Set
+Entry 0443: Type: Person Sprite: Guy in blue clothes      055 Flag: 44 00 Flag Use: Invisible if Set
+Entry 0444: Type: Person Sprite: Pigtail dark haired girl 121 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0445: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 44 00 Flag Use: Visible if Set
+Entry 0446: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0447: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0448: Type: Person Sprite: Helpful mole             188 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0449: Type: Object Sprite: Crossroad signs          231 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0450: Type: Object Sprite: Iron pencil statue       265 Flag: 1C 01 Flag Use: Invisible if Set
+Entry 0451: Type: Person Sprite: Carbon Dog               333 Flag: BF 00 Flag Use: Invisible if Set
+Entry 0452: Type: Person Sprite: Ness lying down          016 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0453: Type: Person Sprite: Paula                    002 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0454: Type: Person Sprite: Jeff                     003 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0455: Type: Person Sprite: Poo                      004 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0456: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 7D 00 Flag Use: Invisible if Set
+Entry 0457: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 05 03 Flag Use: Invisible if Set
+Entry 0458: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 7D 00 Flag Use: Invisible if Set
+Entry 0459: Type: Person Sprite: Fat guy in red suit      059 Flag: 05 03 Flag Use: Invisible if Set
+Entry 0460: Type: Person Sprite: Urban Zombie             308 Flag: 47 00 Flag Use: Visible if Set
+Entry 0461: Type: Person Sprite: Urban Zombie             308 Flag: 47 00 Flag Use: Visible if Set
+Entry 0462: Type: Person Sprite: Urban Zombie             308 Flag: 47 00 Flag Use: Visible if Set
+Entry 0463: Type: Person Sprite: Dead zombie              438 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0464: Type: Person Sprite: Dead zombie              438 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0465: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0466: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0467: Type: Person Sprite: Dead zombie              438 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0468: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0469: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0470: Type: Person Sprite: Dead zombie              438 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0471: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0472: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0473: Type: Person Sprite: Dead Zombie              334 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0474: Type: Person Sprite: Dead zombie              438 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0475: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 0E 00 Flag Use: Visible if Set
+Entry 0476: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 0E 00 Flag Use: Visible if Set
+Entry 0477: Type: Person Sprite: Fat guy in red suit      059 Flag: 30 00 Flag Use: Visible if Set
+Entry 0478: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 30 00 Flag Use: Visible if Set
+Entry 0479: Type: Object Sprite: Invisible                381 Flag: 1D 02 Flag Use: Invisible if Set
+Entry 0480: Type: Object Sprite: Shadow                   230 Flag: 30 00 Flag Use: Visible if Set
+Entry 0481: Type: Object Sprite: Broken phase distorter   240 Flag: 2F 00 Flag Use: Visible if Set
+Entry 0482: Type: Object Sprite: Sky runner               209 Flag: 30 00 Flag Use: Visible if Set
+Entry 0483: Type: Person Sprite: Hotel attendant          073 Flag: B1 01 Flag Use: Invisible if Set
+Entry 0484: Type: Person Sprite: Zombie lady              087 Flag: 28 01 Flag Use: Visible if Set
+Entry 0485: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 47 00 Flag Use: Visible if Set
+Entry 0486: Type: Person Sprite: Young blonde guy in blue 070 Flag: 47 00 Flag Use: Visible if Set
+Entry 0487: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0488: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0489: Type: Person Sprite: Zombie lady              087 Flag: 29 01 Flag Use: Visible if Set
+Entry 0490: Type: Person Sprite: Hotel attendant          073 Flag: 7F 01 Flag Use: Visible if Set
+Entry 0491: Type: Person Sprite: Hotel attendant          073 Flag: 4D 02 Flag Use: Visible if Set
+Entry 0492: Type: Person Sprite: Zombie lady              087 Flag: 2A 01 Flag Use: Visible if Set
+Entry 0493: Type: Person Sprite: Urban Zombie             308 Flag: 2A 01 Flag Use: Visible if Set
+Entry 0494: Type: Person Sprite: Zombie Possessor         305 Flag: 2A 01 Flag Use: Visible if Set
+Entry 0495: Type: Person Sprite: Urban Zombie             308 Flag: 2A 01 Flag Use: Visible if Set
+Entry 0496: Type: Person Sprite: Zombie Possessor         305 Flag: 2A 01 Flag Use: Visible if Set
+Entry 0497: Type: Person Sprite: Zombie Dog               364 Flag: 2A 01 Flag Use: Visible if Set
+Entry 0498: Type: Person Sprite: Blonde guy in a suit     061 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0499: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0500: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0501: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0502: Type: Person Sprite: Shy guy                  119 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0503: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0504: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0505: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0506: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0507: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0508: Type: Person Sprite: Girl in striped apron    138 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0509: Type: Person Sprite: Baker                    137 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0510: Type: Person Sprite: Hint guy (???)           136 Flag: F0 02 Flag Use: Invisible if Set
+Entry 0511: Type: Person Sprite: Little kid in blue       123 Flag: D6 00 Flag Use: Visible if Set
+Entry 0512: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0513: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: D6 00 Flag Use: Invisible if Set
+Entry 0514: Type: Person Sprite: Blonde happy lady        068 Flag: D6 00 Flag Use: Invisible if Set
+Entry 0515: Type: Person Sprite: Shy guy                  119 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0516: Type: Person Sprite: Unassuming local guy     069 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0517: Type: Person Sprite: Some brunette kid        113 Flag: E4 02 Flag Use: Invisible if Set
+Entry 0518: Type: Person Sprite: Yellow clothes blonde    122 Flag: E4 02 Flag Use: Invisible if Set
+Entry 0519: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 7D 00 Flag Use: Invisible if Set
+Entry 0520: Type: Person Sprite: Blonde guy in blue suit  112 Flag: 6E 01 Flag Use: Invisible if Set
+Entry 0521: Type: Person Sprite: Elevator lady            067 Flag: 0E 00 Flag Use: Visible if Set
+Entry 0522: Type: Person Sprite: Little kid in blue       123 Flag: D6 00 Flag Use: Invisible if Set
+Entry 0523: Type: Person Sprite: Grey mouse               281 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0524: Type: Person Sprite: Dog                      130 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0525: Type: Person Sprite: Old lady with cane       053 Flag: E4 02 Flag Use: Invisible if Set
+Entry 0526: Type: Person Sprite: Old fat guy with hat     054 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0527: Type: Person Sprite: Scuzzy guy               115 Flag: 0E 00 Flag Use: Visible if Set
+Entry 0528: Type: Person Sprite: Pigtail dark haired girl 121 Flag: 47 00 Flag Use: Visible if Set
+Entry 0529: Type: Person Sprite: Orange haired nerd kid   117 Flag: 47 00 Flag Use: Visible if Set
+Entry 0530: Type: Person Sprite: Pigtail blonde girl      120 Flag: 47 00 Flag Use: Visible if Set
+Entry 0531: Type: Person Sprite: Li'l Escargo Express Guy 031 Flag: 31 00 Flag Use: Visible if Set
+Entry 0532: Type: Person Sprite: Li'l Escargo Express Guy 031 Flag: 31 00 Flag Use: Visible if Set
+Entry 0533: Type: Person Sprite: Boogie tent mouth        272 Flag: 31 00 Flag Use: Visible if Set
+Entry 0534: Type: Person Sprite: Urban Zombie             308 Flag: 2C 01 Flag Use: Invisible if Set
+Entry 0535: Type: Person Sprite: Urban Zombie             308 Flag: 2C 01 Flag Use: Invisible if Set
+Entry 0536: Type: Person Sprite: Hidden arms dealer       144 Flag: E4 02 Flag Use: Invisible if Set
+Entry 0537: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 2E 00 Flag Use: Visible if Set
+Entry 0538: Type: Person Sprite: Zombie lady              087 Flag: 2E 00 Flag Use: Visible if Set
+Entry 0539: Type: Person Sprite: Fat guy in red suit      059 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0540: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0541: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0542: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 7D 00 Flag Use: Visible if Set
+Entry 0543: Type: Person Sprite: Urban Zombie             308 Flag: 47 00 Flag Use: Visible if Set
+Entry 0544: Type: Person Sprite: Urban Zombie             308 Flag: 47 00 Flag Use: Visible if Set
+Entry 0545: Type: Person Sprite: Urban Zombie             308 Flag: 47 00 Flag Use: Visible if Set
+Entry 0546: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Visible if Set
+Entry 0547: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Visible if Set
+Entry 0548: Type: Person Sprite: Runaway Dog              330 Flag: 47 00 Flag Use: Visible if Set
+Entry 0549: Type: Person Sprite: Invisible                381 Flag: 2C 01 Flag Use: Invisible if Set
+Entry 0550: Type: Person Sprite: Invisible                381 Flag: 2C 01 Flag Use: Invisible if Set
+Entry 0551: Type: Person Sprite: Scuzzy guy               115 Flag: 4C 02 Flag Use: Invisible if Set
+Entry 0552: Type: Person Sprite: Blonde happy lady        068 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0553: Type: Person Sprite: Guy in blue clothes      055 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0554: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0555: Type: Person Sprite: Young blonde guy in blue 070 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0556: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0557: Type: Person Sprite: Blonde guy in blue suit  112 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0558: Type: Person Sprite: Pigtail blonde girl      120 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0559: Type: Person Sprite: Fat guy in red suit      059 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0560: Type: Person Sprite: Kid in baseball helmet   124 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0561: Type: Person Sprite: Orange haired nerd kid   117 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0562: Type: Person Sprite: Scuzzy guy               115 Flag: 47 00 Flag Use: Visible if Set
+Entry 0563: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 62 02 Flag Use: Visible if Set
+Entry 0564: Type: Person Sprite: Punk guy                 085 Flag: 6F 02 Flag Use: Visible if Set
+Entry 0565: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 72 02 Flag Use: Visible if Set
+Entry 0566: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 72 02 Flag Use: Visible if Set
+Entry 0567: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0568: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0569: Type: Object Sprite: DON'T ENTER sign         228 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0570: Type: Object Sprite: Bus stop sign            202 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0571: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0572: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0573: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0574: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0575: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0576: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0577: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0578: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0579: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0580: Type: Object Sprite: Bus stop sign            202 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0581: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0582: Type: Object Sprite: Trash can                214 Flag: 9D 02 Flag Use: Visible if Set
+Entry 0583: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0584: Type: Object Sprite: City bus                 205 Flag: 47 00 Flag Use: Visible if Set
+Entry 0585: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0586: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0587: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0588: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0589: Type: Person Sprite: Zombie Possessor         305 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0590: Type: Person Sprite: Slimy Little Pile        315 Flag: 5B 02 Flag Use: Invisible if Set
+Entry 0591: Type: Person Sprite: Tony in bed              183 Flag: 17 00 Flag Use: Invisible if Set
+Entry 0592: Type: Person Sprite: Jeff in bed              015 Flag: 80 00 Flag Use: Invisible if Set
+Entry 0593: Type: Object Sprite: Tools                    414 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0594: Type: Person Sprite: Unassuming local guy     069 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0595: Type: Object Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0596: Type: Object Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0597: Type: Object Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0598: Type: Object Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0599: Type: Object Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0600: Type: Person Sprite: Blonde guy in a suit     061 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0601: Type: Person Sprite: Blonde guy in blue suit  112 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0602: Type: Person Sprite: Some brunette kid        113 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0603: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0604: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0605: Type: Person Sprite: Orange haired nerd kid   117 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0606: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0607: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0608: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0609: Type: Person Sprite: Bubble Monkey            046 Flag: 4E 01 Flag Use: Invisible if Set
+Entry 0610: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0611: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0612: Type: Person Sprite: Tessie watcher           083 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0613: Type: Person Sprite: Tessie watcher           083 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0614: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0615: Type: Person Sprite: Dr. Andonuts             162 Flag: 7B 01 Flag Use: Invisible if Set
+Entry 0616: Type: Person Sprite: Grey mouse               281 Flag: 6C 02 Flag Use: Visible if Set
+Entry 0617: Type: Person Sprite: Female monkey            160 Flag: 6D 02 Flag Use: Visible if Set
+Entry 0618: Type: Person Sprite: Bubble Monkey            046 Flag: 6D 02 Flag Use: Visible if Set
+Entry 0619: Type: Person Sprite: Cave Boy                 329 Flag: 0E 00 Flag Use: Visible if Set
+Entry 0620: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0621: Type: Object Sprite: Shadow                   230 Flag: EC 02 Flag Use: Invisible if Set
+Entry 0622: Type: Object Sprite: Instant Energy Machine   429 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0623: Type: Object Sprite: Sky runner               209 Flag: EC 02 Flag Use: Invisible if Set
+Entry 0624: Type: Person Sprite: Some brunette kid        113 Flag: 49 00 Flag Use: Invisible if Set
+Entry 0625: Type: Person Sprite: Young blonde guy in blue 070 Flag: 49 00 Flag Use: Invisible if Set
+Entry 0626: Type: Person Sprite: Unassuming local guy     069 Flag: 34 00 Flag Use: Visible if Set
+Entry 0627: Type: Person Sprite: Tessie watcher           083 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0628: Type: Person Sprite: Tessie watcher           083 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0629: Type: Person Sprite: Tessie watcher           083 Flag: 34 00 Flag Use: Invisible if Set
+Entry 0630: Type: Person Sprite: Bubble Monkey            046 Flag: 76 02 Flag Use: Visible if Set
+Entry 0631: Type: Person Sprite: Brick Road               161 Flag: 32 00 Flag Use: Visible if Set
+Entry 0632: Type: Person Sprite: Female monkey            160 Flag: 16 00 Flag Use: Visible if Set
+Entry 0633: Type: Person Sprite: Fat guy in red suit      059 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0634: Type: Person Sprite: Tony stooping over       357 Flag: 4F 01 Flag Use: Visible if Set
+Entry 0635: Type: Person Sprite: Tessie watcher           083 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0636: Type: Person Sprite: Tessie watcher           083 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0637: Type: Person Sprite: Female monkey            160 Flag: 6E 02 Flag Use: Visible if Set
+Entry 0638: Type: Person Sprite: Unassuming local guy     069 Flag: 49 00 Flag Use: Visible if Set
+Entry 0639: Type: Person Sprite: Tony                     182 Flag: 49 00 Flag Use: Visible if Set
+Entry 0640: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0641: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0642: Type: Object Sprite: Big rectangle            371 Flag: 58 01 Flag Use: Visible if Set
+Entry 0643: Type: Object Sprite: Big rectangle            371 Flag: 58 01 Flag Use: Visible if Set
+Entry 0644: Type: Object Sprite: Big rectangle            371 Flag: 58 01 Flag Use: Visible if Set
+Entry 0645: Type: Object Sprite: Iron pencil statue       265 Flag: 61 02 Flag Use: Invisible if Set
+Entry 0646: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0647: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0648: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0649: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0650: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0651: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0652: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0653: Type: Object Sprite: Rainy circle rain drops  222 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0654: Type: Object Sprite: Big rectangle            371 Flag: 58 01 Flag Use: Visible if Set
+Entry 0655: Type: Object Sprite: Big water ripple top     368 Flag: 58 01 Flag Use: Visible if Set
+Entry 0656: Type: Object Sprite: Big water ripple bottom  369 Flag: 58 01 Flag Use: Visible if Set
+Entry 0657: Type: Person Sprite: Apple Kid                176 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0658: Type: Person Sprite: Apple Kid                176 Flag: 33 00 Flag Use: Visible if Set
+Entry 0659: Type: Person Sprite: Mr. Saturn               171 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0660: Type: Person Sprite: Mr. Saturn               171 Flag: 33 00 Flag Use: Visible if Set
+Entry 0661: Type: Person Sprite: Tony                     182 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0662: Type: Person Sprite: Tony                     182 Flag: 33 00 Flag Use: Visible if Set
+Entry 0663: Type: Person Sprite: Tessie watcher           083 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0664: Type: Person Sprite: Tessie watcher           083 Flag: 33 00 Flag Use: Visible if Set
+Entry 0665: Type: Person Sprite: Mr. T                    079 Flag: 33 00 Flag Use: Visible if Set
+Entry 0666: Type: Person Sprite: Nice hippie              361 Flag: 33 00 Flag Use: Visible if Set
+Entry 0667: Type: Person Sprite: Dr. Andonuts             162 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0668: Type: Person Sprite: Dr. Andonuts             162 Flag: 33 00 Flag Use: Visible if Set
+Entry 0669: Type: Person Sprite: Mr. T                    079 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0670: Type: Person Sprite: Nice hippie              361 Flag: 46 00 Flag Use: Invisible if Set
+Entry 0671: Type: Object Sprite: Eraser statue            407 Flag: 2B 01 Flag Use: Invisible if Set
+Entry 0672: Type: Person Sprite: Starman                  303 Flag: B2 01 Flag Use: Invisible if Set
+Entry 0673: Type: Person Sprite: Exit mouse               451 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0674: Type: Person Sprite: Exit Mouse mom           436 Flag: 00 02 Flag Use: Invisible if Set
+Entry 0675: Type: Person Sprite: Exit Mouse mom           436 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0676: Type: Person Sprite: Carbon Dog               333 Flag: C0 00 Flag Use: Invisible if Set
+Entry 0677: Type: Object Sprite: Rope                     356 Flag: 37 01 Flag Use: Invisible if Set
+Entry 0678: Type: Person Sprite: Mad Duck                 287 Flag: A0 01 Flag Use: Invisible if Set
+Entry 0679: Type: Person Sprite: Mad Duck                 287 Flag: A1 01 Flag Use: Invisible if Set
+Entry 0680: Type: Person Sprite: Gift (present) box       195 Flag: A2 01 Flag Use: Invisible if Set
+Entry 0681: Type: Person Sprite: Gift (present) box       195 Flag: A3 01 Flag Use: Invisible if Set
+Entry 0682: Type: Person Sprite: Rowdy Mouse              416 Flag: A4 01 Flag Use: Invisible if Set
+Entry 0683: Type: Person Sprite: Rowdy Mouse              416 Flag: A5 01 Flag Use: Invisible if Set
+Entry 0684: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0685: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0686: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0687: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0688: Type: Person Sprite: Slimy Little Pile        315 Flag: 6E 01 Flag Use: Invisible if Set
+Entry 0689: Type: Person Sprite: Slimy Little Pile        315 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0690: Type: Person Sprite: Slimy Little Pile        315 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0691: Type: Person Sprite: Slimy Little Pile        315 Flag: 6F 01 Flag Use: Invisible if Set
+Entry 0692: Type: Person Sprite: Slimy Little Pile        315 Flag: 70 01 Flag Use: Invisible if Set
+Entry 0693: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0694: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0695: Type: Object Sprite: Fly Honey                248 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0696: Type: Object Sprite: Fly Honey                248 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0697: Type: Person Sprite: Master Belch             328 Flag: 47 00 Flag Use: Invisible if Set
+Entry 0698: Type: Object Sprite: Ball and chain           263 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0699: Type: Object Sprite: Ball and chain           263 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0700: Type: Person Sprite: Ness lying down          016 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0701: Type: Person Sprite: Paula                    002 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0702: Type: Person Sprite: Jeff                     003 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0703: Type: Person Sprite: Poo                      004 Flag: 5D 01 Flag Use: Visible if Set
+Entry 0704: Type: Object Sprite: White geyser             257 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0705: Type: Person Sprite: Carbon Dog               333 Flag: C1 00 Flag Use: Invisible if Set
+Entry 0706: Type: Person Sprite: Mr. Saturn               171 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0707: Type: Person Sprite: Mr. Saturn               171 Flag: 4E 02 Flag Use: Visible if Set
+Entry 0708: Type: Person Sprite: Old fat guy with hat     054 Flag: D5 00 Flag Use: Invisible if Set
+Entry 0709: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0710: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0711: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0712: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0713: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0714: Type: Person Sprite: Mr. Saturn               171 Flag: 4A 00 Flag Use: Visible if Set
+Entry 0715: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0716: Type: Object Sprite: Mr. Saturn ATM           447 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0717: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0718: Type: Person Sprite: Mr. Saturn               171 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0719: Type: Person Sprite: Mr. Saturn               171 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0720: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Visible if Set
+Entry 0721: Type: Person Sprite: Mr. Saturn               171 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0722: Type: Person Sprite: Mr. Saturn               171 Flag: 74 01 Flag Use: Invisible if Set
+Entry 0723: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Visible if Set
+Entry 0724: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Visible if Set
+Entry 0725: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Visible if Set
+Entry 0726: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Visible if Set
+Entry 0727: Type: Person Sprite: Apple Kid                176 Flag: DC 00 Flag Use: Visible if Set
+Entry 0728: Type: Person Sprite: Dr. Andonuts             162 Flag: DC 00 Flag Use: Visible if Set
+Entry 0729: Type: Person Sprite: Miner                    172 Flag: 8B 02 Flag Use: Visible if Set
+Entry 0730: Type: Person Sprite: Mr. Saturn               171 Flag: 49 00 Flag Use: Visible if Set
+Entry 0731: Type: Person Sprite: Mr. Saturn               171 Flag: 49 00 Flag Use: Visible if Set
+Entry 0732: Type: Person Sprite: Mr. Saturn               171 Flag: 47 00 Flag Use: Visible if Set
+Entry 0733: Type: Person Sprite: Grey mouse               281 Flag: 49 00 Flag Use: Visible if Set
+Entry 0734: Type: Person Sprite: Jeff                     003 Flag: 49 00 Flag Use: Visible if Set
+Entry 0735: Type: Person Sprite: Mr. Saturn               171 Flag: 74 01 Flag Use: Visible if Set
+Entry 0736: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0737: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0738: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0739: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0740: Type: Person Sprite: Mr. Saturn               171 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0741: Type: Object Sprite: Phase Distorter          210 Flag: 4A 00 Flag Use: Visible if Set
+Entry 0742: Type: Object Sprite: Hot Spring sign          405 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0743: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0744: Type: Object Sprite: Gift (present) box       195 Flag: 74 02 Flag Use: Visible if Set
+Entry 0745: Type: Object Sprite: Gift (present) box       195 Flag: 74 02 Flag Use: Visible if Set
+Entry 0746: Type: Object Sprite: Gift (present) box       195 Flag: 74 02 Flag Use: Visible if Set
+Entry 0747: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0748: Type: Person Sprite: Unassuming local guy     069 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0749: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0750: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0751: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0752: Type: Person Sprite: Miner's brother          173 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0753: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0754: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0755: Type: Person Sprite: Young blonde guy in blue 070 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0756: Type: Person Sprite: Surfer                   071 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0757: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0758: Type: Person Sprite: Palm tan guy             103 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0759: Type: Person Sprite: Sun bathing girl         104 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0760: Type: Person Sprite: Miner                    172 Flag: 37 00 Flag Use: Invisible if Set
+Entry 0761: Type: Person Sprite: Blonde happy lady        068 Flag: AE 00 Flag Use: Visible if Set
+Entry 0762: Type: Person Sprite: Pigtail blonde girl      120 Flag: AE 00 Flag Use: Visible if Set
+Entry 0763: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: AE 00 Flag Use: Visible if Set
+Entry 0764: Type: Person Sprite: Sneaky guy with a hat    063 Flag: AE 00 Flag Use: Visible if Set
+Entry 0765: Type: Person Sprite: Mexican guy              110 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0766: Type: Person Sprite: Mexican guy              110 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0767: Type: Person Sprite: Mexican guy              110 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0768: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0769: Type: Person Sprite: Hidden arms dealer       144 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0770: Type: Person Sprite: Miner's brother          173 Flag: 10 01 Flag Use: Visible if Set
+Entry 0771: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0772: Type: Person Sprite: Monkey                   133 Flag: 66 02 Flag Use: Visible if Set
+Entry 0773: Type: Person Sprite: Monkey                   133 Flag: 67 02 Flag Use: Visible if Set
+Entry 0774: Type: Person Sprite: Healer                   189 Flag: AE 00 Flag Use: Visible if Set
+Entry 0775: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: AE 00 Flag Use: Visible if Set
+Entry 0776: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0777: Type: Person Sprite: Invisible                381 Flag: AE 00 Flag Use: Visible if Set
+Entry 0778: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0779: Type: Object Sprite: Slot machine             235 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0780: Type: Object Sprite: Pile of bones            236 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0781: Type: Object Sprite: Pile of bones            236 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0782: Type: Person Sprite: Sesame seed              238 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0783: Type: Person Sprite: White sesame seed        237 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0784: Type: Person Sprite: Guy in cool red car      255 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0785: Type: Object Sprite: Real taxi                206 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0786: Type: Object Sprite: Delivery truck           459 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0787: Type: Object Sprite: White delivery truck     460 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0788: Type: Object Sprite: Magic Tart stand         229 Flag: AE 00 Flag Use: Visible if Set
+Entry 0789: Type: Object Sprite: Delivery truck           207 Flag: 88 00 Flag Use: Invisible if Set
+Entry 0790: Type: Object Sprite: Bus stop sign            202 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0791: Type: Object Sprite: Bus stop sign            202 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0792: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0793: Type: Object Sprite: Big dirt scooper         254 Flag: 4D 01 Flag Use: Invisible if Set
+Entry 0794: Type: Object Sprite: Li'l Jeff                029 Flag: 81 01 Flag Use: Invisible if Set
+Entry 0795: Type: Object Sprite: Big dirt scooper         254 Flag: 10 01 Flag Use: Visible if Set
+Entry 0796: Type: Object Sprite: Big dirt scooper         254 Flag: 4D 01 Flag Use: Visible if Set
+Entry 0797: Type: Person Sprite: Talah Rama               177 Flag: E9 02 Flag Use: Invisible if Set
+Entry 0798: Type: Person Sprite: Monkey                   133 Flag: E9 02 Flag Use: Invisible if Set
+Entry 0799: Type: Person Sprite: Monkey                   133 Flag: C4 01 Flag Use: Invisible if Set
+Entry 0800: Type: Person Sprite: Monkey                   133 Flag: C3 01 Flag Use: Invisible if Set
+Entry 0801: Type: Person Sprite: Monkey                   133 Flag: C4 01 Flag Use: Visible if Set
+Entry 0802: Type: Person Sprite: Monkey                   133 Flag: C3 01 Flag Use: Visible if Set
+Entry 0803: Type: Person Sprite: Female monkey            160 Flag: C6 01 Flag Use: Invisible if Set
+Entry 0804: Type: Person Sprite: Monkey                   133 Flag: C5 01 Flag Use: Invisible if Set
+Entry 0805: Type: Person Sprite: Female monkey            160 Flag: C6 01 Flag Use: Visible if Set
+Entry 0806: Type: Person Sprite: Monkey                   133 Flag: C5 01 Flag Use: Visible if Set
+Entry 0807: Type: Person Sprite: Monkey                   133 Flag: CA 01 Flag Use: Invisible if Set
+Entry 0808: Type: Person Sprite: Monkey                   133 Flag: C9 01 Flag Use: Invisible if Set
+Entry 0809: Type: Person Sprite: Monkey                   133 Flag: CA 01 Flag Use: Visible if Set
+Entry 0810: Type: Person Sprite: Monkey                   133 Flag: C9 01 Flag Use: Visible if Set
+Entry 0811: Type: Person Sprite: Monkey                   133 Flag: CF 01 Flag Use: Invisible if Set
+Entry 0812: Type: Person Sprite: Monkey                   133 Flag: CF 01 Flag Use: Visible if Set
+Entry 0813: Type: Person Sprite: Monkey                   133 Flag: C8 01 Flag Use: Invisible if Set
+Entry 0814: Type: Person Sprite: Monkey                   133 Flag: C7 01 Flag Use: Invisible if Set
+Entry 0815: Type: Person Sprite: Monkey                   133 Flag: C8 01 Flag Use: Visible if Set
+Entry 0816: Type: Person Sprite: Monkey                   133 Flag: C7 01 Flag Use: Visible if Set
+Entry 0817: Type: Person Sprite: Female monkey            160 Flag: CE 01 Flag Use: Invisible if Set
+Entry 0818: Type: Person Sprite: Monkey                   133 Flag: CD 01 Flag Use: Invisible if Set
+Entry 0819: Type: Person Sprite: Female monkey            160 Flag: CE 01 Flag Use: Visible if Set
+Entry 0820: Type: Person Sprite: Monkey                   133 Flag: CD 01 Flag Use: Visible if Set
+Entry 0821: Type: Person Sprite: Female monkey            160 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0822: Type: Person Sprite: Monkey                   133 Flag: CC 01 Flag Use: Invisible if Set
+Entry 0823: Type: Person Sprite: Monkey                   133 Flag: CB 01 Flag Use: Invisible if Set
+Entry 0824: Type: Person Sprite: Monkey                   133 Flag: CC 01 Flag Use: Visible if Set
+Entry 0825: Type: Person Sprite: Monkey                   133 Flag: CB 01 Flag Use: Visible if Set
+Entry 0826: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0827: Type: Object Sprite: Iron pencil statue       265 Flag: 04 02 Flag Use: Invisible if Set
+Entry 0828: Type: Person Sprite: Monkey                   133 Flag: 65 02 Flag Use: Invisible if Set
+Entry 0829: Type: Person Sprite: Talah Rama               177 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0830: Type: Person Sprite: Miner                    172 Flag: 36 00 Flag Use: Visible if Set
+Entry 0831: Type: Person Sprite: Guardian Digger          419 Flag: 15 01 Flag Use: Invisible if Set
+Entry 0832: Type: Person Sprite: Guardian Digger          419 Flag: 16 01 Flag Use: Invisible if Set
+Entry 0833: Type: Person Sprite: Guardian Digger          419 Flag: 17 01 Flag Use: Invisible if Set
+Entry 0834: Type: Person Sprite: Exit mouse               451 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0835: Type: Person Sprite: Exit Mouse mom           436 Flag: 00 02 Flag Use: Invisible if Set
+Entry 0836: Type: Person Sprite: Exit Mouse mom           436 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0837: Type: Person Sprite: Guardian Digger          419 Flag: 18 01 Flag Use: Invisible if Set
+Entry 0838: Type: Person Sprite: Guardian Digger          419 Flag: 19 01 Flag Use: Invisible if Set
+Entry 0839: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0840: Type: Person Sprite: Blonde guy in a suit     061 Flag: 76 01 Flag Use: Invisible if Set
+Entry 0841: Type: Person Sprite: Blonde guy in a suit     061 Flag: 76 01 Flag Use: Visible if Set
+Entry 0842: Type: Person Sprite: Venus                    165 Flag: 93 00 Flag Use: Visible if Set
+Entry 0843: Type: Person Sprite: Gorgeous                 149 Flag: 93 00 Flag Use: Invisible if Set
+Entry 0844: Type: Person Sprite: Runaway Five bass player 186 Flag: 93 00 Flag Use: Invisible if Set
+Entry 0845: Type: Person Sprite: Runaway Five drummer     185 Flag: 93 00 Flag Use: Invisible if Set
+Entry 0846: Type: Person Sprite: Lucky                    150 Flag: 93 00 Flag Use: Invisible if Set
+Entry 0847: Type: Person Sprite: Runaway Five sax player  187 Flag: 93 00 Flag Use: Invisible if Set
+Entry 0848: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0849: Type: Person Sprite: Blonde guy in a suit     061 Flag: 38 00 Flag Use: Invisible if Set
+Entry 0850: Type: Person Sprite: Blonde guy in a suit     061 Flag: 38 00 Flag Use: Visible if Set
+Entry 0851: Type: Person Sprite: Surfer                   071 Flag: F7 02 Flag Use: Visible if Set
+Entry 0852: Type: Person Sprite: Beach lady               072 Flag: F7 02 Flag Use: Visible if Set
+Entry 0853: Type: Person Sprite: Baker                    137 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0854: Type: Person Sprite: Blonde shopping lady     058 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0855: Type: Person Sprite: Mr. T                    079 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0856: Type: Person Sprite: Elevator lady            067 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0857: Type: Person Sprite: Blonde guy in a suit     061 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0858: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0859: Type: Person Sprite: Elevator lady            067 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0860: Type: Person Sprite: Monotoli                 164 Flag: 49 00 Flag Use: Visible if Set
+Entry 0861: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0862: Type: Person Sprite: Bodyguard                109 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0863: Type: Person Sprite: Bodyguard                109 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0864: Type: Person Sprite: Elevator lady            067 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0865: Type: Person Sprite: Pokey in his suit        048 Flag: 8F 00 Flag Use: Invisible if Set
+Entry 0866: Type: Person Sprite: Bodyguard                109 Flag: 8F 00 Flag Use: Invisible if Set
+Entry 0867: Type: Person Sprite: Bodyguard                109 Flag: 8F 00 Flag Use: Invisible if Set
+Entry 0868: Type: Person Sprite: Aloysius Minch           147 Flag: 8F 00 Flag Use: Invisible if Set
+Entry 0869: Type: Person Sprite: Elevator lady            067 Flag: 8E 00 Flag Use: Visible if Set
+Entry 0870: Type: Person Sprite: Elevator lady            067 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0871: Type: Person Sprite: Electra                  396 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0872: Type: Person Sprite: Monotoli                 164 Flag: 98 02 Flag Use: Invisible if Set
+Entry 0873: Type: Person Sprite: Paula                    002 Flag: 0F 00 Flag Use: Invisible if Set
+Entry 0874: Type: Person Sprite: Monotoli                 164 Flag: E5 02 Flag Use: Visible if Set
+Entry 0875: Type: Person Sprite: Fat guy in red suit      059 Flag: 49 00 Flag Use: Visible if Set
+Entry 0876: Type: Object Sprite: Mighty Bear              331 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0877: Type: Object Sprite: Rising wall/door         430 Flag: 98 02 Flag Use: Invisible if Set
+Entry 0878: Type: Object Sprite: Rising wall/door         430 Flag: 98 02 Flag Use: Visible if Set
+Entry 0879: Type: Person Sprite: Sentry Robot             310 Flag: 65 01 Flag Use: Invisible if Set
+Entry 0880: Type: Person Sprite: Sentry Robot             310 Flag: 66 01 Flag Use: Invisible if Set
+Entry 0881: Type: Person Sprite: Sentry Robot             310 Flag: 67 01 Flag Use: Invisible if Set
+Entry 0882: Type: Person Sprite: Sentry Robot             310 Flag: 68 01 Flag Use: Invisible if Set
+Entry 0883: Type: Person Sprite: Clanky Robot             418 Flag: 6A 01 Flag Use: Invisible if Set
+Entry 0884: Type: Person Sprite: Gorgeous                 149 Flag: 3E 01 Flag Use: Visible if Set
+Entry 0885: Type: Person Sprite: Lucky                    150 Flag: 3E 01 Flag Use: Visible if Set
+Entry 0886: Type: Person Sprite: Runaway Five drummer     185 Flag: 3E 01 Flag Use: Visible if Set
+Entry 0887: Type: Person Sprite: Runaway Five bass player 186 Flag: 3E 01 Flag Use: Visible if Set
+Entry 0888: Type: Person Sprite: Runaway Five sax player  187 Flag: 3E 01 Flag Use: Visible if Set
+Entry 0889: Type: Person Sprite: Sentry Robot             310 Flag: 69 01 Flag Use: Invisible if Set
+Entry 0890: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0891: Type: Person Sprite: Hotel attendant          073 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0892: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0893: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0894: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0895: Type: Person Sprite: Hotel attendant          073 Flag: 7F 01 Flag Use: Visible if Set
+Entry 0896: Type: Person Sprite: Jackie                   084 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0897: Type: Person Sprite: Big smile lady 1         108 Flag: 8B 00 Flag Use: Invisible if Set
+Entry 0898: Type: Person Sprite: Big smile lady 1         108 Flag: 8B 00 Flag Use: Visible if Set
+Entry 0899: Type: Person Sprite: Unassuming local guy     069 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0900: Type: Person Sprite: Drinking guy             060 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0901: Type: Person Sprite: Fat guy in red suit      059 Flag: 49 00 Flag Use: Invisible if Set
+Entry 0902: Type: Person Sprite: Aloysius Minch           147 Flag: 49 00 Flag Use: Visible if Set
+Entry 0903: Type: Object Sprite: Jukebox                  234 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0904: Type: Person Sprite: Grey mouse               281 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0905: Type: Object Sprite: Broken Mani Mani statue  246 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0906: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0907: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0908: Type: Person Sprite: Fourside museum guy      174 Flag: 3A 00 Flag Use: Invisible if Set
+Entry 0909: Type: Person Sprite: Fourside museum guy      174 Flag: 3A 00 Flag Use: Visible if Set
+Entry 0910: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0911: Type: Person Sprite: Pigtail dark haired girl 121 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0912: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0913: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0914: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0915: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0916: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0917: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0918: Type: Person Sprite: Old lady with cane       053 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0919: Type: Person Sprite: Little kid in blue       123 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0920: Type: Person Sprite: Thick glasses lady       141 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0921: Type: Person Sprite: Elevator lady            067 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0922: Type: Person Sprite: Elevator lady            067 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0923: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0924: Type: Person Sprite: Bodyguard                109 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0925: Type: Person Sprite: Waitress                 142 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0926: Type: Person Sprite: Girl in striped apron    138 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0927: Type: Person Sprite: Brunette shopping lady   057 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0928: Type: Person Sprite: Yellow clothes blonde    122 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0929: Type: Person Sprite: Kid in baseball helmet   124 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0930: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0931: Type: Person Sprite: Grey mouse               281 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0932: Type: Person Sprite: Baker                    137 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0933: Type: Person Sprite: Red clothes person       116 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0934: Type: Person Sprite: Young blonde guy in blue 070 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0935: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0936: Type: Person Sprite: Hidden arms dealer       144 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0937: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0938: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0939: Type: Object Sprite: Magic Tart stand         229 Flag: 39 00 Flag Use: Invisible if Set
+Entry 0940: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0941: Type: Person Sprite: Dept. Store Spook        455 Flag: 39 00 Flag Use: Visible if Set
+Entry 0942: Type: Person Sprite: Guy in blue clothes      055 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0943: Type: Person Sprite: Blonde lady w blue dress 065 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0944: Type: Person Sprite: Trumpet person           077 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0945: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0946: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0947: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0948: Type: Person Sprite: Drinking guy             060 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0949: Type: Person Sprite: Cop in sunglasses        074 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0950: Type: Person Sprite: Cop in sunglasses        074 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0951: Type: Person Sprite: Electra                  396 Flag: 3B 00 Flag Use: Visible if Set
+Entry 0952: Type: Person Sprite: Everdred lying down      180 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0953: Type: Person Sprite: Red clothes person       116 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0954: Type: Person Sprite: Blonde happy lady        068 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0955: Type: Person Sprite: Orange haired nerd kid   117 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0956: Type: Person Sprite: Scuzzy guy               115 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0957: Type: Person Sprite: Brunette shopping lady   057 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0958: Type: Person Sprite: Blonde shopping lady     058 Flag: 3C 00 Flag Use: Visible if Set
+Entry 0959: Type: Person Sprite: Punk guy                 085 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0960: Type: Person Sprite: Gorgeous                 149 Flag: 3D 01 Flag Use: Visible if Set
+Entry 0961: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0962: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 92 00 Flag Use: Invisible if Set
+Entry 0963: Type: Person Sprite: Old guy with cane        052 Flag: 92 00 Flag Use: Invisible if Set
+Entry 0964: Type: Person Sprite: Young blonde guy in blue 070 Flag: 52 02 Flag Use: Visible if Set
+Entry 0965: Type: Person Sprite: Orange haired nerd kid   117 Flag: C2 00 Flag Use: Invisible if Set
+Entry 0966: Type: Person Sprite: Red clothes person       116 Flag: C2 00 Flag Use: Invisible if Set
+Entry 0967: Type: Person Sprite: Monkey                   133 Flag: 4F 02 Flag Use: Visible if Set
+Entry 0968: Type: Person Sprite: Charred person           013 Flag: 50 02 Flag Use: Visible if Set
+Entry 0969: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0970: Type: Person Sprite: Hint man (with sign)     446 Flag: F0 02 Flag Use: Invisible if Set
+Entry 0971: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0972: Type: Object Sprite: Bus stop sign            202 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0973: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0974: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0975: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0976: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0977: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0978: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0979: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0980: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0981: Type: Object Sprite: Streetlight              201 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0982: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0983: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0984: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0985: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0986: Type: Object Sprite: Street sign              204 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0987: Type: Object Sprite: Magnet hill magnets      409 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0988: Type: Object Sprite: Tin can                  225 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0989: Type: Object Sprite: Helicopter bottom        410 Flag: A0 02 Flag Use: Invisible if Set
+Entry 0990: Type: Object Sprite: Helicopter top           420 Flag: A0 02 Flag Use: Invisible if Set
+Entry 0991: Type: Object Sprite: Helicopter back thing    424 Flag: A0 02 Flag Use: Invisible if Set
+Entry 0992: Type: Object Sprite: Shadow                   230 Flag: A0 02 Flag Use: Invisible if Set
+Entry 0993: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0994: Type: Object Sprite: Runaway five bus         243 Flag: 3D 01 Flag Use: Visible if Set
+Entry 0995: Type: Person Sprite: Carbon Dog               333 Flag: C2 00 Flag Use: Invisible if Set
+Entry 0996: Type: Person Sprite: Unassuming local guy     069 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0997: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0998: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 0999: Type: Person Sprite: Fat guy in red suit      059 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1000: Type: Person Sprite: Mr. T                    079 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1001: Type: Person Sprite: Waitress                 142 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1002: Type: Person Sprite: Magic cake lady          181 Flag: 69 02 Flag Use: Invisible if Set
+Entry 1003: Type: Person Sprite: Ship crewman             091 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1004: Type: Person Sprite: Ship crewman             091 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1005: Type: Person Sprite: Jamaican guy             078 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1006: Type: Person Sprite: Trumpet person           077 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1007: Type: Person Sprite: Dog                      130 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1008: Type: Person Sprite: Ship captain             090 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1009: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1010: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1011: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1012: Type: Person Sprite: Red clothes person       116 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1013: Type: Person Sprite: Beach lady               072 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1014: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1015: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1016: Type: Person Sprite: Unassuming local guy     069 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1017: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1018: Type: Person Sprite: Blonde shopping lady     058 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1019: Type: Person Sprite: Hotel attendant          073 Flag: 7F 01 Flag Use: Visible if Set
+Entry 1020: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1021: Type: Person Sprite: Hotel attendant          073 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1022: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1023: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1024: Type: Person Sprite: Young blonde guy in blue 070 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1025: Type: Person Sprite: Baker                    137 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1026: Type: Person Sprite: Waitress                 142 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1027: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1028: Type: Person Sprite: Brunette shopping lady   057 Flag: D1 00 Flag Use: Visible if Set
+Entry 1029: Type: Person Sprite: Fat guy in red suit      059 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1030: Type: Person Sprite: Old lady with cane       053 Flag: D1 00 Flag Use: Visible if Set
+Entry 1031: Type: Person Sprite: Drinking guy             060 Flag: D1 00 Flag Use: Visible if Set
+Entry 1032: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1033: Type: Person Sprite: Blonde happy lady        068 Flag: AF 02 Flag Use: Invisible if Set
+Entry 1034: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1035: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1036: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1037: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 5A 01 Flag Use: Invisible if Set
+Entry 1038: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 5A 01 Flag Use: Visible if Set
+Entry 1039: Type: Object Sprite: Petrified Royal Guard    322 Flag: 59 02 Flag Use: Invisible if Set
+Entry 1040: Type: Object Sprite: Petrified Royal Guard    322 Flag: 5A 02 Flag Use: Invisible if Set
+Entry 1041: Type: Object Sprite: Petrified Royal Guard    322 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1042: Type: Object Sprite: Petrified Royal Guard    322 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1043: Type: Object Sprite: Petrified Royal Guard    322 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1044: Type: Object Sprite: Pharaoh casket           221 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1045: Type: Object Sprite: Pharaoh casket           221 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1046: Type: Object Sprite: Pharaoh casket           221 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1047: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1048: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1049: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1050: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1051: Type: Person Sprite: Weird guy in swim trunks 086 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1052: Type: Person Sprite: Girl in bikini           081 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1053: Type: Person Sprite: Guy in swimming suit     080 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1054: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1055: Type: Person Sprite: Weird guy in swim trunks 086 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1056: Type: Person Sprite: Zombie lady              087 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1057: Type: Person Sprite: Beach lady               072 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1058: Type: Person Sprite: Weird guy in swim trunks 086 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1059: Type: Person Sprite: "I love qowga" shirt guy 114 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1060: Type: Person Sprite: Red clothes person       116 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1061: Type: Person Sprite: Mexican guy              110 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1062: Type: Person Sprite: Bird on perch            132 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1063: Type: Person Sprite: Ship captain             090 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1064: Type: Person Sprite: Ship crewman             091 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1065: Type: Person Sprite: Ship captain             090 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1066: Type: Person Sprite: Palm tan guy             103 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1067: Type: Person Sprite: Cat                      131 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1068: Type: Person Sprite: Cat                      131 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1069: Type: Person Sprite: Magic cake lady          181 Flag: 69 02 Flag Use: Visible if Set
+Entry 1070: Type: Person Sprite: Sun bathing girl         104 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1071: Type: Person Sprite: Hint man (with sign)     446 Flag: F0 02 Flag Use: Invisible if Set
+Entry 1072: Type: Person Sprite: Lucky                    150 Flag: 74 01 Flag Use: Visible if Set
+Entry 1073: Type: Person Sprite: Gorgeous                 149 Flag: 74 01 Flag Use: Visible if Set
+Entry 1074: Type: Person Sprite: Runaway Five drummer     185 Flag: 74 01 Flag Use: Visible if Set
+Entry 1075: Type: Person Sprite: Girl in bikini           081 Flag: 74 01 Flag Use: Visible if Set
+Entry 1076: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1077: Type: Person Sprite: Old fat guy with hat     054 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1078: Type: Object Sprite: Magic Tart stand         229 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1079: Type: Object Sprite: Real taxi                206 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1080: Type: Person Sprite: Guy in cool red car      255 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1081: Type: Object Sprite: Delivery truck           207 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1082: Type: Object Sprite: Bicycle                  211 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1083: Type: Object Sprite: Robot on the ground      026 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1084: Type: Object Sprite: Robot on the ground      026 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1085: Type: Object Sprite: Magic Tart stand         229 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1086: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1087: Type: Object Sprite: Runaway five bus         243 Flag: 74 01 Flag Use: Visible if Set
+Entry 1088: Type: Object Sprite: Ship                     212 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1089: Type: Person Sprite: Poo's master             166 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1090: Type: Person Sprite: Dalaamese servant        088 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1091: Type: Person Sprite: Telephone head guy       167 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1092: Type: Person Sprite: Poo                      004 Flag: 7D 02 Flag Use: Visible if Set
+Entry 1093: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1094: Type: Person Sprite: Chinese girl             089 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1095: Type: Person Sprite: Chinese monk guy         105 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1096: Type: Person Sprite: Chinese girl             089 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1097: Type: Person Sprite: Dalaamese servant        088 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1098: Type: Person Sprite: Chinese monk guy         105 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1099: Type: Person Sprite: Dalaamese servant        088 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1100: Type: Person Sprite: Preet proot guy          168 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1101: Type: Person Sprite: Dalaamese servant        088 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1102: Type: Person Sprite: Dalaam girl              163 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1103: Type: Person Sprite: Star Master guy          098 Flag: 53 02 Flag Use: Invisible if Set
+Entry 1104: Type: Person Sprite: Dalaam girl              163 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1105: Type: Person Sprite: Chinese girl             089 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1106: Type: Person Sprite: Chinese girl             089 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1107: Type: Object Sprite: Rabbit                   107 Flag: 8C 02 Flag Use: Invisible if Set
+Entry 1108: Type: Object Sprite: Rabbit                   107 Flag: 8C 02 Flag Use: Invisible if Set
+Entry 1109: Type: Object Sprite: Rabbit                   107 Flag: 8C 02 Flag Use: Invisible if Set
+Entry 1110: Type: Person Sprite: Dalaam girl              163 Flag: 74 01 Flag Use: Visible if Set
+Entry 1111: Type: Person Sprite: Dalaam girl              163 Flag: 74 01 Flag Use: Visible if Set
+Entry 1112: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1113: Type: Object Sprite: Dalaam palace roof thing 423 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1114: Type: Object Sprite: Dalaam palace roof thing 423 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1115: Type: Object Sprite: Dalaam palace roof thing 423 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1116: Type: Object Sprite: Dalaam palace roof thing 423 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1117: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1118: Type: Person Sprite: Carbon Dog               333 Flag: C3 00 Flag Use: Invisible if Set
+Entry 1119: Type: Person Sprite: Ness lying down          016 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1120: Type: Person Sprite: Paula                    002 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1121: Type: Person Sprite: Jeff                     003 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1122: Type: Person Sprite: Poo                      004 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1123: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1124: Type: Person Sprite: Happy turban guy         093 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1125: Type: Person Sprite: Hidden arms dealer       144 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1126: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 7F 01 Flag Use: Visible if Set
+Entry 1127: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1128: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1129: Type: Person Sprite: Lady in veil             092 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1130: Type: Person Sprite: Old guy with cane        052 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1131: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1132: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1133: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1134: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1135: Type: Person Sprite: Happy turban guy         093 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1136: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1137: Type: Person Sprite: Lady in veil             092 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1138: Type: Person Sprite: Big nose Arab guy        094 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1139: Type: Person Sprite: Arab Mr. T               096 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1140: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1141: Type: Person Sprite: Happy turban guy         093 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1142: Type: Person Sprite: Preet proot guy          168 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1143: Type: Object Sprite: Li'l Ness                027 Flag: 56 01 Flag Use: Invisible if Set
+Entry 1144: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1145: Type: Person Sprite: Big nose Arab guy        094 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1146: Type: Person Sprite: Big nose Arab guy        094 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1147: Type: Person Sprite: Mustache Arab turban guy 095 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1148: Type: Person Sprite: Preet proot guy          168 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1149: Type: Person Sprite: Tribal warrior           102 Flag: BD 01 Flag Use: Invisible if Set
+Entry 1150: Type: Object Sprite: Dungeon Man              041 Flag: 3E 00 Flag Use: Invisible if Set
+Entry 1151: Type: Person Sprite: Tribal warrior           102 Flag: BD 01 Flag Use: Visible if Set
+Entry 1152: Type: Person Sprite: Dungeon Man              041 Flag: 12 01 Flag Use: Visible if Set
+Entry 1153: Type: Person Sprite: Hint man (with sign)     446 Flag: F0 02 Flag Use: Invisible if Set
+Entry 1154: Type: Object Sprite: Li'l Ness                027 Flag: 56 01 Flag Use: Invisible if Set
+Entry 1155: Type: Person Sprite: Mustache Arab turban guy 095 Flag: DA 00 Flag Use: Invisible if Set
+Entry 1156: Type: Person Sprite: Big nose Arab guy        094 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1157: Type: Person Sprite: Preet proot guy          168 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1158: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1159: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1160: Type: Person Sprite: Camel                    443 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1161: Type: Person Sprite: Camel                    443 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1162: Type: Object Sprite: Sesame seed              238 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1163: Type: Object Sprite: Sesame seed              238 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1164: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1165: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1166: Type: Object Sprite: Guardian Hieroglyph      325 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1167: Type: Object Sprite: Guardian Hieroglyph      325 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1168: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 88 01 Flag Use: Invisible if Set
+Entry 1169: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 89 01 Flag Use: Invisible if Set
+Entry 1170: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 97 01 Flag Use: Invisible if Set
+Entry 1171: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 98 01 Flag Use: Invisible if Set
+Entry 1172: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 8A 01 Flag Use: Invisible if Set
+Entry 1173: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 8B 01 Flag Use: Invisible if Set
+Entry 1174: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 8C 01 Flag Use: Invisible if Set
+Entry 1175: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 99 01 Flag Use: Invisible if Set
+Entry 1176: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 8D 01 Flag Use: Invisible if Set
+Entry 1177: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 9A 01 Flag Use: Invisible if Set
+Entry 1178: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 8E 01 Flag Use: Invisible if Set
+Entry 1179: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 9B 01 Flag Use: Invisible if Set
+Entry 1180: Type: Object Sprite: Petrified Royal Guard    322 Flag: B3 01 Flag Use: Invisible if Set
+Entry 1181: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 8F 01 Flag Use: Invisible if Set
+Entry 1182: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 90 01 Flag Use: Invisible if Set
+Entry 1183: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 91 01 Flag Use: Invisible if Set
+Entry 1184: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 9C 01 Flag Use: Invisible if Set
+Entry 1185: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 92 01 Flag Use: Invisible if Set
+Entry 1186: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 93 01 Flag Use: Invisible if Set
+Entry 1187: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 9D 01 Flag Use: Invisible if Set
+Entry 1188: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 94 01 Flag Use: Invisible if Set
+Entry 1189: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 95 01 Flag Use: Invisible if Set
+Entry 1190: Type: Person Sprite: Guardian Hieroglyph      325 Flag: 96 01 Flag Use: Invisible if Set
+Entry 1191: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 9E 01 Flag Use: Invisible if Set
+Entry 1192: Type: Person Sprite: Lethal Asp Hieroglyph    320 Flag: 9F 01 Flag Use: Invisible if Set
+Entry 1193: Type: Object Sprite: Pharaoh casket           221 Flag: 5B 01 Flag Use: Invisible if Set
+Entry 1194: Type: Object Sprite: Pharaoh casket           221 Flag: 5B 01 Flag Use: Visible if Set
+Entry 1195: Type: Object Sprite: Hawk Eye                 353 Flag: 5C 01 Flag Use: Invisible if Set
+Entry 1196: Type: Person Sprite: Brick Road head          179 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1197: Type: Object Sprite: Yellow submarine         244 Flag: DA 00 Flag Use: Invisible if Set
+Entry 1198: Type: Object Sprite: Bicycle                  211 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1199: Type: Object Sprite: Real taxi                206 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1200: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1201: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1202: Type: Object Sprite: Robot on the ground      026 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1203: Type: Person Sprite: Pay phone                216 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1204: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1205: Type: Object Sprite: Robot on the ground      026 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1206: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1207: Type: Object Sprite: Instant Energy Machine   429 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1208: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1209: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1210: Type: Object Sprite: Bench                    198 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1211: Type: Object Sprite: Mad Duck                 287 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1212: Type: Object Sprite: Mad Duck                 287 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1213: Type: Object Sprite: Mad Duck                 287 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1214: Type: Object Sprite: Slimy Little Pile        315 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1215: Type: Object Sprite: Slimy Little Pile        315 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1216: Type: Object Sprite: Slimy Little Pile        315 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1217: Type: Object Sprite: Gruff Goat               294 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1218: Type: Object Sprite: Gruff Goat               294 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1219: Type: Object Sprite: Sign                     213 Flag: FA 02 Flag Use: Invisible if Set
+Entry 1220: Type: Object Sprite: Sign                     213 Flag: FA 02 Flag Use: Visible if Set
+Entry 1221: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1222: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1223: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1224: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1225: Type: Object Sprite: Robot on the ground      026 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1226: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1227: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1228: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1229: Type: Person Sprite: Master Barf              299 Flag: 14 01 Flag Use: Invisible if Set
+Entry 1230: Type: Person Sprite: Bird on perch            132 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1231: Type: Person Sprite: Invisible (wtw enemy)    456 Flag: 20 01 Flag Use: Invisible if Set
+Entry 1232: Type: Person Sprite: Hidden arms dealer       144 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1233: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1234: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1235: Type: Person Sprite: Telephone toucan         412 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1236: Type: Person Sprite: Snorkel                  428 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1237: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1238: Type: Person Sprite: Female monkey            160 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1239: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1240: Type: Object Sprite: Invisible                376 Flag: B7 01 Flag Use: Invisible if Set
+Entry 1241: Type: Object Sprite: Invisible                376 Flag: B8 01 Flag Use: Invisible if Set
+Entry 1242: Type: Object Sprite: Invisible                376 Flag: B9 01 Flag Use: Invisible if Set
+Entry 1243: Type: Object Sprite: Invisible                376 Flag: BA 01 Flag Use: Invisible if Set
+Entry 1244: Type: Object Sprite: Invisible                376 Flag: BB 01 Flag Use: Invisible if Set
+Entry 1245: Type: Object Sprite: Helicopter crashed       411 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1246: Type: Person Sprite: Carbon Dog               333 Flag: C4 00 Flag Use: Invisible if Set
+Entry 1247: Type: Person Sprite: Talking rock             260 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1248: Type: Person Sprite: Talking rock             260 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1249: Type: Person Sprite: Talking rock             260 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1250: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1251: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1252: Type: Person Sprite: Tenda chief              170 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1253: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1254: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1255: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1256: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1257: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1258: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1259: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1260: Type: Person Sprite: Talking rock             260 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1261: Type: Person Sprite: Tenda                    097 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1262: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1263: Type: Object Sprite: Heavy rock               360 Flag: 99 00 Flag Use: Invisible if Set
+Entry 1264: Type: Object Sprite: Tin can                  225 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1265: Type: Object Sprite: Mailbox                  227 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1266: Type: Object Sprite: Li'l Poo                 030 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1267: Type: Object Sprite: Hot Spring sign          405 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1268: Type: Person Sprite: Mr. Saturn               171 Flag: 7E 01 Flag Use: Visible if Set
+Entry 1269: Type: Person Sprite: Dr. Andonuts             162 Flag: 48 01 Flag Use: Visible if Set
+Entry 1270: Type: Person Sprite: Dr. Andonuts             162 Flag: 4B 01 Flag Use: Visible if Set
+Entry 1271: Type: Person Sprite: Apple Kid                176 Flag: 49 01 Flag Use: Visible if Set
+Entry 1272: Type: Person Sprite: Mr. Saturn               171 Flag: 4A 01 Flag Use: Visible if Set
+Entry 1273: Type: Object Sprite: Broken phase distorter   240 Flag: 4B 00 Flag Use: Visible if Set
+Entry 1274: Type: Object Sprite: Phase Distorter          210 Flag: 4C 01 Flag Use: Visible if Set
+Entry 1275: Type: Object Sprite: Phase Distorter          210 Flag: 47 01 Flag Use: Visible if Set
+Entry 1276: Type: Person Sprite: Carbon Dog               333 Flag: C5 00 Flag Use: Invisible if Set
+Entry 1277: Type: Person Sprite: Ness lying down          016 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1278: Type: Person Sprite: Paula                    002 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1279: Type: Person Sprite: Jeff                     003 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1280: Type: Person Sprite: Poo                      004 Flag: 5D 01 Flag Use: Visible if Set
+Entry 1281: Type: Person Sprite: Upward flame             256 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1282: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1283: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1284: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1285: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1286: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1287: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1288: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1289: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1290: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1291: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1292: Type: Person Sprite: Li'l Paula               028 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1293: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1294: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1295: Type: Person Sprite: Li'l telephone toucan    427 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1296: Type: Person Sprite: Li'l telephone toucan    427 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1297: Type: Person Sprite: Li'l telephone toucan    427 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1298: Type: Person Sprite: Li'l Tenda               398 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1299: Type: Object Sprite: Li'l gate                422 Flag: 8B 02 Flag Use: Invisible if Set
+Entry 1300: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1301: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1302: Type: Object Sprite: Sign                     213 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1303: Type: Object Sprite: Blue geyser              426 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1304: Type: Object Sprite: Red geyser               402 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1305: Type: Object Sprite: Blue geyser              426 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1306: Type: Object Sprite: Robot on the ground      026 Flag: 49 00 Flag Use: Visible if Set
+Entry 1307: Type: Object Sprite: Robot on the ground      026 Flag: 49 00 Flag Use: Visible if Set
+Entry 1308: Type: Object Sprite: Robot on the ground      026 Flag: 49 00 Flag Use: Visible if Set
+Entry 1309: Type: Object Sprite: Broken Ness robot        457 Flag: 49 00 Flag Use: Visible if Set
+Entry 1310: Type: Object Sprite: Phase Distorter          210 Flag: 74 01 Flag Use: Visible if Set
+Entry 1311: Type: Person Sprite: Nothing                  000 Flag: 54 01 Flag Use: Visible if Set
+Entry 1312: Type: Person Sprite: Weird horned guy         099 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1313: Type: Person Sprite: Flying Man               039 Flag: 19 00 Flag Use: Invisible if Set
+Entry 1314: Type: Person Sprite: Flying Man               039 Flag: 1A 00 Flag Use: Invisible if Set
+Entry 1315: Type: Person Sprite: Flying Man               039 Flag: 1B 00 Flag Use: Invisible if Set
+Entry 1316: Type: Person Sprite: Flying Man               039 Flag: 1C 00 Flag Use: Invisible if Set
+Entry 1317: Type: Person Sprite: Flying Man               039 Flag: 1D 00 Flag Use: Invisible if Set
+Entry 1318: Type: Person Sprite: Weird horned guy         099 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1319: Type: Person Sprite: Chick                    129 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1320: Type: Object Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1321: Type: Person Sprite: Invisible                381 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1322: Type: Person Sprite: Rabbit                   107 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1323: Type: Person Sprite: Little kid in blue       123 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1324: Type: Person Sprite: Urban Zombie             308 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1325: Type: Person Sprite: Master Belch             328 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1326: Type: Person Sprite: Manly Fish               288 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1327: Type: Person Sprite: Kid in baseball helmet   124 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1328: Type: Person Sprite: Kid in derby hat         125 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1329: Type: Person Sprite: Happy girl in red        128 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1330: Type: Person Sprite: Picky                    045 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1331: Type: Person Sprite: Blonde ponytail girl     127 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1332: Type: Person Sprite: Monkey                   133 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1333: Type: Person Sprite: Kid in detective hat     126 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1334: Type: Person Sprite: Rabbit                   107 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1335: Type: Person Sprite: Ness                     001 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1336: Type: Person Sprite: Chick                    129 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1337: Type: Person Sprite: Flower                   100 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1338: Type: Person Sprite: Flower                   100 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1339: Type: Person Sprite: Flower                   100 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1340: Type: Person Sprite: Star Master guy          098 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1341: Type: Person Sprite: Star Master guy          098 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1342: Type: Person Sprite: Mom                      145 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1343: Type: Person Sprite: Tracy                    146 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1344: Type: Person Sprite: King                     040 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1345: Type: Person Sprite: Pokey                    044 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1346: Type: Person Sprite: Everdred                 157 Flag: 7F 02 Flag Use: Invisible if Set
+Entry 1347: Type: Object Sprite: Cross gravestone         239 Flag: CC 00 Flag Use: Visible if Set
+Entry 1348: Type: Object Sprite: Cross gravestone         239 Flag: CD 00 Flag Use: Visible if Set
+Entry 1349: Type: Object Sprite: Cross gravestone         239 Flag: CE 00 Flag Use: Visible if Set
+Entry 1350: Type: Object Sprite: Cross gravestone         239 Flag: CF 00 Flag Use: Visible if Set
+Entry 1351: Type: Object Sprite: Cross gravestone         239 Flag: D0 00 Flag Use: Visible if Set
+Entry 1352: Type: Object Sprite: Cross gravestone         239 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1353: Type: Object Sprite: Weird tail thing         200 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1354: Type: Person Sprite: Kraken                   295 Flag: B4 01 Flag Use: Invisible if Set
+Entry 1355: Type: Person Sprite: Kraken                   295 Flag: B5 01 Flag Use: Invisible if Set
+Entry 1356: Type: Person Sprite: Kraken                   295 Flag: B6 01 Flag Use: Invisible if Set
+Entry 1357: Type: Object Sprite: Weird tail thing         200 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1358: Type: Object Sprite: Evil Mani-Mani           293 Flag: 4A 00 Flag Use: Invisible if Set
+Entry 1359: Type: Person Sprite: Jackie                   084 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1360: Type: Person Sprite: Big smile lady 1         108 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1361: Type: Person Sprite: Drinking guy             060 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1362: Type: Person Sprite: Blonde lady w/ red dress 066 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1363: Type: Person Sprite: Robo-pump                279 Flag: 83 01 Flag Use: Invisible if Set
+Entry 1364: Type: Person Sprite: Nurse                    140 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1365: Type: Person Sprite: Doctor                   139 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1366: Type: Person Sprite: Abstract Art             300 Flag: 85 01 Flag Use: Invisible if Set
+Entry 1367: Type: Person Sprite: Healer                   189 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1368: Type: Person Sprite: Blonde happy lady        068 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1369: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1370: Type: Person Sprite: Fourside museum guy      174 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1371: Type: Person Sprite: Robo-pump                279 Flag: 84 01 Flag Use: Invisible if Set
+Entry 1372: Type: Person Sprite: Sorta bald guy in suit   056 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1373: Type: Person Sprite: Hotel attendant          073 Flag: 7F 01 Flag Use: Visible if Set
+Entry 1374: Type: Person Sprite: Punk guy                 085 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1375: Type: Object Sprite: ATM Machine              259 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1376: Type: Person Sprite: Telephone                215 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1377: Type: Person Sprite: Mr. T                    079 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1378: Type: Person Sprite: Orange nerd kid          450 Flag: A5 00 Flag Use: Invisible if Set
+Entry 1379: Type: Person Sprite: Sneaky guy with a hat    063 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1380: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1381: Type: Person Sprite: Beach lady               072 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1382: Type: Person Sprite: Tough guy w/ sunglasses  118 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1383: Type: Person Sprite: Dark-haired guy in suit  062 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1384: Type: Person Sprite: Unassuming local guy     069 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1385: Type: Person Sprite: Nerdy red-haired guy     064 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1386: Type: Person Sprite: Scuzzy guy               115 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1387: Type: Person Sprite: Chinese girl             089 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1388: Type: Person Sprite: Punk guy                 085 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1389: Type: Person Sprite: Bodyguard                109 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1390: Type: Person Sprite: Shy guy                  119 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1391: Type: Person Sprite: Blonde guy in a suit     061 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1392: Type: Person Sprite: Orange haired nerd kid   117 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1393: Type: Person Sprite: Red clothes person       116 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1394: Type: Person Sprite: Jamaican guy             078 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1395: Type: Person Sprite: Monotoli                 164 Flag: 77 02 Flag Use: Invisible if Set
+Entry 1396: Type: Person Sprite: Ship captain             090 Flag: 3F 00 Flag Use: Invisible if Set
+Entry 1397: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1398: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1399: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1400: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1401: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1402: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1403: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1404: Type: Person Sprite: Surfer                   071 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1405: Type: Object Sprite: Hotel sign               442 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1406: Type: Object Sprite: Evil Mani-Mani           293 Flag: 00 00 Flag Use: No Use/Item Use
+Entry 1407: Type: Item   Sprite: Gift (present) box       195 Flag: 20 03 Flag Use: No Use/Item Use
+Entry 1408: Type: Item   Sprite: Trash can                214 Flag: 21 03 Flag Use: No Use/Item Use
+Entry 1409: Type: Item   Sprite: Gift (present) box       195 Flag: 22 03 Flag Use: No Use/Item Use
+Entry 1410: Type: Item   Sprite: Trash can                214 Flag: 23 03 Flag Use: No Use/Item Use
+Entry 1411: Type: Item   Sprite: Trash can                214 Flag: 24 03 Flag Use: No Use/Item Use
+Entry 1412: Type: Item   Sprite: Gift (present) box       195 Flag: 25 03 Flag Use: No Use/Item Use
+Entry 1413: Type: Item   Sprite: Gift (present) box       195 Flag: 26 03 Flag Use: No Use/Item Use
+Entry 1414: Type: Item   Sprite: Gift (present) box       195 Flag: 27 03 Flag Use: No Use/Item Use
+Entry 1415: Type: Item   Sprite: Gift (present) box       195 Flag: 28 03 Flag Use: No Use/Item Use
+Entry 1416: Type: Item   Sprite: Gift (present) box       195 Flag: 29 03 Flag Use: No Use/Item Use
+Entry 1417: Type: Item   Sprite: Gift (present) box       195 Flag: 2A 03 Flag Use: No Use/Item Use
+Entry 1418: Type: Item   Sprite: Trash can                214 Flag: 2B 03 Flag Use: No Use/Item Use
+Entry 1419: Type: Item   Sprite: Gift (present) box       195 Flag: 2C 03 Flag Use: No Use/Item Use
+Entry 1420: Type: Item   Sprite: Gift (present) box       195 Flag: 2D 03 Flag Use: No Use/Item Use
+Entry 1421: Type: Item   Sprite: Gift (present) box       195 Flag: 2E 03 Flag Use: No Use/Item Use
+Entry 1422: Type: Item   Sprite: Gift (present) box       195 Flag: 2F 03 Flag Use: No Use/Item Use
+Entry 1423: Type: Item   Sprite: Gift (present) box       195 Flag: 30 03 Flag Use: No Use/Item Use
+Entry 1424: Type: Item   Sprite: Gift (present) box       195 Flag: 31 03 Flag Use: No Use/Item Use
+Entry 1425: Type: Item   Sprite: Gift (present) box       195 Flag: 32 03 Flag Use: No Use/Item Use
+Entry 1426: Type: Item   Sprite: Gift (present) box       195 Flag: 33 03 Flag Use: No Use/Item Use
+Entry 1427: Type: Item   Sprite: Gift (present) box       195 Flag: 34 03 Flag Use: No Use/Item Use
+Entry 1428: Type: Item   Sprite: Gift (present) box       195 Flag: 35 03 Flag Use: No Use/Item Use
+Entry 1429: Type: Item   Sprite: Gift (present) box       195 Flag: 36 03 Flag Use: No Use/Item Use
+Entry 1430: Type: Item   Sprite: Trash can                214 Flag: 37 03 Flag Use: No Use/Item Use
+Entry 1431: Type: Item   Sprite: Trash can                214 Flag: 38 03 Flag Use: No Use/Item Use
+Entry 1432: Type: Item   Sprite: Trash can                214 Flag: 39 03 Flag Use: No Use/Item Use
+Entry 1433: Type: Item   Sprite: Trash can                214 Flag: 3A 03 Flag Use: No Use/Item Use
+Entry 1434: Type: Item   Sprite: Coffin                   262 Flag: 3B 03 Flag Use: No Use/Item Use
+Entry 1435: Type: Item   Sprite: Coffin                   262 Flag: 3C 03 Flag Use: No Use/Item Use
+Entry 1436: Type: Item   Sprite: Gift (present) box       195 Flag: 3D 03 Flag Use: No Use/Item Use
+Entry 1437: Type: Item   Sprite: Gift (present) box       195 Flag: 3E 03 Flag Use: No Use/Item Use
+Entry 1438: Type: Item   Sprite: Gift (present) box       195 Flag: 3F 03 Flag Use: No Use/Item Use
+Entry 1439: Type: Item   Sprite: Gift (present) box       195 Flag: 40 03 Flag Use: No Use/Item Use
+Entry 1440: Type: Item   Sprite: Gift (present) box       195 Flag: 41 03 Flag Use: No Use/Item Use
+Entry 1441: Type: Item   Sprite: Gift (present) box       195 Flag: 42 03 Flag Use: No Use/Item Use
+Entry 1442: Type: Item   Sprite: Gift (present) box       195 Flag: 43 03 Flag Use: No Use/Item Use
+Entry 1443: Type: Item   Sprite: Gift (present) box       195 Flag: 44 03 Flag Use: No Use/Item Use
+Entry 1444: Type: Item   Sprite: Gift (present) box       195 Flag: 45 03 Flag Use: No Use/Item Use
+Entry 1445: Type: Item   Sprite: Gift (present) box       195 Flag: 46 03 Flag Use: No Use/Item Use
+Entry 1446: Type: Item   Sprite: Gift (present) box       195 Flag: 47 03 Flag Use: No Use/Item Use
+Entry 1447: Type: Item   Sprite: Gift (present) box       195 Flag: 48 03 Flag Use: No Use/Item Use
+Entry 1448: Type: Item   Sprite: Gift (present) box       195 Flag: 49 03 Flag Use: No Use/Item Use
+Entry 1449: Type: Item   Sprite: Gift (present) box       195 Flag: 4A 03 Flag Use: No Use/Item Use
+Entry 1450: Type: Item   Sprite: Gift (present) box       195 Flag: 4B 03 Flag Use: No Use/Item Use
+Entry 1451: Type: Item   Sprite: Gift (present) box       195 Flag: 4C 03 Flag Use: No Use/Item Use
+Entry 1452: Type: Item   Sprite: Gift (present) box       195 Flag: 4D 03 Flag Use: No Use/Item Use
+Entry 1453: Type: Item   Sprite: Gift (present) box       195 Flag: 4E 03 Flag Use: No Use/Item Use
+Entry 1454: Type: Item   Sprite: Gift (present) box       195 Flag: 4F 03 Flag Use: No Use/Item Use
+Entry 1455: Type: Item   Sprite: Gift (present) box       195 Flag: 50 03 Flag Use: No Use/Item Use
+Entry 1456: Type: Item   Sprite: Gift (present) box       195 Flag: 51 03 Flag Use: No Use/Item Use
+Entry 1457: Type: Item   Sprite: Gift (present) box       195 Flag: 52 03 Flag Use: No Use/Item Use
+Entry 1458: Type: Item   Sprite: Gift (present) box       195 Flag: 53 03 Flag Use: No Use/Item Use
+Entry 1459: Type: Item   Sprite: Gift (present) box       195 Flag: 54 03 Flag Use: No Use/Item Use
+Entry 1460: Type: Item   Sprite: Trash can                214 Flag: 55 03 Flag Use: No Use/Item Use
+Entry 1461: Type: Item   Sprite: Trash can                214 Flag: 56 03 Flag Use: No Use/Item Use
+Entry 1462: Type: Item   Sprite: Trash can                214 Flag: 57 03 Flag Use: No Use/Item Use
+Entry 1463: Type: Item   Sprite: Trash can                214 Flag: 58 03 Flag Use: No Use/Item Use
+Entry 1464: Type: Item   Sprite: Trash can                214 Flag: 59 03 Flag Use: No Use/Item Use
+Entry 1465: Type: Item   Sprite: Trash can                214 Flag: 5A 03 Flag Use: No Use/Item Use
+Entry 1466: Type: Item   Sprite: Gift (present) box       195 Flag: 5B 03 Flag Use: No Use/Item Use
+Entry 1467: Type: Item   Sprite: Gift (present) box       195 Flag: 5C 03 Flag Use: No Use/Item Use
+Entry 1468: Type: Item   Sprite: Gift (present) box       195 Flag: 5D 03 Flag Use: No Use/Item Use
+Entry 1469: Type: Item   Sprite: Gift (present) box       195 Flag: 5E 03 Flag Use: No Use/Item Use
+Entry 1470: Type: Item   Sprite: Gift (present) box       195 Flag: 5F 03 Flag Use: No Use/Item Use
+Entry 1471: Type: Item   Sprite: Trash can                214 Flag: 60 03 Flag Use: No Use/Item Use
+Entry 1472: Type: Item   Sprite: Trash can                214 Flag: 61 03 Flag Use: No Use/Item Use
+Entry 1473: Type: Item   Sprite: Trash can                214 Flag: 62 03 Flag Use: No Use/Item Use
+Entry 1474: Type: Item   Sprite: Dalaam present           233 Flag: 63 03 Flag Use: No Use/Item Use
+Entry 1475: Type: Item   Sprite: Trash can                214 Flag: 64 03 Flag Use: No Use/Item Use
+Entry 1476: Type: Item   Sprite: Dalaam present           233 Flag: 65 03 Flag Use: No Use/Item Use
+Entry 1477: Type: Item   Sprite: Trash can                214 Flag: 66 03 Flag Use: No Use/Item Use
+Entry 1478: Type: Item   Sprite: Dalaam present           233 Flag: 67 03 Flag Use: No Use/Item Use
+Entry 1479: Type: Item   Sprite: Dalaam present           233 Flag: 68 03 Flag Use: No Use/Item Use
+Entry 1480: Type: Item   Sprite: Dalaam present           233 Flag: 69 03 Flag Use: No Use/Item Use
+Entry 1481: Type: Item   Sprite: Dalaam present           233 Flag: 6A 03 Flag Use: No Use/Item Use
+Entry 1482: Type: Item   Sprite: Dalaam present           233 Flag: 6B 03 Flag Use: No Use/Item Use
+Entry 1483: Type: Item   Sprite: Dalaam present           233 Flag: 6C 03 Flag Use: No Use/Item Use
+Entry 1484: Type: Item   Sprite: Dalaam present           233 Flag: 6D 03 Flag Use: No Use/Item Use
+Entry 1485: Type: Item   Sprite: Dalaam present           233 Flag: 6E 03 Flag Use: No Use/Item Use
+Entry 1486: Type: Item   Sprite: Dalaam present           233 Flag: 6F 03 Flag Use: No Use/Item Use
+Entry 1487: Type: Item   Sprite: Dalaam present           233 Flag: 70 03 Flag Use: No Use/Item Use
+Entry 1488: Type: Item   Sprite: Dalaam present           233 Flag: 71 03 Flag Use: No Use/Item Use
+Entry 1489: Type: Item   Sprite: Gift (present) box       195 Flag: 72 03 Flag Use: No Use/Item Use
+Entry 1490: Type: Item   Sprite: Gift (present) box       195 Flag: 73 03 Flag Use: No Use/Item Use
+Entry 1491: Type: Item   Sprite: Gift (present) box       195 Flag: 74 03 Flag Use: No Use/Item Use
+Entry 1492: Type: Item   Sprite: Gift (present) box       195 Flag: 75 03 Flag Use: No Use/Item Use
+Entry 1493: Type: Item   Sprite: Gift (present) box       195 Flag: 76 03 Flag Use: No Use/Item Use
+Entry 1494: Type: Item   Sprite: Gift (present) box       195 Flag: 77 03 Flag Use: No Use/Item Use
+Entry 1495: Type: Item   Sprite: Gift (present) box       195 Flag: 78 03 Flag Use: No Use/Item Use
+Entry 1496: Type: Item   Sprite: Gift (present) box       195 Flag: 79 03 Flag Use: No Use/Item Use
+Entry 1497: Type: Item   Sprite: Gift (present) box       195 Flag: 7A 03 Flag Use: No Use/Item Use
+Entry 1498: Type: Item   Sprite: Gift (present) box       195 Flag: 7B 03 Flag Use: No Use/Item Use
+Entry 1499: Type: Item   Sprite: Gift (present) box       195 Flag: 7C 03 Flag Use: No Use/Item Use
+Entry 1500: Type: Item   Sprite: Gift (present) box       195 Flag: 7D 03 Flag Use: No Use/Item Use
+Entry 1501: Type: Item   Sprite: Gift (present) box       195 Flag: 7E 03 Flag Use: No Use/Item Use
+Entry 1502: Type: Item   Sprite: Gift (present) box       195 Flag: 7F 03 Flag Use: No Use/Item Use
+Entry 1503: Type: Item   Sprite: Gift (present) box       195 Flag: 80 03 Flag Use: No Use/Item Use
+Entry 1504: Type: Item   Sprite: Gift (present) box       195 Flag: 81 03 Flag Use: No Use/Item Use
+Entry 1505: Type: Item   Sprite: Gift (present) box       195 Flag: 82 03 Flag Use: No Use/Item Use
+Entry 1506: Type: Item   Sprite: Gift (present) box       195 Flag: 83 03 Flag Use: No Use/Item Use
+Entry 1507: Type: Item   Sprite: Gift (present) box       195 Flag: 84 03 Flag Use: No Use/Item Use
+Entry 1508: Type: Item   Sprite: Gift (present) box       195 Flag: 85 03 Flag Use: No Use/Item Use
+Entry 1509: Type: Item   Sprite: Gift (present) box       195 Flag: 86 03 Flag Use: No Use/Item Use
+Entry 1510: Type: Item   Sprite: Gift (present) box       195 Flag: 87 03 Flag Use: No Use/Item Use
+Entry 1511: Type: Item   Sprite: Dalaam present           233 Flag: 88 03 Flag Use: No Use/Item Use
+Entry 1512: Type: Item   Sprite: Gift (present) box       195 Flag: 89 03 Flag Use: No Use/Item Use
+Entry 1513: Type: Item   Sprite: Gift (present) box       195 Flag: 8A 03 Flag Use: No Use/Item Use
+Entry 1514: Type: Item   Sprite: Gift (present) box       195 Flag: 8B 03 Flag Use: No Use/Item Use
+Entry 1515: Type: Item   Sprite: Gift (present) box       195 Flag: 8C 03 Flag Use: No Use/Item Use
+Entry 1516: Type: Item   Sprite: Gift (present) box       195 Flag: 8D 03 Flag Use: No Use/Item Use
+Entry 1517: Type: Item   Sprite: Gift (present) box       195 Flag: 8E 03 Flag Use: No Use/Item Use
+Entry 1518: Type: Item   Sprite: Gift (present) box       195 Flag: 8F 03 Flag Use: No Use/Item Use
+Entry 1519: Type: Item   Sprite: Trash can                214 Flag: 90 03 Flag Use: No Use/Item Use
+Entry 1520: Type: Item   Sprite: Trash can                214 Flag: 91 03 Flag Use: No Use/Item Use
+Entry 1521: Type: Item   Sprite: Trash can                214 Flag: 92 03 Flag Use: No Use/Item Use
+Entry 1522: Type: Item   Sprite: Trash can                214 Flag: 93 03 Flag Use: No Use/Item Use
+Entry 1523: Type: Item   Sprite: Trash can                214 Flag: 94 03 Flag Use: No Use/Item Use
+Entry 1524: Type: Item   Sprite: Petrified Royal Guard    322 Flag: 95 03 Flag Use: No Use/Item Use
+Entry 1525: Type: Item   Sprite: Petrified Royal Guard    322 Flag: 96 03 Flag Use: No Use/Item Use
+Entry 1526: Type: Item   Sprite: Petrified Royal Guard    322 Flag: 97 03 Flag Use: No Use/Item Use
+Entry 1527: Type: Item   Sprite: Petrified Royal Guard    322 Flag: 98 03 Flag Use: No Use/Item Use
+Entry 1528: Type: Item   Sprite: Petrified Royal Guard    322 Flag: 99 03 Flag Use: No Use/Item Use
+Entry 1529: Type: Item   Sprite: Petrified Royal Guard    322 Flag: 9A 03 Flag Use: No Use/Item Use
+Entry 1530: Type: Item   Sprite: Gift (present) box       195 Flag: 9B 03 Flag Use: No Use/Item Use
+Entry 1531: Type: Item   Sprite: Gift (present) box       195 Flag: 9C 03 Flag Use: No Use/Item Use
+Entry 1532: Type: Item   Sprite: Gift (present) box       195 Flag: 9D 03 Flag Use: No Use/Item Use
+Entry 1533: Type: Item   Sprite: Gift (present) box       195 Flag: 9E 03 Flag Use: No Use/Item Use
+Entry 1534: Type: Item   Sprite: Gift (present) box       195 Flag: 9F 03 Flag Use: No Use/Item Use
+Entry 1535: Type: Item   Sprite: Gift (present) box       195 Flag: A0 03 Flag Use: No Use/Item Use
+Entry 1536: Type: Item   Sprite: Gift (present) box       195 Flag: A1 03 Flag Use: No Use/Item Use
+Entry 1537: Type: Item   Sprite: Gift (present) box       195 Flag: A2 03 Flag Use: No Use/Item Use
+Entry 1538: Type: Item   Sprite: Gift (present) box       195 Flag: A3 03 Flag Use: No Use/Item Use
+Entry 1539: Type: Item   Sprite: Gift (present) box       195 Flag: A4 03 Flag Use: No Use/Item Use
+Entry 1540: Type: Item   Sprite: Gift (present) box       195 Flag: A5 03 Flag Use: No Use/Item Use
+Entry 1541: Type: Item   Sprite: Gift (present) box       195 Flag: A6 03 Flag Use: No Use/Item Use
+Entry 1542: Type: Item   Sprite: Dalaam present           233 Flag: A7 03 Flag Use: No Use/Item Use
+Entry 1543: Type: Item   Sprite: Dalaam present           233 Flag: A8 03 Flag Use: No Use/Item Use
+Entry 1544: Type: Item   Sprite: Dalaam present           233 Flag: A9 03 Flag Use: No Use/Item Use
+Entry 1545: Type: Item   Sprite: Dalaam present           233 Flag: AA 03 Flag Use: No Use/Item Use
+Entry 1546: Type: Item   Sprite: Dalaam present           233 Flag: AB 03 Flag Use: No Use/Item Use
+Entry 1547: Type: Item   Sprite: Dalaam present           233 Flag: AC 03 Flag Use: No Use/Item Use
+Entry 1548: Type: Item   Sprite: Dalaam present           233 Flag: AD 03 Flag Use: No Use/Item Use
+Entry 1549: Type: Item   Sprite: Gift (present) box       195 Flag: AE 03 Flag Use: No Use/Item Use
+Entry 1550: Type: Item   Sprite: Gift (present) box       195 Flag: AF 03 Flag Use: No Use/Item Use
+Entry 1551: Type: Item   Sprite: Gift (present) box       195 Flag: B0 03 Flag Use: No Use/Item Use
+Entry 1552: Type: Item   Sprite: Gift (present) box       195 Flag: B1 03 Flag Use: No Use/Item Use
+Entry 1553: Type: Item   Sprite: Gift (present) box       195 Flag: B2 03 Flag Use: No Use/Item Use
+Entry 1554: Type: Item   Sprite: Gift (present) box       195 Flag: B3 03 Flag Use: No Use/Item Use
+Entry 1555: Type: Item   Sprite: Gift (present) box       195 Flag: B4 03 Flag Use: No Use/Item Use
+Entry 1556: Type: Item   Sprite: Gift (present) box       195 Flag: B5 03 Flag Use: No Use/Item Use
+Entry 1557: Type: Item   Sprite: Gift (present) box       195 Flag: B6 03 Flag Use: No Use/Item Use
+Entry 1558: Type: Item   Sprite: Gift (present) box       195 Flag: B7 03 Flag Use: No Use/Item Use
+Entry 1559: Type: Item   Sprite: Gift (present) box       195 Flag: B8 03 Flag Use: No Use/Item Use
+Entry 1560: Type: Item   Sprite: Gift (present) box       195 Flag: B9 03 Flag Use: No Use/Item Use
+Entry 1561: Type: Item   Sprite: Gift (present) box       195 Flag: BA 03 Flag Use: No Use/Item Use
+Entry 1562: Type: Item   Sprite: Gift (present) box       195 Flag: BB 03 Flag Use: No Use/Item Use
+Entry 1563: Type: Item   Sprite: Gift (present) box       195 Flag: BC 03 Flag Use: No Use/Item Use
+Entry 1564: Type: Item   Sprite: Gift (present) box       195 Flag: BD 03 Flag Use: No Use/Item Use
+Entry 1565: Type: Item   Sprite: Gift (present) box       195 Flag: BE 03 Flag Use: No Use/Item Use
+Entry 1566: Type: Item   Sprite: Gift (present) box       195 Flag: BF 03 Flag Use: No Use/Item Use
+Entry 1567: Type: Item   Sprite: Trash can                214 Flag: C0 03 Flag Use: No Use/Item Use
+Entry 1568: Type: Item   Sprite: Li'l gift box            033 Flag: C1 03 Flag Use: No Use/Item Use
+Entry 1569: Type: Item   Sprite: Li'l gift box            033 Flag: C2 03 Flag Use: No Use/Item Use
+Entry 1570: Type: Item   Sprite: Li'l gift box            033 Flag: C3 03 Flag Use: No Use/Item Use
+Entry 1571: Type: Item   Sprite: Li'l gift box            033 Flag: C4 03 Flag Use: No Use/Item Use
+Entry 1572: Type: Item   Sprite: Li'l gift box            033 Flag: C5 03 Flag Use: No Use/Item Use
+Entry 1573: Type: Item   Sprite: Gift (present) box       195 Flag: C6 03 Flag Use: No Use/Item Use
+Entry 1574: Type: Item   Sprite: Gift (present) box       195 Flag: C7 03 Flag Use: No Use/Item Use
+Entry 1575: Type: Item   Sprite: Gift (present) box       195 Flag: C8 03 Flag Use: No Use/Item Use
+Entry 1576: Type: Item   Sprite: Gift (present) box       195 Flag: C9 03 Flag Use: No Use/Item Use
+Entry 1577: Type: Item   Sprite: Gift (present) box       195 Flag: CA 03 Flag Use: No Use/Item Use
+Entry 1578: Type: Item   Sprite: Gift (present) box       195 Flag: CB 03 Flag Use: No Use/Item Use
+Entry 1579: Type: Item   Sprite: Gift (present) box       195 Flag: CC 03 Flag Use: No Use/Item Use
+Entry 1580: Type: Item   Sprite: Gift (present) box       195 Flag: CD 03 Flag Use: No Use/Item Use
+Entry 1581: Type: Item   Sprite: Gift (present) box       195 Flag: CE 03 Flag Use: No Use/Item Use
+Entry 1582: Type: Item   Sprite: Gift (present) box       195 Flag: CF 03 Flag Use: No Use/Item Use

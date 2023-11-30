@@ -1,0 +1,10 @@
+offset x - 0
+offset y - 0
+widening radius - 1
+blur radius - 1
+
+color
+R: 0
+G: 196
+B: 206
+A: 255

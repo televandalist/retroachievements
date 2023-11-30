@@ -1,0 +1,183 @@
+Present	Ness' House	Cracked Bat
+Present	Onett	Bread Roll
+Trash	Onett	Hamburger
+Trash	Onett	Empty
+Trash	Onett	Can of Fruit Juice
+Present	Onett	Hamburger
+Present	Giant Step	Hamburger
+Present	Giant Step	Cold Remedy
+Present	Giant Step	Skip Sandwich
+Present	Twoson	Skip Sandwich
+Present	Peaceful Rest Valley	Hard Hat
+Present	Peaceful Rest Valley	Travel Charm
+Present	Peaceful Rest Valley	Cup of Lifenoodles
+Present	Peaceful Rest Valley	Luck capsule
+Present	Peaceful Rest Valley	Bomb
+Present	Peaceful Rest Valley	Croissant
+Present	Cultist House	Croissant
+Present	Cultist House	Skip sandwich
+Present	Lilliput Step Cave	PSI caramel
+Present	Lilliput Step Cave	Croissant
+Present	Lilliput Step Cave	Great charm
+Trash	Threed	Insecticide Spray
+Trash	Threed	Teddy Bear
+Trash	Threed	Skip sandwich
+Trash	Threed	Empty
+Present	Snowwood	Cookies
+Present	Snowwood	Cookies
+Present	Snowwood	Cookies
+Present	Snowwood	Cookies
+Present	Snowwood	Cookies
+Present	Snowwood	Cookies
+Present	Snowwood	Cookies
+Locker	Snowwood	Pop Gun
+Locker	Snowwood	Broken Air Gun
+Locker	Snowwood	Holmes Hat
+Present	Brick Road	Stun Gun
+Present	Brick Road	Croissant
+Present	Brick Road	Bread Roll
+Present	Brick Road	Insecticide Spray
+Present	Brick Road	Broken Iron
+Present	Rainy Circle Cave	Hamburger
+Present	Rainy Circle Cave	Bottle Rocket
+Present	Rainy Circle Cave	Cheap Bracelet
+Casket	Threed Graveyard	Skip Sandwich DX
+Casket	Threed Graveyard	Silver Bracelet
+Present	Grapefruit Falls	Bomb
+Present	Grapefruit Falls	Protein Drink
+Present	Saturn Valley Cave	Bottle Rocket
+Trash	Saturn Valley	
+Trash	Saturn Valley	
+Trash	Saturn Valley	
+Present	Saturn Valley	Rust Promoter
+Trash	Belch's Factory	Vital Capsule
+Trash	Belch's Factory	HP-Sucker
+Trash	Belch's Factory	Calorie Stick
+Trash	Belch's Factory	Bomb
+Trash	Belch's Factory	Broken Laser
+Trash	Belch's Factory	IQ Capsule
+Present	Milky Well Cave	Coin of Slumber
+Present	Dusty Dunes Desert	Skip Sandwich DX
+Present	Dusty Dunes Desert	Double Burger
+Present	Dusty Dunes Desert	Double Burger
+Present	Dusty Dunes Desert	Cup of Lifenoodles
+Present	Dusty Dunes Desert	PSI caramel
+Present	Dusty Dunes Desert	Sudden Guts Pill
+Present	Dusty Dunes Desert	$1000
+Present	Dusty Dunes Desert	Big Bottle Rocket
+Chest	Fourside	Rabbits' Carrot
+Present	Gold Mine	Coin of Defense
+Present	Gold Mine	Calorie Stick
+Present	Gold Mine	Secret Herb
+Present	Gold Mine	IQ Capsule
+Present	Gold Mine	Guts Capsule
+Present	Gold Mine	Teddy Bear
+Present	Gold Mine	Picnic Lunch
+Present	Gold Mine	Croissant
+Present	Gold Mine	Bomb
+Present	Gold Mine	Super Bomb
+Present	Gold Mine	PSI caramel
+Present	Gold Mine	Platinum Band
+Present	Gold Mine	Luck Capsule
+Present	Gold Mine	Big Bottle Rocket
+Present	Moonside	Double Burger
+Present	Moonside	Protein Drink
+Present	Moonside	Handbag Strap
+Present	Moonside	Night Pendant
+Present	Moonside	Secret Herb
+Chest	Monkey Cave	Hamburger
+Chest	Monkey Cave	Picnic Lunch
+Chest	Monkey Cave	Bag of Dragonite
+Chest	Monkey Cave	Cup of Lifenoodles
+Chest	Monkey Cave	Brain Food Lunch
+Chest	Monkey Cave	Hamburger
+Chest	Monkey Cave	Fire Pendant
+Chest	Monkey Cave	Ruler
+Chest	Monkey Cave	Hamburger
+Chest	Monkey Cave	Protein Drink
+Chest	Monkey Cave	Wet Towel
+Chest	Monkey Cave	Pizza
+Chest	Monkey Cave	Pizza
+Trash	Monkey Cave	Neutralizer
+Trash	Monkey Cave	Broken Tube
+Present	Monotoli Building	Vital Capsule
+Present	Monotoli Building	Sudden Guts Pill
+Chest	Dalaam	Brain Stone
+Chest	Dalaam	Brain Food Lunch
+Chest	Dalaam	Cup of Lifenoodles
+Chest	Dalaam	Bottle of Water
+Chest	Dalaam	Bottle of Water
+Chest	Dalaam	Bowl of Rice Gruel
+Chest	Dalaam	Jar of Delisauce
+Trash	Fourside Sewers	Croissant
+Trash	Fourside Sewers	Broken Iron
+Trash	Fourside Sewers	Broken Spray Can
+Trash	Fourside Sewers	Rust Promoter DX
+Trash	Fourside Sewers	Broken Bazooka
+Present	Pink Cloud Cave	Bracer of Kings
+Present	Pink Cloud Cave	Rock Candy
+Present	Pink Cloud Cave	Sudden Guts Pill
+Casket	Pyramid	Viper
+Casket	Pyramid	Bag of Dragonite
+Casket	Pyramid	Diamond Band
+Casket	Pyramid	Speed Capsule
+Casket	Pyramid	Cup of Lifenoodles
+Casket	Pyramid	Rain Pendant
+Present	Dungeon Man	Wet Towel
+Present	Dungeon Man	PSI caramel
+Present	Dungeon Man	Sudden Guts Pill
+Present	Dungeon Man	#10
+Present	Dungeon Man	Pizza
+Present	Dungeon Man	IQ Capsule
+Present	Dungeon Man	Cup of Lifenoodles
+Present	Dungeon Man	Super Plush Bear
+Present	Dungeon Man	Snake
+Present	Dungeon Man	$5
+Present	Dungeon Man	Talisman Ribbon
+Present	Dungeon Man	Molokheiya Soup
+Present	Deep Darkness	Rock Candy
+Present	Deep Darkness	Souvenir Coin
+Present	Deep Darkness	Beef Jerky
+Present	Deep Darkness	IQ Capsule
+Present	Deep Darkness	Cup of Lifenoodles
+Present	Deep Darkness	Banana
+Magic Truffle	Deep Darkness
+Magic Truffle	Deep Darkness
+Magic Truffle	Deep Darkness
+Magic Truffle	Deep Darkness
+Magic Truffle	Deep Darkness
+Trash	Tenda Village	Death Ray
+Present	Stonehenge	Spicy Jerky
+Present	Stonehenge	Cup of Lifenoodles
+Present	Stonehenge	Guts Capsule
+Present	Stonehenge	Broken Harmonica
+Present	Stonehenge	PSI caramel
+Present	Stonehenge	Pixie's Bracelet
+Present	Stonehenge	Broken Trumpet
+Present	Stonehenge	Speed Capsule
+Present	Lumine Hall	Luck Capsule
+Present	Lumine Hall	Rabbit's Foot
+Present	Lumine Hall	Cup of Lifenoodles
+Present	Lumine Hall	Diadem of Kings
+Present	Lumine Hall	Luxury Jerky
+Present	Lumine Hall	Bottle of DX Water
+Present	Lumine Hall	Rock Candy
+Present	Lumine Hall	Super Bomb
+Present	Lumine Hall	IQ Capsule
+Present	Lost Underworld	Guts Capsule
+Present	Lost Underworld	Cloak of Kings
+Present	Lost Underworld	Brain Food Lunch
+Present	Lost Underworld	Sea Pendant
+Present	Lost Underworld	Horn of Life
+Present	Cave of the Past	Horn of Life
+Present	Fire Spring	Bag of Dragonite
+Present	Fire Spring	Moon Beam Gun
+Present	Fire Spring	Cherub's Band
+Present	Fire Spring	Horn of Life
+Present	Fire Spring	Speed Capsule
+Present	Magicant	Magicant Bat
+Present	Magicant	Magic Tart
+Present	Magicant	Goddess Band
+Present	Magicant	Bag of Dragonite
+Present	Magicant	PSI Caramel
+Present	Cave of the Past	Legendary Bat

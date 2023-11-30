@@ -1,0 +1,198 @@
+Event Flags, for use with [04  ], [05  ], and [06      00]
+This is by no means a complete list, but it contains stuff for the beginning of the game as well as other interesting things.
+
+Event Flags
+04 02 00 = Default "Say something different" flag.  It's universal, so if it's set for one person, it's set for everybody. 
+04 05 02 = This keeps the lights on in Ness' house once you turn them on.
+04 0B 00 = Enemies will not appear
+04 0B 02 = Removes Onett Townspeople / Enemies south of Ness' house. 
+04 0D 00 = Returns the Happy Happy Village colors to normal, and removes Paula from the cabin.
+04 12 02 = Removes Tracy from her bedroom
+04 14 02 = Music for Ness' bedroom will be set as "Meteor Fall"
+04 15 02 = Meteor Crash sfx will be played upon entering Ness' room if unset
+04 20 01 = Set when the Hawk Eye lights up Deep Darkness.
+04 27 01 = Pokey will be banging down the door (this does not affect music.)
+04 40 00 = Text changes after defeating Frank
+04 44 00 = Text changes after defeating Carpainter
+04 3C 00 = Everdred has passed out in the street in Fourside, like the stinky drunkard he is.
+04 49 00 = Signals the end-game conditions after Giygas is gone.
+04 5E 00 = Pokey won't tell you to talk to your mom.
+04 60 00 = Marks that Pokey has made his speech, and told you to talk to your mom.
+04 7A 02 = Paula is captured by Carpainter, and begins calling Ness telepathically. 
+04 BE 00 = Titanic Ant is defeated
+04 BF 00 = Mondo Mole is defeated
+04 C0 00 = Trillionage Sprout is defeated
+04 C1 00 = Shrooom! is defeated
+04 C2 00 = Plague Rat of Doom is defeated
+04 C3 00 = Thunder and Storm are defeated
+04 C4 00 = Electro Specter is defeated
+04 C5 00 = Carbon Dog and Diamond Dog are defeated
+04 CB 00 = Set after you learn the Stoic Club’s phone number 
+04 D4 01 = You will be locked out of the Minches' house.
+04 D5 01 = Cop cars/roadblocks will not appear near Ness' house.
+04 D6 01 = Tracy says something different right after the beginning 
+04 D7 01 = Mom doesn't bother you about getting dressed at the beginning. 
+04 D8 01 = Text changes after you talk to Pokey on the hill. 
+04 D9 01 = Tracy will appear in the hall, and the Door Knocking music will be started in Ness' room.
+04 DA 01 = Mom appears outside the front door.
+04 DC 01 = When set, roadblocks appear on the hill.
+04 DD 01 = Ness will be in bed, sleeping.
+04 ED 02 = Wears pajamas instead of normal clothes. 
+04 EE 02 = Triggers Mom's message when you run out of the house before talking to her. 
+04 EF 02 = During Chaos Theater concert, the people will vanish.  (Certain sprite problems arise onstage if they don't.) 
+
+// Triggered when Frank is defeated
+04 40 00 - Guard will let you pass to see Pirkle.  Base "Frank is dead" event
+04 B9 02 - Not text-based, whatever the frell it is.  Maybe to keep Frankystein sprite away.
+
+04 6B 01 - Affects one Shark - "•Who are you talking to?"  ...WTF?
+04 6C 01 - Ditto affect to the other Shark...  freakin' weird.
+05 6D 01 - DITTO to first Shark inside...  But it unsets it.  It's set after he gets wasted.
+
+
+// Triggered when Titanic Ant is defeated
+04 BE 00 - Set after Titanic Ant is defeated - I dunno.
+04 B6 00 - Basic "Been there, done that."  Strong is ready to take you in.
+04 24 00 - Cop shows up.  Automatically unsets when you see him.
+04 C1 01 - Unknown... ---------------------------|___May be Captain Strong
+04 C2 01 - Unknown, but unset after Cop Fight ---|
+04 26 00 - I dunno.
+
+// Cop Stuff
+04 27 00 - Cop is waiting at the station
+05 26 00 05 27 00 - Unset cops?
+05 21 01 05 22 01 05 23 01 05 24 01 05 25 01 - Unset... something... - done when Strong takes you to the back room
+
+// Triggered when Captain Strong is defeated
+04 69 00 - Basic "Strong got wasted" code.
+05 C2 01 - See above.
+05 23 00 - Unknown.
+
+// These codes are set when you pick up Picky.  Notice 25 00 has something to do with the Cop Fight as well...
+05 25 00 = ?
+05 E6 02 = ?
+
+// Here's a short list by michael_cayer that overviews present boxes.  If the flag is set, the box is open already.  Refill it with [05  ]!
+
+ONETT:
+
+04 20 03 - Onett hilltop. (Bread roll) 
+04 21 03 - Garbage can next to Burger Shop. (Hamburger) 
+04 22 03 - Box on route from Onett to Twoson. (Hamburger) 
+04 23 03 - Trash can east of Hotel. (Empty) 
+04 24 03 - Trash can next to Arcade, guarded by a Shark. (Can of fruit juice) 
+04 25 03 - Box in Tracy's room. (Cracked bat) 
+04 26 03 - Third box in the Giant Step caves, closest to the Titanic Ant. (Hamburger) 
+04 27 03 - First box in the Giant Step caves, closest to the shack. (Skip sandwich) 
+04 28 03 - Second box in the Giant Step caves. (Cold remedy) 
+
+TWOSON: 
+
+04 29 03 - Box on the side of the road connecting Twoson and Threed. (Skip sandwich) 
+04 2A 03 - Box in Paula's room at the Preschool. (Teddy bear) 
+04 2B 03 - Trash can in Apple Kid's house. (Broken machine) 
+
+HHV: 
+
+04 2C 03 - Box in the HH-HQ. (Croissant?) 
+04 2D 03 - Another box in the HH-HQ. (Skip sandwich?) 
+
+PRV: 
+
+04 2E 03 - Box east of the busted bridge. (Luck capsule) 
+04 2F 03 - Box north of the pencil statue. (Hard hat) 
+04 30 03 - ??? 
+04 31 03 - Box east of the pencil statue. (Travel charm) 
+04 32 03 - ??? 
+04 33 03 - Box south of the entrance to the cave that leads to HHV. (Cup of lifenoodles) 
+
+LILLIPUT STEPS: 
+
+04 34 03 - Box by Mondo Mole (PSI caramel) 
+04 35 03 - Box south of entrance. (Great charm) 
+04 36 03 - Box to the far east of the entrance. (Croissant) 
+
+THREED:
+
+04 37 03 - Trash can in the Cemetery. (Insecticide spray)
+04 38 03 - Trash can outside the Hint Man's office. (Teddy bear)
+04 39 03 - Trash can outside the Drugstore/Mach Pizza branch. (Empty)
+04 3A 03 - Trash can east of the Bakery. (Skip sandwich)
+04 3B 03 - First coffin in the Underground Road. (Skip sandwich DX)
+04 3C 03 - Second coffin in the Underground Road. (Silver bracelet)
+
+SNOW WOOD BOARDING SCHOOL:
+
+04 3D 03 - Box in Snow Wood (Cookie)
+04 3E 03 - Another box in Snow Wood (Cookie)
+04 3F 03 - Another box in Snow Wood (Cookie)
+04 40 03 - Another box in Snow Wood (Cookie)
+04 41 03 - Another box in Snow Wood (Cookie)
+04 42 03 - Another box in Snow Wood (Cookie)
+04 43 03 - Another box in Snow Wood (Cookie)
+
+WINTERS:
+
+04 44 03 - Box in Dr Andonuts lab (Broken pipe)
+04 45 03 - A box in the Brick Road maze (Broken iron)
+04 46 03 - A box in the Brick Road maze (Stun gun)
+04 47 03 - A box in the Brick Road maze (Insecticide spray)
+04 48 03 - A box in the Brick Road maze (Croissant)
+04 49 03 - A box in the Brick Road maze (Bread roll)
+04 4A 03 - Box east of the 4th Shining Spot (Cheap bracelet)
+04 4B 03 - Box below the 4th Shining Spot (Bottle rocket)
+04 4C 03 - First box in the Pond Cave (Hamburger)
+
+STONEHENGE BASE: 
+First part of the base has 5 segments, then the Starman Super area, then the flashing-lights room.
+
+04 4D 03 - Box south of the end of the flashing-lights room. (Broken trumpet)
+04 4E 03 - Box in the fourth segment. (Guts capsule)
+04 4F 03 - Box east of the entrance to the Starman Super area. (Broken harmonica)
+04 50 03 - Box southeast of the entrance to the Starman Super area. (PSI Caramel)
+04 51 03 - Box in the flashing-lights room. (Pixie bracelet)
+04 52 03 - Box near the end of the fifth segment. (Cup of lifenoodles)
+04 53 03 - Box north of the end of the flashing-lights room. (Speed capsule)
+04 54 03 - Box in the third segment. (Spicy jerky)
+
+BELCH BASE:
+
+04 55 03 - Trash can in the second off-the-main-path room. (Broken laser)
+04 56 03 - Trash can in the first off-the-main-path room. (Bomb)
+04 57 03 - Trash can in the third off-the-main-path room. (HP-sucker)
+04 58 03 - Trash can in the third off-the-main-path room. (Vital capsule)
+04 59 03 - Trash can in the third off-the-main-path room. (Calorie stick)
+04 5A 03 - Trash can in the second off-the-main-path room. (IQ capsule)
+
+MILKY WELL & SATURN VALLEY:
+
+04 5B 03 - Box northwest of the 3rd Shining Spot (Coin of Slumber)
+04 5C 03 - Box south of Grapefruit Falls (Bomb)
+04 5D 03 - Box north of the end of the Underground Road (Protein Drink)
+04 5E 03 - Box in the cave to Saturn Valley (Bottle rocket)
+04 5F 03 - Box on top of the ladder in Saturn Valley (Rust promoter)
+04 60 03 - Trash can in a cave in Saturn Valley (Sudden guts pill)
+04 61 03 - Trash can in a cave in Saturn Valley (Protractor)
+04 62 03 - Trash can in a cave in Saturn Valley (Broken spray can)
+
+MONKEYS:
+
+The monkeys are in pairs because two are in each room. The 04 will make them act like you gave them something, changing it to 05 will make them act like you haven't. The stuff in brackets is the item you would normally give the monkey to make it move.
+
+04 C3 01 - Monkey (Skip sandwich)
+04 C4 01 - Monkey (Picnic lunch)
+
+04 C5 01 - Monkey (Wet towel)
+04 C6 01 - Monkey (Pizza)
+
+04 C7 01 - Monkey (Protein drink)
+04 C8 01 - Monkey (Pizza)
+
+04 C9 01 - Monkey (Hamburger)
+04 CA 01 - Monkey (Hamburger)
+
+04 CB 01 - Monkey (King banana)
+04 CC 01 - Monkey (Hamburger)
+
+04 CD 01 - Monkey (Fresh egg)
+04 CE 01 - Monkey (Ruler)
