@@ -1,0 +1,59 @@
+
++++Encounter Sets for VF06+++
+
+==Encounter Set 1 - [225, 38]===
+
+Formation 1 - 18.2% - [74, 37]  
+Tiger --- Tiger --- --- --- 
+
+Formation 2 - 13.6% - [111, 37]  
+Tiger Tiger Tiger --- --- --- 
+
+Formation 3 - 4.5% - [148, 37]  
+Tiger --- Tiger Tiger --- Tiger 
+
+Formation 4 - 27.3% - [108, 36]  
+TenTen RanRan RinRin --- --- --- 
+
+Formation 5 - 13.6% - [76, 38]  
+Samurai --- Samurai --- --- --- 
+
+Formation 6 - 13.6% - [114, 38]  
+Samurai Samurai Samurai --- --- --- 
+
+Formation 7 - 4.5% - [190, 38]  
+Samurai Samurai Samurai Samurai --- Samurai 
+
+Formation 8 - 4.5% - [225, 38]  
+Tiger Tiger Tiger Samurai Samurai Samurai 
+
+
++++Encounter Sets for VF07+++
+
+==Encounter Set 1 - [225, 38]===
+
+Formation 1 - 18.2% - [74, 37]  
+Tiger --- Tiger --- --- --- 
+
+Formation 2 - 13.6% - [111, 37]  
+Tiger Tiger Tiger --- --- --- 
+
+Formation 3 - 4.5% - [148, 37]  
+Tiger --- Tiger Tiger --- Tiger 
+
+Formation 4 - 27.3% - [108, 36]  
+TenTen RanRan RinRin --- --- --- 
+
+Formation 5 - 13.6% - [76, 38]  
+Samurai --- Samurai --- --- --- 
+
+Formation 6 - 13.6% - [114, 38]  
+Samurai Samurai Samurai --- --- --- 
+
+Formation 7 - 4.5% - [190, 38]  
+Samurai Samurai Samurai Samurai --- Samurai 
+
+Formation 8 - 4.5% - [225, 38]  
+Tiger Tiger Tiger Samurai Samurai Samurai 
+
+

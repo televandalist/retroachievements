@@ -1,0 +1,209 @@
+
++++Encounter Sets for VI03+++
+
+==Encounter Set 1 - [265, 53]===
+
+Formation 1 - 100.0% - [265, 53]  
+M-Knight M-Knight M-Knight M-Knight --- M-Knight 
+
+
++++Encounter Sets for VI06+++
+
+==Encounter Set 1 - [318, 53]===
+
+Formation 1 - 9.5% - [104, 52]  
+Cockatrice --- Cockatrice --- --- --- 
+
+Formation 2 - 9.5% - [156, 52]  
+Cockatrice Cockatrice Cockatrice --- --- --- 
+
+Formation 3 - 4.8% - [260, 52]  
+Cockatrice Cockatrice Cockatrice Cockatrice --- Cockatrice 
+
+Formation 4 - 9.5% - [106, 53]  
+Hippogriff --- Hippogriff --- --- --- 
+
+Formation 5 - 9.5% - [159, 53]  
+Hippogriff Hippogriff Hippogriff --- --- --- 
+
+Formation 6 - 4.8% - [262, 53]  
+Cockatrice Cockatrice Cockatrice Hippogriff --- Hippogriff 
+
+Formation 7 - 9.5% - [204, 51]  
+Highlands Highlands Highlands --- Highlands --- 
+
+Formation 8 - 9.5% - [204, 51]  
+Highlands --- Highlands Highlands --- Highlands 
+
+Formation 9 - 9.5% - [306, 51]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 10 - 9.5% - [106, 53]  
+M-Knight --- M-Knight --- --- --- 
+
+Formation 11 - 9.5% - [159, 53]  
+M-Knight M-Knight M-Knight --- --- --- 
+
+Formation 12 - 4.8% - [318, 53]  
+M-Knight M-Knight M-Knight M-Knight M-Knight M-Knight 
+
+
++++Encounter Sets for VI08+++
+
+==Encounter Set 1 - [318, 53]===
+
+Formation 1 - 5.6% - [104, 52]  
+Cockatrice --- Cockatrice --- --- --- 
+
+Formation 2 - 5.6% - [156, 52]  
+Cockatrice Cockatrice Cockatrice --- --- --- 
+
+Formation 3 - 5.6% - [260, 52]  
+Cockatrice Cockatrice Cockatrice Cockatrice --- Cockatrice 
+
+Formation 4 - 5.6% - [106, 53]  
+Hippogriff --- Hippogriff --- --- --- 
+
+Formation 5 - 5.6% - [159, 53]  
+Hippogriff Hippogriff Hippogriff --- --- --- 
+
+Formation 6 - 5.6% - [262, 53]  
+Cockatrice Cockatrice Cockatrice Hippogriff --- Hippogriff 
+
+Formation 7 - 11.1% - [204, 51]  
+Highlands Highlands Highlands --- Highlands --- 
+
+Formation 8 - 11.1% - [204, 51]  
+Highlands --- Highlands Highlands --- Highlands 
+
+Formation 9 - 11.1% - [306, 51]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 10 - 11.1% - [106, 53]  
+M-Knight --- M-Knight --- --- --- 
+
+Formation 11 - 11.1% - [159, 53]  
+M-Knight M-Knight M-Knight --- --- --- 
+
+Formation 12 - 11.1% - [318, 53]  
+M-Knight M-Knight M-Knight M-Knight M-Knight M-Knight 
+
+
+==Encounter Set 3 - [265, 53]===
+
+Formation 1 - 100.0% - [265, 53]  
+M-Knight M-Knight M-Knight M-Knight --- M-Knight 
+
+
++++Encounter Sets for VI13+++
+
+==Encounter Set 1 - [210, 37]===
+
+Formation 1 - 11.8% - [74, 37]  
+HawkMan --- HawkMan --- --- --- 
+
+Formation 2 - 11.8% - [111, 37]  
+HawkMan HawkMan HawkMan --- --- --- 
+
+Formation 3 - 5.9% - [185, 37]  
+HawkMan HawkMan HawkMan HawkMan --- HawkMan 
+
+Formation 4 - 17.6% - [102, 34]  
+Spiker Spiker Spiker --- --- --- 
+
+Formation 5 - 5.9% - [204, 34]  
+Spiker Spiker Spiker Spiker Spiker Spiker 
+
+Formation 6 - 11.8% - [140, 35]  
+Assassin --- Assassin Assassin --- Assassin 
+
+Formation 7 - 11.8% - [210, 35]  
+Assassin Assassin Assassin Assassin Assassin Assassin 
+
+Formation 8 - 5.9% - [72, 36]  
+Pixie --- Pixie --- --- --- 
+
+Formation 9 - 5.9% - [144, 36]  
+Pixie --- Pixie Pixie --- Pixie 
+
+Formation 10 - 11.8% - [210, 36]  
+Spiker Spiker Spiker Pixie Pixie Pixie 
+
+
+==Encounter Set 2 - [330, 55]===
+
+Formation 1 - 5.9% - [156, 52]  
+SkyKnight SkyKnight SkyKnight --- --- --- 
+
+Formation 2 - 11.8% - [208, 52]  
+SkyKnight SkyKnight SkyKnight --- SkyKnight --- 
+
+Formation 3 - 5.9% - [312, 52]  
+SkyKnight SkyKnight SkyKnight SkyKnight SkyKnight SkyKnight 
+
+Formation 4 - 11.8% - [159, 53]  
+Leathercut Leathercut Leathercut --- --- --- 
+
+Formation 5 - 11.8% - [265, 53]  
+Leathercut Leathercut Leathercut Leathercut --- Leathercut 
+
+Formation 6 - 11.8% - [162, 54]  
+IronClaw IronClaw IronClaw --- --- --- 
+
+Formation 7 - 11.8% - [324, 54]  
+IronClaw IronClaw IronClaw IronClaw IronClaw IronClaw 
+
+Formation 8 - 5.9% - [165, 55]  
+Pixie Pixie Pixie --- --- --- 
+
+Formation 9 - 17.6% - [330, 55]  
+Pixie Pixie Pixie Pixie Pixie Pixie 
+
+Formation 10 - 5.9% - [327, 55]  
+IronClaw IronClaw IronClaw Pixie Pixie Pixie 
+
+
++++Encounter Sets for WI+++
+
+==Encounter Set 1 - [210, 35]===
+
+Formation 1 - 15.8% - [70, 35]  
+Phantom --- Phantom --- --- --- 
+
+Formation 2 - 15.8% - [105, 35]  
+Phantom Phantom Phantom --- --- --- 
+
+Formation 3 - 10.5% - [140, 35]  
+Phantom --- Phantom Phantom --- Phantom 
+
+Formation 4 - 5.3% - [210, 35]  
+Phantom Phantom Phantom Phantom Phantom Phantom 
+
+Formation 5 - 21.1% - [68, 34]  
+PinkBird --- PinkBird --- --- --- 
+
+Formation 6 - 21.1% - [102, 34]  
+PinkBird PinkBird PinkBird --- --- --- 
+
+Formation 7 - 10.5% - [136, 34]  
+PinkBird PinkBird PinkBird --- PinkBird --- 
+
+
+==Encounter Set 2 - [306, 52]===
+
+Formation 1 - 37.5% - [150, 50]  
+Shiu Lin Fei Yu Li Lan --- --- --- 
+
+Formation 2 - 25.0% - [104, 52]  
+BlackTiger --- BlackTiger --- --- --- 
+
+Formation 3 - 12.5% - [156, 52]  
+BlackTiger BlackTiger BlackTiger --- --- --- 
+
+Formation 4 - 12.5% - [208, 52]  
+BlackTiger BlackTiger BlackTiger --- BlackTiger --- 
+
+Formation 5 - 12.5% - [306, 52]  
+BlackTiger BlackTiger BlackTiger Shiu Lin Fei Yu Li Lan 
+
+

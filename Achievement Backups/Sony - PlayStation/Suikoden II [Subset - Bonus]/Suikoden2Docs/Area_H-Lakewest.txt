@@ -1,0 +1,135 @@
+
++++Encounter Sets for VH04+++
+
+==Encounter Set 1 - [168, 29]===
+
+Formation 1 - 13.3% - [54, 27]  
+Siren --- Siren --- --- --- 
+
+Formation 2 - 6.7% - [108, 27]  
+Siren --- Siren Siren --- Siren 
+
+Formation 3 - 13.3% - [87, 29]  
+Shadow Shadow Shadow --- --- --- 
+
+Formation 4 - 6.7% - [116, 29]  
+Shadow Shadow Shadow --- Shadow --- 
+
+Formation 5 - 6.7% - [141, 29]  
+Shadow Shadow Shadow Siren --- Siren 
+
+Formation 6 - 13.3% - [56, 28]  
+DevilEye --- DevilEye --- --- --- 
+
+Formation 7 - 6.7% - [84, 28]  
+DevilEye DevilEye DevilEye --- --- --- 
+
+Formation 8 - 6.7% - [140, 28]  
+DevilEye DevilEye DevilEye DevilEye --- DevilEye 
+
+Formation 9 - 13.3% - [56, 28]  
+LandShark --- LandShark --- --- --- 
+
+Formation 10 - 6.7% - [84, 28]  
+LandShark LandShark LandShark --- --- --- 
+
+Formation 11 - 6.7% - [168, 28]  
+LandShark LandShark LandShark LandShark LandShark LandShark 
+
+
++++Encounter Sets for VH10+++
+
+==Encounter Set 1 - [160, 32]===
+
+Formation 1 - 23.1% - [64, 32]  
+EagleMan --- EagleMan --- --- --- 
+
+Formation 2 - 23.1% - [96, 32]  
+EagleMan EagleMan EagleMan --- --- --- 
+
+Formation 3 - 7.7% - [160, 32]  
+EagleMan EagleMan EagleMan EagleMan --- EagleMan 
+
+Formation 4 - 23.1% - [31, 31]  
+--- Mirage --- --- --- --- 
+
+Formation 5 - 15.4% - [62, 31]  
+Mirage --- Mirage --- --- --- 
+
+Formation 6 - 7.7% - [93, 31]  
+Mirage Mirage Mirage --- --- --- 
+
+
++++Encounter Sets for VH15+++
+
+==Encounter Set 1 - [168, 29]===
+
+Formation 1 - 13.3% - [54, 27]  
+----- --- ----- --- --- --- 
+
+Formation 2 - 6.7% - [108, 27]  
+----- --- ----- ----- --- ----- 
+
+Formation 3 - 13.3% - [87, 29]  
+9--0 9--0 9--0 --- --- --- 
+
+Formation 4 - 6.7% - [116, 29]  
+9--0 9--0 9--0 --- 9--0 --- 
+
+Formation 5 - 6.7% - [141, 29]  
+9--0 9--0 9--0 ----- --- ----- 
+
+Formation 6 - 13.3% - [56, 28]  
+----- --- ----- --- --- --- 
+
+Formation 7 - 6.7% - [84, 28]  
+----- ----- ----- --- --- --- 
+
+Formation 8 - 6.7% - [140, 28]  
+----- ----- ----- ----- --- ----- 
+
+Formation 9 - 13.3% - [56, 28]  
+---9--5 --- ---9--5 --- --- --- 
+
+Formation 10 - 6.7% - [84, 28]  
+---9--5 ---9--5 ---9--5 --- --- --- 
+
+Formation 11 - 6.7% - [168, 28]  
+---9--5 ---9--5 ---9--5 ---9--5 ---9--5 ---9--5 
+
+
++++Encounter Sets for WH+++
+
+==Encounter Set 1 - [163, 33]===
+
+Formation 1 - 14.3% - [81, 27]  
+Spikebeak Spikebeak Spikebeak --- --- --- 
+
+Formation 2 - 14.3% - [54, 27]  
+Spikebeak --- Spikebeak --- --- --- 
+
+Formation 3 - 7.1% - [81, 27]  
+Spikebeak Spikebeak Spikebeak --- --- --- 
+
+Formation 4 - 7.1% - [108, 27]  
+Spikebeak --- Spikebeak Spikebeak --- Spikebeak 
+
+Formation 5 - 14.3% - [52, 26]  
+Rockadillo --- Rockadillo --- --- --- 
+
+Formation 6 - 14.3% - [78, 26]  
+Rockadillo Rockadillo Rockadillo --- --- --- 
+
+Formation 7 - 7.1% - [104, 26]  
+Rockadillo --- Rockadillo Rockadillo --- Rockadillo 
+
+Formation 8 - 7.1% - [130, 26]  
+Rockadillo Rockadillo Rockadillo Rockadillo --- Rockadillo 
+
+Formation 9 - 7.1% - [156, 26]  
+Rockadillo Rockadillo Rockadillo Rockadillo Rockadillo Rockadillo 
+
+Formation 10 - 7.1% - [163, 33]  
+Rockadillo Rockadillo Rockadillo Rockadillo Sandillo Rockadillo 
+
+

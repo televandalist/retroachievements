@@ -1,0 +1,82 @@
+
++++Encounter Sets for VA01+++
+
+==Encounter Set 1 - [10, 4]===
+
+Formation 1 - 100.0% - [10, 4]  
+Highlands Highlands Highlands --- Commander --- 
+
+
++++Encounter Sets for VA09+++
+
+==Encounter Set 1 - [10, 4]===
+
+Formation 1 - 100.0% - [10, 4]  
+Highlands Highlands Highlands --- Commander --- 
+
+
++++Encounter Sets for VA11+++
+
+==Encounter Set 1 - [275, 55]===
+
+Formation 1 - 20.0% - [165, 55]  
+---0-- ---0-- ---0-- --- --- --- 
+
+Formation 2 - 20.0% - [220, 55]  
+---0-- ---0-- ---0-- --- ---0-- --- 
+
+Formation 3 - 10.0% - [275, 55]  
+---0-- ---0-- ---0-- ---0-- --- ---0-- 
+
+Formation 4 - 20.0% - [54, 54]  
+--- ---- --- --- --- --- 
+
+Formation 5 - 20.0% - [108, 54]  
+---- --- ---- --- --- --- 
+
+Formation 6 - 10.0% - [273, 55]  
+---0-- ---0-- ---0-- ---- --- ---- 
+
+
++++Encounter Sets for WA+++
+
+==Encounter Set 1 - [24, 5]===
+
+Formation 1 - 40.0% - [24, 4]  
+BonBon BonBon BonBon BonBon BonBon BonBon 
+
+Formation 2 - 40.0% - [12, 3]  
+CutRabbit CutRabbit CutRabbit --- CutRabbit --- 
+
+Formation 3 - 20.0% - [15, 5]  
+Spider Spider Spider --- --- --- 
+
+
+0x11 (17) - Minotaurus, Minotaurus, Minotaurus, Magus, x, Magus
+0x13 (19) - Minotaurus, Minotaurus, Minotaurus, Minotaurus, x, Minotaurus
+0x36 (54) - x, Magus, x, x, x, x
+0x6c (108) - Magus, x, Magus, x, x, x
+0x6e (110) - Chimera, x, Chimera, x, x, x
+0xdb (119) - Chimera, Chimera, Chimera, x, Magus, x
+0xa5 (165) - Minotaurus, Minotaurus, Minotaurus, x, x, x
+0xdc (220) - Minotaurus, Minotaurus, Minotaurus, x, Minotaurus, x
+
+
+Enemies Always Drop #?
+D002E09A 1040
+8002E152 1000
+D002E09A 1040
+8002E154 00??
+
+96 - First Drop item
+98 - Second
+9A - Third
+
+Position 1 ID
++0x06	1ee2ac -> 0x0d
++0x0a	1ee274
+		  1ee2a8 -> 0x0c
++0x0e	27c68 -> 0x00
++0x12	
++0x16	
++0x1a	27c30 -> 0x01

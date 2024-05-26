@@ -1,0 +1,10 @@
+Use with:
+
+(No Intro)
+File:               Sonic The Hedgehog - Genesis (USA).gba
+BitSize:            32 Mbit
+Size (Bytes):       4194304
+CRC32:              027BC70D
+MD5:                8105A6012737AAC2907B27E4A05AD794
+SHA1:               31B9DEE3B9289A32218F0E39667A6C2504E3F3D0
+SHA256:             37E88FA67799E6FBFA6369FCF9786F73E8DF20CD806A7F03474DA4970CBAE71B

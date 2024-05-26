@@ -1,0 +1,185 @@
+
++++Encounter Sets for VG02+++
+
+==Encounter Set 1 - [264, 46]===
+
+Formation 1 - 9.1% - [46, 46]  
+--- Unicombie --- --- --- --- 
+
+Formation 2 - 9.1% - [92, 46]  
+Unicombie --- Unicombie --- --- --- 
+
+Formation 3 - 9.1% - [175, 46]  
+Zombie Zombie Zombie --- Unicombie --- 
+
+Formation 4 - 9.1% - [174, 45]  
+Zombie Zombie Zombie --- Neclordia --- 
+
+Formation 5 - 9.1% - [219, 45]  
+Zombie Zombie Zombie Neclordia --- Neclordia 
+
+Formation 6 - 9.1% - [132, 44]  
+Skeleton Skeleton Skeleton --- --- --- 
+
+Formation 7 - 9.1% - [176, 44]  
+Skeleton --- Skeleton Skeleton --- Skeleton 
+
+Formation 8 - 9.1% - [264, 44]  
+Skeleton Skeleton Skeleton Skeleton Skeleton Skeleton 
+
+Formation 9 - 9.1% - [172, 43]  
+Zombie Zombie Zombie Zombie --- --- 
+
+Formation 10 - 9.1% - [215, 43]  
+Zombie Zombie Zombie Zombie Zombie --- 
+
+Formation 11 - 9.1% - [258, 43]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+
++++Encounter Sets for VG04+++
+
+==Encounter Set 1 - [164, 42]===
+
+Formation 1 - 25.0% - [84, 42]  
+AirLizard --- AirLizard --- --- --- 
+
+Formation 2 - 16.7% - [126, 42]  
+AirLizard AirLizard AirLizard --- --- --- 
+
+Formation 3 - 8.3% - [126, 42]  
+AirLizard AirLizard AirLizard --- --- --- 
+
+Formation 4 - 33.3% - [123, 41]  
+KillerDog KillerDog KillerDog --- --- --- 
+
+Formation 5 - 8.3% - [164, 41]  
+KillerDog KillerDog KillerDog --- KillerDog --- 
+
+Formation 6 - 8.3% - [164, 41]  
+KillerDog --- KillerDog KillerDog --- KillerDog 
+
+
++++Encounter Sets for VG11+++
+
+==Encounter Set 1 - [264, 46]===
+
+Formation 1 - 9.1% - [46, 46]  
+--- Unicombie --- --- --- --- 
+
+Formation 2 - 9.1% - [92, 46]  
+Unicombie --- Unicombie --- --- --- 
+
+Formation 3 - 9.1% - [175, 46]  
+Zombie Zombie Zombie --- Unicombie --- 
+
+Formation 4 - 9.1% - [174, 45]  
+Zombie Zombie Zombie --- Neclordia --- 
+
+Formation 5 - 9.1% - [219, 45]  
+Zombie Zombie Zombie Neclordia --- Neclordia 
+
+Formation 6 - 9.1% - [132, 44]  
+Skeleton Skeleton Skeleton --- --- --- 
+
+Formation 7 - 9.1% - [176, 44]  
+Skeleton --- Skeleton Skeleton --- Skeleton 
+
+Formation 8 - 9.1% - [264, 44]  
+Skeleton Skeleton Skeleton Skeleton Skeleton Skeleton 
+
+Formation 9 - 9.1% - [172, 43]  
+Zombie Zombie Zombie Zombie --- --- 
+
+Formation 10 - 9.1% - [215, 43]  
+Zombie Zombie Zombie Zombie Zombie --- 
+
+Formation 11 - 9.1% - [258, 43]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+
+==Encounter Set 2 - [168, 42]===
+
+Formation 1 - 100.0% - [168, 42]  
+Zombie Zombie Zombie --- Zombie --- 
+
+
++++Encounter Sets for VG15+++
+
+==Encounter Set 1 - [264, 46]===
+
+Formation 1 - 9.1% - [46, 46]  
+--- Unicombie --- --- --- --- 
+
+Formation 2 - 9.1% - [92, 46]  
+Unicombie --- Unicombie --- --- --- 
+
+Formation 3 - 9.1% - [175, 46]  
+Zombie Zombie Zombie --- Unicombie --- 
+
+Formation 4 - 9.1% - [174, 45]  
+Zombie Zombie Zombie --- Neclordia --- 
+
+Formation 5 - 9.1% - [219, 45]  
+Zombie Zombie Zombie Neclordia --- Neclordia 
+
+Formation 6 - 9.1% - [132, 44]  
+Skeleton Skeleton Skeleton --- --- --- 
+
+Formation 7 - 9.1% - [176, 44]  
+Skeleton --- Skeleton Skeleton --- Skeleton 
+
+Formation 8 - 9.1% - [264, 44]  
+Skeleton Skeleton Skeleton Skeleton Skeleton Skeleton 
+
+Formation 9 - 9.1% - [172, 43]  
+Zombie Zombie Zombie Zombie --- --- 
+
+Formation 10 - 9.1% - [215, 43]  
+Zombie Zombie Zombie Zombie Zombie --- 
+
+Formation 11 - 9.1% - [258, 43]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+
++++Encounter Sets for VG16+++
+
+==Encounter Set 1 - [164, 42]===
+
+Formation 1 - 25.0% - [84, 42]  
+AirLizard --- AirLizard --- --- --- 
+
+Formation 2 - 16.7% - [126, 42]  
+AirLizard AirLizard AirLizard --- --- --- 
+
+Formation 3 - 8.3% - [126, 42]  
+AirLizard AirLizard AirLizard --- --- --- 
+
+Formation 4 - 33.3% - [123, 41]  
+KillerDog KillerDog KillerDog --- --- --- 
+
+Formation 5 - 8.3% - [164, 41]  
+KillerDog KillerDog KillerDog --- KillerDog --- 
+
+Formation 6 - 8.3% - [164, 41]  
+KillerDog --- KillerDog KillerDog --- KillerDog 
+
+
++++Encounter Sets for WG+++
+
+==Encounter Set 1 - [234, 40]===
+
+Formation 2 - 18.2% - [195, 39]  
+Skeleton Skeleton Skeleton Skeleton Skeleton --- 
+
+Formation 3 - 9.1% - [234, 39]  
+Skeleton Skeleton Skeleton Skeleton Skeleton Skeleton 
+
+Formation 4 - 9.1% - [234, 39]  
+Skeleton Skeleton Skeleton Skeleton Skeleton Skeleton 
+
+
+0x28= x, GhostSlug, x, x, x, x
+0x50= GhostSlug, x, GhostSlug, x, x, x
+0x78= GhostSlug, GhostSlug, GhostSlug, x, x, x
+0x9c= Skeleton, Skeleton, Skeleton, x, Skeleton, x

@@ -1,0 +1,157 @@
+11	a
+12	b
+13	c
+14	d
+15	e
+16	f
+17	g
+18	h
+19	i
+1a	j
+1b	k
+1c	l
+1d	m
+1e	n
+1f	o
+20	p
+21	q
+22	r
+23	s
+24	t
+25	u
+26	v
+27	w
+28	x
+29	y
+2a	z
+3b	A
+3c	B
+3d	C
+3e	D		4d 20 19 14 15 4c
+3f	E
+40	F
+41	G
+42	H		42191718 1c111e14 23
+43	I
+44	J
+45	K
+46	L
+47	M
+48	N
+49	O
+4a	P
+4b	Q
+4c	R
+4d	S
+4e	T		4e112217
+4f	U
+50	V
+51	W
+52	X
+53	Y
+54	Z
+
+2a642 - State 5
++0x318
+2a95a - State 6
+-0x181e0
+1277a - State 7
++0x15ad8
+28252 - State 8
+2a7b2 - State 9
+
+141f64
+19eeec
+
+I:0xW1ffe88_0xH000000=1_I:0xW1ffe88_O:0x 000002=49172_I:0xW1ffe88_0x 000002=49174
+
+2a95a
+e234	29bd8	0x0005
+12258	2ad78	0x0005
+1225c	2ab40	0x0005
+3aeec	2a988	0xf700
+1ffe80	29bd8	0x0005
+1ffe88	2a958	0x0001
+		  +0x02	0xc014
+1ffe98	29bd8
+1ffeb0	2a958
+
+28252
+e234	274d0
+3aeec	28280
+1ffe80	274d0
+1ffe88	28250
+1ffe98	274d0
+1ffeb0	28250
+1ffec8	274d0
+1ffed0	274d0
+1ffed8	28250
+1ffef0	28250
+1ffef8	28264
+1fff28	28280
+
+
+0x111030 - 01-12-00-01-Mercenary Fortress (Interior)
+0x112770 - 00-04-00-01-Kyaro - Genkaku's Dojo (Rowd Fight)
+0x1362c4 - 00-0a-04-00-Tenzan Pass
+0x136b30 - 01-07-04-00-Ryube Region - North Sparrow Pass
+0x13dcbc - 08-0c-02-00-Rakutei Mountain 1			STATE 1
+0x145cf8 - 03-05-11-00-Cave of the Wind
+0x146288 - 
+0x149128 - Muse-Matilda Border
+0x161040 - 03-06-01-00-Outside HQ (Night Raid)
+0x162aac - 01-01-00-00-Mercenary Fortress (Exterior)
+0x177c08 - Kyaro Area - World Map
+0x181f84 - 0c-01-00-02-Ryube Area - World Map
+0x186908 - 00-08-00-01-Kyaro - Tenzan Pass Cliff (Beginning)
+0x18cb78 - 0c-02-00-02-Muse Area - World Map
+0x193b88 - Sindar Ruins
+0x196280 - Ryube Area
+0x196b68 - 01-06-00-01-Ryube Forest
+  [32-Bit] Pointer for Current Enemy Table
+    +0x00 Number of Enemy Types in Area
+      +0x04 Pointer to Enemy Type 1
+        +0x00 [Fake ASCII] Enemy Name
+        +0x10 [16-Bit] Stat - STR
+        +0x12 [16-Bit] Stat - MAG
+        +0x14 [16-Bit] Stat - PROT
+        +0x16 [16-Bit] Stat - M DEF
+        +0x18 [16-Bit] Stat - TECH
+        +0x1a [16-Bit] Stat - SPD
+        +0x1c [16-Bit] Stat - LUCK
+        +0x1e [16-Bit] Max HP
+        +0x20 [16-Bit] Level
+        +0x85 [8-Bit] Affinity - Fire
+        +0x86 [8-Bit] Affinity - Water
+        +0x87 [8-Bit] Affinity - Wind
+        +0x88 [8-Bit] Affinity - Earth
+        +0x89 [8-Bit] Affinity - Lightning
+        +0x8a [8-Bit] Affinity - Holy
+        +0x8b [8-Bit] Affinity - Dark
+        +0x8c [8-Bit] Affinity - Bright Shield
+        +0x8d [8-Bit] Affinity - Silence
+        +0x8e [8-Bit] Affinity - Knockdown
+        +0x8f [8-Bit] Affinity - Sleep
+        +0x90 [8-Bit] Affinity - Poison
+        ..0x00=Normal
+        ..0x01=Weak
+        ..0x02=Strong
+        ..0x03=Invincible
+        +0x91 [8-Bit] Affinity - Death
+        +0x94 [16-Bit] Potch Dropped
+        +0x96 [16-Bit] Item Drop - Drop 1 ID
+        +0x98 [16-Bit] Item Drop - Drop 2 ID
+        +0x9c [16-Bit] Item Drop - Drop 3 ID
+        +0x9e [8-Bit] Drop 1 Probability
+          0x02=0.78%
+          0x05=1.96%
+          0x0a=3.92%
+          0x0f=5.88%
+        +0x9f [8-Bit] Drop 2 Probability
+        +0xa0 [8-Bit] Drop 3 Probability
+      +08 Pointer to Enemy Type 2
+      +0c Pointer to Enemy Type 3
+      +10 Pointer to Enemy Type 4
+      +14 Pointer to Enemy Type 5
+      +18 Pointer to Enemy Type 6
+      +1c Pointer to Enemy Type 7

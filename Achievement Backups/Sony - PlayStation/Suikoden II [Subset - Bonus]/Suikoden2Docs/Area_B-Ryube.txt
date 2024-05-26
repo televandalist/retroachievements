@@ -1,0 +1,194 @@
+
++++Encounter Sets for VB07+++
+
+==Encounter Set 1 - [35, 10]===
+
+Formation 1 - 5.9% - [30, 10]  
+WildBoar WildBoar WildBoar --- --- --- 
+
+Formation 2 - 11.8% - [10, 10]  
+--- WildBoar --- --- --- --- 
+
+Formation 3 - 17.6% - [16, 8]  
+GiantSnail --- GiantSnail --- --- --- 
+
+Formation 4 - 11.8% - [24, 8]  
+GiantSnail GiantSnail GiantSnail --- --- --- 
+
+Formation 5 - 17.6% - [21, 7]  
+Spider Spider Spider --- --- --- 
+
+Formation 6 - 11.8% - [35, 7]  
+Spider Spider Spider Spider --- Spider 
+
+Formation 7 - 23.5% - [25, 5]  
+Woodpecker Woodpecker Woodpecker Woodpecker --- Woodpecker 
+
+
++++Encounter Sets for VB08+++
+
+==Encounter Set 1 - [24, 5]===
+
+Formation 1 - 11.1% - [24, 4]  
+Bandit A Bandit A Bandit A Bandit C Bandit B Bandit C 
+
+Formation 2 - 11.1% - [5, 5]  
+--- Wolf --- --- --- --- 
+
+Formation 3 - 11.1% - [9, 3]  
+KillerBee KillerBee KillerBee --- --- --- 
+
+Formation 4 - 11.1% - [15, 3]  
+KillerBee KillerBee KillerBee KillerBee --- KillerBee 
+
+Formation 5 - 11.1% - [8, 4]  
+BonBon --- BonBon --- --- --- 
+
+Formation 6 - 11.1% - [12, 4]  
+BonBon BonBon BonBon --- --- --- 
+
+Formation 7 - 11.1% - [9, 3]  
+CutRabbit CutRabbit CutRabbit --- --- --- 
+
+Formation 8 - 11.1% - [12, 3]  
+CutRabbit CutRabbit CutRabbit --- CutRabbit --- 
+
+Formation 9 - 11.1% - [18, 3]  
+CutRabbit CutRabbit CutRabbit CutRabbit CutRabbit CutRabbit 
+
+
++++Encounter Sets for VB17+++
+
+==Encounter Set 1 - [18, 5]===
+
+Formation 1 - 11.1% - [5, 5]  
+--- Wolf --- --- --- --- 
+
+Formation 2 - 11.1% - [12, 4]  
+Bandit A Bandit B Bandit A --- --- --- 
+
+Formation 3 - 11.1% - [9, 3]  
+KillerBee KillerBee KillerBee --- --- --- 
+
+Formation 4 - 11.1% - [15, 3]  
+KillerBee KillerBee KillerBee KillerBee --- KillerBee 
+
+Formation 5 - 11.1% - [8, 4]  
+BonBon --- BonBon --- --- --- 
+
+Formation 6 - 11.1% - [12, 4]  
+BonBon BonBon BonBon --- --- --- 
+
+Formation 7 - 11.1% - [9, 3]  
+CutRabbit CutRabbit CutRabbit --- --- --- 
+
+Formation 8 - 11.1% - [12, 3]  
+CutRabbit CutRabbit CutRabbit --- CutRabbit --- 
+
+Formation 9 - 11.1% - [18, 3]  
+CutRabbit CutRabbit CutRabbit CutRabbit CutRabbit CutRabbit 
+
+
+==Encounter Set 2 - [25, 5]===
+
+Formation 1 - 12.5% - [15, 5]  
+Wolf Wolf Wolf --- --- --- 
+
+Formation 2 - 12.5% - [25, 5]  
+Wolf Wolf Wolf Wolf --- Wolf 
+
+Formation 3 - 12.5% - [12, 4]  
+Bandit A Bandit B Bandit A --- --- --- 
+
+Formation 4 - 12.5% - [24, 4]  
+Bandit A Bandit B Bandit A Bandit C Bandit C Bandit C 
+
+Formation 5 - 12.5% - [18, 3]  
+KillerBee KillerBee KillerBee KillerBee KillerBee KillerBee 
+
+Formation 6 - 12.5% - [20, 4]  
+BonBon BonBon BonBon BonBon --- BonBon 
+
+Formation 7 - 12.5% - [18, 3]  
+CutRabbit CutRabbit CutRabbit CutRabbit CutRabbit CutRabbit 
+
+Formation 8 - 12.5% - [24, 5]  
+Wolf Wolf Wolf CutRabbit CutRabbit CutRabbit 
+
+
++++Encounter Sets for VB21+++
+
+==Encounter Set 1 - [95, 20]===
+
+Formation 1 - 14.3% - [79, 17]  
+F-Squirrel F-Squirrel F-Squirrel Zomlick --- Zomlick 
+
+Formation 2 - 14.3% - [90, 15]  
+F-Squirrel F-Squirrel F-Squirrel F-Squirrel F-Squirrel F-Squirrel 
+
+Formation 3 - 14.3% - [20, 20]  
+--- Salamander --- --- --- --- 
+
+Formation 4 - 14.3% - [40, 20]  
+Salamander --- Salamander --- --- --- 
+
+Formation 5 - 14.3% - [95, 20]  
+F-Squirrel F-Squirrel F-Squirrel F-Squirrel Salamander F-Squirrel 
+
+Formation 6 - 14.3% - [51, 17]  
+Shadow Shadow Shadow --- --- --- 
+
+Formation 7 - 14.3% - [68, 17]  
+Shadow --- Shadow Shadow --- Shadow 
+
+
++++Encounter Sets for WB+++
+
+==Encounter Set 1 - [8, 3]===
+
+Formation 1 - 14.3% - [2, 1]  
+HollyBoy --- HollyBoy --- --- --- 
+
+Formation 2 - 14.3% - [4, 1]  
+HollyBoy --- HollyBoy HollyBoy --- HollyBoy 
+
+Formation 3 - 14.3% - [6, 1]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy 
+
+Formation 4 - 14.3% - [4, 2]  
+FurFur --- FurFur --- --- --- 
+
+Formation 5 - 14.3% - [6, 2]  
+FurFur FurFur FurFur --- --- --- 
+
+Formation 6 - 14.3% - [8, 2]  
+FurFur FurFur FurFur --- FurFur --- 
+
+Formation 7 - 14.3% - [6, 3]  
+CutRabbit --- CutRabbit --- --- --- 
+
+
+==Encounter Set 2 - [27, 7]===
+
+Formation 1 - 14.3% - [12, 4]  
+BonBon BonBon BonBon --- --- --- 
+
+Formation 2 - 14.3% - [20, 4]  
+BonBon BonBon BonBon BonBon --- BonBon 
+
+Formation 3 - 14.3% - [15, 5]  
+Woodpecker Woodpecker Woodpecker --- --- --- 
+
+Formation 4 - 14.3% - [20, 5]  
+Woodpecker Woodpecker Woodpecker --- Woodpecker --- 
+
+Formation 5 - 14.3% - [27, 5]  
+BonBon BonBon BonBon Woodpecker Woodpecker Woodpecker 
+
+Formation 6 - 14.3% - [14, 7]  
+ShadowDog --- ShadowDog --- --- --- 
+
+Formation 7 - 14.3% - [21, 7]  
+ShadowDog ShadowDog ShadowDog --- --- --- 
+
+

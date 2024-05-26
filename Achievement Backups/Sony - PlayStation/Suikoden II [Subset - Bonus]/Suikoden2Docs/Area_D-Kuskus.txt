@@ -1,0 +1,169 @@
+
++++Encounter Sets for VD06+++
+
+==Encounter Set 1 - [92, 24]===
+
+Formation 2 - 11.1% - [42, 21]  
+Griffin --- Griffin --- --- --- 
+
+Formation 4 - 11.1% - [46, 23]  
+Minos --- Minos --- --- --- 
+
+Formation 7 - 11.1% - [24, 24]  
+--- SunKing --- --- --- --- 
+
+Formation 9 - 11.1% - [66, 22]  
+Sorceror Sorceror Sorceror --- --- --- 
+
+
++++Encounter Sets for VD10+++
+
+==Encounter Set 1 - [146, 26]===
+
+Formation 1 - 10.0% - [26, 26]  
+--- Sorceror --- --- --- --- 
+
+Formation 2 - 10.0% - [52, 26]  
+Sorceror --- Sorceror --- --- --- 
+
+Formation 3 - 10.0% - [78, 26]  
+Sorceror Sorceror Sorceror --- --- --- 
+
+Formation 4 - 10.0% - [72, 24]  
+Zombie Zombie Zombie --- --- --- 
+
+Formation 5 - 10.0% - [96, 24]  
+Zombie --- Zombie Zombie --- Zombie 
+
+Formation 6 - 10.0% - [144, 24]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+Formation 7 - 10.0% - [146, 26]  
+Zombie Zombie Zombie Zombie Sorceror Zombie 
+
+Formation 8 - 10.0% - [50, 25]  
+ShadowMan --- ShadowMan --- --- --- 
+
+Formation 9 - 10.0% - [75, 25]  
+ShadowMan ShadowMan ShadowMan --- --- --- 
+
+Formation 10 - 10.0% - [100, 25]  
+ShadowMan --- ShadowMan ShadowMan --- ShadowMan 
+
+
++++Encounter Sets for VD11+++
+
+==Encounter Set 1 - [146, 26]===
+
+Formation 1 - 10.0% - [26, 26]  
+--- Sorceror --- --- --- --- 
+
+Formation 2 - 10.0% - [52, 26]  
+Sorceror --- Sorceror --- --- --- 
+
+Formation 3 - 10.0% - [78, 26]  
+Sorceror Sorceror Sorceror --- --- --- 
+
+Formation 4 - 10.0% - [72, 24]  
+Zombie Zombie Zombie --- --- --- 
+
+Formation 5 - 10.0% - [96, 24]  
+Zombie --- Zombie Zombie --- Zombie 
+
+Formation 6 - 10.0% - [144, 24]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+Formation 7 - 10.0% - [146, 26]  
+Zombie Zombie Zombie Zombie Sorceror Zombie 
+
+Formation 8 - 10.0% - [50, 25]  
+ShadowMan --- ShadowMan --- --- --- 
+
+Formation 9 - 10.0% - [75, 25]  
+ShadowMan ShadowMan ShadowMan --- --- --- 
+
+Formation 10 - 10.0% - [100, 25]  
+ShadowMan --- ShadowMan ShadowMan --- ShadowMan 
+
+
++++Encounter Sets for VD12+++
+
+==Encounter Set 1 - [151, 26]===
+
+Formation 1 - 10.0% - [52, 26]  
+Sorceror --- Sorceror --- --- --- 
+
+Formation 2 - 10.0% - [78, 26]  
+Sorceror Sorceror Sorceror --- --- --- 
+
+Formation 3 - 10.0% - [130, 26]  
+Sorceror Sorceror Sorceror Sorceror --- Sorceror 
+
+Formation 4 - 10.0% - [72, 24]  
+Zombie Zombie Zombie --- --- --- 
+
+Formation 5 - 10.0% - [120, 24]  
+Zombie Zombie Zombie Zombie --- Zombie 
+
+Formation 6 - 10.0% - [144, 24]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+Formation 7 - 10.0% - [148, 26]  
+Zombie Zombie Zombie Sorceror Zombie Sorceror 
+
+Formation 8 - 10.0% - [75, 25]  
+ShadowMan ShadowMan ShadowMan --- --- --- 
+
+Formation 9 - 10.0% - [100, 25]  
+ShadowMan --- ShadowMan ShadowMan --- ShadowMan 
+
+Formation 10 - 10.0% - [151, 26]  
+ShadowMan ShadowMan ShadowMan ShadowMan Sorceror ShadowMan 
+
+
++++Encounter Sets for VD13+++
+
+==Encounter Set 1 - [151, 26]===
+
+Formation 1 - 10.0% - [52, 26]  
+Sorceror --- Sorceror --- --- --- 
+
+Formation 2 - 10.0% - [78, 26]  
+Sorceror Sorceror Sorceror --- --- --- 
+
+Formation 3 - 10.0% - [130, 26]  
+Sorceror Sorceror Sorceror Sorceror --- Sorceror 
+
+Formation 4 - 10.0% - [72, 24]  
+Zombie Zombie Zombie --- --- --- 
+
+Formation 5 - 10.0% - [120, 24]  
+Zombie Zombie Zombie Zombie --- Zombie 
+
+Formation 6 - 10.0% - [144, 24]  
+Zombie Zombie Zombie Zombie Zombie Zombie 
+
+Formation 7 - 10.0% - [148, 26]  
+Zombie Zombie Zombie Sorceror Zombie Sorceror 
+
+Formation 8 - 10.0% - [75, 25]  
+ShadowMan ShadowMan ShadowMan --- --- --- 
+
+Formation 9 - 10.0% - [100, 25]  
+ShadowMan --- ShadowMan ShadowMan --- ShadowMan 
+
+Formation 10 - 10.0% - [151, 26]  
+ShadowMan ShadowMan ShadowMan ShadowMan Sorceror ShadowMan 
+
+
++++Encounter Sets for WD+++
+
+==Encounter Set 1 - [110, 20]===
+
+Formation 2 - 11.1% - [90, 18]  
+Flyer Flyer Flyer Flyer --- Flyer 
+
+Formation 7 - 11.1% - [57, 19]  
+DarkBunny DarkBunny DarkBunny --- --- --- 
+
+

@@ -1,0 +1,78 @@
+Format:Digit
+FormatType:Value
+
+Lookup:Stage
+0x00=is somewhere out there...
+0x01=is in Buzen
+0x02=is in Bungo
+0x03=is in Nagato
+0x04=is in Suou
+0x05=is in Ishimi
+0x06=is in Aki
+0x07=is in Izumo
+0x08=is in Houki
+0x09=is in Bingo
+0x0a=is in Bicchuu 
+0x0b=is in Bizen
+0x0c=is in Awaji
+0x0d=is in Iyo
+0x0f=is in Sanuki
+0x11=is in Inaba
+0x12=is in Harima
+0x13=is in Mimasaka
+0x14=is in Tajima
+0x15=is in Tango
+0x16=is in Tanba
+0x17=is in Settsu
+0x1b=is in Wakasa
+0x1c=is in Yamashiro
+0x1d=is in Yamato
+0x1e=is in Oumi
+0x1f=is in Iga
+0x20=is in Ise
+0x21=is in Echizen
+0x22=is in Mino
+0x23=is in Owari
+0x24=is in Mikawa
+0x25=is in Shima
+0x26=is in Kaga
+0x29=is in Ecchuu
+0x2a=is in Shinano
+0x2b=is in Suraga
+0x2c=is in Kai
+0x2e=is in Sado
+0x2f=is in Echigo
+0x30=is in Kouzuke
+0x31=is in Musashi
+0x32=is in Sagami
+0x33=is in Kamakura
+0x34=is in Toutoumi
+0x35=is in Hell
+0x36=is still in Hell
+0x39=is in The Pit
+0x3a=is in Kyoto
+0x3c=is looking at the cheat menu and not getting achievements
+0x3d=is at the title screen
+0x3e=is watching stuff
+0x40=is watching stuff
+0x3f=is watching stuff
+0x43=is listening to some weird old lady talk
+0x44=is listening to some weird old lady talk
+0x45=is listening to some weird old lady talk
+0x46=is listening to some weird old lady talk
+0x48=is on the World Map
+0x49=is on the World Map
+0x4a=is on the World Map
+0x4b=is on the World Map
+0x4c=is on the World Map
+0x4d=is on the World Map
+0x4e=is on the World Map
+
+Lookup:Mode
+0x00=Painful Path
+0x01=Thorny Path
+0xff=Easy Path
+
+Display:
+?0xM62=1_0xT62=0?Demo Mode
+Kagekiyo @Stage(0xh4e) | @Mode(0xh58) | @Digit(0xM75_0xN75_0xO75)/3 Sacred Items Collected

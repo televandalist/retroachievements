@@ -1,0 +1,438 @@
+
++++Encounter Sets for VJ02+++
+
+==Encounter Set 1 - [326, 56]===
+
+Formation 1 - 33.3% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 2 - 16.7% - [324, 54]  
+Highlands Highlands Highlands Highlands Highlands Highlands 
+
+Formation 3 - 16.7% - [112, 56]  
+Magus --- Magus --- --- --- 
+
+Formation 4 - 16.7% - [110, 55]  
+Chimera --- Chimera --- --- --- 
+
+Formation 5 - 16.7% - [165, 55]  
+Chimera Chimera Chimera --- --- --- 
+
+
+==Encounter Set 2 - [326, 58]===
+
+Formation 1 - 17.6% - [58, 58]  
+--- Bronzem --- --- --- --- 
+
+Formation 2 - 11.8% - [116, 58]  
+Bronzem --- Bronzem --- --- --- 
+
+Formation 3 - 11.8% - [112, 56]  
+Magus --- Magus --- --- --- 
+
+Formation 4 - 5.9% - [168, 56]  
+Magus Magus Magus --- --- --- 
+
+Formation 5 - 5.9% - [223, 56]  
+Magus Magus Magus --- Chimera --- 
+
+Formation 6 - 17.6% - [110, 55]  
+Chimera --- Chimera --- --- --- 
+
+Formation 7 - 11.8% - [165, 55]  
+Chimera Chimera Chimera --- --- --- 
+
+Formation 8 - 5.9% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 9 - 11.8% - [324, 54]  
+Highlands Highlands Highlands Highlands Highlands Highlands 
+
+
+==Encounter Set 3 - [326, 56]===
+
+Formation 1 - 100.0% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+
+==Encounter Set 4 - [326, 56]===
+
+Formation 1 - 100.0% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+
++++Encounter Sets for VJ03+++
+
+==Encounter Set 1 - [326, 58]===
+
+Formation 1 - 15.8% - [58, 58]  
+--- Bronzem --- --- --- --- 
+
+Formation 2 - 10.5% - [116, 58]  
+Bronzem --- Bronzem --- --- --- 
+
+Formation 3 - 10.5% - [112, 56]  
+Magus --- Magus --- --- --- 
+
+Formation 4 - 5.3% - [168, 56]  
+Magus Magus Magus --- --- --- 
+
+Formation 5 - 5.3% - [223, 56]  
+Magus Magus Magus --- Chimera --- 
+
+Formation 6 - 15.8% - [110, 55]  
+Chimera --- Chimera --- --- --- 
+
+Formation 7 - 10.5% - [165, 55]  
+Chimera Chimera Chimera --- --- --- 
+
+Formation 8 - 15.8% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 9 - 10.5% - [324, 54]  
+Highlands Highlands Highlands Highlands Highlands Highlands 
+
+
+==Encounter Set 2 - [326, 56]===
+
+Formation 1 - 100.0% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+
++++Encounter Sets for VJ04+++
+
+==Encounter Set 1 - [326, 58]===
+
+Formation 1 - 15.8% - [58, 58]  
+--- Bronzem --- --- --- --- 
+
+Formation 2 - 10.5% - [116, 58]  
+Bronzem --- Bronzem --- --- --- 
+
+Formation 3 - 10.5% - [112, 56]  
+Magus --- Magus --- --- --- 
+
+Formation 4 - 5.3% - [168, 56]  
+Magus Magus Magus --- --- --- 
+
+Formation 5 - 5.3% - [223, 56]  
+Magus Magus Magus --- Chimera --- 
+
+Formation 6 - 15.8% - [110, 55]  
+Chimera --- Chimera --- --- --- 
+
+Formation 7 - 10.5% - [165, 55]  
+Chimera Chimera Chimera --- --- --- 
+
+Formation 8 - 15.8% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 9 - 10.5% - [324, 54]  
+Highlands Highlands Highlands Highlands Highlands Highlands 
+
+
+==Encounter Set 2 - [326, 56]===
+
+Formation 1 - 100.0% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+
++++Encounter Sets for VJ05+++
+
+==Encounter Set 1 - [326, 58]===
+
+Formation 1 - 15.8% - [58, 58]  
+--- Bronzem --- --- --- --- 
+
+Formation 2 - 10.5% - [116, 58]  
+Bronzem --- Bronzem --- --- --- 
+
+Formation 3 - 10.5% - [112, 56]  
+Magus --- Magus --- --- --- 
+
+Formation 4 - 5.3% - [168, 56]  
+Magus Magus Magus --- --- --- 
+
+Formation 5 - 5.3% - [223, 56]  
+Magus Magus Magus --- Chimera --- 
+
+Formation 6 - 15.8% - [110, 55]  
+Chimera --- Chimera --- --- --- 
+
+Formation 7 - 10.5% - [165, 55]  
+Chimera Chimera Chimera --- --- --- 
+
+Formation 8 - 15.8% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 9 - 10.5% - [324, 54]  
+Highlands Highlands Highlands Highlands Highlands Highlands 
+
+
+==Encounter Set 2 - [326, 56]===
+
+Formation 1 - 100.0% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+
++++Encounter Sets for VJ06+++
+
+==Encounter Set 1 - [19, 4]===
+
+Formation 1 - 25.0% - [3, 3]  
+--- 7--8- --- --- --- --- 
+
+Formation 2 - 25.0% - [3, 3]  
+--- ---- --- --- --- --- 
+
+Formation 3 - 25.0% - [3, 3]  
+--- 4-- --- --- --- --- 
+
+Formation 4 - 25.0% - [19, 4]  
+PNUS-M PNUS-M PNUS-M PNUS-M WJN-M-JN PNUS-M 
+
+
++++Encounter Sets for VJ11+++
+
+==Encounter Set 1 - [326, 58]===
+
+Formation 1 - 15.8% - [58, 58]  
+--- Bronzem --- --- --- --- 
+
+Formation 2 - 10.5% - [116, 58]  
+Bronzem --- Bronzem --- --- --- 
+
+Formation 3 - 10.5% - [112, 56]  
+Magus --- Magus --- --- --- 
+
+Formation 4 - 5.3% - [168, 56]  
+Magus Magus Magus --- --- --- 
+
+Formation 5 - 5.3% - [223, 56]  
+Magus Magus Magus --- Chimera --- 
+
+Formation 6 - 15.8% - [110, 55]  
+Chimera --- Chimera --- --- --- 
+
+Formation 7 - 10.5% - [165, 55]  
+Chimera Chimera Chimera --- --- --- 
+
+Formation 8 - 15.8% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+Formation 9 - 10.5% - [324, 54]  
+Highlands Highlands Highlands Highlands Highlands Highlands 
+
+
+==Encounter Set 2 - [326, 56]===
+
+Formation 1 - 100.0% - [326, 56]  
+Highlands Highlands Highlands Highlands Commander Highlands 
+
+
++++Encounter Sets for VJ18+++
+
+==Encounter Set 1 - [8, 3]===
+
+Formation 1 - 14.3% - [2, 1]  
+-M--U-N --- -M--U-N --- --- --- 
+
+Formation 2 - 14.3% - [4, 1]  
+-M--U-N --- -M--U-N -M--U-N --- -M--U-N 
+
+Formation 3 - 14.3% - [6, 1]  
+-M--U-N -M--U-N -M--U-N -M--U-N -M--U-N -M--U-N 
+
+Formation 4 - 14.3% - [4, 2]  
+-V-V --- -V-V --- --- --- 
+
+Formation 5 - 14.3% - [6, 2]  
+-V-V -V-V -V-V --- --- --- 
+
+Formation 6 - 14.3% - [8, 2]  
+-V-V -V-V -V-V --- -V-V --- 
+
+Formation 7 - 14.3% - [6, 3]  
+3----- --- 3----- --- --- --- 
+
+
++++Encounter Sets for VJ20+++
+
+==Encounter Set 1 - [225, 38]===
+
+Formation 1 - 18.2% - [74, 37]  
+-- --- -- --- --- --- 
+
+Formation 2 - 13.6% - [111, 37]  
+-- -- -- --- --- --- 
+
+Formation 3 - 4.5% - [148, 37]  
+-- --- -- -- --- -- 
+
+Formation 4 - 27.3% - [108, 36]  
+---- ---- ---- --- --- --- 
+
+Formation 5 - 13.6% - [76, 38]  
+8--- --- 8--- --- --- --- 
+
+Formation 6 - 13.6% - [114, 38]  
+8--- 8--- 8--- --- --- --- 
+
+Formation 7 - 4.5% - [190, 38]  
+8--- 8--- 8--- 8--- --- 8--- 
+
+Formation 8 - 4.5% - [225, 38]  
+-- -- -- 8--- 8--- 8--- 
+
+
++++Encounter Sets for VJ21+++
+
+==Encounter Set 1 - [300, 51]===
+
+Formation 1 - 13.3% - [100, 50]  
+------- --- ------- --- --- --- 
+
+Formation 2 - 20.0% - [150, 50]  
+------- ------- ------- --- --- --- 
+
+Formation 3 - 6.7% - [300, 50]  
+------- ------- ------- ------- ------- ------- 
+
+Formation 4 - 13.3% - [51, 51]  
+--- 3---8- --- --- --- --- 
+
+Formation 5 - 6.7% - [151, 51]  
+------- 3---8- ------- --- --- --- 
+
+Formation 6 - 20.0% - [96, 48]  
+-----9- --- -----9- --- --- --- 
+
+Formation 7 - 13.3% - [144, 48]  
+-----9- -----9- -----9- --- --- --- 
+
+Formation 8 - 6.7% - [240, 48]  
+-----9- -----9- -----9- -----9- --- -----9- 
+
+
++++Encounter Sets for VJ22+++
+
+==Encounter Set 1 - [264, 46]===
+
+Formation 1 - 9.1% - [46, 46]  
+--- --7----- --- --- --- --- 
+
+Formation 2 - 9.1% - [92, 46]  
+--7----- --- --7----- --- --- --- 
+
+Formation 3 - 9.1% - [175, 46]  
+--- --- --- --- --7----- --- 
+
+Formation 4 - 9.1% - [174, 45]  
+--- --- --- --- -5----- --- 
+
+Formation 5 - 9.1% - [219, 45]  
+--- --- --- -5----- --- -5----- 
+
+Formation 6 - 9.1% - [132, 44]  
+-6--- -6--- -6--- --- --- --- 
+
+Formation 7 - 9.1% - [176, 44]  
+-6--- --- -6--- -6--- --- -6--- 
+
+Formation 8 - 9.1% - [264, 44]  
+-6--- -6--- -6--- -6--- -6--- -6--- 
+
+Formation 9 - 9.1% - [172, 43]  
+--- --- --- --- --- --- 
+
+Formation 10 - 9.1% - [215, 43]  
+--- --- --- --- --- --- 
+
+Formation 11 - 9.1% - [258, 43]  
+--- --- --- --- --- --- 
+
+
++++Encounter Sets for VJ23+++
+
+==Encounter Set 1 - [210, 35]===
+
+Formation 1 - 15.8% - [70, 35]  
+----- --- ----- --- --- --- 
+
+Formation 2 - 15.8% - [105, 35]  
+----- ----- ----- --- --- --- 
+
+Formation 3 - 10.5% - [140, 35]  
+----- --- ----- ----- --- ----- 
+
+Formation 4 - 5.3% - [210, 35]  
+----- ----- ----- ----- ----- ----- 
+
+Formation 5 - 21.1% - [68, 34]  
+--5--- --- --5--- --- --- --- 
+
+Formation 6 - 21.1% - [102, 34]  
+--5--- --5--- --5--- --- --- --- 
+
+Formation 7 - 10.5% - [136, 34]  
+--5--- --5--- --5--- --- --5--- --- 
+
+
++++Encounter Sets for VJ24+++
+
+==Encounter Set 1 - [223, 58]===
+
+Formation 1 - 17.6% - [58, 58]  
+--- -------- --- --- --- --- 
+
+Formation 2 - 11.8% - [116, 58]  
+-------- --- -------- --- --- --- 
+
+Formation 3 - 11.8% - [112, 56]  
+---- --- ---- --- --- --- 
+
+Formation 4 - 5.9% - [168, 56]  
+---- ---- ---- --- --- --- 
+
+Formation 5 - 5.9% - [223, 56]  
+---- ---- ---- --- 4-- --- 
+
+Formation 6 - 17.6% - [110, 55]  
+4-- --- 4-- --- --- --- 
+
+Formation 7 - 11.8% - [165, 55]  
+4-- 4-- 4-- --- --- --- 
+
+Formation 8 - 5.9% - [0, 0]  
+--- --- --- --- --- --- 
+
+Formation 9 - 5.9% - [0, 0]  
+--- --- --- --- --- --- 
+
+Formation 10 - 5.9% - [0, 0]  
+--- --- --- --- --- --- 
+
+
++++Encounter Sets for WJ+++
+
+==Encounter Set 1 - [270, 58]===
+
+Formation 1 - 22.2% - [58, 58]  
+--- Colossus --- --- --- --- 
+
+Formation 2 - 11.1% - [116, 58]  
+Colossus --- Colossus --- --- --- 
+
+Formation 3 - 22.2% - [108, 54]  
+Minotaurus --- Minotaurus --- --- --- 
+
+Formation 4 - 22.2% - [162, 54]  
+Minotaurus Minotaurus Minotaurus --- --- --- 
+
+Formation 5 - 11.1% - [270, 54]  
+Minotaurus Minotaurus Minotaurus Minotaurus --- Minotaurus 
+
+Formation 6 - 11.1% - [220, 58]  
+Minotaurus Minotaurus Minotaurus --- Colossus --- 
+
+

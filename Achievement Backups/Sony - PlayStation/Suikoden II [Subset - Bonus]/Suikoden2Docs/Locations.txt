@@ -1,0 +1,254 @@
+Area=Kyaro 00
+00 - Unicorn Brigade camp
+01 - Demo ending
+02 - Kyaro Town
+03 - Intro
+04 - Genkaku's Dojo
+05 - Unicorn Brigade HQ
+06 - Unicorn Brigade HQ - Dungeon
+07 - Gallows
+08 - Tenzan Pass Cliff - West of Unicorn Brigade Camp
+09 - Tenzan Pass Cliff - Daytime
+0a - Tenzan Pass - Entrance
+0b - Genkaku's Dojo - Interior
+0c - Hillside Tree - True Ending
+0d - Rune of Beginning flashback
+0e - Genkaku's Story flashback)
+0f - Atreides' Manor
+10 - Rune of Beginning flashback
+11 - Rune of Beginning flashback
+12 - Rune of Beginning flashback
+13 - Rune of Beginning flashback
+14 - Rune of Beginning flashback
+15 - Tenzan Pass - Ending
+16 - Tenzan Pass
+17 - Tenzan Pass - Evening - Ending
+18 - Tenzan Pass
+19 - Jillia's House - Ending
+
+Area=Ryube 01
+00 - Riverbank
+01 - Mercenary Fort
+02 - Toto Village
+03 - Toto Village - Burned
+04 - Ryube Village
+05 - Ryube Village - Burned
+06 - Ryube Woods
+07 - North Sparrow Pass
+08 - Tsai's House
+09 - Mercenary Fort - Morning
+0A - Mercenary Fort - Interior
+0B - Rune of the Beginning Shrine - Interior
+0C - Mercenary Fort
+0D - Mercenary Fort - Interior
+0E - Mercenary Fort - Night
+0F - Ryube Village - On Fire
+10 - North Sparrow Pass
+11 - Ryube - Rebuilt
+12 - Mercenary Fort - Interior - Highland Raid
+13 - Mercenary Fort - Ending
+14 - Trial Road
+
+Area=Muse 02
+00 - Muse City
+01 - Muse City - Night
+02 - Muse - Jail Cell
+03 - White Deer Inn
+04 - Hillside Tree
+05 - Coronet
+06 - Muse-Highland Border
+07 - Jillia's Tent
+08 - Muse City - Hall - Interior
+09 - Jowstone Hill Conference Room - Interior
+0a - Jowstone Hill
+0b - Sindar Ruins - Hall
+0c - Sindar Ruins - Hall
+0d - Sindar Ruins - Twin Snake Room
+0e - Empty Field
+0f - Muse - Deserted
+10 - Coronet - 2nd Screen
+11 - Coronet - 3rd Screen
+12 - Coronet - Tai Ho's Shack
+13 - Outside Muse
+14 - Muse - Interiors - Dr. Huan's
+15 - Muse City - Highland Raid
+16 - Tai Ho's Shack - Interior
+17 - Muse City - Escape
+18 - Muse Liberation
+19 - Muse City - Liberated
+1a - Muse City - Hall - Interior
+1b - Muse City - Hall - Interior - Night
+1c - Hillside Tree - Morning
+1d - Outside Highland Camp
+1e - Jowstone Hill - Liberated
+
+Area=Kuskus 03
+01 - Radat - Sluice Gate
+02 - South Window
+03 - North Window
+04 - Genkaku's Dojo
+05 - Radat Town
+06 - Cave of Wind - Entrance
+07 - Luca Battle - Path
+08 - Radat - Sluice Gate - Night
+09 - North Window Castle - Interior
+0a - North Window Castle - Interior
+0b - North Window Castle - Interior
+0c - North Window Castle - Interior
+0d - North Window Castle - Interior - Neclord's Lair
+0e - Kuskus - 2nd Screen
+0f - Kuskus - 3rd Screen
+10 - South Window - Trader
+11 - Radat - Path
+12 - Radat - Inn
+13 - Kuskus - SW Area
+
+Area=Greenhill 04
+00 - Greenhill
+01 - Forest Village
+02 - Greenhill Forest
+03 - Greenhill-Matilda Path
+04 - Muse-Greenhill Border
+05 - Greenhill Academy
+06 - Greenhill Academy - Interior
+07 - Greenhill Forest
+08 - Greenhill Forest
+09 - Greenhill Mansion - Interior
+0a - Greenhill - Meg & Gadget ending
+0b - Greenhill - Squirrel ending
+0c - Greenhill
+0d - Greenhill Forest
+0e - Greenhill Forest - Liberation
+0f - Greenhill Forest
+10 - Greenhill Academy - Interior
+
+Area=Banner 05
+00 - Rokkaku
+01 - Gregminster
+02 - Gregminster - McDohl's Mansion
+03 - Gregminster Castle
+04 - Banner Village
+05 - Banner Pass
+06 - Banner Pass
+
+Area=Tinto 06
+00 - Tinto City
+01 - Tinto Mine - World Map Entrance
+02 - Crom
+03 - Drakemouth Pass
+04 - Drakemouth Pass (North)
+05 - Drakemouth Village
+06 - Tigermouth Village
+07 - Tinto - Shop
+08 - Tinto - Church
+09 - Tinto Mine - Bridge
+0a - Tinto Mine - Depths
+0b - Cabin - Bad Ending
+0c - Tinto - Interior
+0d - Tinto City (No Exits)
+0e - Tinto Mine - Back Entrance
+0f - Drakemouth Pass
+10 - Tinto City
+11 - Tinto - Interior
+
+Area=Two River 07
+00 - Two River
+01 - Lakewest
+02 - Kobold Village
+03 - Two River - Sewers
+04 - Two River - Winger District
+05 - Two River - Kobold District
+06 - Two River - Kobold District (Deserted)
+07 - Two River - Battle
+08 - Kobold Village - Hix & Tengaar
+09 - Unicorn Forest
+0a - Two River - Interior
+0b - Two River
+
+Area=Rockaxe 08
+00 - Rockaxe
+01 - Rockaxe - North
+02 - Rockaxe Castle - Exterior
+03 - Rockaxe Castle - Entrance
+04 - Rockaxe Castle - Chambers
+05 - Rockaxe Castle - Dungeon
+06 - Rockaxe Castle - Parapet
+07 - Rockaxe Castle - Training Area
+08 - Rockaxe Castle - Balcony
+09 - Rockaxe Castle - Balcony
+0a - Muse-Matilda Border
+0b - Highway Village
+0c - Rakutei Mountain
+0d - Matilda Liberation
+0e - Rakutei Mountain - Summit
+
+Area=L'Renouille 09
+00 - Muse City
+01 - L'Renouille
+02 - L'Renouille Castle - Interior
+03 - L'Renouille Castle - Exterior
+04 - L'Renouille Castle - Interior
+05 - Concept Art Passageway
+06 - L'Renouille Castle - Interior (Final Save)
+07 - L'Renouille Castle - Interior (Beast Rune)
+08 - Jillia's Bedchamber
+09 - L'Renouille Cathedral
+0a - L'Renouille Castle - Interior
+0b - Luca's Tent - Day
+0c - Luca's Tent - Night
+0d - Forest - Shu and Leon Meeting
+0e - Burning Forest
+0f - Castle Hall
+10 - Sajah
+11 - Unknown Dungeon
+12 - L'Renouille Castle - Exterior
+13 - Unknown Dungeon 2
+14 - Unknown Dungeon 3
+15 - Unknown Dungeon 4
+16 - Unknown Dungeon 5
+17 - Unknown Dungeon 6
+
+Area=Castle 0A
+00 - Outside
+01 - East Wing
+02
+03 - West Wing
+04
+05 - Outside of Bath and restaurant
+06 - 2F
+07 - Entrance, Tavern, Inn, Item Shop
+08 - Theater
+09 - War Room
+0a - West Wing - Outside
+0b - Library
+0c - 3-4F
+0d - 3-4F Outside
+0e
+0f
+10 - Basement
+11 - Cliff - Laundry
+12
+13 - Outside restaurant
+14
+15 - Dock
+16 - Graveyard
+17 - War Room
+18
+19
+1a
+1b
+1c
+1d
+1e
+1f - Main Hall
+
+Area=World Map 0C
+00 - 
+01 - Ryube Area
+02 - 
+03 - South Window Area
+04 - Greenhill Area
+05 - 
+06 - Tinto Area
+07 - Two River Area
+0a - On the water

@@ -1,0 +1,20 @@
+Main Location?
+0x00 - River outside Mercenary Fort
+0x01 - Mercenary Fort - Outside
+0x02 - Toto Village
+0x03 - Kyaro
+0x04 - Ryube
+0x07 - North Sparrow Pass
+0x08 - Unicorn Brigade Camp
+0x0a - Mercenary Fort Basement
+0x0c - Mercenary Fort 2F Outside
+0x0e - Mercenary Fort Night
+0x11 - Ryube during performance
+
+01-HollyBoy
+02-FurFur
+03-CutRabbit
+04-BonBon
+05-Woodpecker
+06-Shadowdog
+

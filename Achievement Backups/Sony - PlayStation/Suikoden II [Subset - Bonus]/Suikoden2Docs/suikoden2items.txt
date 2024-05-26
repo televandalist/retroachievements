@@ -1,0 +1,624 @@
+[16-Bit] Item Drop
+0_01 - Medicine
+0_02 - Mega Medicine
+0_03 - Antitoxin
+0_04 - Throat Drops
+0_05 - Needle
+0_06 - Flaming Arrows
+0_07 - Dancing Flames
+0_08 - Fire Wall
+0_09 - Kindness Drops
+0_0A - Protect Mist
+0_0B - Kindness Rain
+0_0C - Wind of Sleep
+0_0D - Healing Wind
+0_0E - The Shredding
+0_0F - Clay Guardian
+0_10 - Revenge Earth
+0_11 - Canopy Defense
+0_12 - Angry Blow
+0_13 - Thunder Runner
+0_14 - Bolt of Wrath
+0_15 - Stone of Power
+0_16 - Stone of Magic
+0_17 - Stone of Defense
+0_18 - Stone of Mag-Def
+0_19 - Stone of Skill
+0_1A - Stone of Speed
+0_1B - Stone of Luck
+0_1C - Dragon Seal Incense
+0_1D - Blinking Mirror
+0_1E - Sacrificial Jizo
+0_1F - Chick (bath)
+0_20 - Boulder set
+0_21 - Toy Boat
+0_22 - Escape talisman
+0_23 - Suiko Map
+0_24 - Rag
+0_25 - Oily Rag
+0_26 - Rope
+0_27 - Flint
+0_28 - Flint
+0_29 - Flour
+0_2A - Wooden Amulet
+0_2B - Healing Herb
+0_2C - Reference
+0_2D - Highland Uniform
+0_2E - Hood of Mindfulness (?)
+0_2F - Iron Hammer
+0_30 - Copper Hammer
+0_31 - Silver Hammer
+0_32 - Golden Hammer
+0_33 - Round Plate
+0_34 - Triangle Plate
+0_35 - Square Plate
+0_36 - Clay
+0_37 - Listening Crystal
+0_38 - Recipe#25
+0_39 - Recipe#26
+0_3A - Recipe#27
+0_3B - Recipe#28
+0_3C - Recipe#29
+0_3D - Recipe#30
+0_3E - Recipe#31
+0_3F - Recipe#32
+0_40 - Recipe#33
+0_41 - Recipe#34
+0_42 - Recipe#35
+0_43 - Recipe#36
+0_44 - Recipe#37
+0_45 - Recipe#38
+0_46 - Recipe#39
+0_47 - Recipe#40
+0_48 - Two Packages
+0_49 - Leon's Letter
+0_4A - Entry Permit
+0_4B - Bath Set
+0_4C - Sunglasses
+0_4D - Dog Whistle
+0_4E - Lubricating Oil
+0_4F - Rose Bouquet
+0_50 - Secret Writings
+0_51 - Millet Dumplings
+0_52 - Leisure Set
+0_53 - Invincible Smile
+0_54 - Sexy Wink
+0_55 - Cup of Promise
+1001 - Bandana
+1002 - Leather Hat
+1003 - Feathered Hat
+1004 - Pointed Hat
+1005 - Circuret
+1006 - Half Helmet
+1007 - Head Gear
+1008 - Silver Hat
+1009 - Full Helmet
+100A - Wind Hat
+100B - Flame Helmet
+100C - Horned Helmet
+100D - Robe
+100E - Tunic
+100F - Leather Coat
+1010 - Brass Armor
+1011 - Guard Robe
+1012 - Karate Uniform
+1013 - Leather Armor
+1014 - Chain Mail
+1015 - Ninja Suit
+1016 - Half Plate
+1017 - Magic Robe
+1018 - Thunder God Garb
+1019 - Scale Mail
+101A - Dragon Armor
+101B - Master Robe
+101C - Full Plate
+101D - Taikiyoku Wear
+101E - Master Garb
+101F - Robe of Mist
+1020 - Earth Armor
+1021 - Dream Robe
+1022 - Silver Armor
+1023 - Knight Armor
+1024 - Blood Armor
+1025 - Windspun Armor
+1026 - Wooden Shield
+1027 - Steel Shield
+1028 - Kite Shield
+1029 - Mangosh
+102A - Silver Shield
+102B - Chaos Shield
+102C - Earth Shield
+102D - Wooden Shoes
+102E - Boots
+102F - Toe Shoes
+1030 - Winged Boots
+1031 - Iron Boots
+1032 - Gloves
+1033 - Gauntlet
+1034 - Silverlet
+1035 - Power Gloves
+1036 - Goldlet
+1037 - Cape
+1038 - Leather Cape
+1039 - Fur Cape
+103A - Cape of Darkness
+103B - Crimson Cape
+103C - Necklace
+103D - Heavy Necklace
+103E - Silver Necklace
+103F - Gold Necklace
+1040 - Wing Ornament
+1041 - Leggings
+1042 - Shoulder Pads
+1043 - Cheekguards
+1044 - Belt of Strength
+1045 - Fire Emblem
+1046 - Gold Emblem
+1047 - Blue Ribbon
+1048 - Star Earrings
+1049 - Sun Badge
+104A - Fish Badge
+104B - Rose Brooch
+104C - Water Amulet
+104D - Thunder Amulet
+104E - Wind Amulet
+104F - Guard Ring
+1050 - Magic Ring
+1051 - Speed Ring
+1052 - Power Ring
+1053 - Skill Ring
+1054 - Lucky Ring
+1055 - Mole Helmet
+1056 - Mole Suit
+1057 - Mole Shield
+2001 - Fire
+2002 - Rage
+2003 - Water
+2004 - Flowing
+2005 - Wind
+2006 - Cyclone
+2007 - Earth
+2008 - Mother Earth
+2009 - Lightning
+200A - Thunder
+200B - Soul Eater
+200C - Resurrection
+200D - Bright Shield
+200E - Black Sword
+200F - Blinking
+2010 - Darkness
+2011 - Blue Gate
+2012 - White Saint
+2013 - Titan
+2014 - Viper
+2015 - Great Hawk
+2016 - Lion
+2017 - Kite
+2018 - Unicorn
+2019 - Gozz
+201A - Pixie
+201B - Banshee
+201C - Sylph
+201D - Chimera
+201E - Nymph
+201F - Dryad
+2027 - Trick
+2028 - Shrike
+2029 - Falcon
+202A - Mayfly
+202B - Swallow
+202C - Fire Breath
+202D - Groundhog
+202E - Fire Dragon
+202F - Shining Wind
+2030 - Blue Dragon
+2031 - White Tiger
+2032 - Howling
+2033 - Spider Slay
+2034 - Angry Dragon
+2035 - Twin Ring
+2036 - Rabid Fang
+203E - Fortune
+203F - Prosperity
+2040 - Champion's
+2041 - Double-Beat
+2042 - Killer
+2043 - Counter
+2044 - Spark
+2045 - Gale
+2046 - Sunbeam
+2047 - Phero
+2048 - Knight
+2049 - Wall
+204A - Hazy
+204B - Draining
+204C - Barrier
+204D - Balance
+204E - Fire Sealing
+204F - Skunk
+2050 - Firefly
+2051 - Medicine
+2052 - Double-Strike
+2053 - Wizard
+2054 - Warrior
+2055 - Waking
+2056 - Alert
+2057 - Fury
+2058 - Violence
+2059 - True Holy
+205C - Fire Lizard
+205D - Magic Drain
+205E - Hunter
+205F - Technique
+2060 - Silence
+2061 - Poison
+2062 - Down
+2063 - Sleep
+2064 - Friendship
+2065 - Solitude
+2066 - Kindness
+2067 - Exertion
+3001 - Cabbage Seed
+3002 - Potato Seed
+3003 - Spinach Seed
+3004 - Tomato Seed
+3005 - Chick (Ranch)
+3006 - Piglet
+3007 - Lamb
+3008 - Calf
+4001 - Failure Urn
+4002 - Octopus Urn
+4003 - Vase
+4004 - Wide Urn
+4005 - Blue Dragon Urn
+4006 - Celadon Urn
+4007 - Black Urn
+4008 - Fine Bone China
+4009 - Persian Lamp
+400A - Hex Doll
+400B - Japanese Dish
+400C - Chinese Dish
+400D - Peeing Boy
+400E - Bonsai
+400F - Knight Statue
+4010 - Goddess Statue
+4011 - Coral
+4012 - Graffiti
+4013 - Flower Painting
+4014 - Lover's Garden
+4015 - Landscape Painting
+4016 - Nature's Beauty
+4017 - Sugar
+4018 - Salt
+4019 - Soy Sauce
+401A - Mayonnaise
+401B - Red Pepper
+401C - Candle
+401D - Fur
+401E - Flute
+401F - Wooden Amulet
+4020 - Native Costume
+4021 - Holly Berry
+4022 - Wine
+4023 - Deer Antler
+4024 - Book
+4025 - Music
+4026 - Crystal Ball
+4027 - Pearl
+4028 - Ancient Text
+4029 - Gold Bar
+402A - Karen Painting A
+402B - Karen Painting B
+402C - Trio Painting
+402D - Karen Statue A
+402E - Karen Statue B
+402F - Karen Statue C
+4030 - Nanami's Vase
+4031 - Large Vase
+4032 - Famous Vase
+5001 - Old book vol 1
+5002 - Old book vol 2
+5003 - Old book vol 3
+5004 - Old book vol 4
+5005 - Old book vol 5
+5006 - Old book vol 6
+5007 - Old book vol 7
+5008 - Old book vol 8
+5009 - Old book vol 9
+500A - Old book vol 10
+500B - Old book vol 11
+500C - Old book vol 12
+500D - Window Set 1
+500E - Window Set 2
+500F - Window Set 3
+5010 - Window Set 4
+5011 - Window Set 5
+5012 - Window Set 6
+5013 - Window Set 7
+5014 - Sound Set 1
+5015 - Sound Set 2
+5016 - Sound Set 3
+5017 - Sound Set 4
+5018 - Sound Set 5
+5019 - Sound Set 6
+501A - Sound Set 7
+501B - Dragon Plans 1
+501C - Dragon Plans 2
+501D - Dragon Plans 3
+501E - Dragon Plans 4
+501F - Unicorn Plans 1
+5010 - Unicorn Plans 2
+5021 - Unicorn Plans 3
+5022 - Unicorn Plans 4
+5023 - Rabbit Plans 1
+5024 - Rabbit Plans 2
+5025 - Rabbit Plans 3
+5026 - Rabbit Plans 4
+5027 - Turtle Plans 1
+5028 - Turtle Plans 2
+5029 - Turtle Plans 3
+502A - Turtle Plans 4
+502B - Recipe#1
+502C - Recipe#2
+502D - Recipe#3
+502E - Recipe#4
+502F - Recipe#5
+5030 - Recipe#6
+5031 - Recipe#7
+5032 - Recipe#8
+5033 - Recipe#9
+5034 - Recipe#10
+5035 - Recipe#11
+5036 - Recipe#12
+5037 - Recipe#13
+5038 - Recipe#14
+5039 - Recipe#15
+503A - Recipe#16
+503B - Recipe#17
+503C - Recipe#18
+503D - Recipe#19
+503E - Recipe#20
+503F - Recipe#21
+5040 - Recipe#22
+5041 - Recipe#23
+5042 - Recipe#24
+6_01 - Tamago-Yaki
+6_02 - Sweet Omelet
+6_03 - Adult Fried Egg
+6_04 - Fried Egg
+6_05 - Egg Mayo Roll
+6_06 - Eggsplosive
+6_07 - Tomato Soup
+6_08 - Tomato Juice
+6_09 - Raw Tomato
+6_0A - Tomato Miso Soup
+6_0B - Tomato Salad
+6_0C - Red Hot Tomatoes
+6_0D - Ohitashi
+6_0E - Spinach Cake
+6_0F - Spinach Juice
+6_10 - Spinach Saute
+6_11 - Spinach Salad
+6_12 - Spicy Stir Fry
+6_13 - Salad
+6_14 - Sweet Salad
+6_15 - Pickled Cabbage
+6_16 - Island Salad
+6_17 - Green Salad
+6_18 - Veggie Stir Fry
+6_19 - Gyoza
+6_1A - Fruit Gyoza
+6_1B - Steamed Gyoza
+6_1C - Fried Gyoza
+6_1D - Deep-Fried Gyoza
+6_1E - Szechuan Gyoza
+6_1F - Chowder
+6_20 - Potato Pudding
+6_21 - Vichyssoise
+6_22 - Dark Chowder
+6_23 - Egg Soup
+6_24 - Gumbo
+6_25 - BBQ Meat Bun
+6_26 - Sweet Bean Bun
+6_27 - Ginger Beef Bun
+6_28 - Ma Bo Bun
+6_29 - Pirate's Bun
+6_2A - Pizza Bun
+6_2B - Buttered Clams
+6_2C - Clam Pudding
+6_2D - Grilled Scallops
+6_2E - Steamed Abalone
+6_2F - Clam Mayonnaise
+6_30 - Mai Mai??
+6_31 - Fish Fry
+6_32 - Fish Donuts
+6_33 - Deep-Fried Fish
+6_34 - Tatsuta Age
+6_35 - French Fries
+6_36 - Fried Tacos
+6_37 - Ice Cream
+6_38 - Pudding
+6_39 - Nanami Ice
+6_3A - Soy Ice
+6_3B - Fried Ice Cream
+6_3C - Red Pepper Ice
+6_3D - Quiche
+6_3E - Pineapple Rice
+6_3F - Egg Porridge
+6_40 - Baked Mochi
+6_41 - Cream Quiche
+6_42 - Lasagna
+6_43 - Sandwich
+6_44 - French Toast
+6_45 - Steak Sandwich
+6_46 - Teriyaki Sandwich
+6_47 - Veggie Sandwich
+6_48 - Spicy Sandwich
+6_49 - Meat Pie
+6_4A - Cream Pie
+6_4B - Meringue Pie
+6_4C - Kobold Pie
+6_4D - Mayonnaise Pie
+6_4E - Chili Pie
+6_4F - Simmered Fish
+6_50 - Simmered Carp
+6_51 - Tai-Chili Style
+6_52 - Sole
+6_53 - Fish with Sauce
+6_54 - Blackened Sole
+6_55 - Fried Fish Balls
+6_56 - Sweet&Sour Fish
+6_57 - Crab Cakes
+6_58 - Meatballs
+6_59 - Greasy Fish
+6_5A - Fiery Fish Balls
+6_5B - Sunomono
+6_5C - Sour Shrimp
+6_5D - Nonpei Sunomono
+6_5E - Gourmet Sunomono
+6_5F - Weird Sunomono
+6_60 - Cajun Shrimp
+6_61 - Cake
+6_62 - Short Cake
+6_63 - Nanami Cake
+6_64 - Black Cake
+6_65 - Cheesecake
+6_66 - Fire Cake
+6_67 - Croquettes
+6_68 - Sweet Croquettes
+6_69 - Eilie Croquettes
+6_6A - Black Croquettes
+6_6B - Cream Croquettes
+6_6C - Hot Croquettes
+6_6D - Pasta
+6_6E - Kiddie Pasta
+6_6F - Pasta Parmesan
+6_70 - Downtown Pasta
+6_71 - Pasta Salad
+6_72 - Chili Pasta
+6_73 - Tempura
+6_74 - Snack Tempura
+6_75 - Real Tempura
+6_76 - Tempura-Don
+6_77 - Amazing Tempura
+6_78 - Spicy Tempura
+6_79 - Grilled Fish
+6_7A - Broiled Eel
+6_7B - Salted Fish
+6_7C - Dried Fish
+6_7D - Salmon Meunire
+6_7E - Grilled Red Fish
+6_7F - Gratin
+6_80 - Apple Gratin
+6_81 - Salty Gratin
+6_82 - Crispy Gratin
+6_83 - Creamy Gratin
+6_84 - Chili Gratin
+6_85 - Rice Omelet
+6_86 - Kid's Lunch
+6_87 - Salty Omelet
+6_88 - Soy Rice Omelet
+6_89 - Mayo Rice Omelet
+6_8A - Red Pepper Rice
+6_8B - Fried Rice
+6_8C - Shrimp Pilaf
+6_8D - Salty Fried Rice
+6_8E - Gunpowder Rice
+6_8F - Heavy Pilaf
+6_90 - Spicy Pilaf
+6_91 - Pizza
+6_92 - Pancakes
+6_93 - Anchovy Pizza
+6_94 - Senbei
+6_95 - Okonomiyaki
+6_96 - Spicy Pizza
+6_97 - Teriyaki
+6_98 - Sweet Teriyaki
+6_99 - Hot Spareribs
+6_9A - Mild Teriyaki
+6_9B - Teri-Cream
+6_9C - BBQ-Bomb
+6_9D - Tonkatsu
+6_9E - Meat and Potato
+6_9F - Ginger Pork
+6_A0 - Soy Cutlet
+6_A1 - Cream Cutlets
+6_A2 - Spicy Cutlets
+6_A3 - Curry Rice
+6_A4 - Kiddie Curry
+6_A5 - Salty Curry
+6_A6 - Japanese Curry
+6_A7 - Creamy Curry
+6_A8 - Red Curry
+6_A9 - Grilled Beef
+6_AA - Sukiyaki
+6_AB - Grilled Tongue
+6_AC - Beef Rice Bowl
+6_AD - Meat Salad
+6_AE - Chige Nabe
+6_AF - Ramen
+6_B0 - Chinese Noodles
+6_B1 - Salty Ramen
+6_B2 - Soy Sauce Ramen
+6_B3 - Gourmet Ramen
+6_B4 - Red Hot Ramen
+6_B5 - Hamburger
+6_B6 - Sugar-Cured Meat
+6_B7 - Kobold Burger
+6_B8 - Japan Burger
+6_B9 - Tinto Burger
+6_BA - Surprise Burger
+6_BB - Obento
+6_BC - Ladie's Lunch
+6_BD - Rising Sun Bento
+6_BE - Sashimi Bento
+6_BF - Diet Lunch
+6_C0 - Shrimp Lunch
+6_C1 - Sushi
+6_C2 - Chirashi-Zashi
+6_C3 - Salty Rice Ball
+6_C4 - Fancy Rice Ball
+6_C5 - French Roll
+6_C6 - Tekka-don
+6_C7 - Japanese Stew
+6_C8 - Sweet Tofu
+6_C9 - Bouillabaise
+6_CA - Shabu Shabu
+6_CB - Dark Stew
+6_CC - Spicy Stew
+6_CD - Full Course
+6_CE - Elf Course
+6_CF - Kobold Course
+6_D0 - Rokkaku Course
+6_D1 - Matilda Course
+6_D2 - Tinto Specialty
+6_D3 - Genghis Khan
+6_D4 - Fa Chu Chin
+6_D5 - Coopa
+6_D6 - Genghis Stew
+6_D7 - Cream Stew
+6_D8 - Tom Yum Stew
+6_D9 - Steak
+6_DA - Sweet Steak
+6_DB - Beefsteak
+6_DC - Japanese Steak
+6_DD - Piccata
+6_DE - Pepper Steak
+6_DF - Sashimi Combo
+6_E0 - Queen of the Sea
+6_E1 - Sea Treasure
+6_E2 - Ship Combo
+6_E3 - Salad Combo
+6_E4 - Spicy Sashimi
+6_E5 - Special Stew
+6_E6 - Sweet Syrup
+6_E7 - Adult Stew
+6_E8 - Clear or Cream Soup
+6_E9 - Mellow Stew
+6_EA - Spicy Stew
+6_EB - Kaiseki Dinner
+6_EC - Candy House
+6_ED - Salt House
+6_EE - Complete Kaiseki
+6_EF - Special Salad
+6_F0 - Flaming Sea Special

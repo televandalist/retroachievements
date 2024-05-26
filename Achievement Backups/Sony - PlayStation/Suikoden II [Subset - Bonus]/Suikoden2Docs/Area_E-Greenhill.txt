@@ -1,0 +1,199 @@
+
++++Encounter Sets for VE03+++
+
+==Encounter Set 1 - [158, 32]===
+
+Formation 1 - 18.2% - [64, 32]  
+Monwer --- Monwer --- --- --- 
+
+Formation 2 - 9.1% - [96, 32]  
+Monwer Monwer Monwer --- --- --- 
+
+Formation 3 - 18.2% - [93, 31]  
+Melonzoo Melonzoo Melonzoo --- --- --- 
+
+Formation 4 - 9.1% - [124, 31]  
+Melonzoo --- Melonzoo Melonzoo --- Melonzoo 
+
+Formation 5 - 9.1% - [158, 32]  
+Monwer Monwer Monwer Melonzoo --- Melonzoo 
+
+Formation 6 - 9.1% - [90, 15]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy 
+
+Formation 7 - 18.2% - [107, 32]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyElf HollyBoy 
+
+Formation 8 - 9.1% - [141, 32]  
+HollyBoy HollyBoy HollyBoy HollyElf HollyElf HollyElf 
+
+
++++Encounter Sets for VE04+++
+
+==Encounter Set 1 - [198, 33]===
+
+Formation 1 - 27.3% - [66, 33]  
+ZombieSlug --- ZombieSlug --- --- --- 
+
+Formation 2 - 9.1% - [99, 33]  
+ZombieSlug ZombieSlug ZombieSlug --- --- --- 
+
+Formation 3 - 27.3% - [198, 33]  
+DoremiElf DoremiElf DoremiElf DoremiElf DoremiElf DoremiElf 
+
+Formation 4 - 9.1% - [60, 15]  
+HollyBoy HollyBoy HollyBoy --- HollyBoy --- 
+
+Formation 5 - 9.1% - [90, 15]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy 
+
+Formation 6 - 9.1% - [77, 32]  
+HollyBoy HollyBoy HollyBoy --- PapaHolly --- 
+
+Formation 7 - 9.1% - [141, 32]  
+HollyBoy HollyBoy HollyBoy PapaHolly PapaHolly PapaHolly 
+
+
++++Encounter Sets for VE08+++
+
+==Encounter Set 1 - [276, 49]===
+
+Formation 1 - 10.0% - [138, 48]  
+HollyBoy HollyBoy HollyBoy --- TargetGirl --- 
+
+Formation 2 - 10.0% - [195, 49]  
+GrandHolly GrandHolly GrandHolly --- TargetGirl --- 
+
+Formation 3 - 10.0% - [236, 49]  
+HollyBoy HollyBoy HollyBoy GrandHolly TargetGirl GrandHolly 
+
+Formation 4 - 10.0% - [243, 49]  
+GrandHolly GrandHolly GrandHolly TargetGirl --- TargetGirl 
+
+Formation 5 - 20.0% - [186, 49]  
+HollyBoy HollyBoy HollyBoy HollyFairy GrandHolly --- 
+
+Formation 6 - 10.0% - [233, 49]  
+HollyBoy HollyBoy HollyBoy HollyFairy GrandHolly HollyFairy 
+
+Formation 7 - 30.0% - [276, 46]  
+DoremiElf DoremiElf DoremiElf DoremiElf DoremiElf DoremiElf 
+
+
++++Encounter Sets for VE14+++
+
+==Encounter Set 1 - [158, 32]===
+
+Formation 1 - 18.2% - [64, 32]  
+Monwer --- Monwer --- --- --- 
+
+Formation 2 - 9.1% - [96, 32]  
+Monwer Monwer Monwer --- --- --- 
+
+Formation 3 - 18.2% - [93, 31]  
+Melonzoo Melonzoo Melonzoo --- --- --- 
+
+Formation 4 - 9.1% - [124, 31]  
+Melonzoo --- Melonzoo Melonzoo --- Melonzoo 
+
+Formation 5 - 9.1% - [158, 32]  
+Monwer Monwer Monwer Melonzoo --- Melonzoo 
+
+Formation 6 - 9.1% - [90, 15]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy 
+
+Formation 7 - 18.2% - [107, 32]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyElf HollyBoy 
+
+Formation 8 - 9.1% - [141, 32]  
+HollyBoy HollyBoy HollyBoy HollyElf HollyElf HollyElf 
+
+
++++Encounter Sets for VE15+++
+
+==Encounter Set 1 - [276, 49]===
+
+Formation 1 - 10.0% - [138, 48]  
+HollyBoy HollyBoy HollyBoy --- TargetGirl --- 
+
+Formation 2 - 10.0% - [195, 49]  
+GrandHolly GrandHolly GrandHolly --- TargetGirl --- 
+
+Formation 3 - 10.0% - [236, 49]  
+HollyBoy HollyBoy HollyBoy GrandHolly TargetGirl GrandHolly 
+
+Formation 4 - 10.0% - [243, 49]  
+GrandHolly GrandHolly GrandHolly TargetGirl --- TargetGirl 
+
+Formation 5 - 20.0% - [186, 49]  
+HollyBoy HollyBoy HollyBoy HollyFairy GrandHolly --- 
+
+Formation 6 - 10.0% - [233, 49]  
+HollyBoy HollyBoy HollyBoy HollyFairy GrandHolly HollyFairy 
+
+Formation 7 - 30.0% - [276, 46]  
+DoremiElf DoremiElf DoremiElf DoremiElf DoremiElf DoremiElf 
+
+
++++Encounter Sets for WE+++
+
+==Encounter Set 1 - [174, 30]===
+
+Formation 1 - 9.1% - [60, 15]  
+HollyBoy --- HollyBoy HollyBoy --- HollyBoy 
+
+Formation 2 - 18.2% - [90, 15]  
+HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy HollyBoy 
+
+Formation 3 - 9.1% - [58, 29]  
+RaggedOne --- RaggedOne --- --- --- 
+
+Formation 4 - 18.2% - [87, 29]  
+RaggedOne RaggedOne RaggedOne --- --- --- 
+
+Formation 5 - 9.1% - [174, 29]  
+RaggedOne RaggedOne RaggedOne RaggedOne RaggedOne RaggedOne 
+
+Formation 6 - 9.1% - [60, 30]  
+Sauroid --- Sauroid --- --- --- 
+
+Formation 7 - 9.1% - [90, 30]  
+Sauroid Sauroid Sauroid --- --- --- 
+
+Formation 8 - 9.1% - [105, 30]  
+HollyBoy HollyBoy HollyBoy HollyBoy Sauroid HollyBoy 
+
+Formation 9 - 9.1% - [135, 30]  
+HollyBoy HollyBoy HollyBoy Sauroid Sauroid Sauroid 
+
+
+==Encounter Set 2 - [270, 47]===
+
+Formation 1 - 20.0% - [90, 45]  
+EyeFlower --- EyeFlower --- --- --- 
+
+Formation 2 - 20.0% - [135, 45]  
+EyeFlower EyeFlower EyeFlower --- --- --- 
+
+Formation 3 - 10.0% - [270, 45]  
+EyeFlower EyeFlower EyeFlower EyeFlower EyeFlower EyeFlower 
+
+Formation 4 - 30.0% - [141, 47]  
+Kookaburra Kookaburra Kookaburra --- --- --- 
+
+Formation 5 - 20.0% - [235, 47]  
+Kookaburra Kookaburra Kookaburra Kookaburra --- Kookaburra 
+
+
+==Encounter Set 3 - [21, 10]===
+
+Formation 1 - 33.3% - [10, 10]  
+--- Sickle --- --- --- --- 
+
+Formation 2 - 16.7% - [20, 10]  
+Sickle --- Sickle --- --- --- 
+
+Formation 3 - 50.0% - [21, 7]  
+KillSpider KillSpider KillSpider --- --- --- 
+
+
