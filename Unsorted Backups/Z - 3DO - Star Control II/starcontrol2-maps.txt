@@ -1,0 +1,55 @@
+1057c8	1057cc
+83ea	19a48	Epsilon Gruis
+8087	196c5	Delta Gruis
+7ada	198ea	Gamma Gruis
+7c29	19bd7	Alpha Gruis
+2830	21908	Zeta Volantis
+5fa9	22baf	Sol
+132a	1d6aa	Beta Bootis
+0c81	1dca5	Alpha Bootis
+0bd9	1e6da	Delta Bootis
+0789	1dab2	Epsilon Bootis
+2830	21908	Zeta Volantis
+237d	21ef2	Eta Volantis
+33ed	216e3	Alpha Volantis
+3e3e	211e1	Beta Volantis
+3939	20d33	Gamma Volantis
+2883	1f684	Procyon
+3558	20afd	Delta Volantis
+267e	21277	Epsilon Volantis
+47a3	23809	Delta Centauri
+5637	24176	Gamma Centauri
+5514f	24964	Alpha Centauri
+72e1	2028a	Rigel
+7de8	1f569	Alpha Saurus
+8326	1f3da	Beta Saurus
+7d79	1eee9	Gamma Saurus
+b721	1f0ed	Delta Mira
+c782	1e1c8	Alpha Vulpeculae
+dc0a	1ce48	Beta Mensae
+1c14e	7f45	Beta Lacertae
+1f415	1083	Alpha Aquilae
+1f58e	10c5	Beta Aquilae
+1f343	1458	Delta Aquilae
+1f1f4	10c5	Gamma Aquilae
+1f36d	0d96	Epsilon Aquilae
+21fd1	3e34	Groombridge
+210e9	ad4a	Gamma Leonis
+20e9e	11185	Arcturus
+217bc	17c83	Gamma Phoenicis
+20ab0	17a1b	Beta Phoenicis
+20c1b	1a10a	Delta Pictoris
+21d08	1f09a	Almagest
+2120f	279af	Alcor
+1fb58	2592f	Delta Arae
+1f857	25492	Epsilon Arae
+1fde9	25324	Alpha Arae
+1fd95	24d08	Beta Arae
+20247	24cb4	Gamma Arae
+20502	22551	Beta Arietis
+1ffe0	2230a	Alpha Arietis
+20572	21d63	Gamma Arietis
+208f0	21c48	Delta Arietis
+209ec	21929	Epsilon Arietis
+1ffe0	1ece5	Theta Persei
+1fb4a	1e20a	Alpha Persei

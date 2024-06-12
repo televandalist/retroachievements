@@ -1,0 +1,42 @@
+[Objects]
+ShipSprites      = 64 +alpha
+WeaponSprites    = 64
+WeaponSamples    = 1
+WeaponExplosion  = 10 +alpha
+SpecialSprites   = 2
+SpecialSamples   = 1
+SpecialExplosion = 0
+ExtraSprites     = 64 +alpha
+ExtraSamples     = 3
+ExtraExplosion   = 10 +alpha
+PanelBitmaps     = 7
+
+[Ship]
+Crew           = 16
+CrewMax        = 16
+Batt           = 20
+BattMax        = 20
+SpeedMax       = 35
+AccelRate      = 5
+TurnRate       = 1
+RechargeAmount = 1
+RechargeRate   = 6
+WeaponDrain    = 6
+WeaponRate     = 4
+SpecialDrain   = 0
+SpecialRate    = 12
+HotspotRate    = 0
+Mass           = 15
+Cost           = 23
+
+[Weapon]
+Range    = 24
+Velocity = 120
+Damage   = 3
+Armour   = 3
+
+[Special]
+AccelRate   = 10
+SpeedMax    = 40
+HotspotRate = 2
+Armour      = 3

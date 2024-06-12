@@ -1,0 +1,81 @@
+; the number of moons and planets in this data file:
+
+NumPlanetPics = 32
+NumMoonPics = 31
+
+; name: used to search, numbers relate to the picture numbers.
+; grav: gravity scaling
+; type: 0=disabled, 1=enabled
+
+; name     grav  type
+Planet000 =  1.0   1
+Planet001 =  1.0   1
+Planet002 =  1.0   1
+Planet003 =  1.0   1
+Planet004 =  1.0   1
+Planet005 =  1.0   1
+Planet006 =  1.0   1
+Planet007 =  1.0   1
+Planet008 =  1.0   1
+Planet009 =  1.0   1
+Planet010 =  1.0   1
+Planet011 =  1.0   1
+Planet011 =  1.0   1
+Planet012 =  1.0	1
+Planet013 =  1.0   1
+Planet014 =  1.0   1
+Planet015 =  1.0   1
+Planet016 =  1.0   1
+Planet017 =  1.0   1
+Planet018 =  1.0   1
+Planet019 =  1.0   1
+Planet020 =  1.0   1
+Planet021 =  1.0   1
+Planet022 =  1.0   1
+Planet023 =  1.0   1
+Planet024 =  1.0   1
+Planet025 =  1.0   1
+Planet026 =  1.0   1
+Planet027 =  1.0   1
+Planet028 =  1.0   1
+Planet029 =  1.0   1
+Planet030 =  1.0   1
+Planet031 =  1.0   1
+Planet032 =  1.0   1
+Planet033 =  1.0   1
+
+; name    grav  type
+Moon000 =  0.25   1
+Moon001 =  0.25   1
+Moon002 =  0.25   1
+Moon003 =  0.25   1
+Moon004 =  0.25   1
+Moon005 =  0.25   1
+Moon006 =  0.25   1
+Moon007 =  0.25   1
+Moon008 =  0.25   1
+Moon009 =  0.25   1
+Moon010 =  0.25   1
+Moon011 =  0.25   1
+Moon012 =  0.25   1
+Moon013 =  0.25   1
+Moon014 =  0.25   1
+Moon015 =  0.25   1
+Moon016 =  0.25   1
+Moon017 =  0.25   1
+Moon018 =  0.25   1
+Moon019 =  0.25   1
+Moon020 =  0.25   1
+Moon021 =  0.25   1
+Moon022 =  0.25   1
+Moon023 =  0.25   1
+Moon024 =  0.25   1
+Moon025 =  0.25   1
+Moon026 =  0.25   1
+Moon027 =  0.25   1
+Moon028 =  0.25   1
+Moon029 =  0.25   1
+Moon030 =  0.25   1
+Moon031 =  0.25   1
+Moon032 =  0.25   1
+Moon033 =  0.25   1

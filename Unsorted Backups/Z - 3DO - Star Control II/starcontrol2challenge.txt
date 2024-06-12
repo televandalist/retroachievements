@@ -1,0 +1,30 @@
+Star Control II is an extreme example, 
+even though it doesn't even have levels. 
+
+You can play the entire game without ever 
+visiting the Rebel Base at Earth, which 
+means no upgrades to your flagship, a very 
+short supply of fuel, very few combat ships 
+(gained via alliance pacts, which are rare 
+in themselves), and a new enemy appearing 
+every day (which, in real time, is every 
+five seconds). 
+
+Even if you can consistently 
+fight off the enemies with zero damage, each 
+battle resets your ship's direction, and 
+without upgrades, you'll be forced to travel 
+everywhere with the slowest possible rotation 
+rate and ship speed — in a game with a time 
+limit. You are screwed. People only started 
+doing this more than ten years after the game's 
+release, and it was not an intended feature, 
+as there's a sequence involving the Rebel Base 
+immediately before The Very Definitely Final 
+Dungeon and the game would crash doing this; 
+
+
+the challenge gamers couldn't patch this until 
+the game's code became open-source.
+
+

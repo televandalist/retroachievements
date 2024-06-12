@@ -1,0 +1,2448 @@
+0x04bca0   Mutated Type - Common - Pattergo - Best Rank
+  - 0x00 - Narrow Escape
+  - 0x01 - Close Call
+  - 0x02 - Good Fight
+  - 0x03 - Great Fight
+  - 0x04 - Excellent!
+0x04bca1   Mutated Type - Common - Pattergo - Number of times fought
+0x04bca2   Mutated Type - Common - Pattergen - Best Rank
+0x04bca3   Mutated Type - Common - Pattergen - Number of times fought
+0x04bca4   Mutated Type - Common - Gelata Urchin - Best Rank
+0x04bca5   Mutated Type - Common - Gelata Urchin - Number of times fought
+0x04bca6   Mutated Type - Common - Magnata Urchin - Best Rank
+0x04bca7   Mutated Type - Common - Magnata Urchin - Number of times fought
+0x04bca8   Mutated Type - Common - Baldor - Best Rank
+0x04bca9   Mutated Type - Common - Baldor - Number of times fought
+0x04bcac   Mutated Type - Sub-Boss - Baldor Queen - Best Rank
+0x04bcad   Mutated Type - Sub-Boss - Baldor Queen - Number of times fought
+0x04bcae   Mutated Type - Boss - Arachnoth - Best Rank
+0x04bcaf   Mutated Type - Boss - Arachnoth - Number of times fought
+0x04bcbe   Mutated Type - Common - Nanyd - Best Rank
+0x04bcbf   Mutated Type - Common - Nanyd - Number of times fought
+0x04bcc0   Mutated Type - Common - Nanyd Queen - Best Rank
+0x04bcc1   Mutated Type - Common - Nanyd Queen - Number of times fought
+0x04bcc2   Mutated Type - Common - Stryder - Best Rank
+0x04bcc3   Mutated Type - Common - Stryder - Number of times fought
+0x04bcc4   Mutated Type - Common - Stryder, Hunter - Best Rank
+0x04bcc5   Mutated Type - Common - Stryder, Hunter - Number of times fought
+0x04bcc6   Mutated Type - Common - Hopper - Best Rank
+0x04bcc7   Mutated Type - Common - Hopper - Number of times fought
+0x04bcc8   Mutated Type - Common - Pludger - Best Rank
+0x04bcc9   Mutated Type - Common - Pludger - Number of times fought
+0x04bcca   Mutated - Rare Encounter - Sand Mite - Best Rank
+0x04bccb   Mutated - Rare Encounter - Sand Mite - Number of times fought
+0x04bccc   Mutated Type - Sub-Boss - Lathum - Best Rank
+0x04bccd   Mutated Type - Sub-Boss - Lathum - Number of times fought
+0x04bcce   Mutated Type - BOSS - Gigralyph - Best Rank
+0x04bccf   Mutated Type - BOSS - Gigralyph - Number of times fought
+0x04bcd0   Mutated Type - BOSS - Gigra - Best Rank
+0x04bcd1   Mutated Type - BOSS - Gigra - Number of times fought
+0x04bcd2   Mutated Type - BOSS - Hunter Gigra - Best Rank
+0x04bcd3   Mutated Type - BOSS - Hunter Gigra - Number of times fought
+0x04bcd4   Mutated Type - BOSS - Fighter Gigra - Best Rank
+0x04bcd5   Mutated Type - BOSS - Fighter Gigra - Number of times fought
+0x04bcd6   Mutated Type - BOSS - Swift Gigra - Best Rank
+0x04bcd7   Mutated Type - BOSS - Swift Gigra - Number of times fought
+0x04bcda   Pure Type - Common - Lazara - Best Rank
+0x04bcdb   Pure Type - Common - Lazara - Number of times fought
+0x04bcdc   Pure Type - Common - Lazara Hunter - Best Rank
+0x04bcdd   Pure Type - Common - Lazara Hunter - Number of times fought
+0x04bcde   Pure Type - Common - Lazara Hammer - Best Rank
+0x04bcdf   Pure Type - Common - Lazara Hammer - Number of times fought
+0x04bce0   Pure Type - Common - Lazara Skimmer - Best Rank
+0x04bce1   Pure Type - Common - Lazara Skimmer - Number of times fought
+0x04bce2   Craymen's Fleet - Common - Punisher - Best Rank
+0x04bce3   Craymen's Fleet - Common - Punisher - Number of times fought
+0x04bce6   Craymen's Fleet - Sub-Boss - Flagship - Best Rank
+0x04bce7   Craymen's Fleet - Sub-Boss - Flagship - Number of times fought
+0x04bce8   Pure Type - BOSS - Atolm Dragon - Best Rank
+0x04bce9   Pure Type - BOSS - Atolm Dragon - Number of times fought
+0x04bcea   Pure Type - Common - Hellion - Best Rank
+0x04bceb   Pure Type - Common - Hellion - Number of times fought
+0x04bcee   Imperial Forces - Sub-Boss - Gunship - Best Rank
+0x04bcef   Imperial Forces - Sub-Boss - Gunship - Number of times fought
+0x04bcf0   Pure Type - BOSS - Guardian Dragon - Best Rank
+0x04bcf1   Pure Type - BOSS - Guardian Dragon - Number of times fought
+0x04bcf2   Mutated Type - Common - Lumid - Best Rank
+0x04bcf3   Mutated Type - Common - Lumid - Number of times fought
+0x04bcf4   Mutated Type - Common - Lumid Queen - Best Rank
+0x04bcf5   Mutated Type - Common - Lumid Queen - Number of times fought
+0x04bcf6   Mutated Type - Common - Neo-Stryder - Best Rank
+0x04bcf7   Mutated Type - Common - Neo-Stryder - Number of times fought
+0x04bcf8   Mutated Type - Common - Neo-Stalker - Best Rank
+0x04bcf9   Mutated Type - Common - Neo-Stalker - Number of times fought
+0x04bcfa   Mutated Type - Rare Encounter - Kolba - Best Rank
+0x04bcfb   Mutated Type - Rare Encounter - Kolba - Number of times fought
+0x04bcfc   Craymen's Fleet - Common - Rogue - Best Rank
+0x04bcfd   Craymen's Fleet - Common - Rogue - Number of times fought
+0x04bcfe   Craymen's Fleet - Common - Inferno - Best Rank
+0x04bcff   Craymen's Fleet - Common - Inferno - Number of times fought
+0x04bd00   Craymen's Fleet - Common - Annihilator - Best Rank
+0x04bd01   Craymen's Fleet - Common - Annihilator - Number of times fought
+0x04bd04   Pure Type - Sub-Boss - Drenholm - Best Rank
+0x04bd05   Pure Type - Sub-Boss - Drenholm - Number of times fought
+0x04bd06   Pure Type - BOSS - Atolm, Orbs - Best Rank
+0x04bd07   Pure Type - BOSS - Atolm, Orbs - Number of times fought
+0x04bd0a   Mutated Type - Common - Small Egg - Best Rank
+0x04bd0b   Mutated Type - Common - Small Egg - Number of times fought
+0x04bd0c   Mutated Type - Common - Large Egg - Best Rank
+0x04bd0d   Mutated Type - Common - Large Egg - Number of times fought
+0x04bd0e   Mutated Type - Common - Mutant Hopper - Best Rank
+0x04bd0f   Mutated Type - Common - Mutant Hopper - Number of times fought
+0x04bd10   Mutated Type - Common - Luchich - Best Rank
+0x04bd11   Mutated Type - Common - Luchich - Number of times fought
+0x04bd12   Mutated Type - Common - Mutant Flier - Best Rank
+0x04bd13   Mutated Type - Common - Mutant Flier - Number of times fought
+0x04bd14   Mutated Type - Common - Winged Luchich - Best Rank
+0x04bd15   Mutated Type - Common - Winged Luchich - Number of times fought
+0x04bd16   Mutated Type - Common - Slime Feeder - Best Rank
+0x04bd17   Mutated Type - Common - Slime Feeder - Number of times fought
+0x04bd1a   Mutated Type - Rare Encounter - Dracolyth - Best Rank
+0x04bd1b   Mutated Type - Rare Encounter - Dracolyth - Number of times fought
+0x04bd1e   Mutated Type - Common - Absorbora - Best Rank
+0x04bd1f   Mutated Type - Common - Absorbora - Number of times fought
+0x04bd20   Mutated Type - Rare Encounter - Absorborac - Best Rank
+0x04bd21   Mutated Type - Rare Encounter - Absorborac - Number of times fought
+0x04bd22   Mutated Type - Sub-Boss - Energ - Best Rank
+0x04bd23   Mutated Type - Sub-Boss - Energ - Number of times fought
+0x04bd24   Mutated Type - BOSS - Basilus - Best Rank
+0x04bd25   Mutated Type - BOSS - Basilus - Number of times fought
+0x04bd2a   Imperial Forces - Common - Instigator - Best Rank
+0x04bd2b   Imperial Forces - Common - Instigator - Number of times fought
+0x04bd2c   Imperial Forces - Common - Missile Cruiser - Best Rank
+0x04bd2d   Imperial Forces - Common - Missile Cruiser - Number of times fought
+0x04bd30   Imperial Forces - Common - Plasma Cannon - Best Rank
+0x04bd31   Imperial Forces - Common - Plasma Cannon - Number of times fought
+0x04bd34   Imperial Forces - Common - Enforcer - Best Rank
+0x04bd35   Imperial Forces - Common - Enforcer - Number of times fought
+0x04bd36   Imperial Forces - Sub-Boss - Behemoth - Best Rank
+0x04bd37   Imperial Forces - Sub-Boss - Behemoth - Number of times fought
+0x04bd42   Imperial Forces - BOSS - Deathmaker - Best Rank
+0x04bd43   Imperial Forces - BOSS - Deathmaker - Number of times fought
+0x04bd44   Imperial Forces - Rare Encounter - Battle Cruiser - Best Rank
+0x04bd45   Imperial Forces - Rare Encounter - Battle Cruiser - Number of times fought
+0x04bd46   Imperial Forces - Rare Encounter - Warship - Best Rank
+0x04bd47   Imperial Forces - Rare Encounter - Warship - Number of times fought
+0x04bd48   Pure Type - Common - Scavenger - Best Rank
+0x04bd49   Pure Type - Common - Scavenger - Number of times fought
+0x04bd4a   Pure Type - Common - Glide Dragon - Best Rank
+0x04bd4b   Pure Type - Common - Glide Dragon - Number of times fought
+0x04bd4c   Pure Type - Common - Drone - Best Rank
+0x04bd4d   Pure Type - Common - Drone - Number of times fought
+0x04bd4e   Pure Type - Common - Protodrone - Best Rank
+0x04bd4f   Pure Type - Common - Protodrone - Number of times fought
+0x04bd50   Pure Type - Sub-Boss - Photon Cannon - Best Rank
+0x04bd51   Pure Type - Sub-Boss - Photon Cannon - Number of times fought
+0x04bd56   Pure Type - Common - Plasma Spider - Best Rank
+0x04bd57   Pure Type - Common - Plasma Spider - Number of times fought
+0x04bd58   Pure Type - Sub-Boss - Auto Defense System 1 - Best Rank
+0x04bd59   Pure Type - Sub-Boss - Auto Defense System 1 - Number of times fought
+0x04bd5a   Pure Type - Sub-Boss - Auto Defense System 2 - Best Rank
+0x04bd5b   Pure Type - Sub-Boss - Auto Defense System 2 - Number of times fought
+0x04bd5c   Pure Type - Sub-Boss - Auto Defense System 3 - Best Rank
+0x04bd5d   Pure Type - Sub-Boss - Auto Defense System 3 - Number of times fought
+0x04bd5e   Pure Type - BOSS - Atolm, Ancient - Best Rank
+0x04bd5f   Pure Type - BOSS - Atolm, Ancient - Number of times fought
+0x04bd60   Pure Type - BOSS - Atolm, Orbs II - Best Rank
+0x04bd61   Pure Type - BOSS - Atolm, Orbs II - Number of times fought
+0x04bd64   Imperial Forces - Common - Stinger - Best Rank
+0x04bd65   Imperial Forces - Common - Stinger - Number of times fought
+0x04bd66   Imperial Forces - Common - Punisher - Best Rank
+0x04bd67   Imperial Forces - Common - Punisher - Number of times fought
+0x04bd68   Imperial Forces - BOSS - Grig Orig - Best Rank
+0x04bd69   Imperial Forces - BOSS - Grig Orig - Number of times fought
+0x04bd6a   Craymen's Fleet - Sub-Boss - Spectre - Best Rank
+0x04bd6b   Craymen's Fleet - Sub-Boss - Spectre - Number of times fought
+0x04bd6c   Imperial Forces - Common - Pyro - Best Rank
+0x04bd6d   Imperial Forces - Common - Pyro - Number of times fought
+0x04bd6e   Imperial Forces - Common - Skiff - Best Rank
+0x04bd6f   Imperial Forces - Common - Skiff - Number of times fought
+0x04bd72   Imperial Forces - Common - Marauder - Best Rank
+0x04bd73   Imperial Forces - Common - Marauder - Number of times fought
+0x04bd74   Imperial Forces - BOSS - Exterminator - Best Rank
+0x04bd75   Imperial Forces - BOSS - Exterminator - Number of times fought
+0x04bd76   Imperial Forces - Common - Raider - Best Rank
+0x04bd77   Imperial Forces - Common - Raider - Number of times fought
+0x04bd78   Pure Type - Sub-Boss - Arangata - Best Rank
+0x04bd79   Pure Type - Sub-Boss - Arangata - Number of times fought
+0x04bd7a   Pure Type - BOSS - Infested G.O. - Best Rank
+0x04bd7b   Pure Type - BOSS - Infested G.O. - Number of times fought
+0x04bd82   Pure Type - Common - Scorpitara - Best Rank
+0x04bd83   Pure Type - Common - Scorpitara - Number of times fought
+0x04bd86   Pure Type - Rare Encounter - Golia Tracker - Best Rank
+0x04bd87   Pure Type - Rare Encounter - Golia Tracker - Number of times fought
+0x04bd88   Pure Type - Rare Encounter - Golia Hunter - Best Rank
+0x04bd89   Pure Type - Rare Encounter - Golia Hunter - Number of times fought
+0x04bd8c   Pure Type - Common - Sentinel - Best Rank
+0x04bd8d   Pure Type - Common - Sentinel - Number of times fought
+0x04bd92   Pure Type - Sub-Boss - Twin Guardians - Best Rank
+0x04bd93   Pure Type - Sub-Boss - Twin Guardians - Number of times fought
+0x04bd94   Pure Type - Sub-Boss - Battle Droid - Best Rank
+0x04bd95   Pure Type - Sub-Boss - Battle Droid - Number of times fought
+0x04bd96   Pure Type - BOSS - Anti-Basic - Best Rank
+0x04bd97   Pure Type - BOSS - Anti-Basic - Number of times fought
+0x04bd98   Pure Type - BOSS - Anti-Valiant - Best Rank
+0x04bd99   Pure Type - BOSS - Anti-Valiant - Number of times fought
+0x04bd9a   Pure Type - BOSS - Anti-Stripe - Best Rank
+0x04bd9b   Pure Type - BOSS - Anti-Stripe - Number of times fought
+0x04bd9c   Pure Type - BOSS - Anti-Panzer - Best Rank
+0x04bd9d   Pure Type - BOSS - Anti-Panzer - Number of times fought
+0x04bd9e   Pure Type - BOSS - Anti-Eye - Best Rank
+0x04bd9f   Pure Type - BOSS - Anti-Eye - Number of times fought
+0x04bda0   Pure Type - BOSS - Sestren, Sestren Exsis, Sestren Morphic - Best Rank
+0x04bda1   Pure Type - BOSS - Sestren, Sestren Exsis, Sestren Morphic - Number of times fought
+
+0x105f12   Ending Screen - Spiritual Closeness Points
+0x105f1a   Ending Screen - Enemy Data Collection Rate
+0x105f26   Ending Screen - Target Destruction Rate
+0x105f32   Ending Screen - Field Map Coverage Rate
+0x105f3e   Ending Screen - 16-bit - Total Flight Distance
+
+0x14a408   Map ID
+  - 0x00 - Above Excavation Site (Beginning)
+  - 0x07 - Above Excavation Site
+  - 0x08 - Excavation Site (Beginning)
+  - 0x09 - Camp
+  - 0x0f - Excavation Site
+  - 0x18 - Excavation SIte 4 and Gulch
+  - 0x1c - Deep Canyon Gulch (After defeating first Baldor Queen)
+  - 0x1e - Deep Canyon Gulch (After defeating second Baldor Queen)
+  - 0x1f - Valley (After beating boss)
+  - 0x2f - Camp - Village of Cainus
+  - 0x37 - Garil Desert - Main
+  - 0x3f - Caravan
+  - 0x47 - Camp 2
+  - 0x4f - Caravan (Disc 2)
+  - 0x57 - Camp 3
+  - 0x5f - Caravan (After Paet)
+  - 0x6f - Caravan (Disc Three-Four)
+  - 0x77 - Caravan (Disc Four)
+  - 0x7f - Camp (After Imperial Air Force Post)
+  - 0x8f - Forbidden Zone
+  - 0x90 - Introduction and cave in beginning
+  - 0x97 - Above Georgius
+  - 0x9f - Outside the Shellcoof - Georgius
+  - 0xa7 - Georgius - Second Visit (Shellcoof)
+  - 0xaf - Village of Zoah
+  - 0xbf - Imperial Air Force Post (Disc 3)
+  - 0xC7 - Mel-Kava
+  - 0xcf - The Tower
+  - 0xd7 - The Tower (Second Visit)
+  - 0xdf - Uru - Sunken Southern Ruins
+  - 0xe7 - Underground Ruins
+  - 0xef - Forest of Zoah
+  - 0xf7 - Seeker's Stronghold
+  - 0xff - Seeker's Stronghold Camp
+
+0x14a3f8   bit6 - Data imported from Panzer Dragoon II Zwei
+
+0x14a3f9   General Events
+  - bit7 - Cutscene
+  - bit6 - Battle
+
+0x14a3fc   Event
+  - bit7 - After Gash Leaves in the Desert
+  - bit6 - Meet An'jou
+  - bit5 - Start of first Atolm Dragon fight
+  - bit4 - Talk to Paet
+
+0x14a3fd   Event
+  - bit0 - Arriving at camp with Gash
+  - bit1 - After meeting Gash and leaving Valley
+  - bit2 - Boss battle at Gulch starts
+  - bit3 - After examining captain
+  - bit4 - Arriving at Excavation Site
+  - bit6 - Right before you actually get to play
+
+0x14a3fe   Events
+  - bit2 - Talk to Paet at night
+  - bit1 - After cutscene about Mel-Kava
+  - bit0 - After scene with Paet
+
+0x14a3ff   Event
+  - bit4 - Start second Atolm Dragon fight
+  - bit2 - Arrive at ruins
+
+0x14a400   Last Battle Event
+  - bit0 - After first flashback
+
+0x14a402   Events
+  - bit0 - Defeat Atolm (third time)
+
+0x14a403   Last Battle Event
+  - bit7 - after 2nd flashback
+  - bit6 - after 3rd flashback
+  - bit5 - after 4th flashback
+  - bit4 - after 5th flashback
+  - bit3 - ending flag 1
+  - bit2 - ending flag 2
+
+0x14a406   Events
+  - bit4 - Talk to the mother - Zoah Forest becomes available
+  - bit7 - Talk to Paet for first time
+  - bit5 - Destroy Shellcoof
+
+0x14a409   Events
+  - bit0 - After First Cutscene
+  - bit7 - Stronghold Funeral
+
+0x14a40a   Events
+  - bit5 - Defeat Atolm dragon (first time)
+
+0x14a40b   Event
+  - bit5 - After taking out Craymen's guards
+  - bit4 - Take out Atolm Dragon (First Time)
+
+0x14a40c   Event
+  - bit2 - Rescue Azel from Mutants
+
+0x14a40d   Event
+  - bit4 - After Exterminator is destroyed
+  //Forest of Zoah
+  - bit1 - Arangata Dead
+  - bit3 - Arangata Dead
+
+0x14a40e   Event
+  - bit0 - Arrive at Excavation Site
+  - bit1 - Arangata Base
+  - bit2 - Arangata Base
+  - bit3 - Arangata Base
+  - bit5 - Arangata Base
+  - bit6 - Arangata Base
+  - bit7 - Arangata Base
+
+0x14a40f   Event
+  - bit0 - Arangata Base
+  - bit7 - Anti-Basic Wing Defeated
+  - bit6 - Anti-Valiant Wing Defeated
+  - bit5 - Anti-Stripe Wing Defeated
+  - bit4 - Anti-Panzer Wing Defeated
+  - bit3 - Anti-Eye Defeated
+
+0x14a411   Treasures
+  - bit7 - Get elevator key and handgun
+
+0x14a412   Event
+  - bit3 - in box game
+
+0x14a413   Event
+  - bit1 - Ending Screen
+
+0x14a420   Key Items
+  - bit0 - D-Unit 7
+  - bit1 - D-Unit 6
+  - bit2 - D-Unit 5
+  - bit3 - D-Unit 4
+  - bit4 - D-Unit 3
+  - bit5 - D-Unit 2
+  - bit6 - D-Unit 1
+  - bit7 - Dragon's Crest
+
+0x14a421   Key Items
+  - bit3 - Dome Gate Key
+  - bit4 - Protect Key 3
+  - bit5 - Protect Key 2
+  - bit6 - Protect Key 1
+
+0x14a422   Key Items
+  - bit3 - Picture Board
+  - bit5 - Impenia Coin (Start the game with it)
+  - bit6 - World Map
+  - bit7 - Dragon Booster
+
+0x14a423   Key Items
+  - bit0 - Villatuya Fruit
+  - bit1 - Kuo Pollen
+  - bit3 - D-Unit 12
+  - bit4 - D-Unit 11
+  - bit5 - D-Unit 10
+  - bit6 - D-Unit 9
+  - bit7 - D-Unit 8
+
+0x14a424   Key Items
+  - bit0 - Tower Report 1
+  - bit1 - Base Manual
+  - bit2 - Soldier Guide (Start the game with it)
+  - bit3 - Dragon Bible
+  - bit4 - Bible 2
+  - bit5 - Bible 1
+  - bit6 - Large Gun
+  - bit7 - Tobitama Rock
+
+0x14a425   Key Items
+  - bit0 - Verato Pipe
+  - bit1 - Junk
+  - bit2 - Ship Parts
+  - bit3 - Seeker Map
+  - bit4 - Letter 2
+  - bit5 - Letter 1
+  - bit6 - Elevator Key
+  - bit7 - Hand Gun
+
+0x14a426   Key Items
+  - bit0 - Recorder
+  - bit1 - Paet's Report
+  - bit5 - Aronak Unit
+  - bit6 - Old Diary
+  - bit7 - ?
+
+0x14a427   Key Items
+  - bit0 - Palmer Amulet
+  - bit2 - Dragon Book 3
+  - bit3 - Dragon Book 2
+  - bit4 - Dragon Book 1
+  - bit5 - Zoah Bible
+  - bit6 - Memory Report
+  - bit7 - Ship Report
+
+0x14a428   Berserk List
+  - bit0 - Lightning Storm
+  - bit1 - Plasma Vortex
+  - bit2 - Assault Wing
+  - bit3 - Prism Laser
+  - bit4 - Dragon Phoenix
+  - bit5 - Cleansing Wave
+  - bit6 - Armageddon
+  - bit7 - Judgement Day
+
+0x14a429   Berserk List
+  - bit0 - Vengeance Orbs
+  - bit1 - Onslaught
+  - bit2 - Wraith Slashers
+  - bit3 - Phantom Slashers
+  //Key Items
+  - bit4 - Leader's Note
+  - bit5 - Tower Report 3
+  - bit6 - Tower Report 2
+  - bit7 - Dragon Report
+
+0x14a42a   Berserk List
+  - bit0 - Genesis
+  - bit1 - Heal-Maxis
+  - bit2 - Heal
+  - bit7 - Shield
+
+0x14a42b   Berserk List
+  - bit0 - Energy Prism
+  - bit1 - Astral Phantoms
+  - bit2 - Hunting Scythe
+  - bit3 - Holy Sphere
+  - bit4 - Chain Laser
+  - bit5 - Laser Storm
+  - bit6 - Berserker Rage
+  - bit7 - Plasma Swarm
+
+0x14a42c   Access
+  - bit0 - Imperial Air Force Post Field Map
+  - bit1 - Underground Ruins Field Map
+  - bit2 - Uru Passage Field Map
+  - bit4 - Georgius-Outside Shellcoof Field Map
+  - bit5 - Georgius Field Map
+  - bit6 - Forbidden Zone Field Map
+  - bit7 - Garil Desert Map
+
+0x14a42d   Access
+  - bit0 - Field Map - Above Excavation Site
+  - bit1 - Field Map - Excavation Site #4
+  //Berserk List
+  - bit2 - Healing Wing
+  - bit3 - Escape
+  - bit4 - Swift Wing
+  - bit5 - Protection Wing
+  - bit6 - Berserker Wing
+  - bit7 - Recover
+
+0x14a42e   Break Objects
+  - bit0 - Excavation Site 4 - Free Action x1 (Map - 0x18)
+  - bit1 - Conana's Nest - Ambrosia
+  - bit2 - Conana's Nest - D-Unit 1
+  - bit3 - Waterfall - Elixir Minor x1 (Map - 0x1c)
+  - bit4 - Waterfall - Elixir Minor x1 (Map - 0x1c)
+  - bit5 - Canyon Deep Gultch - Berserk Micro (Map 0x18)
+  - bit6 - Above Excavation Site - Dinys Chip (Map - 0x00)
+  - bit7 - Above Excavation Site - Dinys Chip (Map - 0x00)
+
+0x14a42f   Break Objects
+  - bit0 - Above Excavation Site - Stolarium (Map - 0x00)
+  - bit1 - Excavation Site 4 - Dinys Chip x1 (Map 0x18)
+  - bit2 - Excavation Site 4 - Dinys Chip x1 (Map 0x18)
+  - bit3 - Excavation Site 4 - Revive x1 (Map 0x18)
+  - bit4 - Excavation Site 4 - Elixor Minor x3 (Map 0x18)
+  - bit5 - Excavation Site 4 - Telepathy Shard (Map 0x18)
+  - bit7 - The Tower (0xcf) - Field Map
+
+0x14a430   Break Objects
+  - bit0 - Blue Oasis - Dinys Chip x1 (Map 0x37)
+  - bit1 - Green Oasis - Elixir Medis x1 (Map 0x37)
+  - bit2 - Green Oasis - Dinys Chip x1 (Map 0x37)
+  - bit3 - Green Oasis - Berserk Micro x1 (Map 0x37)
+  - bit4 - Green Oasis - Dinys Chip x1 (Map 0x37)
+  - bit5 - Green Oasis - Elixir Minor x1 (Map 0x37)
+  - bit6 - Garil Desert - Main - D Unit 03 (Map 0x37)
+  - bit7 - Garil Desert - Main - Free Action x2 (Map 0x37)
+
+0x14a431   Break Object
+  - bit0 - Garil Desert - Main - Elixir Minor (Map 0x37)
+  - bit1 - Garil Desert - Main - Telepathy Shard (Map 0x37)
+  - bit2 - Garil Desert - Main - Elixir Medis (Map 0x37)
+  - bit3 - Waterfall - D Unit 02 x1 (Map 0x1c)
+  - bit4 - Waterfall - Energy Prism x1 (Map 0x1c)
+  - bit5 - Waterfall - Elixir Medis x1 (Map 0x1c)
+  - bit6 - Excavation Site 4 (Cave) - Elixer Medis (Map 0x018)
+  - bit7 - Excavation Site 4 (Cave) - Dinys Chip (Map 0x018)
+
+0x14a432   Break Objects
+  - bit0 - Georgius (0x97) - Gipson Lens x1
+  - bit1 - Forbidden Zone (0x8f) - Gipson Lens x1
+  - bit2 - Forbidden Zone (0x8f) - Stolarium x1
+  - bit3 - Forbidden Zone (0x8f) - Shell Plate x1
+  - bit4 - Forbidden Zone (0x8f) - Shell Plate x1
+  - bit5 - Forbidden Zone (0x8f) - Telepathy Shard x1
+  - bit6 - Forbidden Zone (0x8f) - Stolarium x1
+  - bit7 - Forbidden Zone (0x8f) - Gipson Lens x1
+
+0x14a433   Break Objects
+  - bit0 - Forbidden Zone (0x8f) - Shell Plate x1
+  - bit1 - Green Oasis - Cave - Mauler (Map 0x37)
+  - bit2 - Shield Chips x3?
+  - bit3 - Blue Oasis - D Unit 4 x1 (Map 0x37)
+  - bit4 - Blue Oasis - Elixir Minor (Map 0x37)
+  - bit5 - Blue Oasis - Dinys Chip (Map 0x37)
+  - bit6 - Blue Oasis - Elixir Medis (Map 0x37)
+  - bit7 - Blue Oasis - Berserk Minor (Map 0x37)
+
+0x14a434   Break Objects
+  - bit6 - Georgius (Map 0x9f) - Ship Parts
+  - bit7 - Georgius (Map 0x9f) - Shell Plate x1
+
+0x14a435   Break Objects
+  - bit0 - Georgius (0x9f) - Stolarium x1
+  - bit1 - Georgius (0x9f) - Gipson Lens x1
+  - bit2 - Georgius (0x9f) - Telepathy Shard x1
+  - bit3 - Georgius (0x9f) - Stolarium x1
+  - bit4 - Georgius (0x9f) - Stolarium x1
+  - bit5 - Georgius (0x9f) - Gipson Lens x1
+  - bit6 - Georgius (0x9f) - Shell Plate x1
+  - bit7 - Georgius (0x97) - Gipson Lens x1
+
+0x14a436   Break Objects
+  - bit0 - Uru - Sunken Ruins (0xdf) - Berserk Medis x2
+  - bit1 - Uru - Sunken Ruins (0xdf) - Dinys Chip x1
+  - bit2 - Uru - Sunken Ruins (0xdf) - Elixir Maxis x1
+  - bit3 - Uru - Sunken Ruins (0xdf) - Shield Chip x2
+  - bit4 - Uru - Sunken Ruins (0xdf) - Antidote x1
+  - bit5 - Uru - Sunken Ruins (0xdf) - Dinys Chip x1
+  - bit6 - Uru - Sunken Ruins (0xdf) - Elixir Medis x1
+  - bit7 - Uru - Sunken Ruins (0xdf) - Berzerk Micro x1
+
+0x14a437   Break Objects
+  - bit0 - Uru - Sunken Ruins (0xdf) - Dinys Chip x1
+  - bit1 - Uru - Sunken Ruins (0xdf) - Free Action x1
+  - bit2 - Genesis Chamber (0xa7) - Ambrosia x1
+  - bit3 - Genesis Chamber (0xa7) - Ambrosia x1
+  - bit4 - Inside Shellcoof (0xa7) - Blast Chip x1
+  - bit5 - Inside Shellcoof (0xa7) - Dragon Booster x1
+
+0x14a438   Break Objects
+  - bit0 - Uru - Deep North (0xdf) - Dinys Chip x1
+  - bit1 - Uru - Deep North (0xdf) - Free Action x1
+  - bit2 - Uru - Deep North (0xdf) - Dinys Chip x1
+  - bit3 - Uru - Deep North (0xdf) - Berserk Minor x1
+  - bit4 - Uru - Deep North (0xdf) - Full Elixir x1
+  - bit5 - Uru - Deep North (0xdf) - Speed Chip x1
+  - bit6 - Uru - Deep North (0xdf) - D Unit 06 x1
+  - bit7 - Uru - Passage (0xdf) - Dinys Chip x1
+
+0x14a439   Break Objects
+  - bit0 - Uru - Passage (0xdf) - Elixir Maxis x1
+  - bit1 - Uru - Passage (0xdf) - Plasma Vortex x1
+  - bit2 - Uru - Passage (0xdf) - Elixir Maxis x2
+  - bit3 - Uru - Passage (0xdf) - Elixir Medis x2
+  - bit4 - Uru - Passage (0xdf) - Free Action x3
+  - bit5 - Uru - Passage (0xdf) - Antidote x2
+  - bit6 - Uru - Ruins (0xdf) - Post-2nd Lock - Armor Chip x1
+  - bit7 - Uru - Ruins (0xdf) - D-Unit 05
+
+0x14a43a   Break Object
+  - bit0 - Underground Ruin BF4 (Map 0xe7) - Blast Chip x1
+  - bit1 - Underground Ruin BF4 (Map 0x37) - Dinys Chip x1
+  - bit2 - Underground Ruin BF4 (Map 0xe7) - Elixir Maxis x1
+  - bit3 - Underground Ruin BF4 (Map 0x37) - Dinys Chip x1
+  - bit4 - Underground Ruin BF4 (Map 0xe7) - Elixir Medis x5
+  - bit5 - Underground Ruin BF4 (Map 0x37) - Elixir Maxis x1
+  - bit6 - Underground Ruin B2 North - Ambrosia x1
+  - bit7 - Underground Ruin BF2 North - D Unit 7
+
+0x14a43b   Break Objects
+  - bit0 - Underground Ruin B2E (0xe7) - Hunting Scythe x1
+  - bit1 - Underground Ruin B1 (0xe7) - Blast Chip x2
+  - bit2 - Underground Ruin B1 (0xe7) - Tri-Burst x1
+  - bit3 - Underground Ruin B1 (0xe7) - Restore Speed x2
+  - bit4 - Underground Ruin B1 (0xe7) - Elxiir Minor x9
+  - bit5 - Underground Ruin B1 (0xe7) - Elixir Medis x4
+  - bit6 - Underground Ruin B1 (0xe7) - Flash Chip x3
+  - bit7 - Uru - Deep North (0xdf) - Power Chip x1
+
+0x14a43c   Break Object
+  - bit0 - Underground Ruin B4F (Map 0xe7) - Elixir Maxis x2
+  - bit1 - Underground Ruin B4F (Map 0xe7) - Dinys Chip x1
+  - bit2 - Underground Ruin B4F (Map 0xe7) - Dinys Chip x1
+  - bit3 - Underground Ruin B4F (Map 0xe7) - Dinys Chip x1
+  - bit4 - Underground Ruin BF4 (Map 0xe7) - Restore Speed x1
+  - bit5 - Underground Ruin BF4 (Map 0x37) - Blast Chip x1
+  - bit6 - Underground Ruin BF4 (Map 0xe7) - Free Action x1
+  - bit7 - Underground Ruin BF4 (Map 0x37) - Dual Blast Chip x1
+
+0x14a43d   Break Object
+  - bit0 - Underground Ruin BF4 (Map 0xe7) - Blast Chip x1
+  - bit1 - Underground Ruin BF4 (Map 0x37) - Dual Blast Chip x1
+  - bit2 - Underground Ruin BF4 (Map 0xe7) - Blast Chip x1
+  - bit3 - Underground Ruin BF4 (Map 0x37) - Dual Blast Chip x1
+  - bit4 - Underground Ruin BF4 (Map 0xe7) - Blast Chip x1
+  - bit5 - Underground Ruin BF4 (Map 0xe7) - D Unit 8 x1
+  - bit6 - Underground Ruin BF4 (Map 0xe7) - Blast Chip x1
+  - bit7 - Underground Ruin BF4 (Map 0x37) - Dual Blast Chip x1
+
+0x14a43e   Break Objects
+  - bit0 - Underground Ruins B??F - Dual Blast Chip x1
+  - bit1 - Underground Ruins B??F - Dual Blast Chip x1
+  - bit2 - Underground Ruins B??F - Berserk Maxis x1
+  - bit3 - Underground Ruins B??F - Olfactory Lobe x1
+  - bit4 - Underground Ruins B?F (Map 0xe7) - Speed Chip x3
+  - bit5 - Underground Ruins B?F (Map 0xe7) - Power Chip x3
+  - bit6 - Underground Ruins B?F (Map 0xe7) - Shield Chip x3
+  - bit7 - Underground Ruins B?F (Map 0xe7) - Armor Chip x3
+
+0x14a43f   Break Object
+  - bit0 - Underground Ruin B4F (Map 0xe7) - Dinys Chip x1
+  - bit1 - Underground Ruin B4F (Map 0xe7) - Elixir Medis x2
+  - bit2 - Underground Ruin B4F (Map 0xe7) - Blast Chip x1
+  - bit3 - Underground Ruin B4F (Map 0xe7) - Speed Chip x2
+  - bit4 - Underground Ruin B4F (Map 0xe7) - Power Chip x1
+  - bit5 - Underground Ruin B4F (Map 0xe7) - Elixir Minor x1
+  - bit6 - Underground Ruin B4F (Map 0xe7) - Elixir Minor x1
+  - bit7 - Underground Ruin B4F (Map 0xe7) - Free Action x2
+
+0x14a440   Break Object
+  - bit7 - Inside Mel-Kava (0xc7) - Recover x3
+  //The Tower 3F (0xd7)
+  - bit0 - Elixir Maxis x1
+  - bit1 - Tri-Blast Chip x1
+  - bit2 - Full Elixir x1
+  - bit3 - Tri-Blast Chip x1
+  - bit6 - Full Elixir x1
+  //The Tower 2F (0xd7)
+  - bit4 - Armor Chip x1
+  - bit5 - Speed Chip x1
+
+0x14a441   Break Object
+  - bit0 - Mel-Kava (0xc7) - Anesthetic x1
+  - bit1 - Mel-Kava (0xc7) - Telepathy Shard x1
+  - bit2 - Mel-Kava (0xc7) - Olfactory Lobe x1
+  - bit3 - Mel-Kava (0xc7) - Restore Speed x1
+  - bit4 - Mel-Kava (0xc7) - Berserk Maxis x1
+  - bit5 - Mel-Kava (0xc7) - Olfactory Lobe x1
+  - bit6 - Underground Ruins B??F (0xe7) - Bone Slasher x1
+  - bit7 - Underground Ruins B??F (0xe7) - Dual Blast Chip x1
+
+0x14a442   Break Targets
+  //The Tower 5F
+  - bit4 - Berserk Maxis x1
+  - bit6 - Full Elixir x1
+  //The Tower 7F South (0xd7)
+  - bit0 - Full Elixir x1
+  - bit1 - Ambrosia x1
+  - bit2 - Tri-Blast Chip x1
+  //The Tower 2F (0xd7)
+  - bit3 - Berserk Micro x40
+  - bit5 - Full Elixir x1
+  - bit7 - Shield Chip x1
+
+0x14a443   Break Targets
+  //The Tower 4F
+  - bit0 - Anesthetic x1
+  - bit1 - Antidote x1
+  - bit3 - Revive x1
+  - bit4 - Revive x1
+  //The Tower 3F (0xd7)
+  - bit5 - Berserk Vampire x1
+  - bit6 - Berserk Maxis x1
+  - bit7 - Flash Chip x1
+  //The Tower 2F (0xd7)
+  - bit2 - Power Chip x1
+
+0x14a444   Break Targets
+  - bit0 - Inside Forest of Zoah (0xef) - Bone Slasher x1
+  - bit1 - Inside Forest of Zoah (0xef) - Elixir Maxis x1
+  - bit2 - Inside Forest of Zoah (0xef) - Olfactory Lobe x1
+  - bit3 - Inside Forest of Zoah (0xef) - D Unit 9 x1
+  - bit4 - Inside Forest of Zoah (0xef) - Berserk Medis x1
+  - bit5 - Inside Forest of Zoah (0xef) - Gipson Lens x1
+  - bit6 - Inside Forest of Zoah (0xef) - Shell Plate x1
+  - bit7 - Inside Forest of Zoah (0xef) - Elixir Maxis x1
+
+0x14a445   Break Target
+  - bit0 - The Tower (0xd7) Elixir Maxis x1
+  - bit1 - The Tower (0xd7) Berserk Maxis x1
+  - bit2 - The Tower (0xd7) D Unit 12 x1
+  - bit3 - The Tower (0xd7) D Unit 11 x1
+  - bit4 - The Tower (0xd7) Full Elixir x1
+  - bit5 - The Tower (0xd7) Berserk Maxis x1
+  - bit6 - The Tower (0xd7) Elixir Maxis x1
+  - bit7 - The Tower (0xd7) Berserk Medis x1
+
+0x14a446   Break Objects
+  - bit2 - Excavation Site 4 - Elixir Minor x1 (Map 0x18)
+  //Inside Forest of Zoah (0xef)
+  - bit0 - Telepathy Shard
+  //Sunken Ship Passage (0x37)
+  - bit1 - Plasma Swarm x1
+  //Forest of Zoah-Red Ruins
+  - bit3 - Olfactory Lobe x1
+  - bit4 - Berserk Maxis x1
+  - bit5 - Full Elixir x1
+  - bit6 - Full Elixir x1
+  - bit7 - Gipson Lens x1
+
+0x14a447   Break Targets
+  - bit7 - Inside Forest of Zoah (0xef) - Berserk Medis x2
+  - bit6 - Inside Forest of Zoah (0xef) - D-Unit 10
+  //Forest of Zoah-Red Ruins
+  - bit0 - Berserk Maxis x1
+  - bit1 - Bone Slasher x1
+  - bit2 - Golia Pod x1
+  - bit3 - Golia Tail x1
+  - bit4 - Golia Fang x1
+  - bit5 - Golia Shell x1
+
+0x14a44a   Ancient Devices (Save Spots)
+  - bit4 - Georgous Storm
+  - bit6 - Forbidden Zone
+
+0x14a44b   Ancient Devices (Save Spots)
+  - bit0 - Desert
+  - bit2 - Desert
+  - bit4 - Excavation Site _4 (0x18)
+
+0x14a450   Entrances Discovered
+  - bit2 - Forbidden Zone - Activate Transporter
+  - bit6 - Desert - Underground Passage
+
+0x14a451   Bitflags for entrances found
+  - bit1 - First Desert Passage
+  - bit4 - Cave before Aracnoth boss
+
+0x14a464   Event
+  - bit0 - After defeating first Baldor Queen
+  - bit4 - Turn off Fan Switch?
+
+0x14a465   Access Object
+  - bit0 - Excavation Site 4 - Rail car
+
+0x14a467   Events
+  - bit0 - After getting dragon and taking control
+  - bit4,5 - Regarding fans being shut off
+
+0x14a469   Events
+  - bit7 - Examine Lathum
+  - bit5 - Green Oasis - Spot entrance to Blue Oasis
+  - bit2-0 - Examine mound
+
+0x14a46f   Event
+  - bit1 - Activate Dragon Crest
+
+0x14a470   Event
+  - bit2 - Third Seal
+  - bit3 - Take last Tobitama to nest
+
+0x14a471   Events
+  - bit0 - Uru Ruins - Passage - Activate first door
+  - bit1 - Uru Ruins - 2nd key used or Drenholm destroyed
+  - bit3 - Uru Ruins - 1st key used
+  - bit5 - Uru Ruins - Obtain 3rd key
+
+0x14a472   Events
+  - bit0 - Take Tobitama back to nest
+  - bit1 - take Tobitama back to nest
+  - bit5 - Entry to ruins granted
+
+0x14a474   Access Objects
+  - bit5-6 - Light Wing Story
+  - bit7 - Azel Story
+
+0x14a475   Access Objects
+  - bit0-2 - Azel Story
+
+0x14a47b   Event
+  - bit4 - Atolm shows up at Mel-Kava
+  - bit6-7 - Mel-Kava - Arrive at Number 2 Central Reactor
+
+0x14a47d   Event
+  - bit5 - Mel-Kava - Destroy Central Reactor
+
+0x14a484   Interactive Event
+  - bit7 - Arangata Base
+
+0x14a486   Event
+  - bit2 - Got an item from Dragon Pup
+
+0x14a487   Event
+  - bit1 - Open path to desert
+  - bit4 - Fuse the baby dragon and your dragon
+
+0x14a488   Access Objects
+  - bit0 - Excavation Site 4 - Rail car
+  - bit1 - Excavation Site 4 - Rail car
+  - bit2 - Excavation Site 4 - Rail car
+  - bit3 - Above Excavation Site - birds to Conana's Nest
+  - bit4 - Fan?
+
+0x14a48a   Access
+  - bit3 - Railcar
+  - bit4 - Railcar
+  - bit5 - Railcar
+  - bit6 - Railcar
+  - bit7 - Railcar
+  //Break Targets - Valley (Lv. 6)
+  - bit0 - Fan
+  - bit1 - Macran Jewel (Fan) x1
+  - bit2 - Fan
+
+0x14a48b   Access Object
+  - bit0 - Excavation Site 4 - Rail car
+  - bit1 - Excavation Site 4 - Rail car
+  - bit2 - Excavation Site 4 - Rail car
+  - bit3 - Excavation Site 4 - Rail car
+  - bit4 - Excavation Site 4 - Rail car
+  - bit5 - Excavation Site 4 - Rail car
+  - bit6 - Excavation Site 4 - Rail car
+
+0x14a48c   Event
+  - bit5 - Defeat Lathum
+  //Break Target
+  - bit2 - Lv. 6 break target
+  //Break Target - Valley (Lv.6)
+  - bit6 - Coolia's Dung x1
+  - bit7 - Fan
+
+0x14a48d   Break Targets - Valley (Lv.6)
+  - bit0 - Gem Stone (Fan) x1
+  - bit1 - Fan
+  - bit2 - Albertson Fan (Fan) x1
+  - bit3 - Tri-Blast Chip (Fan) x1
+  - bit4 - Fan
+  - bit5 - Fan
+  - bit6 - Fan
+  - bit7 - Fan
+
+0x14a48e   Interactive Event - Forbidden Zone - Machine Pieces
+
+0x14a48f   Interactive Event
+  - bit5 - Device in Desert
+
+0x14a490   Interactive Events
+  - bit0-1 - Whale destroying structures at Uru
+  - bit2 - Get Protect Key 3
+  - bit3 - Get Protect Key 2
+  - bit4 - Get Protect Key 1
+  - bit6 - Break Shellcoof Part
+  - bit7 - Break Shellcoof Part
+
+0x14a491   Interactive Event
+  - bit2-3 - Georgius - Energy Pyramids
+  - bit0-5 - Georgius - Destroy Shellcoof
+
+0x14a493   Interactive Event
+  - bit0 - Underground Ruin B1 - Unlock Gate 2
+  - bit2 - Underground Ruin B4F - Get Dome Gate Key
+  - bit4 - Obtain Tobitama Rock
+
+0x14a494   Event
+  - bit0-4 - Mel-Kava Deck - Targets
+  - bit5 - Destroy Light Energy Reactor
+
+0x14a495   Break Objects
+  - bit4 - Mel-Kava - First part destroyed (Reactor)
+  - bit5 - Mel-Kava left cannon
+  - bit6 - Mel-Kava right cannon
+
+0x14a496   Break Objects
+  //Mel-Kava - Reactor 2
+  - bit6-7 - Black Objects
+  //Tower (0xd7) 8F West
+  - bit1 - Green Pylons
+
+0x14a497   Events
+  //Mel-Kava Deck
+  - bit3-7 - Targets
+  //Mel-Kava - Reactor 2
+  - bit0-1 - Black Objects
+  - bit2 - Destroy Reactor parts
+
+0x14a498   Events
+  //Forest of Zoah-Red Ruins (0xef)
+  - bit0 - Other desert path device
+  - bit1 - Spinning Device
+  - bit2 - Spinning Device
+  - bit3 - Spinning Device
+  - bit4 - Spinning Device
+  //The Tower
+  - bit6 - Stop Rotor Pile 6
+  - bit7 - Stop Rotor Pile 5
+
+0x14a499   Event
+  - bit0 - Stop Rotor Pile 4
+  - bit1 - Stop Rotor Pile 3
+  - bit2 - Stop Rotor Pile 2
+  - bit3 - Stop Rotor Pile 1
+  - bit4 - Bring down second group of pylons
+  - bit5 - Bring down third pylons
+  - bit6 - Left Gate Controls
+  - bit7 - Right Gate Controls
+
+0x14a49b   Event
+  - bit4 - Turn off Fan Switch?
+  //Forest of Zoah - Red Ruins
+  - bit7 - Uncover Secret Passage to Desert
+
+0x14a49d   Event
+  - bit0 - Inside Shellcoof - Dragon Appears
+
+0x14a49e   Event
+  - bit4 - Control for Rotor Pile 6
+  - bit5 - Control for Rotor Pile 5
+  - bit6 - Control for Rotor Pile 4
+
+0x14a49f   Event
+  - bit0 - Roter Pile 2 Controls
+  - bit1 - Roter Pile 1 Controls
+
+0x14a4a0   Interactive Event (Tower - 0xd7)
+  - bit0 - Green Pylons
+  - bit1 - Green Pylons
+  - bit2 - Green Pylons
+  - bit3 - Green Pylons
+  - bit4 - Green Pylons
+  - bit5 - Green Pylons
+  - bit6 - Green Pylons
+  - bit7 - Green Pylons
+
+0x14a4a1   Interactive Event
+  //The Tower 9F North (0xd7)
+  - bit0 - Green Energy Pylons
+  - bit1 - Green Energy Pylons
+  - bit2 - Green Energy Pylons
+  - bit3 - Green Energy Pylons
+  - bit4 - Green Energy Pylons
+  - bit5 - Green Energy Pylons
+
+0x14a4a3   Interactive Events
+  - bit4 - Green Pylons
+  - bit5 - Green Pylons
+  - bit6 - Green Pylons
+
+0x14a4a4   Access Objects
+  - bit0 - chest hanging in Above Excavation Site
+  - bit1 - chest hanging in Above Excavation Site
+  - bit2 - chest hanging in Above Excavation Site
+  - bit3 - chest hanging in Above Excavation Site
+  - bit4 - chest hanging in Above Excavation Site
+  - bit5 - chest hanging in Above Excavation Site
+  - bit6 - chest hanging in Above Excavation Site
+  - bit7 - chest hanging in Above Excavation Site
+
+0x14a4a5   Access Objects
+  - bit0 - Chest hanging in Above Excavation Site
+  - bit1 - Chest hanging in Above Excavation Site
+  - bit2 - Chest hanging in Above Excavation Site
+  - bit3 - Chest hanging in Above Excavation Site
+  - bit4 - Obtain the Ultimate Dragon Form
+  - bit5 - Open path to desert
+
+0x14a4a6   Event
+  - bit0 - Scan a worm
+
+0x14a4a7   Access Objects
+  - bit6 - Chest hanging in Above Excavation Site
+  - bit7 - Chest hanging in Above Excavation Site
+
+0x14a4a8   Interactive Event
+  - bit5 - Activate Sphere outside Shellcoof
+  - bit0 - Take out center platform at air force post
+
+0x14a4a9	Number of Kuo Plants accessed
+
+0x14a4aa   Interactive Events
+  - bit0 - BREAK OBJECT - Shellcoof Part
+  - bit1 - BREAK OBJECT - Shellcoof Part
+  - bit2-5 - After destroying Shellcoof guardians
+
+0x14a4ac   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Stolarium x1
+  - bit1 - Elixir Minor x1
+  - bit3 - Dinys Chip x1
+  - bit4 - Revive x1
+  - bit5 - Elixir Medis x1
+  - bit2,6,7 - Searchlights, radars, etc.
+
+0x14a4ad   Interactive Event
+  - bit1 - Break Shellcoof Part
+  - bit2 - Break Shellcoof Part
+  - bit3 - Break Shellcoof Part
+  - bit4 - Break Shellcoof Part
+  - bit5 - Break Shellcoof Part
+  - bit6 - Break Shellcoof Part
+  - bit7 - Break Shellcoof Part
+
+0x14a4ae   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Elixir Maxis x1
+  - bit1-7 - Searchlights, radars, etc.
+
+0x14a4af   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-6 - Searchlights, radars, etc.
+  - bit7 - Dinys Chip x1
+
+0x14a4b0   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Anesthetic x1
+  - bit1 - Revive x1
+  - bit2 - Berserk Minor x1
+  - bit3-7 - Searchlights, radars, etc.
+
+0x14a4b1   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit6 - Anesthetic x1
+  - bit7 - Revive x1
+  - bit0-5 - Searchlights, radars, etc.
+
+0x14a4b2   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4b3   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit3,4,5,6 - Dinys Chip x1, Elixir Minor x1, Shell Plate x1
+  - bit0-2,7 - Searchlights, radars, etc.
+
+0x14a4b4   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4b5   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4b6   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit3 - Dinys Chip x1
+  - bit4 - Stolarium x1
+  - bit5 - Elixir Medis x1
+  - bit0-2,6-7 - Searchlights, radars, etc.
+
+0x14a4b7   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4b8   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4b9   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4ba   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit7 - Dinys Chip x1
+  - bit0-6 - Searchlights, radars, etc.
+
+0x14a4bb   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Blast Chip x1
+  - bit1 - Elixir Minor x1
+  - bit2-7 - Searchlights, radars, etc.
+
+0x14a4bc   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4bd   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4be   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4bf   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4c0   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit7 - Anesthetic x1
+  - bit0-6 - Searchlights, radars, etc.
+
+0x14a4c1   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Shell Plate x1
+  - bit1 - Elixir Minor x1
+  - bit3 - Dinys Chip x1
+  - bit4 - Revive x1
+  - bit5 - Berserk Micro x1
+  - bit2,6-7 - Searchlights, radars, etc.
+
+0x14a4c2   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-3 - Center Platform
+  - bit4-7 - Searchlights, radars, etc.
+
+0x14a4c3   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit1 - Anesthetic x1
+  - bit2 - Blast Chip x1
+  - bit3 - Elixir Minor x1
+  - bit0,4-7 - Searchlights, radars, etc.
+
+0x14a4c4   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4c5   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-5 - Searchlights, radars, etc.
+  - bit6-7 - Center Platform"
+
+0x14a4c6   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4c7   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit4 - Anesthetic x1
+  - bit5 - Stolarium x1
+  - bit6 - Elixir Medis x1
+  - bit0-3,7 - Searchlights, radars, etc.
+
+0x14a4c8   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit6 - Elixir Maxis x1
+  - bit5 - Stolarium x1
+  - bit4 - Dinyx Chip x1
+  - bit0-3,7 - Searchlights, radars, etc.
+
+0x14a4c9   Break Object
+  //Imperial Air Force Post
+  - bit0 - Anesthetic x1
+  - bit1 - Blast Chip x1
+  - bit2 - Elixir Medis
+  - bit3-7 - Searchlights, radars, etc.
+
+0x14a4ca   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4cb   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4cc   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Dinys Chip x1
+  - bit1 - Blast Chip x1
+  - bit2 - Berserk Minor x1
+  - bit3-7 - Searchlights, radars, etc.
+
+0x14a4cd   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4ce   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, Radars, etc.
+
+0x14a4cf   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4d0   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit3 - Dinys Chip x1
+  - bit4 - Blast Chip x1
+  - bit5 - Berserk Micro x1
+  - bit0-2,6-7 - Searchlights, radars, etc.
+
+0x14a4d1   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4d2   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Stolarium x1
+  - bit1 - Berserk Medis x1
+  - bit2-7 - Searchlights, Radars, etc.
+
+0x14a4d3   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-7 - Searchlights, radars, etc.
+
+0x14a4d4   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit4 - Anesthetic x1
+  - bit5 - Shell Plate x1
+  - bit6 - Berserk Micro x1
+  - bit0-3,7 - Searchlights, radars, etc.
+
+0x14a4d5   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit7 - Anesthetic x1
+  - bit0-6 - Searchlights, radars, etc.
+
+0x14a4d6   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit6 - Anesthetic x1
+  - bit7 - Stolarium x1
+  - bit0-5 - Searchlights, radars, etc.
+
+0x14a4d7   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Full Elixir x1
+  - bit1-7 - Searchlights, radars, etc.
+
+0x14a4d8   Break Objects
+  - bit0 - ?
+  //Imperial Air Force Post (0xbf)
+  - bit4-7 - Searchlights, radars, etc.
+
+0x14a4d9   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0 - Dinyx Chip x1
+  - bit1 - Stolarium x1
+  - bit2 - Full Elixir x1
+  - bit4 - Anesthetic x1
+  - bit5 - Stolarium x1
+  - bit6 - Elixir Maxis x1
+  - bit3, 7 - Searchlights, Radars, etc.
+
+0x14a4da   Break Targets
+  //Imperial Air Force Post (0xbf)
+  - bit0, 2-7 - Searchlights, radars, etc.
+
+0x14a4db   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-1,4-6 - Searchlights, radars, etc.
+
+==================MAP COVERAGE===================
+0x14a4dc   Map Coverage
+  - bit1, 2, 4, 5 - Above the Excavation
+
+0x14a4dd   Map Coverage
+  - bit0, 3 - Above the Excavation
+
+0x14a4de   Map Coverage
+  - bit0, 2, 3, 5, 6, 7 - Above the Excavation
+
+0x14a4df   Map Coverage
+  - bit0, 1, 3, 4, 6, 7 - Above the Excavation
+
+0x14a4e0   Map Coverage
+  - bit3-4, 6-7 - Above the Excavation
+
+0x14a4e1   Map Coverage
+  - bit1, 2, 4, 5, 7 - Above the Excavation
+
+0x14a4e2   Map Coverage
+  - bit0, 4 - Excavation Site 4
+
+0x14a4e3   Map Coverage
+  - bit0, 4 - Excavation Site 4
+
+0x14a4e4   Map Coverage
+  - bit0, 4, 7 - Excavation Site 4
+
+0x14a4e5   Map Coverage
+  - bit0, 3, 4 - Excavation Site 4
+
+0x14a4e6   Map Coverage
+  - bit5 - Excavation Site 4
+
+0x14a4e7   Map Coverage
+  - bit0-7 - Excavation Site 4
+
+0x14a4e8   Map Coverage
+  - bit3,4,7 - Canyon Deep Gulch
+
+0x14a4e9   Map Coverage
+  - bit3,7 - Canyon Deep Gulch
+
+0x14a4ea   Map Coverage
+  - bit2-3, 6-7 - Canyon Deep Gulch
+
+0x14a4eb   Map Coverage
+  - bit2-3, 7 - Canyon Deep Gulch
+
+0x14a4ec   Map Coverage
+  - bit0, 3-4, 7 - Canyon Deep Gulch
+
+0x14a4ed   Map Coverage
+  - bit0, 2-3, 6-7 - Canyon Deep Gulch
+
+0x14a4ee   Map Coverage
+  - bit0, 3-4, 7 - Canyon Deep Gulch
+
+0x14a4ef   Map Coverage
+  - bit0, 3-4, 7 - Canyon Deep Gulch
+
+0x14a4f0   Map Coverage
+  - bit0-7 - Garil Desert - Worm Lair
+
+0x14a4f1   Map Coverage
+  - bit7 - Canyon Deep Gulch
+  - bit0-1 - Conana's Nest
+
+0x14a4f2   Map Coverage
+  - bit0-7 - Garil Desert - Green Oasis
+
+0x14a4f3   Map Coverage
+  - bit0-7 - Garil Desert - Worm Lair
+
+0x14a4f4   Map Coverage
+  - bit0-7 - Garil Desert - Green Oasis
+
+0x14a4f5   Map Coverage
+  - bit0-7 - Garil Desert - Green Oasis
+
+0x14a4f6   Map Coverage
+  - bit0-3,6,7 - Garil Desert - Blue Ruins
+
+0x14a4f7   Map Coverage
+  - bit7 - Garil Desert - Green Oasis
+  - bit0,1,3,4,5,6 - Garil Desert - Blue Ruins
+
+0x14a4f8   Map Coverage
+  - bit0-7 - Garil Desert - Blue Ruins
+
+0x14a4f9   Map Coverage
+  - bit0-7 - Garil Desert - Blue Ruins
+
+0x14a4fa   Map Coverage
+  - bit0-7 - Forbidden Zone
+
+0x14a4fb   Map Coverage
+  - bit4-7 - Garil Desert - Blue Ruins
+  - bit0-3 - Forbidden Zone
+
+0x14a4fc   Map Coverage
+  - bit0-7 - Forbidden Zone
+
+0x14a4fd   Map Coverage
+  - bit0-7 - Forbidden Zone
+
+0x14a4fe   Map Coverage
+  - bit2-7 - Forbidden Zone
+
+0x14a4ff   Map Coverage
+  - bit0-7 - Forbidden Zone
+
+0x14a500   Map Coverage
+  - bit2-7 - Above Georgius
+
+0x14a501   Map Coverage
+  - bit2-7 - Above Georgius
+
+0x14a502   Map Coverage
+  - bit0-7 - Above Georgius
+
+0x14a503   Map Coverage
+  - bit2-7 - Above Georgius
+
+0x14a504   Break Objects
+  //Imperial Air Force Post (0xbf)
+  - bit0-3 Searchlights, radars, etc.
+  //Map Coverage
+  - bit4-7 - Georgius
+
+0x14a505   Map Coverage
+  - bit0-7 - Above Georgius
+
+0x14a506   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a507   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a508   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a509   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a50a   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a50b   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a50c   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a50d   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a50e   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a50f   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a510   Map Coverage
+  - bit5-7 - Uru - Sunken Southern Ruins
+  - bit1 - Uru - Passage
+
+0x14a511   Map Coverage
+  - bit0-7 - Uru - Sunken Southern Ruins
+
+0x14a512   Map Coverage
+  - bit0-1, 5 - Uru - Passage
+
+0x14a513   Map Coverage
+  - bit0-6 - Uru - Passage
+
+0x14a514   Map Coverage
+  - bit0-7 - Uru - Deep North
+
+0x14a515   Map Coverage
+  - bit0-1 - Uru - Deep North
+  - bit4-7 - Uru - Passage
+
+0x14a516   Map Coverage
+  - bit0-7 - Uru - Deep North
+
+0x14a517   Map Coverage
+  - bit0-7 - Uru - Deep North
+
+0x14a518   Map Coverage
+  - bit0-7 - Uru - Deep North
+
+0x14a519   Map Coverage
+  - bit0-7 - Uru - Deep North
+
+0x14a51a   Map Coverage
+  - bit3-7 - Uru - Deep North
+
+0x14a51b   Map Coverage
+  - bit0-7 - Uru - Deep North
+
+0x14a51c   Map Coverage
+  - bit1-4 - Underground Ruins B1
+
+0x14a51d   Map Coverage
+  - bit0-2 - Underground Ruins B1
+
+0x14a51e   Map Coverage
+  - bit0, 4-7 - Underground Ruins B1
+
+0x14a51f   Map Coverage
+  - bit1-2, 4-7 - Underground Ruins B1
+
+0x14a520   Map Coverage
+  - bit2-5 - Underground Ruins B2F East
+
+0x14a521   Map Coverage
+  - bit2 - Underground Ruins B1
+
+0x14a522   Map Coverage
+  - bit0, 5-6 - Underground Ruins B2F East
+
+0x14a523   Map Coverage
+  - bit1, 4-5, 7 - Underground Ruins B2F East
+
+0x14a524   Map Coverage
+  - bit5-7 - Underground Ruins B2F East
+
+0x14a525   Map Coverage
+  - bit2-3, 7 - Underground Ruins B2F East
+
+0x14a526   Map Coverage
+  - bit2-3, 5-7 - Underground Dome
+
+0x14a527   Map Coverage
+  - bit0, 5-7 - Underground Ruins B2F East
+
+0x14a528   Map Coverage
+  - bit2-6 - Underground Ruins
+
+0x14a529   Map Coverage
+  - bit0 - Underground Ruins
+
+0x14a52a   Map Coverage
+  - bit0-1, 4-5 - Underground Ruins B3F East
+
+0x14a52b   Map Coverage
+  - bit1-2 - Underground Ruins B3F East
+
+0x14a52c   Map Coverage
+  - bit5 - Underground Ruins B3F East
+  - bit2-3 - Underground Ruins B3F West
+
+0x14a52d   Map Coverage
+  - bit1, 5-7 - Underground Ruins B3F East
+
+0x14a52e   Map Coverage
+  - bit1, 3-4, 6-7 - Underground Ruins B3F West
+
+0x14a52f   Map Coverage
+  - bit0, 5-6 - Underground Ruins B3F West
+
+0x14a530   Map Coverage
+  - bit7 - Underground Ruins B3F West
+
+0x14a531   Map Coverage
+  - bit0-1, 4-6 - Underground Ruins B3F West
+
+0x14a532   Map Coverage
+  - bit2-6 - Underground Ruins B4F
+
+0x14a534   Map Coverage
+  - bit0-1, 6 - Underground Ruins B4F
+
+0x14a535   Map Coverage
+  - bit0-2, 4-6 - Underground Ruins B4F
+
+0x14a536   Map Coverage
+  - bit0-2, 5-6 - Underground Ruins B4F
+
+0x14a537   Map Coverage
+  - bit3, 5-7 - Underground Ruins B4F
+
+0x14a538   Map Coverage
+  - bit0-1 - Underground Ruins B4F
+
+0x14a539   Map Coverage
+  - bit1-3, 7 - Underground Ruins B4F
+
+0x14a53b   Map Coverage
+  - bit4-7 - Underground Ruins B4F
+
+0x14a53c   Map Coverage
+  - bit0-1 - Underground Ruin BF5
+
+0x14a53e   Map Coverage
+  - bit0-7 - Underground Ruin BF5
+
+0x14a53f   Map Coverage
+  - bit0, 7 - Underground Ruin BF5
+
+0x14a540   Map Coverage
+  - bit1-3 - Underground Ruin BF5
+
+0x14a541   Map Coverage
+  - bit1, 3 - Underground Ruin BF5
+
+0x14a542   Map Coverage
+  - bit3 - Underground Ruin BF5
+
+0x14a543   Map Coverage
+  - bit1, 5-7 - Underground Ruin BF5
+
+0x14a544   Map Coverage
+  - bit0-5 - Underground Ruins B?F
+
+0x14a545   Map Coverage
+  - bit1-2, 7 - Underground Ruin BF5
+
+0x14a546   Map Coverage
+  - bit2-3, 5-7 - Underground Ruins B?F
+
+0x14a547   Map Coverage
+  - bit2-3, 5-6 - Underground Ruins B?F
+
+0x14a548   Map Coverage
+  - bit2-7 - Underground Ruins B?F
+
+0x14a549   Map Coverage
+  - bit1-5, 7 - Underground Ruins B?F
+
+0x14a54a   Map Coverage
+  - bit0-7 - Underground Ruins B?F
+
+0x14a54b   Map Coverage
+  - bit0-2, 4-5 - Underground Ruins B?F
+
+0x14a54c   Map Coverage
+  - bit4-7 - Underground Ruins B??F
+  - bit0-3 - Imperial Air Force Post
+
+0x14a54d   Map Coverage
+  - bit3-4 - Underground Ruins B?F
+
+0x14a54e   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a54f   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a550   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a551   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a552   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a553   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a554   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a555   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a556   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a557   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a558   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a559   Map Coverage
+  - bit0-7 - Imperial Air Force Post
+
+0x14a55a   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a55b   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a55c   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a55d   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a55e   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a55f   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a560   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a561   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a562   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a563   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a564   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a565   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a566   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a567   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a568   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a569   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a56a   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a56b   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a56c   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a56d   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a56e   Map Coverage
+  - bit2,3 - Inside Forest of Zoah
+
+0x14a56f   Map Coverage
+  - bit0-7 - Forest of Zoah
+
+0x14a570   Map Coverage
+  - bit1-2,4 - Inside Forest of Zoah
+
+0x14a571   Map Coverage
+  - bit1-4 - Inside Forest of Zoah
+
+0x14a572   Map Coverage
+  - bit1,4-6 - Inside Forest of Zoah
+
+0x14a573   Map Coverage
+  - bit1-2,4,6 - Inside Forest of Zoah
+
+0x14a574   Map Coverage
+  - bit1,3,5 - Inside Forest of Zoah
+
+0x14a575   Map Coverage
+  - bit1-5 - Inside Forest of Zoah
+
+0x14a576   Map Coverage
+  - bit1-6 - Inside Forest of Zoah
+
+0x14a577   Map Coverage
+  - bit1-3,5-6 - Inside Forest of Zoah
+
+0x14a578   Map Coverage
+  - bit1-5 - Inside Forest of Zoah
+
+0x14a579   Map Coverage
+  - bit1-4,6 - Inside Forest of Zoah
+
+0x14a57a   Map Coverage
+  - bit3-4 - Inside Forest of Zoah
+
+0x14a57b   Map Coverage
+  - bit4-5 - Inside Forest of Zoah
+
+0x14a57c   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a57d   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a57e   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a57f   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a580   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a581   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a582   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a583   Map Coverage
+  - bit0-7 - Forest of Zoah-Red Ruins
+
+0x14a584   Map Coverage
+  - bit5 - The Tower - Entrance
+  - bit0 - The Tower 2F
+
+0x14a585   Map Coverage
+  - bit6,7- The Tower 1F East
+
+0x14a586   Map Coverage
+  - bit0,4,6-7 - The Tower 2F
+
+0x14a587   Map Coverage
+  - bit1,6-7 - The Tower 2F
+
+0x14a588   Map Coverage
+  - bit2-6 - The Tower 2F
+
+0x14a589   Map Coverage
+  - bit0-3,5-7 - The Tower 2F
+
+0x14a58a   Map Coverage
+  - bit0,2-7 - The Tower 3F
+
+0x14a58b   Map Coverage
+  - bit0,3,5,7 - The Tower 3F
+
+0x14a58c   Map Coverage
+  - bit0,2-4,7 - The Tower 3F
+
+0x14a58d   Map Coverage
+  - bit0,2-4,7 - The Tower 3F
+
+0x14a58e   Map Coverage
+  - bit0,2,4,6-7 - The Tower 3F
+
+0x14a58f   Map Coverage
+  - bit0-2,4,6-7 - The Tower 3F
+
+0x14a590   Map Coverage
+  - bit3-5,7 - The Tower 3F
+
+0x14a591   Map Coverage
+  - bit2-7 - The Tower 3F
+
+0x14a592   Map Coverage
+  - bit0-2, 6 - The Tower 4F
+
+0x14a593   Map Coverage
+  - bit1-7 - The Tower 4F
+
+0x14a594   Map Coverage
+  - bit4-7 - The Tower 4F
+
+0x14a595   Map Coverage
+  - bit1, 5, 7 - The Tower 4F
+
+0x14a596   Map Coverage
+  - bit2, 5-7 - The Tower 5F
+
+0x14a597   Map Coverage
+  - bit0-3 - The Tower 5F
+
+0x14a598   Map Coverage
+  - bit0-5 - The Tower 5F
+
+0x14a599   Map Coverage
+  - bit1,3-6 - The Tower 5F
+
+0x14a59a   Map Coverage
+  - bit1 - The Tower 6F
+
+0x14a59c   Map Coverage
+  - bit4 - The Tower 7F East
+  - bit0-3 - The Tower 7F South
+
+0x14a59d   Map Coverage
+  - bit6 - The Tower 6F
+  - bit0-1 - The Tower 7F South
+
+0x14a59e   Map Coverage
+  - bit2 - The Tower 7F East
+  - bit0-1,4,7 - The Tower 7F South
+
+0x14a59f   Map Coverage
+  - bit3 - The Tower 7F East
+  - bit0-2,4-5 - The Tower 7F South
+
+0x14a5a0   Map Coverage
+  - bit5-7 - The Tower 7F East
+
+0x14a5a1   Map Coverage
+  - bit1,6-7 - The Tower 7F East
+
+0x14a5a2   Map Coverage
+  - bit3 - The Tower 8F West
+
+0x14a5a3   Map Coverage
+  - bit5-7 - The Tower 7F East
+
+0x14a5a4   Map Coverage
+  - bit3-4 - The Tower West Passage
+  - bit0-1,5-7 - The Tower 8F
+
+0x14a5a5   Map Coverage
+  - bit0-1,7 - The Tower 8F
+  - bit3-6 - The Tower 8F West
+
+0x14a5a6   Map Coverage
+  - bit2 - The Tower 8F North Passage
+  - bit5-7 - The Tower 8F
+
+0x14a5a7   Map Coverage
+  - bit2 - The Tower 8F Inner Passage
+  - bit3 - The Tower 8F West Passage
+  - bit0-1,4-7 - The Tower 8F
+
+0x14a5a8   Map Coverage
+  - bit0-2 - The Tower 8F North
+
+0x14a5aa   Map Coverage
+  - bit3-4 - The Tower 9F West Passage
+  - bit0-1,5,7 - The Tower 9F East Passage
+
+0x14a5ab   Map Coverage
+  - bit0-5 - The Tower 9F East Passage
+  - bit7 - The Tower 9F
+
+0x14a5ac   Map Coverage
+  - bit4-5 - The Tower 9F East Passage
+  - bit2 - The Tower 9F North
+
+0x14a5ad   Map Coverage
+  - bit2-4 - The Tower 9F West Passage
+  - bit1 - The Tower Inner Passage
+  - bit7 - The Tower East Passage
+  - bit3-5 - Tower 9F
+
+0x14a5ae   Map Coverage
+  - bit2 - The Tower 9F North
+
+0x14a5af   Map Coverage
+  - bit5-6 - The Tower 9F East Passage
+  - bit2 - The Tower 9F North
+
+0x14a5b0   Map Coverage
+  - bit3 - The Tower 10F
+
+0x14a5b2   Map Coverage
+  - bit6-7 - The Tower 10F 
+
+0x14a5b3   Map Coverage
+  - bit0-1, 6 - The Tower 10F 
+
+0x14a5b4   Map Coverage
+  - bit1,3-5 - The Tower 11F 
+
+0x14a5b5   Map Coverage
+  - bit0,2-7 - The Tower 11F
+
+0x14a5b6   Map Coverage
+  - bit3-4 - The Tower 11F
+
+0x14a5b7   Map Coverage
+  - bit2 - The Tower 11F
+
+0x14a5b8   Map Coverage
+  - bit6 - The Tower 12F
+
+0x14a5b9   Map Coverage
+  - bit1-3 - The Tower 12F
+
+0x14a5ba   Map Coverage
+  - bit7 - The Tower 13F
+
+0x14a5bb   Map Coverage
+  - bit2-4 - The Tower 13F
+
+0x14a5bc   Map Coverage
+  - bit1-3 - The Tower 14F
+  - bit5-7 - The Tower 14F East
+
+0x14a5bd   Map Coverage
+  - bit0-1 - The Tower 15F East
+
+0x14a5be   Map Coverage
+  - bit4 - The Tower 14F North
+
+0x14a5bf   Map Coverage
+  - bit0-1 - The Tower 14F
+
+0x14a5c0   Map Coverage
+  - bit4 - The Tower 14F North
+
+0x14a5c1   Map Coverage
+  - bit4 - The Tower 14F North
+
+0x14a5c2   Map Coverage
+  - bit2-3 - The Tower 15F East 1
+  - bit5-6 - The Tower 15F West
+
+0x14a5c3   Map Coverage
+  - bit0-2 - The Tower 15F East 1
+
+0x14a5c5   Map Coverage
+  - bit0-2 - The Tower 15F East 2
+
+0x14a5c6   Map Coverage
+  - bit1,3,5, 7 - The Tower - Bottom Floors
+
+0x14a5c7   Map Coverage
+  - bit1, 3, 5, 7 - The Tower - Bottom Floors
+
+0x14a5c8   Map Coverage
+  - bit1,3,5,7 - The Tower - Middle Floors
+
+0x14a5c9   Map Coverage
+  - bit7 - The Tower - Hanger 1
+  - bit1,3,5 - The Tower - Middle Floors
+
+0x14a5ca   Map Coverage
+  - bit1,3,5,7 - The Tower - Upper Floors
+
+0x14a5cb   Map Coverage
+  - bit5,7 - The Tower - Hanger 2
+  - bit1,3 - The Tower - Upper Floors
+
+0x14a5cd   Map Coverage
+  - bit7 - The Tower - Upper Floors
+
+
+
+========MORE EVENTS=========
+
+0x14a616   Event
+  - bit4 - Guy in Zoah tells you he can't pay you back
+  - bit6 - Get the Dragon Book 2
+
+0x14a618   Event
+  - bit0 - Meet Enkak
+  - bit3 - Obtain Berserk Vampire from An'jou
+
+0x14a61a   Events
+  - bit5 - Ask Gash about Worm Tunnels
+  - bit6 - Ask Gash about the Dragon
+  - bit1 - Ask Gash about the Ancient Age
+  - bit4 - Ask Gash about the Ruins
+  - bit0 - Ask Gash about Monsters
+  - bit7 - Ask Gash about Seekers
+
+0x14a61b   Events
+  - bit1 - Ask Gash about Craymen
+  - bit2 - Ask Gash about Oasis
+  - bit6 - Sold Tobitama Rock?
+
+0x14a61d   Event
+  - bit7 - Gash asks for a ride
+  - bit6 - Ask about crossing the desert
+  - bit5 - Ask Gash about Underground Ruins
+  - bit4 - Ask Gash about the Empire
+
+0x14a622   Event
+  - bit4 - talk to Vaiman again and get 500d
+  - bit5 - talk to Vaiman after Imperial Air Force Post
+
+0x14a623   Events
+  - bit0 - Sold Tobitama Rock?
+
+0x14a624   Event
+  - bit0 - Talk to Paet before going to the tower
+
+0x14a626   Events - Yerato Pipe Quest?
+  - bit1 - Woman in bar in Zoah
+
+0x14a628   Events
+  - bit7 - Sold Large Gun to Jared
+
+0x14a629   Events
+  - bit0 - Get Assassin part from Jared
+
+0x14a62b   Event
+  - bit6 - Talk to Hunter after giving the Verato pipe to woman
+
+0x14a62e   Event
+  - bit2 - Get pass to Holy District
+  - bit4 - Find out that someone is sick
+
+0x14a62f   Treasures
+  - bit2 - Holy District - Bible 1
+  - bit3 - Discover Radgam's Body
+  - bit4 - Excavation Site - Stolarium
+  - bit5 - Excavation Site - Dinys Chip
+
+0x14a631   Event
+  - bit2 - Get pass to Holy District
+
+0x14a64c   Event
+  - bits5-7 - Talking to Fei
+
+0x14a64d   Events
+  - bit0-1 - Get Fei to say she'll miss you.
+
+0x14a653   Events
+  - bit0-3 - Hunter Quiz 0x0e when you win
+
+0x14a656   Events
+  - bit4-5 - elevator releases
+
+0x14a658   Event
+  - bit0 - Offend your dragon
+
+0x14a659   Treasure
+  - bit3 - Zoah House - Lamp Oil x1
+  - bit4 - Zoah House - Recover x2
+  - bit6 - Holy District - Zoah Harvest
+  - bit7 - Holy District - Zoah Harvest
+
+0x14a65a   Dragon Condition?
+  - bit6 - He's waiting for you to do something
+  - bit7 - Do something (smile, pet, etc)
+
+
+=========Inventory===========
+
+0x14a670   Tri-Blast Chip Qty
+
+0x14a671   Dual Blast Chip Qty
+
+0x14a672   Elixir Minor Qty
+
+0x14a673   Flash Chip Qty
+
+0x14a674   Dinys Chip Qty
+
+0x14a675   Berserk Micro Qty
+
+0x14a676   Event-Treasure
+  - bit0 - Get Shell Plate
+
+0x14a677   Stolarium Qty
+
+0x14a678   Bone Slasher Qty
+
+0x14a679   Gipson Lens Qty
+
+0x14a67a   Albertson Fan Qty
+
+0x14a67b   Olfactory Lobe Qty
+
+0x14a67c   Gem Stone Qty
+
+0x14a67d   Nando Drill Qty
+
+0x14a67e   Gara Qty
+
+0x14a67f   Coolia's Dung Qty
+
+0x14a680   Golia Fang Qty
+
+0x14a681   Golia Shell Qty
+
+0x14a682   Golia Pod Qty
+
+0x14a683   Golia Tail Qty
+
+0x14a684   Zaal Nuts Qty
+
+0x14a685   Relic - Shoes
+
+0x14a686   Gem Lens
+
+0x14a687   Lamp Oil Qty
+
+0x14a688   Zoah Harvest Qty
+
+0x14a689   Amirkhan Ring Qty
+
+0x14a68a   Macral Shell Qty
+
+0x14a68b   Macral Liquid Qty
+
+0x14a68c   Feener Armor Qty
+
+0x14a68d   Ascuncion Meat Qty
+
+0x14a68e   Lindstrum Unit Qty
+
+0x14a68f   Lickuern Eyes Qty
+
+0x14a690   Relic - Armor Qty
+
+0x14a691   Relic - Weaponry Qty
+
+0x14a692   Macran Jewel Qty
+
+0x14a693   Relic - Engine Qty
+
+0x14a694   Elixir Maxis Qty
+
+0x14a695   Elixir Medis Qty
+
+0x14a696   Berserk Minor Qty
+
+0x14a697   Full Elixir Qty
+
+0x14a698   Berserk Maxis Qty
+
+0x14a699   Berserk Medis Qty
+
+0x14a69a   Revive Qty
+
+0x14a69b   Ambrosia Qty
+
+0x14a69c   Recover Qty
+
+0x14a69d   Antidote Qty
+
+0x14a69e   Power Chip Qty
+
+0x14a69f   Shield Chip Qty
+
+0x14a6a0   Speed Chip Qty
+
+0x14a6a1   Armor Chip Qty
+
+0x14a6a2   Free Action Qty
+
+0x14a6a3   Restore Speed Qty
+
+0x14a6a4   Unbind Qty
+
+0x14a6a5   Anesthetic Qty
+
+0x14a6a7   Telepathy Shard Qty
+
+0x14a6a8   Mauler Qty
+
+0x14a6a9   High Vulcan Qty
+
+0x14a6aa   Berserk Vampire Qty
+
+0x14a6ab   Pulverizer Qty
+
+0x14a6ac   Sniper Qty
+
+0x14a6ad   Berserk Leech Qty
+
+0x14a6ae   Assassin Qty
+
+0x14a6af   Tri-Burst Qty
+
+
+========Other=========
+
+0x14a6bc   Laser Rank
+  - 0x01 - 1
+  - 0x06 - 6 - Light Wing
+  - 0x07 - 7 - Solo Wing"
+
+0x14a6c6   Gun Attachment
+  - 0x3a - High Vulcan
+  - 0x3b - Mauler
+  - 0x3c - Pulverizer
+  - 0x3d - Berserk Vampire
+  - 0x3e - Berserk Leech
+  - 0x3f - Sniper
+  - 0x40 - Tri-Burst
+  - 0x41 - Assassin
+
+0x14a6c8   16-bit - Laser Power Attribute
+
+0x14a6ca   16-bit - Shot Power Attribute (Base)
+
+0x14a6cc   16-bit - Current HP
+
+0x14a6d0   16-bit - BP
+
+0x14a6d4   16-bit - Total HP
+
+0x14a6dc   16-bit - EXP Overflow
+
+0x14a6de   16-bit - EXP
+
+0x14a6f4   16-bit- Dyne Overflow
+
+0x14a6f6   16-bit - Dyne
+
+0x14a6f8   16-bit - Game timer overflow
+
+0x14a6fa   16-bit Game timer
+
+0x14a736   Spirital Closeness Points
+
+0x14a73a   Related to Spirital Closeness
+  - +1 - Smile
+  - -1 - Ignore
+  - +2 - Pet
+
+0x14a773   Dragon Type
+  - 0x00 - Normal
+  - 0x01 - Defense
+  - 0x02 - Attack
+  - 0x03 - Agility
+  - 0x04 - Spiritual
+
+0x14a778   Dragon Stats - Defense
+
+0x14a77a   Dragon Stats - Attack
+
+0x14a77c   Dragon Stats - Agility
+
+0x14a77e   Dragon Stats - Spirit
+
+0x14b254	Menu Background Data
+
+0x14b255	Menu Border
+
+0x14b26c	Menu Frame
+
+0x14b34d	Menu Background
+
+0x14a382   0x12 - Crosshair active (field), 0x1f - Examining
+
+0x14a386   Dialogue box timer
+
+0x14a388   32-bit Dialogue ID
+
+0x14a395   Something to do with crosshairs highlighting something
+
+0x14b4f2   [16-Bit] Possible Pointer for Box Game
+   +0x1ced06 - Fleet of the Lake Pointer
+   +0x1cff86 - [16-Bit] Timer
+   +0x1cffb8 - [16-Bit] State?
+   +0x1cffc4 - [16-Bit] Current score (1=65536)
+   +0x1cffc6 - [16-Bit] Current score
+   +0x1cffc8 - [16-Bit] High score - 1st place (1=65536)
+   +0x1cffca - [16-Bit] High score - 1st place
+   +0x1cffcc - [16-Bit] High score - 2nd place (1=65536)
+   +0x1cffce - [16-Bit] High score - 2nd place
+   +0x1cffd0 - [16-Bit] High score - 3rd place (1=65536)
+   +0x1cffd2 - [16-Bit] High score - 3rd place
+   +0x1cffd4 - [16-Bit] High score - 4th place (1=65536)
+   +0x1cffd6 - [16-Bit] High score - 4th place
+   +0x1cffd8 - [16-Bit] High score - 5th place (1=65536)
+   +0x1cffda - [16-Bit] High score - 5th place
+
+0x1503bd   Battle Position
+   - 0x00 - Front
+   - 0x01 - Left
+   - 0x02 - Rear
+   - 0x03 - Right
+
+0x15042d   Battle Position
+   - 0x00 - Front
+   - 0x01 - Left
+   - 0x02 - Rear
+   - 0x03 - Right
+
+0x1504a0   16-bit - altitude
+
+0x152592   0x00 - Good Fight, 0x05 - Close Call
+
+0x152b38	Enemy Color Adjustment - Blue
+
+0x152b3a	Enemy Color Adjustment - Red
+
+0x152b3b	Enemy Color Adjustment - Green
+
+0x153246   [16-bit] Pointer Start
++0x1d0006 x6
+..+0x1d0006 - Box Games Pointer
+...|+0x1d0002 - Fleet of the Lake pointer chain start
+...|..+0x1d0002
+...|....+0x1d0002
+...|......+0x1d0006 - [16-bit] Fleet of the Lake data pointer
+...|........+0x1d001e - [16-bit] Time Left
+...|........+0x1d0052 - [16-bit] Status
+...|..........0x03 - Initial Loading
+...|..........0x04 - ""Ready"" messages
+...|..........0x06 - In Progress
+...|..........0x07 - Done
+...|..........0x08 - Exit
+...|........+0x1d005e - [16-bit] Score, low bytes
+...|+0x1d0006 - Ancient Valley Race pointer chain start
+......+0x1d0002 x4
+........+0x1d0006 x2
+..........+0x1d0002 x35 - Fleet of the Lake data pointer
+............+0x1d001a - [16-bit] Current Time (frames)
+............+0x1d001e - [16-bit] Finished Race Time, minutes only
+............+0x1d0022 - [16-bit] Finished Race Time, seconds only
+............+0x1d0026 - [16-bit] Finished Race Time, milliseconds only
+............+0x1d0032 - [16-bit] WR Time, minutes only
+............+0x1d0036 - [16-bit] WR Time, seconds only
+............+0x1d003a - [16-bit] WR Time, milliseconds only
+............+0x1d003c - [16-bit] Race Status
+..............0x00 - Initial Loading
+..............0x01 - In Progress
+..............0x02 (2 frames) ->0x03 - Over (Finish or Time Out)
+............+0x1d0040 - [8-bit] New Record Message
+..............0x00 - No
+..............0x01 - Yes
+............+0x1d0041 - [8-bit] Finished
+..............0x00 - No (In Progress or Fail)
+..............0x01 - Yes
+
+
+0x1d05ae   [16-Bit] Possible Box Game Pointer
+   +1ced0a - Fleet of the Lake Pointer
+
+0x1d05d5   Radar Color
+  - 0x00 - Blue
+  - 0x01 - Yellow
+  - 0x02 - Red
+
+0x1d6f30   Player Name Letter 2
+
+0x1d6f31   Player Name Letter 1
+
+0x1d6f32   Player Name Letter
+
+0x1d6f33   Player Name Letter 3
+
+0x1d6f34   Player Name Letter 6
+
+0x1d6f35   Player Name Letter 5
+
+0x1d6f36   Player Name Letter 8
+
+0x1d6f37   Player Name Letter 7
+
+0x1d6f38   Player Name Letter 10
+
+0x1d6f39   Player Name Letter 9
+
+0x1d6f3a   Player Name Letter 12
+
+0x1d6f3b   Player Name Letter 11
+
+0x1d6f3c   Player Name Letter 13
+
+0x1d6f3d   Player Name Letter 12
+
+0x1d6f3e   Player Name Letter 15
+
+0x1d6f3f   Player Name Letter 14
+
+0x1da2e0   Dragon Name
+
+0x1da2e1   Dragon Name
+
+0x1da2e2   Dragon Name
+
+0x1da2e3   Dragon Name
+
+0x1da2e4   Dragon Name
+
+0x1da2e5   Dragon Name
+
+0x1da2e6   Dragon Name
+
+0x1da2e7   Dragon Name
+
+0x1da2e8   Dragon Name
+
+0x1da2e9   Dragon Name
+
+0x1da2ea   Dragon Name
+
+0x1da2eb   Dragon Name
+
+0x1da2ec   Dragon Name
+
+0x1da2ed   Dragon Name
+
+0x1da2ee   Dragon Name
+
+0x1da2ef   Dragon Name
+
+0x1db7b2   Enemy Color Adjust - Yellow?
+
+0x1dc116   0x01 - Enemy Data Viewer Active?
+
+0x1dda56   8-bit - Inventory slot (use 0x1dda30) for page?
+
+0x1dedcc   Boss or Enemy health?
+
+0x1e1c54   Battle Gauge-Related?
+
+0x1e58eb   Number of full battle gauges?
+
+0x1e591b   Number of full battle gauges?
+
+0x1e63cb   Number of full battle gauges?
+
+0x1e6a52   Battle Gauge-Related?
+
+0x1e6ffc   Battle Gauge-Related?
+
+0x1e772b   Number of full battle gauges?
+
+0x1e773b   Number of full battle gauges?
+
+0x1e790b   Number of full battle gauges?
+
+0x1e796b   Number of full battle gauges?
+
+0x1e7b7b   Number of full battle gauges?

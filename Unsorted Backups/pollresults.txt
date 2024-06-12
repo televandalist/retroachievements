@@ -1,0 +1,124 @@
+Atari Lynx
+ Beetle Lynx - 46
+ Handy - 3
+
+MSX
+ blueMSX - 45
+ fMSX - 5
+
+ColecoVision
+ blueMSX - 42
+ RAMeka - 3
+
+SG-1000
+ Genesis Plus GX - 40
+ blueMSX - 7
+ Gearsystem - 1
+ RAMeka - 1
+
+PC Engine
+ Beetle PCE - 33
+ Beetle SuperGrafx - 11
+ Beetle PCE Fast - 10
+
+PC Engine CD
+ Beetle SuperGrafx - 24
+ Beetle PCE Fast - 15
+
+PC8800
+ Standalone - 21
+ Core - 14
+
+DS
+ DeSmuMe - 94
+ melonDS - 38
+ DeSmuMe 2015 - 0
+
+
+Game Boy/Game Boy Color?
+ Gambatte 81
+ mGBA 26 
+ VBA-M 12
+ SameBoy 11 
+ RAVBA Standalone 7
+ Gearboy 5 
+ Mesen-S 3 
+ TGB Dual 0
+ gpSP 0
+ VBA Next 2
+
+
+Game Boy Advance?
+ mGBA 111
+ VBA-M 25
+ RAVBA Standalone 7
+ VBA Next 4 
+ gpSP 2
+
+NES?
+ FCEUmm. 73
+ Mesen. 41
+ QuickNES. 8
+ RANes Standalone. 7
+ Nestopia. 5
+
+Nintendo 64?
+ Mupen64Plus-Next. 83
+ ParaLLel N64. 26
+ RAP64 Standalone. 17
+
+SNES?
+ Snes9x 112
+ Mesen-S. 12
+ RASnes9x Standalone. 8 
+ bsnes 8
+ bsnes variant 4 
+ Snes9x 2005 Plus 2
+ Snes9x 2010 1
+ Snes9x 2005 0
+ Beetle Supafaust. 0
+
+Game Gear?
+ Genesis Plus GX. 71
+ PicoDrive. 12
+ RAMeka Standalone. 3
+ SMS Plus GX. 2
+ Genesis Plus GX Wide. 2
+ Gearsystem. 0
+ 
+Master System?
+ Genesis Plus GX 77
+ PicoDrive 12
+ RAMeka Standalone 3
+ SMS Plus GX 1
+ Genesis Plus GX Wide 1
+ Gearsystem 0
+
+Mega Drive/Genesis?
+ Genesis Plus GX 91
+ PicoDrive 16
+ Genesis Plus GX Wide 4
+ BlastEm 1
+ 
+Sega CD?
+ Genesis Plus GX. 72
+ PicoDrive.  8
+ Genesis Plus GX Wide.  2
+
+Sega Saturn?
+ Beetle Saturn 62
+ Kronos 3
+ Yabause 1
+ YabaSanshiro 0
+ 
+Neo Geo Pocket/Neo Geo Pocket Color?
+ Beetle NeoPop 53
+ RACE 0
+
+PlayStation?
+ Beetle PSX HW.  76
+ Beetle PSX 23
+PCSX ReARMed.  27
+ DuckStation Core. 12
+ SwanStation.  12
+  DuckStation Standalone. 9

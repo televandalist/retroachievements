@@ -1,0 +1,268 @@
+BGE999_0_000	World Map
+BGE999_1_000	World Map
+BGE999_2_000	World Map
+BGE999_3_000	World Map
+BGE999_4_000	World Map
+BGE999_5_000	World Map
+BGE999_6_000	World Map
+BGE999_7_000	World Map
+BGE999_8_000	World Map
+BGE999_9_000	World Map (Night)
+BGE000_0_000	Sol-Falena
+BGE000_0_800	Sol-Falena
+BGE000_0_801	Sol-Falena
+BGE000_0_900	Sol-Falena (Interior)
+BGE000_0_901	Sol-Falena (Interior)
+BGE000_0_902	Sol-Falena (Interior)
+BGE000_0_903	Sol-Falena (Interior)
+BGE000_0_904	Sol-Falena (Interior)
+BGE001_0_000	Sun Palace (Exterior)
+BGE001_0_201	Sun Palace - Throne Room
+BGE001_0_202	
+BGE001_0_203	
+BGE001_0_204	
+BGE001_0_205	Rune Room
+BGE001_0_206	Sun Palace - Gladiator Cells
+BGE001_0_300	
+BGE001_0_400	
+BGE001_0_401	
+BGE001_0_402	
+BGE001_3_400	
+BGE001_0_403	Rune Room
+BGE002_0_000	West Palace?
+BGE002_0_200	West Palace Interior?
+BGE004_0_000	East Palace?
+BGE004_0_200	East Palace Interior?
+BGE008_0_000	Lunas
+BGE008_0_200	Lunas - Oracle Something
+BGE008_0_300	Lunas - Purification Fountain
+BGE008_3_300	Lunas - Purification Fountain (End Game - Path Open)
+BGE010_0_000	Lunas North Woods
+BGE010_1_000	Lunas North Woods (Night)
+BGE012_0_000	Revolving Bridge (Interior)
+BGE012_0_300	Revolving Bridge
+BGE013_0_000	Stormfist (Exterior)
+BGE013_1_000	Stormfist (Exterior) (Night)
+BGE013_2_000	Stormfist (Exterior) (Evening)
+BGE014_0_000	Stormfist - Godwin Castle Exterior
+BGE014_1_000	Stormfist - Godwin Castle Exterior (Night)
+BGE014_2_000	Stormfist - Godwin Castle Exterior (Evening)
+BGE014_0_200	Stormfist - Godwin Castle Interior
+BGE014_0_201	Stormfist - Godwin Castle - Gladiator Cells
+BGE014_0_202	Stormfist - Arena
+BGE014_0_203	Stormfist - Sewers
+BGE014_0_300	Stormfist - Godwin Castle 1F
+BGE014_0_400	Stormfist - Godwin Castle Interior
+BGE014_0_500	Stormfist - Sewers
+BGE014_2_201	Stormfist - Godwin Castle - Gladiator Cells
+BGE014_1_202	Stormfist - Arena
+BGE014_0_001	Stormfist - Dock
+BGE014_0_002	Stormfist - Dock
+BGE015_0_000	Stormfist (Exterior)
+BGE015_1_000	Stormfist (Exterior) (Night)
+BGE015_2_000	Stormfist (Exterior) (Evening)
+BGE015_0_900	Stormfist (Interior)
+BGE016_0_000	Western Woods
+BGE016_1_000	Western Woods
+BGE017_0_000	Lelcar (Exterior)
+BGE017_0_300	Lelcar (Interior)
+BGE017_0_900	Lelcar (Interior)
+BGE018_0_000	Lelcar (Exterior)
+BGE018_0_300	Lelcar (Interior)
+BGE018_3_000	Lelcar (Exterior)
+BGE019_0_000	Lelcar (Exterior)
+BGE019_0_200	Lelcar (Interior)
+BGE019_0_300	Lelcar (Interior)
+BGE019_0_400	Lelcar (Interior)
+BGE019_0_900	Lelcar (Interior)
+BGE019_2_000	Lelcar (Exterior) (On Fire)
+BGE019_3_000	Lelcar (Exterior) (Burnt Down)
+BGE020_0_000	Doraat (Exterior)
+BGE020_0_300	Doraat (Interior)
+BGE022_0_000	Doraat?
+BGE024_0_000	Baska Mines Entrance
+BGE025_0_000	Baska Mines
+BGE028_0_000	Agate Prison Entrance
+BGE028_0_100	Agate Prison - Lucretia Cell
+BGE028_0_200	Agate Prison
+BGE030_0_000	Major Battle 7 Field
+BGE030_0_100	Major Battle 7 Field
+BGE030_0_200	Major Battle 7 Field
+BGE034_0_000	Hershville Naval Base
+BGE034_0_200	Hershville Naval Base (Interior)
+BGE036_0_000	Port Spinacks
+BGE037_0_000	Shipwreck
+BGE037_0_100	Shipwreck
+BGE037_0_200	Shipwreck
+BGE037_0_300	Shipwreck
+BGE037_0_400	Shipwreck
+BGE037_0_500	Shipwreck
+BGE038_0_001	Rainwall (Exterior)
+BGE038_0_002	Rainwall (Barows Mansion) (Exterior)
+BGE038_0_300	Rainwall (Barows Mansion) (Basement)
+BGE038_0_301	Rainwall (Barows Mansion) (Interior) (1F)
+BGE038_0_302	Rainwall (Barows Mansion) (Interior) (2F)
+BGE038_0_400	Rainwall (Oboro Detective Agency) (Interior)
+BGE042_0_001	Estrise (Exterior)
+BGE042_0_002	Estrise (Port)
+BGE042_1_002	Estrise (Port)
+BGE042_0_300	Estrise (Interior)
+BGE042_0_300	Estrise (Interior) (Messy)
+BGE044_0_000	Sable (Exterior)
+BGE044_0_500	Sable (Exterior) (Path)
+BGE046_0_000	Ranro Mountains
+BGE046_0_200	Ranro Mountains (Thief Hideout)
+BGE048_0_000	Sable - West Checkpoint
+BGE050_0_000	Haud Village
+BGE052_0_000	Yashuna Village
+BGE052_0_300	Yashuna Village (Normal Inn)
+BGE052_0_400	Yashuna Village (Hot Springs Inn)
+BGE054_0_000	Mountain Path
+BGE054_0_001	Mountain Path
+BGE056_0_000	Lordlake (Dry) (Exterior)
+BGE056_0_200	Lordlake (Interior)
+BGE056_0_300	Lordlake (Interior)
+BGE056_0_900	Lordlake (Interior)
+BGE056_3_000	Lordlake (Restored) (Exterior)
+BGE057_0_000	Path to lost kid in Lordlake
+BGE058_0_000	Sauronix Castle (Exterior)
+BGE058_0_100	Sauronix Castle (Interior)
+BGE058_0_200	Sauronix Castle (Interior)
+BGE058_0_201	Sauronix Castle (Interior)
+BGE059_0_000	Sauronix (Town) (Exterior)
+BGE059_0_300	Sauronix (Town) (Interior)
+BGE060_0_000	Gordius (Exterior)
+BGE060_0_500	Gordius - Path to Dragon Horse Cave
+BGE061_0_000	Dragon Horse Cave
+BGE062_0_000	Raftfleet (Exterior)
+BGE062_0_001	Raftfleet (Exterior)
+BGE062_2_001	Raftfleet (Exterior)
+BGE062_0_002	Raftfleet (Interior)
+BGE062_0_003	Raftfleet (Oboro Detective Agency)
+BGE062_0_300	Raftfleet (Ship) (Interior)
+BGE062_0_301	Raftfleet (Ship) (Interior)
+BGE062_0_800	Raftfleet (Exterior) (Path to Ship)
+BGE062_0_500	Wharf Near Sauronix Castle
+BGE062_2_500	Wharf Near Sauronix Castle
+BGE062_2_300	Raftfleet (Ship) (Interior)
+BGE062_0_600	Raftfleet - Out on the water, ship meeting
+BGE063_0_000	Raftfleet (Exterior) (Relocated to Eastern Wharf)
+BGE063_0_001	Raftfleet (Exterior) (Relocated to Eastern Wharf)
+BGE063_0_500	Eastern Wharf
+BGE064_0_000	Raftfleet (Exterior) (Relocated to Southern Wharf)
+BGE064_0_001	Raftfleet (Exterior) (Relocated to Southern Wharf)
+BGE064_0_500	Southern Wharf
+BGE065_0_000	Beaver Lodge (Exterior)
+BGE065_0_300	Beaver Lodge (Interior)
+BGE065_2_000	Beaver Lodge (On Fire) (Exterior)
+BGE065_2_300	Beaver Lodge (On Fire) (Interior)
+BGE065_3_000	Beaver Lodge (Burnt Down) (Exterior)
+BGE065_3_300	Beaver Lodge (Burnt Down) (Interior)
+BGE067_0_000	Beaver Dam
+BGE067_2_000	Beaver Dam + Boat
+BGE067_3_000	Where the Beaver Dam Used To Be + Boat
+BGE068_0_000	Waterfall Basin
+BGE068_0_200	Waterfall Basin (last screen)
+BGE070_0_000	Dwarf Camp
+BGE070_0_500	Baska Mine (North of Dwarf Camp)
+BGE071_0_000	Dwarf Tunnel
+BGE072_0_001	Nirva Island (Exterior)
+BGE072_0_002	Nirva Island (Exterior)
+BGE072_0_300	Nirva Island (Interior)
+BGE072_0_000	Game kinda fucks up
+BGE075_0_000	Ceras Lake Ruins Entrance
+BGE075_2_000	Ceras Lake Ruins Entrance
+BGE076_0_000	Ceras Lake Ruins
+BGE076_0_001	Ceras Lake Ruins
+BGE076_0_002	Ceras Lake Ruins
+BGE076_0_003	Ceras Lake Ruins
+BGE076_1_003	Ceras Lake Ruins
+BGE076_2_003	Ceras Lake Ruins
+BGE076_3_003	Ceras Lake Ruins
+BGE077_0_000	Deep Twilight Forest
+BGE077_0_100	Deep Twilight Forest (from Dwarf Tunnel exit)
+BGE078_0_200	Twilight Ruins
+BGE078_0_300	Twilight Ruins
+BGE078_0_400	Twilight Ruins
+BGE078_0_500	Twilight Ruins
+BGE078_0_600	Twilight Ruins
+BGE080_0_000	Ashtwal Mountains
+BGE080_0_100	Ashtwal Ruins
+BGE080_0_200	Ashtwal Ruins
+BGE080_0_300	Ashtwal Ruins
+BGE080_0_400	Ashtwal Ruins
+BGE080_0_500	Ashtwal Ruins
+BGE080_0_600	Ashtwal Ruins
+BGE081_0_000	Ashtwal Ruins (Exterior)
+BGE081_0_200	Ashtwal Ruins (Tunnel)
+BGE083_0_000	Ceras Lake Castle (Lv.1 HQ) (Exterior)
+BGE083_0_011	Ceras Lake Castle (Lv.1 HQ) (Exterior) Inn
+BGE083_0_203	Ceras Lake Castle (Lv.1 HQ) (Exterior) 4F
+BGE083_0_205	Ceras Lake Castle (Lv.1 HQ) (Interior) War Room A
+BGE083_1_205	Ceras Lake Castle (Lv.1 HQ) (Interior) War Room B
+BGE083_0_212	Ceras Lake Castle (Lv.1 HQ) (Interior) 2F-3F
+BGE083_0_213	Ceras Lake Castle (Lv.1 HQ) (Interior) 1F
+BGE083_0_218	Ceras Lake Castle (Lv.1 HQ) (Interior) Prince's Room
+BGE084_0_000	Ceras Lake Castle (Lv.2 HQ) (Exterior)
+BGE084_0_011	Ceras Lake Castle (Lv.2 HQ) (Interior)
+BGE084_0_201	Ceras Lake Castle (Lv.2 HQ) (Interior) BF1 - Central
+BGE084_0_203	Ceras Lake Castle (Lv.2 HQ) (Exterior) 4F
+BGE084_0_205	Ceras Lake Castle (Lv.2 HQ) (Interior) War Room A
+BGE084_1_205	Ceras Lake Castle (Lv.2 HQ) (Interior) War Room B
+BGE084_0_206	Ceras Lake Castle (Lv.2 HQ) (Interior) BF1
+BGE084_0_207	Ceras Lake Castle (Lv.2 HQ) (Interior) Detached Area
+BGE084_0_208	Ceras Lake Castle (Lv.2 HQ) (Interior)
+BGE084_0_209	Ceras Lake Castle (Lv.2 HQ) (Interior)
+BGE084_0_210	Ceras Lake Castle (Lv.2 HQ) (Interior)
+BGE084_0_212	Ceras Lake Castle (Lv.2 HQ) (Interior) 2F-3F
+BGE084_0_213	Ceras Lake Castle (Lv.2 HQ) (Interior) 1F
+BGE084_0_217	Ceras Lake Castle (Lv.2 HQ) (Interior)
+BGE084_0_218	Ceras Lake Castle (Lv.2 HQ) (Interior) Prince's Room
+BGE085_0_000	Ceras Lake Castle (Lv.3 HQ) (Exterior)
+BGE085_0_001	Ceras Lake Castle (Lv.3 HQ) (Exterior) South Area
+BGE085_0_011	Ceras Lake Castle (Lv.3 HQ) (Interior)
+BGE085_0_201	Ceras Lake Castle (Lv.3 HQ) (Interior) BF1 - Central
+BGE085_0_203	Ceras Lake Castle (Lv.3 HQ) (Exterior) 4F
+BGE085_0_204	Ceras Lake Castle (Lv.3 HQ) (Exterior)
+BGE085_0_205	Ceras Lake Castle (Lv.3 HQ) (Interior) War Room A
+BGE085_1_205	Ceras Lake Castle (Lv.3 HQ) (Interior) War Room B
+BGE085_0_206	Ceras Lake Castle (Lv.3 HQ) (Interior) BF1
+BGE085_0_207	Ceras Lake Castle (Lv.3 HQ) (Interior)
+BGE085_0_208	Ceras Lake Castle (Lv.3 HQ) (Interior)
+BGE085_0_209	Ceras Lake Castle (Lv.3 HQ) (Interior)
+BGE085_0_210	Ceras Lake Castle (Lv.3 HQ) (Interior)
+BGE085_0_211	Ceras Lake Castle (Lv.3 HQ) (Interior) Bath (Clear)
+BGE085_1_211	Ceras Lake Castle (Lv.3 HQ) (Interior) Bath (Red)
+BGE085_2_211	Ceras Lake Castle (Lv.3 HQ) (Interior) Bath (Blue)
+BGE085_3_211	Ceras Lake Castle (Lv.3 HQ) (Interior) Bath (Green)
+BGE085_4_211	Ceras Lake Castle (Lv.3 HQ) (Interior) Bath (Weird)
+BGE085_5_211	Ceras Lake Castle (Lv.3 HQ) (Interior) Bath (White)
+BGE085_0_212	Ceras Lake Castle (Lv.3 HQ) (Interior) 2F-3F
+BGE085_0_213	Ceras Lake Castle (Lv.3 HQ) (Interior) 1F
+BGE085_0_214	Ceras Lake Castle (Lv.3 HQ) (Interior) BF2
+BGE085_0_215	Ceras Lake Castle (Lv.3 HQ) (Interior) BF2
+BGE085_0_216	Ceras Lake Castle (Lv.3 HQ) (Interior) BF2
+BGE085_0_217	Ceras Lake Castle (Lv.3 HQ) (Interior)
+BGE085_0_218	Ceras Lake Castle (Lv.3 HQ) (Interior) Prince's Room
+BGE085_0_219	Ceras Lake Castle (Lv.3 HQ) (Exterior)
+BGE089_0_000	Big Hole Entrance
+BGE089_3_000	Big Hole Entrance (Drained)
+BGE090_0_000	Underground Ruins
+BGE090_0_100	Underground Ruins
+BGE090_0_200	Underground Ruins
+BGE090_0_300	Underground Ruins
+BGE090_0_400	Underground Ruins
+BGE090_0_500	Underground Ruins
+BGE090_0_600	Underground Ruins
+BGE090_0_700	Underground Ruins
+BGE090_0_800	Underground Ruins
+BGE091_0_000	Withered Woods
+	  _ _
+FNE000_0_000	Ship
+FNE001_0_000	Black Ship
+FNE002_0_000	Fancy Ship
+FNE003_0_000	Green Ship
+FNE004_0_000	Red Ship
+FNE005_0_000	Haud Ship
+FNE006_0_000	Big Ship
+FNE000_1_000	Fancy Big Ship

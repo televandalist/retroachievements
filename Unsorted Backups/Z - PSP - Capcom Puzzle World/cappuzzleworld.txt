@@ -1,0 +1,127 @@
+			Arcade Win bit0 Flag (1) (Lose = 2)
+And Next	Game Active =1
+Reset if	Two Players
+Reset if	Custom Gems 1P
+
+X-Mode BLock Rotation
+
+Message
+Round Timer
+
+Buster Bros
+---EXTRA LIVES FROM SCORE INCREASES	20,100,200,1M
+	HIDDEN 1UPS
+		ITEM STATUS 0X00=NO,0X01=FALLING,0X02=EXISTS,0X03=FLASHING,0X05=PICKEDUP
+		ITEM SUBTYPE WEAPONS,POWERUPS
+		ITEM TYPE 6=WEAPON/ITEM 7=FOOD
+	SCORE
+
+
+Super Buster Bros.
+Level Select Active
+Title Screen, demo, tour, panic, game over, credits, in game, stage complete
+Location, World, Stage
+Number of Food collected
+
+Buster Buddies
+	1p vs 2p
+	Starting lives
+	Cheat
+	Food State
+	coins
+	
+
+Lookup:BustBroStage
+0x00=Mt. Fuji - Stage 1
+0x01=Mt. Fuji - Stage 2
+0x02=Mt. Fuji - Stage 3
+0x03=Mt. Keirin - Stage 4
+0x04=Mt. Keirin - Stage 5
+0x05=Mt. Keirin - Stage 6
+0x06=Emerald Temple - Stage 7
+0x07=Emerald Temple - Stage 8
+0x08=Emerald Temple - Stage 9
+0x09=Ankor Watt - Stage 10
+0x0a=Ankor Watt - Stage 11
+0x0b=Ankor Watt - Stage 12
+0x0c=Australia - Stage 13
+0x0d=Australia - Stage 14
+0x0e=Australia - Stage 15
+0x0f=Taj Mahal - Stage 16
+0x10=Taj Mahal - Stage 17
+0x11=Taj Mahal - Stage 18
+0x12=Leningrad - Stage 19
+0x13=Leningrad - Stage 20
+0x14=Leningrad - Stage 21
+0x15=Paris - Stage 22
+0x16=Paris - Stage 23
+0x17=Paris - Stage 24
+0x18=London - Stage 25
+0x19=London - Stage 26
+0x1a=London - Stage 27
+0x1b=Barcelona - Stage 28
+0x1c=Barcelona - Stage 29
+0x1d=Barcelona - Stage 30
+0x1e=Athens - Stage 31
+0x1f=Athens - Stage 32
+0x20=Athens - Stage 33
+0x21=Egypt - Stage 34
+0x22=Egypt - Stage 35
+0x23=Egypt - Stage 36
+0x24=Kenya - Stage 37
+0x25=Kenya - Stage 38
+0x26=Kenya - Stage 39
+0x27=New York - Stage 40
+0x28=New York - Stage 41
+0x29=New York - Stage 42
+0x2a=Maya - Stage 43
+0x2b=Maya - Stage 44
+0x2c=Maya - Stage 45
+0x2d=Antarctica - Stage 46
+0x2e=Antarctica - Stage 47
+0x2f=Antarctica - Stage 48
+0x30=Easter Islands - Stage 49
+0x31=Easter Islands - Stage 50
+
+Lookup:SSBStage
+0x00=Stage 1-1 - Hong Kong
+0x01=Stage 1-2 - Java
+0x02=Stage 1-3 - Java
+0x03=Stage 1-4 - Java
+0x04=Stage 1-5 - Silk Road
+0x05=Stage 1-6 - Silk Road
+0x06=Stage 1-7 - Silk Road
+0x07=Stage 1-8 - Himalayas
+0x08=Stage 1-9 - Himalayas
+0x09=Stage 1-10 - Himalayas
+0x0a=Stage 1-11 - Istanbul
+0x0b=Stage 1-12 - Istanbul
+0x0c=Stage 1-13 - Istanbul
+0x0d=Stage 2-14 - Germany
+0x0e=Stage 2-15 - Germany
+0x0f=Stage 2-16 - Germany
+0x10=Stage 2-17 - Venice
+0x11=Stage 2-18 - Venice
+0x12=Stage 2-19 - Spain
+0x13=Stage 2-20 - Spain
+0x14=Stage 2-21 - Spain
+0x15=Stage 2-22 - France
+0x16=Stage 2-23 - France
+0x17=Stage 2-24 - France
+0x18=Stage 2-25 - Tower Bridge
+0x19=Stage 2-26 - Tower Bridge
+0x1a=Stage 2-27 - Tower Bridge
+0x1b=Stage 3-28 - Canada
+0x1c=Stage 3-29 - Canada
+0x1d=Stage 3-30 - Canada
+0x1e=Stage 3-31 - The Wild West
+0x1f=Stage 3-32 - The Wild West
+0x20=Stage 3-33 - The Wild West
+0x21=Stage 3-34 - The Ruins of Maya
+0x22=Stage 3-35 - The Ruins of Maya
+0x23=Stage 3-36 - Brazil
+0x24=Stage 3-37 - Brazil
+0x25=Stage 3-38 - Brazil
+0x26=Stage 3-39 - The Caribbean
+0x27=Stage 3-40 - The Caribbean
+

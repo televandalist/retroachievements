@@ -1,0 +1,23 @@
+Defeat Devilot in arcade mode
+	- Before 7th opponent
+		- No Continues
+		- For at least 1 round, time < 60 sec
+		- Max Chain >= 4
+		- Max Gem >= 20
+		- Win at least 1 round with a super finish (Attack size >= 30)
+
+Defeat Dan in arcade mode
+	- Before 7th opponent
+		- No Continues
+		- For *all* rounds, time > 60 sec
+		- Max Chain < 4
+		- Max Gem < 20
+		- Win *no* rounds with a super finish
+
+
+All Clear bonus
+
+Defeat Akuma with a super move (Normal or higher)
+Have a round last more than 240 seconds (Normal or higher)
+Make a power gem of at least 25 gems and destroy it
+Win against Akuma in less than 45 seconds on normal or higher

@@ -1,0 +1,84 @@
+Lyon Point:
+-Scene in Lordlake Prologue, finding Toma-
+Sure, I'll Wait: -1
+I can't let you do that.: +1
+------------------
+Lym Point:
+-After the scene with Arshtat/Lordlake, to Sialeeds.
+Yeah, I guess I'd better.: +1
+I'm tired. Maybe tomorrow . . .: -1
+------------------
+Lym Point:
+-To the Maid in the Prince's Room-
+Yeah, I'm tired: -1
+No, I haven't seem Lym yet. +1
+------------------
+Lyon/Lym Point:
+-To Kyle, after meeting him-
+Sure, I'd like that: -1
+Hmm, I'd better go see Lym first. . .: +1
+------------------
+Lym Point:
+-To Ferid, after the scene in the Knight's Room-
+I haven't seen her yet: +1
+Nope. I'll look for her tomorrow. -1
+------------------
+Lym Point:
+-During the scene with Lym-
+I'm Home Lym: 5?
+H-hey! Let go!: -5?
+Note: I hear this one affects you severely. You can give Lym negative responses for the rest of the game, and while giving her this hug, she will still love you a lot for the rest of the game.
+-----------------
+Lym Point:
+-Meet Miakis-
+Um, hello, Miakis.:+1
+Uh, a little help?: -1-2
+-----------------
+Lym Point:
+-Lym's Husband-
+Of course I'd hate it.: +1
+Not really. . .: -1
+-----------------
+Lym Point:
+-The Senate-
+Huh? I have to go too?: -1
+Okay, lets go!: +1
+-----------------
+Lym Point:
+-Sleepy Sialeeds-
+All right, thats enough, Auntie.: +1
+You started it Lym.: 0 to -1 (This one's somewhat hard to tell, Lym seems to realise she made a mistake, but you still lecture her, hmmm...)
+-----------------
+Lym Point:
+-Sacred Games List-
+Only seventy?!: 0
+Seventy? That many?!: +1
+-----------------
+Lym Point:
+-Lym's Training-
+Why don't you take the day off?: 0
+All right, then. Study hard!: +1
+Note: This is another hard one to judge, because both answers are rather vague.
+-----------------
+Lyon Point:
+-What do you want to do?-
+Go to town, I guess.: +1 (while not much of a comment, Lyon has a happy face here, seeming to me you get a "Love Point")
+I'm not sure. What do you want to do?: 0
+----------------
+Lyon Point:
+-Kyle's "Training"-
+Of course!: -3?
+Not really.: +3?
+Note: This pretty much determines your "Lyon Points" for this point. Even if you were really sweet to Lyon in every other comment, Lyon gets really angry during this scene, and during the later "Bonding" scene, she will give you the less comforting and friendly speech, and the more "bodyguard" speech.
+----------------
+Lyon Point:
+-Lyon Bonding Scene-
+Note: There are actually two scenes here, depending on the choices you've made.
+I guess I'll be fine then: +1
+Don't worry. Nothing will happen.:0
+----------------
+Lyon Point:
+-Gizel Rescue-
+We're fine, thank you: -1
+You could have killed us!: +1
+Note: Rather vague...

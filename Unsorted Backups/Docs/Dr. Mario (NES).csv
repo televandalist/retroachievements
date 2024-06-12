@@ -1,0 +1,211 @@
+ID,Title/Description,Points,Created/Modified,Logic Backup
+8871,"Full Surgery Low
+Clear all stages in a single run on low (or higher)",25,"13 Jun 2014, 14:37
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=0.1._0xH0316=1.1._0xH0316=2.1._0xH0316=3.1._0xH0316=4.1._0xH0316=5.1._0xH0316=6.1._0xH0316=7.1._0xH0316=8.1._0xH0316=9.1._0xH0316=10.1._0xH0316=11.1._0xH0316=12.1._0xH0316=13.1._0xH0316=14.1._0xH0316=15.1._0xH0316=16.1._0xH0316=17.1._0xH0316=18.1._0xH0316=19.1._0xH0316=20.1._R:0xH0846=7_0xH0316=21.1.
+8872,"Full Surgery Medium
+Clear all stages in a single run on medium (or higher)",50,"13 Jun 2014, 14:37
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=0.1._0xH0316=1.1._0xH0316=2.1._0xH0316=3.1._0xH0316=4.1._0xH0316=5.1._0xH0316=6.1._0xH0316=7.1._0xH0316=8.1._0xH0316=9.1._0xH0316=10.1._0xH0316=11.1._0xH0316=12.1._0xH0316=13.1._0xH0316=14.1._0xH0316=15.1._0xH0316=16.1._0xH0316=17.1._0xH0316=18.1._0xH0316=19.1._0xH0316=20.1._R:0xH030b=0_R:0xH0846=7_0xH0316=21.1.
+8873,"Full Surgery High
+Clear all stages in a single run on high",100,"13 Jun 2014, 14:37
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=0.1._0xH0316=1.1._0xH0316=2.1._0xH0316=3.1._0xH0316=4.1._0xH0316=5.1._0xH0316=6.1._0xH0316=7.1._0xH0316=8.1._0xH0316=9.1._0xH0316=10.1._0xH0316=11.1._0xH0316=12.1._0xH0316=13.1._0xH0316=14.1._0xH0316=15.1._0xH0316=16.1._0xH0316=17.1._0xH0316=18.1._0xH0316=19.1._0xH0316=20.1._R:0xH030b!=2_R:0xH0846=7_0xH0316=21.1.
+8874,"Virus Level 0 Low
+Clear virus level 0 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:40",R:0xH0846=1_0xH0316=0.1._0xH0316=1.1.
+8875,"Virus Level 0 Medium
+Clear virus level 0 on Medium (or higher)",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=0.1._0xH0316=1.1._R:0xH030b=0
+8876,"Virus Level 0 High
+Clear virus level 0 on High",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=0.1._0xH0316=1.1._R:0xH030b!=2
+8877,"Virus Level 1 Low
+Clear virus level 1 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:40",R:0xH0846=1_0xH0316=1.1._0xH0316=2.1.
+8878,"Virus Level 1 Medium
+Clear virus level 1 on Medium (or higher)",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=1.1._0xH0316=2.1._R:0xH030b=0
+8879,"Virus Level 1 High
+Clear virus level 1 on High",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=1.1._0xH0316=2.1._R:0xH030b!=2
+8880,"Virus Level 2 Low
+Clear virus level 2 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:40",R:0xH0846=1_0xH0316=2.1._0xH0316=3.1.
+8881,"Virus Level 2 Medium
+Clear virus level 2 on Medium (or higher)",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=2.1._0xH0316=3.1._R:0xH030b=0
+8882,"Virus Level 2 High
+Clear virus level 2 on High",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=2.1._0xH0316=3.1._R:0xH030b!=2
+8883,"Virus Level 3 Low
+Clear virus level 3 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:40",R:0xH0846=1_0xH0316=3.1._0xH0316=4.1.
+8884,"Virus Level 3 Medium
+Clear virus level 3 on Medium (or higher)",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=3.1._0xH0316=4.1._R:0xH030b=0
+8885,"Virus Level 3 High
+Clear virus level 3 on High",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=3.1._0xH0316=4.1._R:0xH030b!=2
+8886,"Virus Level 4 Low
+Clear virus level 4 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:40",R:0xH0846=1_0xH0316=4.1._0xH0316=5.1.
+8887,"Virus Level 4 Medium
+Clear virus level 4 on Medium (or higher)",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=4.1._0xH0316=5.1._R:0xH030b=0
+8888,"Virus Level 4 High
+Clear virus level 4 on High",1,"13 Jun 2014, 14:38
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=4.1._0xH0316=5.1._R:0xH030b!=2
+8889,"Virus Level 5 Low
+Clear virus level 5 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:40",R:0xH0846=1_0xH0316=5.1._0xH0316=6.1.
+8890,"Virus Level 5 Medium
+Clear virus level 5 on Medium (or higher)",2,"13 Jun 2014, 14:38
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=5.1._0xH0316=6.1._R:0xH030b=0
+8891,"Virus Level 5 High
+Clear virus level 5 on High",3,"13 Jun 2014, 14:38
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=5.1._0xH0316=6.1._R:0xH030b!=2
+8892,"Virus Level 6 Low
+Clear virus level 6 on low (or higher)",1,"13 Jun 2014, 14:38
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=6.1._0xH0316=7.1.
+8893,"Virus Level 6 Medium
+Clear virus level 6 on Medium (or higher)",3,"13 Jun 2014, 14:38
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=6.1._0xH0316=7.1._R:0xH030b=0
+8894,"Virus Level 6 High
+Clear virus level 6 on High",4,"13 Jun 2014, 14:38
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=6.1._0xH0316=7.1._R:0xH030b!=2
+8895,"Virus Level 7 Low
+Clear virus level 7 on low (or higher)",2,"13 Jun 2014, 14:38
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=7.1._0xH0316=8.1.
+8896,"Virus Level 7 Medium
+Clear virus level 7 on Medium (or higher)",3,"13 Jun 2014, 14:38
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=7.1._0xH0316=8.1._R:0xH030b=0
+8897,"Virus Level 7 High
+Clear virus level 7 on High",4,"13 Jun 2014, 14:38
+15 Mar 2021, 17:42",R:0xH0846=1_0xH0316=7.1._0xH0316=8.1._R:0xH030b!=2
+8898,"Virus Level 8 Low
+Clear virus level 8 on low (or higher)",2,"13 Jun 2014, 14:38
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=8.1._0xH0316=9.1.
+8899,"Virus Level 8 Medium
+Clear virus level 8 on Medium (or higher)",3,"13 Jun 2014, 14:38
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=8.1._0xH0316=9.1._R:0xH030b=0
+8900,"Virus Level 8 High
+Clear virus level 8 on High",5,"13 Jun 2014, 14:38
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=8.1._0xH0316=9.1._R:0xH030b!=2
+8901,"Virus Level 9 Low
+Clear virus level 9 on low (or higher)",2,"13 Jun 2014, 14:39
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=9.1._0xH0316=10.1.
+8902,"Virus Level 9 Medium
+Clear virus level 9 on Medium (or higher)",3,"13 Jun 2014, 14:39
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=9.1._0xH0316=10.1._R:0xH030b=0
+8903,"Virus Level 9 High
+Clear virus level 9 on High",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=9.1._0xH0316=10.1._R:0xH030b!=2
+8904,"Virus Level 10 Low
+Clear virus level 10 on low (or higher)",2,"13 Jun 2014, 14:39
+03 Feb 2020, 17:00",R:0xH0846=1_0xH0316=10.1._0xH0316=11.1.
+8905,"Virus Level 10 Medium
+Clear virus level 10 on Medium (or higher)",3,"13 Jun 2014, 14:39
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=10.1._0xH0316=11.1._R:0xH030b=0
+8906,"Virus Level 10 High
+Clear virus level 10 on High",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=10.1._0xH0316=11.1._R:0xH030b!=2
+8907,"Virus Level 11 Low
+Clear virus level 11 on low (or higher)",2,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=11.1._0xH0316=12.1.
+8908,"Virus Level 11 Medium
+Clear virus level 11 on Medium (or higher)",3,"13 Jun 2014, 14:39
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=11.1._0xH0316=12.1._R:0xH030b=0
+8909,"Virus Level 11 High
+Clear virus level 11 on High",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=11.1._0xH0316=12.1._R:0xH030b!=2
+8910,"Virus Level 12 Low
+Clear virus level 12 on low (or higher)",2,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=12.1._0xH0316=13.1.
+8911,"Virus Level 12 Medium
+Clear virus level 12 on Medium (or higher)",3,"13 Jun 2014, 14:39
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=12.1._0xH0316=13.1._R:0xH030b=0
+8912,"Virus Level 12 High
+Clear virus level 12 on High",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=12.1._0xH0316=13.1._R:0xH030b!=2
+8913,"Virus Level 13 Low
+Clear virus level 13 on low (or higher)",2,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=13.1._0xH0316=14.1.
+8914,"Virus Level 13 Medium
+Clear virus level 13 on Medium (or higher)",3,"13 Jun 2014, 14:39
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=13.1._0xH0316=14.1._R:0xH030b=0
+8915,"Virus Level 13 High
+Clear virus level 13 on High",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=13.1._0xH0316=14.1._R:0xH030b!=2
+8916,"Virus Level 14 Low
+Clear virus level 14 on low (or higher)",2,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=14.1._0xH0316=15.1.
+8917,"Virus Level 14 Medium
+Clear virus level 14 on Medium (or higher)",3,"13 Jun 2014, 14:39
+13 Jun 2014, 14:41",R:0xH0846=1_0xH0316=14.1._0xH0316=15.1._R:0xH030b=0
+8918,"Virus Level 14 High
+Clear virus level 14 on High",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=14.1._0xH0316=15.1._R:0xH030b!=2
+8919,"Virus Level 15 Low
+Clear virus level 15 on low (or higher)",3,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=15.1._0xH0316=16.1.
+8920,"Virus Level 15 Medium
+Clear virus level 15 on Medium (or higher)",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=15.1._0xH0316=16.1._R:0xH030b=0
+8921,"Virus Level 15 High
+Clear virus level 15 on High",10,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=15.1._0xH0316=16.1._R:0xH030b!=2
+8922,"Virus Level 16 Low
+Clear virus level 16 on low (or higher)",3,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=16.1._0xH0316=17.1.
+8923,"Virus Level 16 Medium
+Clear virus level 16 on Medium (or higher)",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=16.1._0xH0316=17.1._R:0xH030b=0
+8924,"Virus Level 16 High
+Clear virus level 16 on High",10,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=16.1._0xH0316=17.1._R:0xH030b!=2
+8925,"Virus Level 17 Low
+Clear virus level 17 on low (or higher)",3,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=17.1._0xH0316=18.1.
+8926,"Virus Level 17 Medium
+Clear virus level 17 on Medium (or higher)",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=17.1._0xH0316=18.1._R:0xH030b=0
+8927,"Virus Level 17 High
+Clear virus level 17 on High",10,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=17.1._0xH0316=18.1._R:0xH030b!=2
+8928,"Virus Level 18 Low
+Clear virus level 18 on low (or higher)",4,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=18.1._0xH0316=19.1.
+8929,"Virus Level 18 Medium
+Clear virus level 18 on Medium (or higher)",5,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=18.1._0xH0316=19.1._R:0xH030b=0
+8930,"Virus Level 18 High
+Clear virus level 18 on High",10,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=18.1._0xH0316=19.1._R:0xH030b!=2
+8931,"Virus Level 19 Low
+Clear virus level 19 on low (or higher)",4,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=19.1._0xH0316=20.1.
+8932,"Virus Level 19 Medium
+Clear virus level 19 on Medium (or higher)",10,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=19.1._0xH0316=20.1._R:0xH030b=0
+8933,"Virus Level 19 High
+Clear virus level 19 on High",25,"13 Jun 2014, 14:39
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=19.1._0xH0316=20.1._R:0xH030b!=2
+8934,"Virus Level 20 Low
+Clear virus level 20 on low (or higher)",5,"13 Jun 2014, 14:39
+16 Aug 2021, 00:08",R:0xH0846=1_0xH0316=20.1._0xH0316=21.1.
+8935,"Virus Level 20 Medium
+Clear virus level 20 on Medium (or higher)",10,"13 Jun 2014, 14:40
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=20.1._0xH0316=21.1._R:0xH030b=0
+8936,"Virus Level 20 High
+Clear virus level 20 on High",25,"13 Jun 2014, 14:40
+03 Feb 2020, 17:01",R:0xH0846=1_0xH0316=20.1._0xH0316=21.1._R:0xH030b!=2
+8937,"Good Combo
+Clear two sets of blocks with a single pill",5,"13 Jun 2014, 14:40
+22 May 2021, 17:45",0xH0846=1.1._0xH030f>=2_0xH0846=4_R:0xH0316=10
+8938,"Great Combo
+Clear 5 sets of blocks with a single pill",10,"13 Jun 2014, 14:40
+17 Oct 2018, 19:22",0xH0846=1.1._0xH030f>=5
+8939,"Fabulous Combo
+Clear ten sets of blocks with a single pill",25,"13 Jun 2014, 14:40
+03 Feb 2020, 17:01",0xH0846=1.1._0xH030f>=10
+8940,"Hundredthousandaire
+Rack up 100000 points",25,"13 Jun 2014, 14:40
+24 Feb 2020, 13:26",0xH072d>=1.1._0xH0846=4.1._R:0xH072e=255

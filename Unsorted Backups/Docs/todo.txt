@@ -1,0 +1,730 @@
+01 - Deja Vu - Add speedrun Leaderboards
+
+02 - Ninja Spirit
+New badges, leaderboards for best times per stage and overall.
+- New achievements
+Spoiler (Click to show):
+- Complete Stage 1 without weapon upgrades or mimics
+- Complete Stage 2 without weapon upgrades or mimics
+- Complete Stage 3 without weapon upgrades or mimics
+- Complete Stage 4 without weapon upgrades or mimics
+- Complete Stage 5 without weapon upgrades or mimics
+- Complete Stage 6 without weapon upgrades or mimics
+- Complete Stage 7 without weapon upgrades or mimics
+- Complete the game without using a continue
+- Obtain an extra life
+- Have all four weapons upgraded at once
+- See the first hidden message in the game
+- See the second hidden message in the game
+
+03 - Holy Diver
+- New badges
+- Rich Presence
+- Leaderboards
+- New Achievements
+Spoiler (Click to show):
+- Max Mana
+- Max Life
+- Extra Life on Stage 4
+- Have 9 Lives
+
+04 - Jack Bros
+To Do: 
+- New badges
+- Leaderboards
+- New Achievements
+Spoiler (Click to show):
+- Damageless Boss 1 Lamia
+- Damageless Boss 2 Sinister Scar
+- Damageless Boss 3 Vampire
+- Damageless Boss 4 Spider Orb
+- Max out the timer as Jack Frost
+- Max out the timer as Jack Lantern
+- Max out the timer as Jack Ripper
+- Max out the timer as Pixie
+- Obtain a Secret Bonus in Forest of Fairies
+- Obtain a Secret Bonus in Grim Reaper's Cavern
+- Obtain a Secret Bonus in Temple of Nightmares
+- Obtain a Secret Bonus in Dragon's Belly
+- Obtain a Secret Bonus in Mecha Fortress
+- Obtain a Secret Bonus in Crystal Palace
+- Kill all Poltergeists on Floor 14 without using a special
+- Kill all Poltergeists on Floor 35 without using a special
+- Kill all Poltergeists on Floor 45 without using a special
+- Kill all Poltergeists on Floor 55 without using a special
+- Get a Special Time Bonus and a Secret Time Bonus on the same floor
+
+05 - FE8
+To Do: 
+- Make compatible with US and JP versions
+- New Achievements:
+Spoiler (Click to show):
+- Perform a Triangle Attack.
+- The Legend of Seth McDeath (Subset)
+
+06 - Radia Senki
+To Do:
+- Polish up the achievements a bit.
+- Add RP and Leaderboards.
+- New Badges
+
+07 - Ultimate Qix
+To Do:
+- New badges
+- Lower the overall difficulty of the set.
+- Add leaderboards
+
+08 - Conquest Crystal
+To Do:
+- Add RP and leaderboards
+- New badges
+
+09 - Texas
+To Do:
+- New badges
+
+10-Sylph
+To Do:
+- New badges
+- Leaderboards
+
+11-ZH
+To Do:
+- New badges
+- RP and Leaderboards
+
+12-Klax
+To Do:
+- Add leaderboards
+
+13-CPG
+To Do:
+- RP and Leaderboards
+- New badges
+- Some minor tweaks to the achievements
+
+14-Shinobi
+To Do: New Badges - Leaderboards
+
+15 - Mega Man 2 Power Fighters
+- New Badges
+
+16 - GI JOe
+New badges, polish, leaderboards
+
+18 - Panzer Dragoon Mini 
+Overhaul
+
+19 - Baku Baku 
+Leaderboards
+
+20 - Venture
+RP, Badges, LB
+
+22 - Macross
+Overhaul
+
+23 - Musya
+Unofficial, LB, RP
+
+Dragon Wang (SG-1000)
+Type: New set
+Publish Date: Mar 1, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Minor tweaks.
+- RP and Leaderboards
+
+Sega-Galaga (SG-1000)
+Type: New set
+Publish Date: Mar 1, 2019
+Content: [█ █ █ █ █]
+
+Ninja Golf (Atari 7800)
+Type: Revision
+Publish Date: Mar 08, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- New badges and some other tweaks.
+- RP and Leaderboards
+
+Military Madness | Nectaris  (PC Engine)
+Type: New set
+Publish Date: Mar 12, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Some polishing.
+- RP and Leaderboards
+
+Shanghai (Atari Lynx)
+Type: New set
+Publish Date: Mar 18, 2019
+Content: [█ █ █ █ █]
+
+Ninja Five-O (Game Boy Advance)
+Type: New set
+Publish Date: Mar 18, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Some challenge cheevos
+- New badges
+- RP and Leaderboards
+
+Buster Bros. (CD) (PC Engine)
+Type: New set
+Publish Date: Mar 25, 2019
+Content: [█ █ █ █ █]
+
+Space Station Silicon Valley (Nintendo 64)
+Type: New set
+Publish Date: Mar 26, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- RP and Leaderboards
+
+Faselei! (Neo Geo Pocket)
+Type: New set
+Publish Date: Mar 29, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Balance set some more
+- RP and Leaderboards
+
+Captain Planet and the Planeteers (NES)
+Type: New set. Collab with Keltron3030
+Publish Date: Apr 22, 2019
+Content: [█ █ █ █ █]
+
+Druaga no Tou | Tower of Druaga, The (PC Engine)
+Type: New set
+Publish Date: May 12, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Minor tweaks
+- RP and Leaderboards
+
+~Bonus~ King of Demons | Majuuou (SNES)
+Type: New set
+Publish Date: Jun 24, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Some polishing.
+
+Fire Emblem: Mystery of the Emblem (SNES)
+Type: New set
+Publish Date: Jul 21, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Some polishing
+- RP and Leaderboards
+
+River City Ransom (NES)
+Type: Revision
+Publish Date: Jul 28, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+
+Blazing Lazers | Gunhed (PC Engine)
+Type: New set
+Publish Date: Sep 1, 2019
+Content: [█ █ █ █ █]
+
+Suikoden (PlayStation)
+Type: New set
+Publish Date: Sep 7, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+- Work on Bonus
+
+Metal Gear Solid (PlayStation)
+Type: New set. Collab with eldexter and wilhitewarrior
+Publish Date: Sep 7, 2019
+Content: [█ █ █ █ █]
+
+Castlevania: Symphony of the Night (PlayStation)
+Type: New set. Collab with MrGauss and Shmelyoff
+Publish Date: Sep 9, 2019
+Content: [█ █ █ █ █]
+
+Steam Hearts (CD) (PC Engine)
+Type: New set
+Publish Date: Sep 20, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Suikoden II (PlayStation)
+Type: New set
+Publish Date: Oct 06, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+- Work on Bonus
+
+Panzer Dragoon (Saturn)
+Type: New set
+Publish Date: Oct 14, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Silent Hill (PlayStation)
+Type: New set
+Publish Date: Oct 24, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+
+R-Type (PC Engine)
+Type: Revision
+Publish Date: Oct 25, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Fan Fun (PC-8000/8800)
+Type: New set
+Publish Date: Oct 29, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Scheme, The (PC-8000/8800)
+Type: New set
+Publish Date: Nov 03, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+
+Cho Aniki (CD) (PC Engine)
+Type: New set
+Publish Date: Nov 18, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+- New Badges
+
+Alien Crush (PC Engine)
+Type: New set
+Publish Date: Nov 24, 2019
+Content: [█ █ █ █ █]
+
+Twisted Metal (PlayStation)
+Type: New set
+Publish Date: Dec 06, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+- New Badges
+
+Splatterhouse (PC Engine)
+Type: Revision
+Publish Date: Dec 08, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+
+Twisted Metal 2 (PlayStation)
+Type: New set
+Publish Date: Dec 14, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Suikogaiden Vol. 1: Swordsman of Harmonia (PlayStation)
+Type: New set
+Publish Date: Dec 15, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+~Hack~ I HATE YOU (SNES)
+Type: New set
+Publish Date: Dec 18, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Suikogaiden Vol. 2: Duel at Crystal Valley (PlayStation)
+Type: New set
+Publish Date: Dec 22, 2019
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+- New Badges
+
+Metal Gear Solid: VR Missions (PlayStation)
+Type: New set
+Publish Date: Jan 01, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+- New Badges
+- Condense, if possible
+
+GoldenEye 007 (Nintendo 64)
+Type: Revision
+Publish Date: Jan 03, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic for Stronghammer's cheevos
+- New Badges
+
+Robotron 2084 (Atari 7800)
+Type: New set
+Publish Date: Jan 10, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+- Polish up cheevos
+
+Castlevania: Portrait of Ruin (Nintendo DS)
+Type: New set. Collab with Shmelyoff
+Publish Date: Jan 11, 2020
+Content: [█ █ █ █ █]
+
+Snatcher (Sega CD)
+Type: New set. Collab with wilhitewarrior
+Publish Date: Jan 26, 2020
+Content: [█ █ █ █ █]
+
+Final Fantasy VIII (PlayStation)
+Type: New set. Collab with with BenGhazi
+Publish Date: Jan 29, 2020
+Content: [█ █ █ █ █]
+
+Pokemon Puzzle Collection Vol. 2 (Pokemon Mini)
+Type: New set
+Publish Date: Feb 05, 2020
+Content: [█ █ █ █ █]
+
+Ape Escape (PlayStation)
+Type: New set
+Publish Date: Feb 09, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+
+~Homebrew~ Oystron (Atari 2600)
+Type: New set
+Publish Date: Feb 16, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Shin Megami Tensei if... (SNES)
+Type: New set
+Publish Date: Feb 27, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+- Condense Fiend Cheevos
+
+Parasite Eve (PlayStation)
+Type: New set
+Publish Date: Mar 15, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+- Add some cheevos to make it feel like a real set
+
+Breath of Fire III (PlayStation)
+Type: New set
+Publish Date: Apr 17, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+
+Popful Mail (Sega CD)
+Type: New set
+Publish Date: Apr 29, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Innsmouth no Yakata | Innsmouth Mansion (Virtual Boy)
+Type: New set
+Publish Date: May 01, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Clean-up Logic
+- New Badges
+
+Perfect Dark (Nintendo 64)
+Type: Revision
+Publish Date: May 20, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Stronghammer's cheevos
+- New Badges
+
+~Homebrew~ Böbl | Bobl (NES)
+Type: New set
+Publish Date: May 29, 2020
+Content: [█ █ █ █ █]
+To Do:
+- Make compatible with v1.1
+
+Phantasy Star Gaiden (Game Gear)
+Type: New set
+Publish Date: Jun 03, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Clean-up Logic
+
+Castlevania III: Dracula's Curse (NES)
+Type: Revision
+Publish Date: Jun 08, 2020
+Content: [█ █ █ █ █]
+
+Panzer Dragoon II Zwei (Saturn)
+Type: New set
+Publish Date: Jun 29, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Rich Presence
+- Add cheevos for bonus scoring
+
+Panzer Dragoon Saga (Saturn)
+Type: New set
+Publish Date: Jul 01, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+
+Final Fantasy VI (SNES)
+Type: Revision
+Publish Date: Jul 20, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Finish cleaning up
+- New Badges
+
+Spike (Vectrex)
+Type: New set
+Publish Date: Aug 06, 2020
+Content: [█ █ █ █ █]
+
+Judgement Silversword: Rebirth Edition (WonderSwan)
+Type: New set
+Publish Date: Aug 15, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+
+Qix Adventure (Game Boy Color)
+Type: New set
+Publish Date: Aug 26, 2020
+Content: [█ █ █ █ ░]
+To Do:
+- Leaderboards
+- Polish up cheevos
+
+Bomberman (NES)
+Type: Revision
+Publish Date: Dec 02, 2020
+Content: [█ █ █ █ █]
+Info: Added achievements for the special bonus items.
+
+~Hack~ JUMP 1/2 | Janked Up Mario Party 1/2 (SNES)
+Type: Biggest Collab Ever
+Publish Date: Dec 08, 2020
+Content: [█ █ █ █ █]
+Info: Collab with BenGhazi, Blazekickn, DanielARP, gde, Haruda, HolyShinx, ilikepie345, luizfilipekz, MaddieKittyTV, Searo, and voiceofautumn
+
+Medal of Honor Underground (PlayStation)
+Type: New set
+Publish Date: 12-24-2020
+Content: [█ █ █ █ ░] 
+To Do:
+- Leaderboards for headshots per mission
+- Leaderboards for speedruns per mission
+- An achievement for shooting a soldier while they're still posing for your camera.
+- Polish up some of the badges.
+
+Ys: Book I & II (CD) (PC Engine)
+Type: Revision
+Publish Date: 01-01-2021
+Content: [█ █ █ █ █]
+Info: Added full set for Ys Book II. 
+
+Aleste (MSX)
+Type: New set
+Publish Date: 01-03-2021
+Progress: [█ █ █ █ ░]
+To do:
+- RP and leaderboards
+
+Bomberman '94 (PC Engine)
+Type: New set
+Publish Date: 01-09-2021
+Progress: [█ █ █ █ ░]
+Info:
+- Better RP
+- Leaderboards
+- More challenges
+
+Star Wars Arcade (32X)
+Type: New set
+Publish Date: 01-25-2021
+Progress: [█ █ █ █ ░]
+Info: Lousy. 
+
+~Homebrew~ Euchre (NES)
+Type: New set
+Publish Date: 01-26-2021
+Progress: [█ █ █ █ ░]
+Info: I must. I must.
+
+Kid Chameleon (Mega Drive) Revision
+Publish Date: 02-11-2021
+
+Castlevania: Harmony of Dissonance (Game Boy Advance)
+Type: Revision (Merged the furniture/collection cheevos)
+Publish Date: 03-17-2021
+
+Legendary Axe II, The (PC Engine) - New Set
+Publish Date: 04-02-2021
+
+Super Buster Bros (SNES)
+Super Pang (Supervision)
+Ninja Spirit (Game Boy)
+Equinox (SNES)
+Shanghai: Triple Threat (Saturn)
+Shark! Shark! (Intellivision)
+Ping-Pong Diplomacy Advance (GBA)
+Galaxian (Apple II)
+Raiden (Jaguar)
+Thunderball (Odyssey 2)
+Lunar (PS1)
+Policenauts (PS1)
+Volfied (PCE)
+Trails in the Sky FC (PSP)
+Trails in the Sky FC [Subset - New Game Nightmare] (PSP)
+Velocity (PSP)
+PROTO DERE .NES (NES)
+Dracula Unleashed (SCD)
+Mega Man 5 (NES)
+Trails in the Sky SC (PSP)
+RoboCop (Arcade)
+Soulcalibur (DC)
+Typing of the Dead (DC)
+Super Puzzle Fighter II X for Matching Service (DC)
+Ys vs Sora no Kiseki (PSP)
+Mega Man 2 [Subset - Bonus] (NES)
+Mega Man 2 (PCE)
+Mega Man 2 [Subset - Bonus] (NES)
+Sorcery+ (CPC)
+Sam Mallard (GBC)
+Dark and Under (ARD)
+Spunky (WASM-4)
+Sega Smash Pack (DC)
+Tales of Destiny (PS1)
+Last Imperial Prince (PC-FX)
+Puppet Knight (Mega Duck)
+Alien Invasion (CHF)
+Resident Evil 4 (PS2)
+Monster Attack (PS2)
+Global Defence Force (PS2)
+Ys: The Oath in Felghana (PSP)
+Silent Hill 4 (PS2)
+Suikoden III (PS2)
+Suikoden [Subset - Bonus] (PS1)
+Single Ennead (ARD)
+Suikoden II [E3 Preview] (PS1)
+Net Yaroze: 2014 Collection (PS1)
+Rise of the Dragon (SCD)
+Final Fantasy VI (SNES)
+Global Defence Force [Subset - Impossible Difficulty] (PS2)
+Mega Man Arkanoid (SNES)
+Dark Void Zero (Nintendo DSi)
+Mega Man 2: Rockman no Constancy: Hard Mode (NES)
+Alice's Mom's Rescue (Jag CD)
+Beyond the Beyond (PS1)
+Hunting | Shooting Gallery (Interton VC 4000)
+Cosmic Adventure (Elektor TV Games Computer)
+R2D Tank (Arcadia 2001)
+Mega Man 6 (NES)
+Bomber (Uzebox)
+EarthBound [Subset - Camera Shy] (SNES)
+
+Borderline (SG-1000)
+Suikoden II [Subset - Bonus] (PS1)
+Shin Megami Tensei: Strange Journey (DS)
+EarthBound (SNES)
+Suikoden V (PS2)
+Magician Lord (Neo Geo CD)
+
+
+Air Zonk (PCE)
+Alien Soldier (MD)**
+Castlevania Chronicles (PS1)**
+Digital Devil Story: Megami Tensei II (NES)**
+Getsu Fuuma Den (NES)*
+Jade Cocoon (PS1)
+KiKi KaiKai (PCE)
+Legend of Hero Tonma (PCE)
+Little Samson (NES)**
+Metal Storm (NES)
+Neutopia (PCE)
+Neutopia II (PCE)
+River City Ransom EX (GBA)*/**
+Shining Force: The Sword of Hajya (GG)**
+Shining Force III (Saturn)
+Shiryou Sensen: War of the Dead (PCE)
+ShockMan (PCE)
+Star Wars: Shadows of the Empire (N64)*
+Sweet Home (NES)**
+Vandal Hearts (PS1)*
+Wild ARMs (PS1)
+
+
+
+

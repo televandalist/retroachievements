@@ -1,0 +1,149 @@
+00 - Homing Device
+01 - Blaze Parchment
+02 - Re-entombment Memo
+03 - Fire Extinguisher
+04 - EMP Grenade
+05 - Scrub List
+06 - Weapons Invoice
+07 - Explosive Charge
+08 - Mini Bombs
+09 - Still
+0a - Force Field Cube
+0b - Psionic Collectors
+0c - Tiger's Eye - Lager
+0d - Viper P.
+0e - Ausgezeichnel
+0f - Dream Powder
+10 - Shotgun
+11 - Laser Rifle
+12 - Transgressions Credentials
+13 - Massimo's Note
+14 - Jury Rig Skill
+15 - Forger Skill
+16 - Psionic Skill
+17 - Taper
+18 - Gas Bomb
+19 - Pneumatic Tube
+1a - Mechanic's Creeper
+1b - Electro Magnet
+1c - DAT
+1d - Schonbrun's Profile
+1e - Decking Unit
+1f - Large Beaker
+20 - Small Beaker
+21 - Copper Tubing
+22 - Kerosene
+23 - Hell Bug
+24 - Pencil
+25 - Vial of Poison (Open)
+26 - Steel Cup
+27 - Computerized Credentials
+28 - Comic Book on Disk
+29 - Sterling's Device
+2a - Key to Dante's Apartment
+2b - Massimo's Color Chart
+2c - Empathic Resonances Doase
+2d - Credentials Template
+2e - Mr. Beautiful's Cue Stick
+2f - Incense Boat
+30 - Incense Burner
+31 - Collector with Cybertry
+32 - Strychnine
+33 - Steak dinner
+34 - Poisoned Steak
+35 - Poisoned Water
+36 - Lamp
+37 - List of Readings
+38 - Lockpick Implant
+39 - Circuitry Lining
+3a - Motherboard
+3b - Steel Chain
+3c - Cards
+3d - Lunch Pail
+3e - Tool Chest
+3f - Paint Tube
+40 - Paint Brush
+41 - Vase
+42 - Bowl of Water
+43 - Canister
+44 - Film Camera
+45 - ???? (Open)
+46 - ???? (Open)
+47 - Femur Bone
+48 - Gauze Bucket
+49 - Dentist Drill
+4a - Canister with gas
+4b - Old Clothing
+4c - Stone
+4d - Skull
+4e - Small Bone
+4f - Sharpened Femur
+50 - Anvil
+51 - ???? (Open)
+52 - Staff
+53 - Cage of Rachentieren
+54 - Floating Beasts
+55 - Jar of Food
+56 - Empty Jar
+57 - Gauze Bucket of Styx Water
+58 - Raft
+59 - Hell Blade
+5a - Combat Buddy
+5b - Laser Rifle
+5c - Serpent Gun
+5d - Hellfire Gun
+5e - Bazooka
+5f - Bellal's Medal
+60 - ???? (Face)
+61 - Paint Brush
+62 - Dead Trees
+63 - Rocket
+64 - Raft with rocket
+65 - Mephisto's Hand
+66 - Beelzebub's Wing
+67 - Deck of Cards
+68 - Beer Mug with Acid
+69 - Beer Mug
+6a - Leather Straps
+6b - Bucket of Tar
+6c - Logs
+6d - Zoo Keys
+6e - Food
+6f - Schonbrun's Dead Body
+70 - NO2 Cartridge
+71 - Nerve Gas Cartridge
+72 - Explosive Charges
+73 - Glass Cutter
+74 - Drugged Ausgezeichnel Alt Brau
+75 - Ausgezelchnet Bottle with Hole
+76 - Psychopomp
+77 - Collector Unit
+78 - Cybertry
+79 - Level 4 Pass
+7a - Glue
+7b - -
+7c - Pass Template
+7d - Steel Lid
+7e - Gas Bomb in Tube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

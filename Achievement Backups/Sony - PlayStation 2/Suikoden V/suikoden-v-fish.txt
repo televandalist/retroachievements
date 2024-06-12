@@ -1,0 +1,45 @@
+[32-Bit] Fishing Game Pointer
++0x08 - Status
+  - 0x02=Game Active
+  - 0x03=Time's Up
++0x10 - [Float] Timer
++0x2fc - Boat state
+  - 0x00=Moving
+  - 0x01=Line cast
++0x30c - [32-Bit] Current fishing game score
++0x310 - [32-Bit] Potch won
++0x4ec - Catch status
+  - 0x01-0x02=Bite
+  - 0x03=Caught
+  - 0x04-0x05=Re-cast
++0x4f4 - [32-Bit] Current catch ID
+  - 0x00=Loach
+  - 0x01=Lake Smelt
+  - 0x02=Trout
+  - 0x03=Cherry Salmon
+  - 0x04=Big-scaled Redfin
+  - 0x05=Crucian Carp
+  - 0x06=Carp
+  - 0x07=Colored Carp
+  - 0x08=Cat Fish
+  - 0x09=Salmon
+  - 0x0a=Huchen
+  - 0x0b=
+  - 0x0c=Sturgeon
+  - 0x0d=Eel
+  - 0x0e=Marbled Eel
+  - 0x0f=Puffer Fish
+  - 0x10=Strange Fish
+  - 0x11=Old Boots
+  - 0x12=? Pot
+  - 0x13=Fish Tail Fin, Fish Fins, Fish Body
++0x4f8 - [32-Bit] Current catch size
++0x4fc - [32-Bit] Catch Status
+  - 0xffffffff = No catch
+  - 0x32 Caught
++0x5cc - [32-Bit] Current score - Opponent 1
++0x88c - [32-Bit] Current score - Opponent 2
++0xb4c - [32-Bit] Current score - Opponent 3
+
+Round over: I:0xX006e9bc0_0xX00000008=2_I:0xX006e9bc0_d0xX00000008=3
+Points 1000: I:0xX006e9bc0_0xX0000030c>=1000
